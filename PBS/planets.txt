@@ -1,0 +1,87 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[EARTH]
+Name = Earth
+Description = The planet you are from
+MapID = 1
+ShowsOnMap = false
+Gravity = 1
+#-------------------------------
+[SHUTTLE]
+Name = Shuttle
+Description = The shuttle you are in
+MapID = 5
+ShowsOnMap = false
+Gravity = 1
+#-------------------------------
+[SPACE]
+Name = Space
+Description = Space, time, reality.
+MapID = 5
+ShowsOnMap = false
+Gravity = 0.25
+#-------------------------------
+[SYLVANOR]
+Name = Sylvanor
+Description = A Lush planet
+MapID = 6
+ShowsOnMap = true
+MapX = 200
+MapY = 200
+FrameCount = 20
+Gravity = 0.75
+ConnectionRight = GLINTERRA,120
+#-------------------------------
+[GLINTERRA]
+Name = Glinterra
+Description = A planet made of glass
+MapID = 9
+ShowsOnMap = true
+MapX = 350
+MapY = 300
+FrameCount = 3
+Gravity = 1.1
+ConnectionTop = VULKAMOS,120
+#-------------------------------
+[VULKAMOS]
+Name = Vulkamos
+Description = A molten cavern planet
+MapID = 15
+ShowsOnMap = true
+MapX = 600
+MapY = 150
+FrameCount = 6
+Gravity = 1.8
+ConnectionLeft = LUSATIA
+#-------------------------------
+[LUSATIA]
+Name = Lusatia
+Description = An overgrown asteroid
+MapID = 18
+ShowsOnMap = true
+MapX = 300
+MapY = 100
+FrameCount = 4
+Gravity = 0.4
+#-------------------------------
+[DIGIRELM]
+Name = Digirelm
+Description = A planet made of data
+MapID = 23
+ShowsOnMap = true
+MapX = 200
+MapY = 500
+FrameCount = 4
+Gravity = 1.5
+ConnectionTop = LUNIN,120
+#-------------------------------
+[LUNIN]
+Name = Lunin
+Description = A moon?
+MapID = 8
+ShowsOnMap = true
+MapX = 300
+MapY = 400
+FrameCount = 1
+Gravity = 0.75
+ConnectionTop = GLINTERRA,120

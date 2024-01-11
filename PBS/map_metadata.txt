@@ -1,0 +1,11 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Lush Forest
+Name = Lush Forest
+Outdoor = true
+#-------------------------------
+[006]   # Sylvanor
+Name = Sylvanor

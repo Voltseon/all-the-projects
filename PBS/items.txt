@@ -1,0 +1,338 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[COMMUNICATIONSMODULE]
+Name = Communications Module
+NamePlural = Communications Modules
+Pocket = 2
+Price = 1000
+Description = A high-tech module that is required for the long range scanner to work.
+#-------------------------------
+[SYLVENBRANCH]
+Name = Sylven Branch
+NamePlural = Sylven Branches
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A branch from a Sylven tree. It can be used to make a variety of things. (C6H10O5*)
+#-------------------------------
+[SYLVENSTONES]
+Name = Sylven Stones
+NamePlural = Sylven Stones
+Pocket = 1
+Price = 1000
+Description = Crafting Material. Stones collected from Sylvanor. It can be used to make a variety of things. (CaCI3)
+#-------------------------------
+[TWINE]
+Name = Twine
+NamePlural = Twines
+Pocket = 1
+Price = 1000
+Description = Crafting Material. An assortment of different plants. It can be used to make a variety of things. (C6H10O5*)
+#-------------------------------
+[FERRICIODIDE]
+Name = Ferric Iodide
+NamePlural = Ferric Iodides
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A chunk of ferric iodide. (Fe3I2)
+#-------------------------------
+[LUMINAR]
+Name = Luminar
+NamePlural = Luminar
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A strange biofluorescent liquid. It can be used to make a variety of things. (C11H8N2O3B2)
+#-------------------------------
+[COARSESAND]
+Name = Coarse Sand
+NamePlural = Coarse Sands
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A small pile of coarse sand. (SiO2)
+#-------------------------------
+[SANDSTONE]
+Name = Sandstone
+NamePlural = Sandstones
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A small chunk of sandstone. (SiO2)
+#-------------------------------
+[SILICATESHARD]
+Name = Silicate Shard
+NamePlural = Silicate Shards
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A small shard of impure silicate. (SiO2)
+#-------------------------------
+[SILICATECRYSTAL]
+Name = Silicate Crystal
+NamePlural = Silicate Crystals
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A small crystal of high quality silicate. (SiO4)
+#-------------------------------
+[COPPERNUGGET]
+Name = Copper Nugget
+NamePlural = Copper Nuggets
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A small nugget of high quality copper. (Cu)
+#-------------------------------
+[PIECEOFIRON]
+Name = Piece of Iron
+NamePlural = Pieces of Iron
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A small piece of iron. (Fe)
+#-------------------------------
+[GOLDHAIR]
+Name = Gold Hair
+NamePlural = Gold Hairs
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A strand of thin gold that resembles hair. (Au)
+#-------------------------------
+[PLATINUMINGOT]
+Name = Platinum Ingot
+NamePlural = Platinum Ingots
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A small ingot of high quality platinum. (Pt)
+#-------------------------------
+[MOLTENMETAL]
+Name = Molten Metal
+NamePlural = Molten Metal
+Pocket = 1
+Price = 1000
+Description = Crafting Material. It's various types of molten metal. (Fe, Cu, Au, Ag, etc.)
+#-------------------------------
+[MUSHROOMCAP]
+Name = Mushroom Cap
+NamePlural = Mushroom Caps
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A mushroom cap. It can be used to make a variety of things. (C6H10O5*)
+#-------------------------------
+[METEORITE]
+Name = Meteorite
+NamePlural = Meteorites
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A small chunk of meteorite. (Co)
+#-------------------------------
+[WATER]
+Name = Water
+NamePlural = Water
+Pocket = 1
+Price = 1000
+Description = Crafting Material. It's water? Why is it blue? (H2O)
+#-------------------------------
+[NEBULASPORES]
+Name = Nebula Spores
+NamePlural = Nebula Spores
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A mysterious compound that may have come from a nebula. (???)
+#-------------------------------
+[CHROME]
+Name = Chrome
+NamePlural = Chrome
+Pocket = 1
+Price = 1000
+Description = Crafting Material. It seems to be the pure essence of light. (y)
+#-------------------------------
+[DATASTRAND]
+Name = Data Strand
+NamePlural = Data Strands
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A strand of pure data. (???)
+#-------------------------------
+[MUON]
+Name = Muon
+NamePlural = Muons
+Pocket = 1
+Price = 1000
+Description = Crafting Material. It's somehow a physical form of Muon? (μ)
+#-------------------------------
+[RAWDATA]
+Name = Raw¿Data
+NamePlural = Raw¿Data
+Pocket = 1
+Price = 1000
+Description = ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+#-------------------------------
+[MOONSTONE]
+Name = Moon Stone
+NamePlural = Moon Stones
+Pocket = 1
+Price = 1000
+Description = Crafting Material. A small chunk of moon stone. (NaAlSi3O8)
+#-------------------------------
+[BUCKET]
+Name = Ferric Iodide Bucket
+NamePlural = Ferric Iodide Buckets
+Pocket = 2
+Price = 1000
+Description = A bucket made of Ferric Iodide. It can be used to collect various kinds of liquid.
+#-------------------------------
+[HATCHET]
+Name = Custom Hatchet
+NamePlural = Custom Hatchets
+Pocket = 2
+Price = 1000
+Description = A hatchet made of Ferric Iodide. It can be used to cut down small trees.
+#-------------------------------
+[PICKAXE]
+Name = Custom Pickaxe
+NamePlural = Custom Pickaxes
+Pocket = 2
+Price = 1000
+Description = A pickaxe made of Ferric Iodide. It can be used to smash and mine rocks.
+#-------------------------------
+[ROCKETBOOTS]
+Name = Rocket Boots
+NamePlural = Rocket Boots
+Pocket = 2
+Price = 1000
+Description = A pair of boots that can be used to jettison the wearer forward for a short distance.
+#-------------------------------
+[TEXTFILE]
+Name = Tudee.txt
+NamePlural = Tudee.txt
+Pocket = 2
+Price = 1000
+Description = A unique text file that allows you to modify the game. It's also on your Desktop.
+#-------------------------------
+[CAPACITY1]
+Name = Capacity Module
+NamePlural = Capacity Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your carry capacity to level 1.
+#-------------------------------
+[CAPACITY2]
+Name = Capacity Module
+NamePlural = Capacity Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your carry capacity to level 2.
+#-------------------------------
+[CAPACITY3]
+Name = Capacity Module
+NamePlural = Capacity Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your carry capacity to level 3.
+#-------------------------------
+[CAPACITY4]
+Name = Capacity Module
+NamePlural = Capacity Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your carry capacity to level 4.
+#-------------------------------
+[CAPACITY5]
+Name = Capacity Module
+NamePlural = Capacity Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your carry capacity to level 5.
+#-------------------------------
+[CAPACITY6]
+Name = Capacity Module
+NamePlural = Capacity Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your carry capacity to level 6.
+#-------------------------------
+[CAPACITY7]
+Name = Capacity Module
+NamePlural = Capacity Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your carry capacity to level 7.
+#-------------------------------
+[CAPACITY8]
+Name = Capacity Module
+NamePlural = Capacity Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your carry capacity to level 8.
+#-------------------------------
+[CAPACITY9]
+Name = Capacity Module
+NamePlural = Capacity Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your carry capacity to level 9.
+#-------------------------------
+[STORAGE1]
+Name = Storage Module
+NamePlural = Storage Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your storage capacity to level 1.
+#-------------------------------
+[STORAGE2]
+Name = Storage Module
+NamePlural = Storage Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your storage capacity to level 2.
+#-------------------------------
+[STORAGE3]
+Name = Storage Module
+NamePlural = Storage Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your storage capacity to level 3.
+#-------------------------------
+[STORAGE4]
+Name = Storage Module
+NamePlural = Storage Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your storage capacity to level 4.
+#-------------------------------
+[STORAGE5]
+Name = Storage Module
+NamePlural = Storage Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your storage capacity to level 5.
+#-------------------------------
+[STORAGE6]
+Name = Storage Module
+NamePlural = Storage Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your storage capacity to level 6.
+#-------------------------------
+[STORAGE7]
+Name = Storage Module
+NamePlural = Storage Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your storage capacity to level 7.
+#-------------------------------
+[STORAGE8]
+Name = Storage Module
+NamePlural = Storage Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your storage capacity to level 8.
+#-------------------------------
+[STORAGE9]
+Name = Storage Module
+NamePlural = Storage Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your storage capacity to level 9.
+#-------------------------------
+[STORAGE10]
+Name = Storage Module
+NamePlural = Storage Modules
+Pocket = 3
+Price = 1000
+Description = A module that increases your storage capacity to level 10.
+#-------------------------------

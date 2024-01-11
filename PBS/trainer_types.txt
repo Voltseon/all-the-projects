@@ -1,0 +1,26 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAPTAIN]
+Name = Captain
+Gender = Unknown
+BaseMoney = 60
+#-------------------------------
+[SONAR]
+Name = Sonar
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[PAVO]
+Name = Pavo
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[DRCYGNUS]
+Name = Dr. Cygnus
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[LUNA]
+Name = Luna
+Gender = Female
+BaseMoney = 60

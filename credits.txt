@@ -1,0 +1,194 @@
+Space Trainers
+
+Made by:
+ENLS
+Voltseon
+PurpleZaffre
+Thundaga
+
+Tilesets by:
+Magiscarf
+WesleyFG
+SailorVicious
+Shawn Frost
+NSora-96
+PeekyChew
+Kyle-Dove
+Claisprojects.com
+Minorthreat0987
+The-Red-Ex
+UltimoSpriter
+TyranitarDark
+DarkDragonn
+rafa-cac
+Phyromatical
+Alucus
+Newtiteuf
+ChaoticCherryCake
+moca
+Dewitty
+Zetavares852
+XDinky
+Erma96
+Hydrargirium
+Poison-Master
+Thedeadheroalistair
+Shutwig
+Asdsimone
+Xxdevil
+Steinnaples
+Hek-el-grande
+sylver1984
+NikNak93
+TeaAddiction
+Cuddlesthefatcat
+Gigatom
+Jesus Carrasco
+Clara-WaH
+Hek-el-grande
+Voltseon
+
+Pokémon Overworld Sprites by:
+Boonzeet
+DarkusShadow
+princess-phoenix
+Ezeart
+WolfPP
+LunarDusk
+Wolfang62
+TintjeMadelintje101
+piphybuilder88
+Larry Turbo
+SageDeoxys
+tammyclaydon
+MissingLukey
+help-14
+Kymoyonian
+cSc-A7X
+2and2makes5
+Pokegirl4ever
+Fernandojl
+Silver-Skies
+TyranitarDark
+Getsuei-H
+Kid1513
+Milomilotic11
+Kyt666
+kdiamo11
+Chocosrawlooid
+Syledude
+Gallanty
+Gizamimi-Pichu
+spritesstealer
+Zyon17
+
+Pokémon Sprites by:
+KingOfThe-X-Roads
+Mak
+Caruban
+jinxed
+leParagon
+Sopita_Yorita
+Azria
+Mashirosakura
+JordanosArt
+Abnayami
+OldSoulja
+Katten
+Divaruta 666
+Clara
+Skyflyer
+AshnixsLaw
+Smogon Project
+
+
+
+
+[url=]"BOTW-Like Item Gathering"[/url] v.1.0 by:
+Kyu
+
+[url=https://github.com/Maruno17/pokemon-essentials]"v20.1 Hotfixes"[/url] v.1.0.7 by:
+Maruno
+
+[url=]"rainefallUtils"[/url] v.1.1 by:
+rainefall
+
+[url=[coming soon]]"Better Speed Up"[/url] v.2.0 by:
+Marin for the original script
+Phantombass for updating to 19.1
+
+[url=https://reliccastle.com/resources/808/]"Save File Calls"[/url] v. by:
+TechSkylander1518
+
+[url=https://www.youtube.com/watch?v=dQw4w9WgXcQ]"Overworld Shadows EX"[/url] v.2.0.3 by:
+Golisopod User
+Wolf PP
+Marin
+
+[url=https://www.reliccastle.com/threads/5817/]"Generation 9 Pack"[/url] v.2.0 by:
+Caruban
+Lucidious89
+
+[url=]"Easy Debug Terminal"[/url] v.1.1 by:
+ENLS
+
+[url=https://reliccastle.com/resources/802/]"ENLS's Random Utilities"[/url] v.1.1 by:
+ENLS
+
+[url=https://reliccastle.com/resources/927/]"Deep Marsh Tiles"[/url] v.1.0.0 by:
+Kotaro
+Vendily
+Mashirosakura
+
+
+
+"Pokémon Essentials" was created by:
+Flameguru
+Poccil (Peter O.)
+Maruno
+
+With contributions from:
+AvatarMonkeyKirby
+Marin
+Boushy
+MiDas Mike
+Brother1440
+Near Fantastica
+FL.
+PinkMan
+Genzai Kawakami
+Popper
+Golisopod User
+Rataime
+help-14
+Savordez
+IceGod64
+SoundSpawn
+Jacob O. Wobbrock
+the__end
+KitsuneKouta
+Venom12
+Lisa Anthony
+Wachunga
+Luka S.J.
+
+and everyone else who helped out
+
+"mkxp-z" by:
+Roza
+Based on "mkxp" by Ancurio et al.
+
+"RPG Maker XP" by:
+Enterbrain
+
+Pokémon is owned by:
+The Pokémon Company
+Nintendo
+Affiliated with Game Freak
+
+
+
+This is a non-profit fan-made game.
+No copyright infringements intended.
+Please support the official games!
+
