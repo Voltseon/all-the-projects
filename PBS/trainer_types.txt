@@ -1,0 +1,656 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[POKEMONTRAINER_Red]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Leaf]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Aqua]
+Name = Pokémon Trainer
+Gender = Unknown
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Red2]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Leaf2]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Aqua2]
+Name = Pokémon Trainer
+Gender = Unknown
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Red3]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Leaf3]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Aqua3]
+Name = Pokémon Trainer
+Gender = Unknown
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Brendan]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_May]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[RIVAL1]
+Name = Rival
+Gender = Male
+BaseMoney = 16
+BattleBGM = RSE 117 Battle! (Trainer Battle)
+#-------------------------------
+[RIVAL2]
+Name = Rival
+Gender = Female
+BaseMoney = 24
+BattleBGM = RSE 211 Battle! (Brendan & May)
+#-------------------------------
+[AROMALADY]
+Name = Aroma Lady
+Gender = Female
+BaseMoney = 32
+IntroBGM = RSE 116 Encounter! (Lass)
+#-------------------------------
+[PARASOLLADY]
+Name = Parasol Lady
+Gender = Female
+BaseMoney = 32
+IntroBGM = RSE 116 Encounter! (Lass)
+#-------------------------------
+[BEAUTY]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+IntroBGM = RSE 116 Encounter! (Lass)
+#-------------------------------
+[CYCLIST_M]
+Name = Cyclist
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CYCLIST_F]
+Name = Cyclist
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[BIRDKEEPER]
+Name = Bird Keeper
+Gender = Male
+BaseMoney = 32
+IntroBGM = RSE 115 Encounter! (Youngster)
+#-------------------------------
+[BUGCATCHER]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 16
+IntroBGM = RSE 115 Encounter! (Youngster)
+#-------------------------------
+[BURGLAR]
+Name = Burglar
+Gender = Male
+BaseMoney = 88
+SkillLevel = 32
+#-------------------------------
+[HEXMANIAC]
+Name = Hex Maniac
+Gender = Female
+BaseMoney = 32
+IntroBGM = RSE 217 Encounter! (Hex Maniac)
+#-------------------------------
+[CUEBALL]
+Name = Cue Ball
+Gender = Male
+BaseMoney = 24
+#-------------------------------
+[ENGINEER]
+Name = Engineer
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[FISHERMAN]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+IntroBGM = RSE 147 Encounter! (Hiker)
+#-------------------------------
+[GAMBLER]
+Name = Gambler
+Gender = Male
+BaseMoney = 72
+SkillLevel = 32
+#-------------------------------
+[GENTLEMAN]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+IntroBGM = RSE 217 Encounter! (Hex Maniac)
+#-------------------------------
+[HIKER]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+IntroBGM = RSE 147 Encounter! (Hiker)
+#-------------------------------
+[JUGGLER]
+Name = Juggler
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[LADY]
+Name = Lady
+Gender = Female
+BaseMoney = 160
+SkillLevel = 72
+IntroBGM = RSE 116 Encounter! (Lass)
+#-------------------------------
+[PAINTER]
+Name = Painter
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[POKEMANIAC]
+Name = Poké Maniac
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[KINDLER]
+Name = Kindler
+Gender = Male
+BaseMoney = 64
+IntroBGM = RSE 147 Encounter! (Hiker)
+#-------------------------------
+[POKEMONBREEDER_M]
+Name = Pokémon Breeder
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[POKEMONBREEDER_F]
+Name = Pokémon Breeder
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[POKEFAN_M]
+Name = PokéFan
+Gender = Male
+BaseMoney = 48
+IntroBGM = RSE 216 Encounter! (Psychic)
+#-------------------------------
+[POKEFAN_F]
+Name = PokéFan
+Gender = Female
+BaseMoney = 48
+IntroBGM = RSE 216 Encounter! (Psychic)
+#-------------------------------
+[PROFESSOR]
+Name = Professor
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[ROCKER]
+Name = Rocker
+Gender = Male
+BaseMoney = 24
+IntroBGM = RSE 147 Encounter! (Hiker)
+#-------------------------------
+[RUINMANIAC]
+Name = Ruin Maniac
+Gender = Male
+BaseMoney = 48
+IntroBGM = RSE 147 Encounter! (Hiker)
+#-------------------------------
+[SAILOR]
+Name = Sailor
+Gender = Male
+BaseMoney = 32
+IntroBGM = RSE 147 Encounter! (Hiker)
+#-------------------------------
+[SCIENTIST]
+Name = Scientist
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SUPERNERD]
+Name = Super Nerd
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[TAMER]
+Name = Dragon Tamer
+Gender = Male
+BaseMoney = 40
+IntroBGM = RSE 216 Encounter! (Psychic)
+#-------------------------------
+[COLLECTOR]
+Name = Collector
+Gender = Male
+BaseMoney = 40
+#-------------------------------
+[BLACKBELT]
+Name = Black Belt
+Gender = Male
+BaseMoney = 32
+IntroBGM = RSE 216 Encounter! (Psychic)
+#-------------------------------
+[CRUSHGIRL]
+Name = Crush Girl
+Gender = Female
+BaseMoney = 24
+IntroBGM = RSE 216 Encounter! (Psychic)
+#-------------------------------
+[CAMPER]
+Name = Camper
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[PICNICKER]
+Name = Picnicker
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[SCHOOLKID_M]
+Name = School Kid
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[SCHOOLKID_F]
+Name = School Kid
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[COOLTRAINER_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 60
+IntroBGM = RSE 243 Encounter! (Cooltrainer)
+#-------------------------------
+[COOLTRAINER_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 60
+IntroBGM = RSE 243 Encounter! (Cooltrainer)
+#-------------------------------
+[VETERAN_M]
+Name = Expert
+Gender = Male
+BaseMoney = 80
+IntroBGM = RSE 216 Encounter! (Psychic)
+#-------------------------------
+[VETERAN_F]
+Name = Expert
+Gender = Female
+BaseMoney = 80
+IntroBGM = RSE 216 Encounter! (Psychic)
+#-------------------------------
+[NINJAKID]
+Name = Ninja Kid
+Gender = Male
+BaseMoney = 16
+IntroBGM = RSE 131 Encounter! (Tuber F)
+#-------------------------------
+[YOUNGSTER]
+Name = Youngster
+Gender = Male
+BaseMoney = 16
+IntroBGM = RSE 115 Encounter! (Youngster)
+#-------------------------------
+[LASS]
+Name = Lass
+Gender = Female
+BaseMoney = 16
+IntroBGM = RSE 116 Encounter! (Lass)
+#-------------------------------
+[RICHBOY]
+Name = Rich Boy
+Gender = Male
+BaseMoney = 256
+IntroBGM = RSE 216 Encounter! (Psychic)
+#-------------------------------
+[POKEMONRANGER_M]
+Name = Pokémon Ranger
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONRANGER_F]
+Name = Pokémon Ranger
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[PSYCHIC_M]
+Name = Psychic
+Gender = Male
+BaseMoney = 32
+IntroBGM = RSE 216 Encounter! (Psychic)
+#-------------------------------
+[PSYCHIC_F]
+Name = Psychic
+Gender = Female
+BaseMoney = 32
+IntroBGM = RSE 216 Encounter! (Psychic)
+#-------------------------------
+[TRIATHLETE_M]
+Name = Triathlete
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM = RSE 230 Encounter! (Swimmer F)
+#-------------------------------
+[TRIATHLETE_F]
+Name = Triathlete
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM = RSE 230 Encounter! (Swimmer F)
+#-------------------------------
+[TRIATHLETE2_M]
+Name = Triathlete
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM = RSE 230 Encounter! (Swimmer F)
+#-------------------------------
+[TRIATHLETE2_F]
+Name = Triathlete
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM = RSE 230 Encounter! (Swimmer F)
+#-------------------------------
+[SWIMMER_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM = RSE 230 Encounter! (Swimmer F)
+#-------------------------------
+[SWIMMER_F]
+Name = Swimmer
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM = RSE 230 Encounter! (Swimmer F)
+#-------------------------------
+[SWIMMER2_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM = RSE 230 Encounter! (Swimmer F)
+#-------------------------------
+[SWIMMER2_F]
+Name = Swimmer
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM = RSE 230 Encounter! (Swimmer F)
+#-------------------------------
+[TUBER_M]
+Name = Tuber
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+IntroBGM = RSE 131 Encounter! (Tuber F)
+#-------------------------------
+[TUBER_F]
+Name = Tuber
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+IntroBGM = RSE 131 Encounter! (Tuber F)
+#-------------------------------
+[TUBER2_M]
+Name = Tuber
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+IntroBGM = RSE 131 Encounter! (Tuber F)
+#-------------------------------
+[TUBER2_F]
+Name = Tuber
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+IntroBGM = RSE 131 Encounter! (Tuber F)
+#-------------------------------
+[COOLCOUPLE]
+Name = Cool Couple
+Gender = Unknown
+BaseMoney = 72
+SkillLevel = 48
+#-------------------------------
+[CRUSHKIN]
+Name = Crush Kin
+Gender = Unknown
+BaseMoney = 48
+#-------------------------------
+[INTERVIEWERS]
+Name = Interviewers
+Gender = Unknown
+BaseMoney = 16
+SkillLevel = 48
+IntroBGM = RSE 204 Interviewers
+#-------------------------------
+[TWINS]
+Name = Twins
+Gender = Unknown
+BaseMoney = 24
+IntroBGM = RSE 143 Twins
+#-------------------------------
+[YOUNGCOUPLE]
+Name = Young Couple
+Gender = Unknown
+BaseMoney = 60
+SkillLevel = 32
+IntroBGM = RSE 116 Encounter! (Lass)
+#-------------------------------
+[OLDROCKET]
+Name = Team Rocket
+Gender = Male
+BaseMoney = 32
+IntroBGM = RSE 253 Unused Battle Theme
+BattleBGM = RSE 125 Battle! (Team Aqua & Magma)
+VictoryBGM = RSE 126 Victory! (Team Aqua & Magma)
+#-------------------------------
+[TEAMROCKET_M]
+Name = Team Neo Rocket
+Gender = Male
+BaseMoney = 32
+IntroBGM = FRLG 47 Silph Co.
+BattleBGM = RSE 125 Battle! (Team Aqua & Magma)
+VictoryBGM = RSE 126 Victory! (Team Aqua & Magma)
+#-------------------------------
+[TEAMROCKET_F]
+Name = Team Neo Rocket
+Gender = Female
+BaseMoney = 32
+IntroBGM = FRLG 47 Silph Co.
+BattleBGM = RSE 125 Battle! (Team Aqua & Magma)
+VictoryBGM = RSE 126 Victory! (Team Aqua & Magma)
+#-------------------------------
+[UNKNOWN]
+Name = ???
+Gender = Female
+BaseMoney = 32
+IntroBGM = FRLG 47 Silph Co.
+BattleBGM = RSE 125 Battle! (Team Aqua & Magma)
+VictoryBGM = RSE 126 Victory! (Team Aqua & Magma)
+#-------------------------------
+[ROCKETBOSS]
+Name = Neo Rocket Boss
+Gender = Male
+BaseMoney = 100
+IntroBGM = FRLG 47 Silph Co.
+BattleBGM = RSE 222 Battle! (Team Aqua & Team Magma Leader)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Derek]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = RSE 150 Battle! (Gym Leader)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Pascal]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = RSE 150 Battle! (Gym Leader)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_June]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = RSE 150 Battle! (Gym Leader)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Jackson]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = RSE 150 Battle! (Gym Leader)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Ingrid]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = RSE 150 Battle! (Gym Leader)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Tommy]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = RSE 150 Battle! (Gym Leader)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_LizArnold]
+Name = Gym Leaders
+Gender = Unknown
+BaseMoney = 100
+BattleBGM = RSE 150 Battle! (Gym Leader)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[LEADER_Upsilon]
+Name = Gym Leader
+Gender = Unknown
+BaseMoney = 100
+BattleBGM = RSE 150 Battle! (Gym Leader)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[ELITEFOUR_Susanne]
+Name = Elite Four
+Gender = Female
+BaseMoney = 100
+IntroBGM = RSE 244 The Elite Four Appear!
+BattleBGM = RSE 245 Battle! (Elite Four)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[ELITEFOUR_Olaf]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+IntroBGM = RSE 244 The Elite Four Appear!
+BattleBGM = RSE 245 Battle! (Elite Four)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[ELITEFOUR_Marguerite]
+Name = Elite Four
+Gender = Female
+BaseMoney = 100
+IntroBGM = RSE 244 The Elite Four Appear!
+BattleBGM = RSE 245 Battle! (Elite Four)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[ELITEFOUR_Herman]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+IntroBGM = RSE 244 The Elite Four Appear!
+BattleBGM = RSE 245 Battle! (Elite Four)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[CHAMPION]
+Name = Champion
+Gender = Male
+BaseMoney = 100
+BattleBGM = RSE 247 Battle! (Steven)
+VictoryBGM = RSE 248 Victory! (Steven)
+#-------------------------------
+[DEVVOLTSEON]
+Name = Developer
+Gender = Male
+BaseMoney = 100
+BattleBGM = RSE 245 Battle! (Elite Four)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[DEVENLS]
+Name = Developer
+Gender = Male
+BaseMoney = 100
+BattleBGM = RSE 245 Battle! (Elite Four)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[DEVTRISTAN]
+Name = Developer
+Gender = Male
+BaseMoney = 100
+BattleBGM = RSE 245 Battle! (Elite Four)
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[FRONTIERBRAIN_Radsel]
+Name = Battle Tower Brain
+Gender = Male
+BaseMoney = 100
+BattleBGM = RSE 314 Battle! Frontier Brain
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[FRONTIERBRAIN_Optus]
+Name = Battle Palace Brain
+Gender = Male
+BaseMoney = 100
+BattleBGM = RSE 314 Battle! Frontier Brain
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[FRONTIERBRAIN_Tyler]
+Name = Battle Palace Brain
+Gender = Female
+BaseMoney = 100
+BattleBGM = RSE 314 Battle! Frontier Brain
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[FRONTIERBRAIN_Annie]
+Name = Battle Factory Brain
+Gender = Female
+BaseMoney = 100
+BattleBGM = RSE 314 Battle! Frontier Brain
+VictoryBGM = RSE 151 Victory! (Gym Leader)
+#-------------------------------
+[FRONTIERBRAIN_Hashil]
+Name = Battle Site Brain
+Gender = Male
+BaseMoney = 100
+BattleBGM = RSE 314 Battle! Frontier Brain
+VictoryBGM = RSE 151 Victory! (Gym Leader)

@@ -1,0 +1,695 @@
+600% : Bruxish
+552% : Magikarp
+430% : Basculin
+420% : Lumineon
+410% : Shuckle
+225% : Hawlucha
+200% : Unown
+195% : Qwilfish
+175% : Wailmer
+173% : Gyarados
+164% : Parasect
+161% : Sneasel
+161% : Audino
+150% : Carvanha
+145% : Finneon
+138% : Lampent
+130% : Eevee
+120% : Golem
+118% : Foongus
+113% : Shiinotic
+110% : Heracross
+105% : Ferrothorn
+104% : Luvdisc
+102% : Snorunt
+101% : Binacle
+100% : Snorlax
+100% : Drifloon
+100% : Togepi
+95% : Delibird
+93% : Corsola
+92% : Cryogonal
+89% : Yamask (Galarian)
+85% : Wimpod
+84% : Psyduck
+80% : Smeargle
+80% : Pincurchin
+80% : Sharpedo
+80% : Zweilous
+80% : Barraskewda
+80% : Dugtrio (Alolan)
+76% : Remoraid
+75% : Comfey
+75% : Pawniard
+75% : Dhelmise
+73% : Rockruff
+71% : Spinarak
+70% : Spinda
+70% : Feebas
+70% : Volbeat
+69% : Grapploct
+69% : Krabby
+69% : Larvesta
+69% : Marowak
+68% : Roselia
+67% : Zigzagoon
+67% : Seedot
+65% : Tympole
+65% : Illumise
+64% : Tyranitar
+64% : Kecleon
+64% : Jynx
+63% : Manectric
+61% : Electabuzz
+60% : Stunfisk
+60% : Surskit
+59% : Mareep
+58% : Abomasnow
+56% : Goomy
+55% : Chinchou
+55% : Mareanie
+55% : Lotad
+50% : Piloswine
+50% : Eiscue
+50% : Corphish
+50% : Snom
+50% : Altaria
+50% : Zorua
+50% : Varoom
+48% : Timburr
+47% : Growlithe
+47% : Bunnelby
+46% : Cetoddle
+45% : Breloom
+45% : Munna
+45% : Falinks
+45% : Tauros
+45% : Goldeen
+45% : Snover
+45% : Bergmite
+45% : Cufant
+44% : Togedemaru
+43% : Shellos
+42% : Mienfoo
+42% : Oricorio
+41% : Shelmet
+40% : Finizen
+40% : Medicham
+40% : Wobbuffet
+40% : Vanilluxe
+40% : Golduck
+40% : Zangoose
+40% : Seviper
+40% : Chatot
+40% : Mankey
+39% : Karrablast
+39% : Rhyhorn
+39% : Staryu
+38% : Araquanid
+37% : Diggersby
+36% : Lombre
+36% : Magnemite
+35% : Houndoom
+35% : Sandygast
+35% : Tentacool
+35% : Minior
+35% : Crawdaunt
+35% : Paras
+35% : Misdreavus
+34% : Wurmple
+34% : Skrelp
+33% : Poliwag
+33% : Swinub
+33% : Mr. Mime
+33% : Shellos (East Sea)
+33% : Carbink
+32% : Numel
+32% : Vulpix
+31% : Smoochum
+31% : Pikipek
+31% : Shroomish
+30% : Slakoth
+30% : Marill
+30% : Ditto
+30% : Sandshrew
+30% : Barboach
+30% : Metagross
+30% : Duraludon
+30% : Fraxure
+30% : Onix
+30% : Yanma
+30% : Nosepass
+30% : Pyukumuku
+30% : Wooper
+30% : Clamperl
+30% : Vespiquen
+30% : Stantler
+30% : Blitzle
+30% : Combee
+29% : Grubbin
+29% : Tangela
+29% : Hariyama
+28% : Skitty
+28% : Tropius
+27% : Kilowattrel
+27% : Yamper
+27% : Relicanth
+26% : Wingull
+26% : Elekid
+26% : Fletchling
+26% : Abra
+26% : Magneton
+26% : Cherubi
+25% : Zoroark
+25% : Morgrem
+25% : Noibat
+25% : Alomomola
+25% : Pancham
+25% : Toxtricity
+25% : Miltank
+25% : Mantyke
+25% : Ekans
+25% : Ledyba
+25% : Horsea
+25% : Phanpy
+25% : Ariados
+25% : Pupitar
+25% : Ralts
+25% : Komala
+25% : Dewpider
+25% : Milcery
+25% : Ponyta
+25% : Lycanroc
+25% : Hippowdon
+25% : Vigoroth
+25% : Riolu
+25% : Shroodle
+25% : Drilbur
+25% : Magcargo
+25% : Hattrem
+25% : Doublade
+25% : Toxel
+25% : Arrokuda
+25% : Yungoos
+24% : Trumbeak
+24% : Morpeko
+23% : Stonjourner
+23% : Poliwhirl
+23% : Teddiursa
+22% : Kricketot
+22% : Geodude
+22% : Sunkern
+22% : Drampa
+22% : Bidoof
+21% : Chansey
+21% : Blipbug
+21% : Emolga
+21% : Donphan
+20% : Toedscool
+20% : Vanillite
+20% : Joltik
+20% : Arbok
+20% : Cottonee
+20% : Sewaddle
+20% : Ferroseed
+20% : Beheeyem
+20% : Gardevoir
+20% : Cubchoo
+20% : Wishiwashi
+20% : Aipom
+20% : Beartic
+20% : Ledian
+20% : Druddigon
+20% : Oddish
+20% : Petilil
+20% : Buneary
+20% : Raticate (Alolan)
+20% : Farfetch'd
+20% : Magmar
+20% : Pyroar
+20% : Doduo
+20% : Glameow
+20% : Gabite
+20% : Skiddo
+20% : Fomantis
+20% : Spritzee
+20% : Absol
+20% : Shellder
+20% : Carnivine
+20% : Malamar
+20% : Muk (Alolan)
+20% : Pumpkaboo
+19% : Sizzlipede
+19% : Klefki
+19% : Seel
+18% : Avalugg
+18% : Lapras
+18% : Exeggcute
+18% : Bouffalant
+18% : Dunsparce
+18% : Hakamo-o
+18% : Nymble
+18% : Applin
+18% : Voltorb
+17% : Sableye
+17% : Espurr
+17% : Weedle
+17% : Rattata
+17% : Gulpin
+17% : Caterpie
+17% : Mimikyu
+16% : Morelull
+16% : Banette
+16% : Cramorant
+16% : Makuhita
+16% : Pidove
+16% : Mawile
+15% : Furfrou
+15% : Natu
+15% : Dratini
+15% : Grumpig
+15% : Sandile
+15% : Taillow
+15% : Masquerain
+15% : Trapinch
+15% : Exeggutor (Alolan)
+15% : Swirlix
+15% : Litleo
+15% : Pansage
+15% : Jellicent
+15% : Stunky
+15% : Bronzor
+15% : Skwovet
+15% : Squawkabilly
+15% : Jigglypuff
+15% : Zubat
+15% : Pansear
+15% : Clobbopus
+15% : Wiglett
+15% : Bellsprout
+15% : Wooloo
+15% : Sentret
+15% : Gigalith
+15% : Spheal
+15% : Torkoal
+15% : Panpour
+15% : Meowth
+14% : Tarountula
+14% : Venonat
+14% : Snubbull
+14% : Budew
+14% : Patrat
+14% : Dustox
+14% : Darumaka (Galarian)
+13% : Indeedee
+13% : Ducklett
+13% : Shinx
+13% : Obstagoon
+12% : Stufful
+12% : Cherrim
+12% : Kangaskhan
+12% : Kommo-o
+12% : Purrloin
+12% : Gossifleur
+12% : Barbaracle
+11% : Lickitung
+11% : Girafarig
+10% : Silicobra
+10% : Swablu
+10% : Rellor
+10% : Clauncher
+10% : Frillish
+10% : Heliolisk
+10% : Durant
+10% : Vullaby
+10% : Chimecho
+10% : Minun
+10% : Plusle
+10% : Bramblin
+10% : Roggenrola
+10% : Phantump
+10% : Pineco
+10% : Gloom
+10% : Weezing (Galarian)
+10% : Duosion
+10% : Gothorita
+10% : Lechonk
+10% : Noivern
+10% : Murkrow
+10% : Hoppip
+10% : Scatterbug
+10% : Flaaffy
+10% : Pachirisu
+10% : Scyther
+10% : Perrserker
+10% : Darumaka
+10% : Pinsir
+10% : Dwebble
+10% : Pidgey
+10% : Greavard
+10% : Rolycoly
+10% : Burmy
+10% : Beautifly
+10% : Hoothoot
+9% : Electrode
+9% : Meditite
+9% : Octillery
+9% : Capsakid
+9% : Gurdurr
+8% : Garchomp
+8% : Cutiefly
+8% : Dedenne
+8% : Starly
+8% : Graveler
+8% : Helioptile
+8% : Spearow
+8% : Poochyena
+8% : Gligar
+7% : Rookidee
+7% : Cetitan
+7% : Cascoon
+7% : Fidough
+6% : Bombirdier
+6% : Floette
+6% : Skarmory
+6% : Pawmi
+6% : Tadbulb
+6% : Flabébé
+6% : Shelgon
+6% : Tatsugiri
+6% : Dondozo
+6% : Deerling
+6% : Flittle
+6% : Skorupi
+6% : Toucannon
+6% : Veluza
+5% : Tynamo
+5% : Golett
+5% : Wormadam
+5% : Mothim
+5% : Rufflet
+5% : Klink
+5% : Heatmor
+5% : Granbull
+5% : Buizel
+5% : Maschiff
+5% : Nacli
+5% : Pikachu
+5% : Nidoran♀
+5% : Flamigo
+5% : Nidoran♂
+5% : Dreepy
+5% : Sinistea
+5% : Salamence
+5% : Garbodor
+5% : Salandit
+5% : Silcoon
+5% : Sigilyph
+5% : Hippopotas
+5% : Croagunk
+5% : Goodra
+5% : Machop
+5% : Tandemaus
+5% : Nuzleaf
+5% : Venipede
+5% : Nincada
+5% : Whismur
+5% : Aron
+5% : Aggron
+5% : Rhydon
+5% : Weezing
+5% : Woobat
+5% : Lillipup
+5% : Meowth (Alolan)
+5% : Cubone
+5% : Smoliv
+5% : Weepinbell
+5% : Mudbray
+5% : Nickit
+5% : Chewtle
+5% : Baltoy
+5% : Lunatone
+5% : Solrock
+5% : Muk
+5% : Slowpoke
+5% : Scraggy
+4% : Snivy
+4% : Tepig
+4% : Oshawott
+4% : Maractus
+4% : Bulbasaur
+4% : Froakie
+4% : Shuppet
+4% : Fennekin
+4% : Chespin
+4% : Bounsweet
+4% : Mudkip
+4% : Oranguru
+4% : Turtwig
+4% : Chimchar
+4% : Passimian
+4% : Torchic
+4% : Treecko
+4% : Ribombee
+4% : Piplup
+4% : Chikorita
+4% : Crabrawler
+4% : Cyndaquil
+4% : Squirtle
+4% : Charmander
+4% : Totodile
+4% : Cacnea
+3% : Popplio
+3% : Litten
+3% : Rowlet
+3% : Sawk
+3% : Clefairy
+3% : Grookey
+3% : Gengar
+3% : Hypno
+3% : Arctibax
+3% : Dragonite
+3% : Tinkatink
+3% : Minccino
+3% : Quaxly
+3% : Fuecoco
+3% : Sprigatito
+3% : Scorbunny
+3% : Sobble
+3% : Throh
+2% : Gible
+2% : Haunter
+2% : Sandslash
+2% : Dusclops
+2% : Zebstrika
+2% : Turtonator
+2% : Amoonguss
+1% : Lugia
+1% : Cobalion
+1% : Hoopa
+1% : Terrakion
+1% : Virizion
+1% : Diglett
+1% : Zygarde
+1% : Yveltal
+1% : Xerneas
+1% : Yamask
+1% : Tornadus
+1% : Tapu Koko
+1% : Tapu Lele
+1% : Tapu Bulu
+1% : Tapu Fini
+1% : Cosmog
+1% : Nihilego
+1% : Buzzwole
+1% : Pheromosa
+1% : Xurkitree
+1% : Celesteela
+1% : Kartana
+1% : Guzzlord
+1% : Frigibax
+1% : Magearna
+1% : Marshadow
+1% : Poipole
+1% : Stakataka
+1% : Blacephalon
+1% : Zeraora
+1% : Meltan
+1% : Thundurus
+1% : Reshiram
+1% : Zekrom
+1% : Landorus
+1% : Kyurem
+1% : Victini
+1% : Arceus
+1% : Shaymin
+1% : Darkrai
+1% : Manaphy
+1% : Articuno
+1% : Cresselia
+1% : Giratina
+1% : Regigigas
+1% : Heatran
+1% : Palkia
+1% : Dialga
+1% : Azelf
+1% : Mesprit
+1% : Uxie
+1% : Zapdos
+1% : Orthworm
+1% : Keldeo
+1% : Moltres
+1% : Mewtwo
+1% : Mew
+1% : Raikou
+1% : Entei
+1% : Suicune
+1% : Deoxys
+1% : Jirachi
+1% : Rayquaza
+1% : Groudon
+1% : Kyogre
+1% : Ho-Oh
+1% : Celebi
+1% : Duskull
+1% : Regirock
+1% : Genesect
+1% : Meloetta
+1% : Registeel
+1% : Regice
+1% : Zacian
+1% : Zamazenta
+1% : Eternatus
+1% : Calyrex
+1% : Spectrier
+1% : Zarude
+1% : Regieleki
+1% : Regidrago
+1% : Glastrier
+1% : Volcanion
+0% : Kubfu
+0% : Wyrdeer
+0% : Kleavor
+0% : Ursaluna
+0% : Enamorus
+0% : Arctovish
+0% : Dracovish
+0% : Tyrunt
+0% : Arctozolt
+0% : Tyrantrum
+0% : Dracozolt
+0% : Castform
+0% : Armaldo
+0% : Anorith
+0% : Cradily
+0% : Lileep
+0% : Latias
+0% : Charcadet
+0% : Armarouge
+0% : Ceruledge
+0% : Latios
+0% : Silvally
+0% : Cranidos
+0% : Rampardos
+0% : Shieldon
+0% : Hitmontop
+0% : Klawf
+0% : Tyrogue
+0% : Porygon2
+0% : Sudowoodo
+0% : Amaura
+0% : Bastiodon
+0% : Bonsly
+0% : Aurorus
+0% : Spiritomb
+0% : Cyclizar
+0% : Porygon-Z
+0% : Glimmet
+0% : Glimmora
+0% : Rotom
+0% : Phione
+0% : Aerodactyl
+0% : Kabutops
+0% : Kabuto
+0% : Omastar
+0% : Omanyte
+0% : Farigiraf
+0% : Dudunsparce
+0% : Great Tusk
+0% : Scream Tail
+0% : Brute Bonnet
+0% : Flutter Mane
+0% : Slither Wing
+0% : Sandy Shocks
+0% : Iron Treads
+0% : Iron Bundle
+0% : Iron Hands
+0% : Iron Jugulis
+0% : Iron Moth
+0% : Iron Thorns
+0% : Necrozma
+0% : Tirtouga
+0% : Gimmighoul
+0% : Gholdengo
+0% : Wo-Chien
+0% : Chien-Pao
+0% : Ting-Lu
+0% : Chi-Yu
+0% : Roaring Moon
+0% : Iron Valiant
+0% : Koraidon
+0% : Miraidon
+0% : Walking Wake
+0% : Iron Leaves
+0% : Nanyte
+0% : Starter
+0% : Porygon (Training)
+0% : Porygon2 (Training)
+0% : Porygon-Z (Training)
+0% : Porygon
+0% : Hitmonchan
+0% : Hitmonlee
+0% : Carracosta
+0% : Archen
+0% : Diancie
+0% : Aerodactyl (Mega Aerodactyl)
+0% : Castform (Sunny Form)
+0% : Castform (Rainy Form)
+0% : Castform (Snowy Form)
+0% : Latias (Mega Latias)
+0% : Latios (Mega Latios)
+0% : Archeops
+0% : Rotom (Heat Rotom)
+0% : Rotom (Wash Rotom)
+0% : Rotom (Frost Rotom)
+0% : Rotom (Fan Rotom)
+0% : Rotom (Mow Rotom)
+0% : Type: Null
+0% : Urshifu
+0% : Diancie (Mega Diancie)
+0% : Silvally (Type: Fighting)
+0% : Silvally (Type: Flying)
+0% : Silvally (Type: Poison)
+0% : Silvally (Type: Ground)
+0% : Silvally (Type: Rock)
+0% : Silvally (Type: Bug)
+0% : Silvally (Type: Ghost)
+0% : Silvally (Type: Steel)
+0% : Silvally (Type: Unknown)
+0% : Silvally (Type: Fire)
+0% : Silvally (Type: Water)
+0% : Silvally (Type: Grass)
+0% : Silvally (Type: Electric)
+0% : Silvally (Type: Psychic)
+0% : Silvally (Type: Ice)
+0% : Silvally (Type: Dragon)
+0% : Silvally (Type: Dark)
+0% : Silvally (Type: Fairy)
+0% : Necrozma (Dusk Mane)
+0% : Necrozma (Dawn Wings)
+0% : Necrozma (Ultra Necrozma)
+0% : Necrozma
+0% : Urshifu (Rapid Strike Style)
+0% : Enamorus (Therian Form)
+0% : Dudunsparce (Three-Segment Form)
+0% : Gimmighoul (Roaming Form)

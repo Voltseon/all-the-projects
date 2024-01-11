@@ -1,0 +1,4 @@
+Name         = RSE Trainer Card
+Version      = 1.1.0
+Essentials   = 20.1
+Credits      = Shashu-Greninja,	Gazza teh Fox, ENLS

@@ -1,0 +1,5 @@
+Name       = PokéSearch
+Version    = 1.1
+Essentials = 20, 20.1
+Website    = https://www.voltseon.com/
+Credits    = Voltseon

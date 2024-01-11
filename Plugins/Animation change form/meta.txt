@@ -1,0 +1,5 @@
+﻿Name      = Animation change form (BW)
+Version   = 2.0
+Essentials = 20.1
+Website   = https://github.com/Jack1324567/PE-Custom-Script
+Credits   = KleinStudio, bo4p5687

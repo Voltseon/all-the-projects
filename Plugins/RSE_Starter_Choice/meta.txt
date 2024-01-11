@@ -1,0 +1,5 @@
+Name       = RSE Starter Choice
+Version    = 1.0
+Essentials = 20.1
+Link       = https://www.voltseon.com/
+Credits    = Voltseon

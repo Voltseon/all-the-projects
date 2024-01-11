@@ -1,0 +1,5 @@
+Name = BerryPots for Essentials v20
+Version = 1.0
+Website = https://reliccastle.com/resources/458/
+Credits = Caruban
+Essentials = 20.1

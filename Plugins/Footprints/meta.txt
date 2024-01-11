@@ -1,0 +1,4 @@
+Name      = Footprints
+Version   = 1.0
+Essentials = 20.1
+Credits   = KleinStudio, WolfPP, bo4p5687

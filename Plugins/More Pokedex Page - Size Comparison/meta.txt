@@ -1,0 +1,5 @@
+Name = More Pokedex Page : Size Comparison
+Version = 1.1
+Website = https://www.reliccastle.com/resources/966/
+Credits = Caruban
+Essentials = 20.1

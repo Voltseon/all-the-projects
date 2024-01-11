@@ -1,0 +1,5 @@
+﻿Name       = Overworld Weather Moves
+Version    = 1.0 
+Essentials = 20, 20.1
+Link       = https://reliccastle.com/resources/505
+Credits    = TechSkylander1518

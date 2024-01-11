@@ -1,0 +1,94 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 33,10,11,8
+StorageCreator = Bill
+WildBattleBGM = RSE 109 Battle! (Wild Pokemon)
+TrainerBattleBGM = ZAME Battle! Sinnoh Trainer
+WildVictoryBGM = RSE 110 Victory! (Wild Pokemon)
+TrainerVictoryBGM = RSE 118 Victory! (Trainer Battle)
+SurfBGM = RSE 154 Surf
+BicycleBGM = RSE 135 Cycling
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_POKEMONTRAINER_Red
+RunCharset = boy_run
+CycleCharset = boy_bike
+MountCharset = boy_mount
+SurfCharset = boy_surf
+FishCharset = boy_fish_offset
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_Red2
+WalkCharset = trainer_POKEMONTRAINER_Red2
+RunCharset = boy_run2
+CycleCharset = boy_bike2
+MountCharset = boy_mount2
+SurfCharset = boy_surf2
+FishCharset = boy_fish_offset2
+#-------------------------------
+[3]
+TrainerType = POKEMONTRAINER_Red3
+WalkCharset = trainer_POKEMONTRAINER_Red3
+RunCharset = boy_run3
+CycleCharset = boy_bike3
+MountCharset = boy_mount3
+SurfCharset = boy_surf3
+FishCharset = boy_fish_offset3
+#-------------------------------
+[4]
+TrainerType = POKEMONTRAINER_Leaf
+WalkCharset = trainer_POKEMONTRAINER_Leaf
+RunCharset = girl_run
+CycleCharset = girl_bike
+MountCharset = girl_mount
+SurfCharset = girl_surf
+FishCharset = girl_fish_offset
+#-------------------------------
+[5]
+TrainerType = POKEMONTRAINER_Leaf2
+WalkCharset = trainer_POKEMONTRAINER_Leaf2
+RunCharset = girl_run2
+CycleCharset = girl_bike2
+MountCharset = girl_mount2
+SurfCharset = girl_surf2
+FishCharset = girl_fish_offset2
+#-------------------------------
+[6]
+TrainerType = POKEMONTRAINER_Leaf3
+WalkCharset = trainer_POKEMONTRAINER_Leaf3
+RunCharset = girl_run3
+CycleCharset = girl_bike3
+MountCharset = girl_mount3
+SurfCharset = girl_surf3
+FishCharset = girl_fish_offset3
+#-------------------------------
+[7]
+TrainerType = POKEMONTRAINER_Aqua
+WalkCharset = trainer_POKEMONTRAINER_Aqua
+RunCharset = other_run
+CycleCharset = other_bike
+MountCharset = other_mount
+SurfCharset = other_surf
+FishCharset = other_fish_offset
+#-------------------------------
+[8]
+TrainerType = POKEMONTRAINER_Aqua2
+WalkCharset = trainer_POKEMONTRAINER_Aqua2
+RunCharset = other_run2
+CycleCharset = other_bike2
+MountCharset = other_mount2
+SurfCharset = other_surf2
+FishCharset = other_fish_offset2
+#-------------------------------
+[9]
+TrainerType = POKEMONTRAINER_Aqua3
+WalkCharset = trainer_POKEMONTRAINER_Aqua3
+RunCharset = other_run3
+CycleCharset = other_bike3
+MountCharset = other_mount3
+SurfCharset = other_surf3
+FishCharset = other_fish_offset3

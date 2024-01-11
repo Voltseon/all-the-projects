@@ -1,0 +1,239 @@
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+You are challenged by Champion Orchid and Cool Trainer Lesha!
+Champion Orchid sent out Skarmory!
+Cool Trainer Lesha sent out Vivillon!
+Go! Mesprit and Huh?!
+[Round order] Huh? (2), the opposing Vivillon (3), the opposing Skarmory (1), Mesprit (0)
+
+===== Round 1 =====
+
+[AI] Skarmory (1) is considering using Roost...
+     - 80: move will fail
+[AI] Skarmory (1) is considering using Whirlwind against Mesprit (0)...
+[AI] Skarmory (1) is considering using Whirlwind against Huh? (2)...
+[AI] Skarmory (1) is considering using Spikes...
+     + 30: function code modifier (generic)
+[AI] Skarmory (1) is considering using Brave Bird against Mesprit (0)...
+     + 30: damaging move (predicted damage 233 = 176% of target's HP)
+     + 10: predicted to KO the target
+[AI] Skarmory (1) is considering using Brave Bird against Huh? (2)...
+     +  7: damaging move (predicted damage 102 = 31% of target's HP)
+[AI] Move choices for Skarmory (1):
+   *   0.0% to use Roost: score 20
+   *   0.0% to use Whirlwind (target 0): score 100
+   *   0.0% to use Whirlwind (target 2): score 100
+   *   0.0% to use Spikes: score 130
+   * 100.0% to use Brave Bird (target 0): score 140
+   *   0.0% to use Brave Bird (target 2): score 107
+   => will use Brave Bird (target 0)
+
+[AI] Vivillon (3) is considering using Powder against Mesprit (0)...
+     - 40: function code modifier (against target)
+[AI] Vivillon (3) is considering using Powder against Huh? (2)...
+     - 40: function code modifier (against target)
+[AI] Vivillon (3) is considering using Struggle Bug...
+     +  6: lowering the target's Special Attack by 1
+     + 18: function code modifier (against target)
+     + 24: damaging move (predicted damage 128 = 96% of target's HP)
+     +  6: lowering the target's Special Attack by 1
+     + 18: function code modifier (against target)
+     + 10: affects multiple battlers
+[AI] Vivillon (3) is considering using Sleep Powder against Mesprit (0)...
+     + 15: function code modifier (against target)
+     -  6: accuracy (predicted 75%)
+[AI] Vivillon (3) is considering using Sleep Powder against Huh? (2)...
+     + 15: function code modifier (against target)
+     -  6: accuracy (predicted 75%)
+[AI] Vivillon (3) is considering using Fly against Mesprit (0)...
+     +  6: function code modifier (against target)
+     + 19: damaging move (predicted damage 104 = 78% of target's HP)
+[AI] Vivillon (3) is considering using Fly against Huh? (2)...
+     +  6: function code modifier (against target)
+     +  3: damaging move (predicted damage 47 = 14% of target's HP)
+[AI] Move choices for Vivillon (3):
+   *   0.0% to use Powder (target 0): score 60
+   *   0.0% to use Powder (target 2): score 60
+   *  82.6% to use Struggle Bug: score 140
+   *   0.0% to use Sleep Powder (target 0): score 109
+   *   0.0% to use Sleep Powder (target 2): score 109
+   *  17.4% to use Fly (target 0): score 125
+   *   0.0% to use Fly (target 2): score 109
+   => will use Fly (target 0)
+
+[Round order] Huh? (2), the opposing Vivillon (3), the opposing Skarmory (1), Mesprit (0)
+
+[Use move] Huh? (2) used Air Slash
+Huh? used Air Slash!
+[HP change] The opposing Skarmory lost 82 HP (279 -> 197)
+It's not very effective...
+[Use move] The opposing Vivillon (3) used Fly
+The opposing Vivillon used Fly!
+The opposing Vivillon flew up high!
+[Use move] The opposing Skarmory (1) used Brave Bird
+The opposing Skarmory used Brave Bird!
+[HP change] Mesprit lost 132 HP (132 -> 0)
+Mesprit fainted!
+[HP change] The opposing Skarmory lost 44 HP (197 -> 153)
+The opposing Skarmory is damaged by recoil!
+
+[End of round 1]
+[HP change] The opposing Skarmory gained 17 HP (153 -> 170)
+The opposing Skarmory restored a little HP using its Leftovers!
+You're in charge, Dream!
+
+===== Round 2 =====
+
+[AI] Skarmory (1) will use item X Speed
+
+[AI] The opposing Vivillon (3) is forced to use a multi-turn move
+[Round order] Dream (0), Huh? (2), the opposing Vivillon (3), the opposing Skarmory (1)
+
+Dream's Quick Claw let it move first!
+Champion Orchid used a X Speed.
+[Stat change] The opposing Skarmory's Speed changed by +2 (0 -> 2)
+The opposing Skarmory's Speed rose sharply!
+[Use move] Dream (0) used Spore
+Dream used Spore!
+The opposing Skarmory fell asleep!
+[Status change] The opposing Skarmory's sleep count is 3
+[Use move] Huh? (2) used Moonblast
+Huh? used Moonblast!
+[HP change] The opposing Skarmory lost 94 HP (170 -> 76)
+It's not very effective...
+[Use move] The opposing Vivillon (3) used Fly
+The opposing Vivillon used Fly!
+[HP change] Dream lost 170 HP (299 -> 129)
+It's super effective!
+
+[End of round 2]
+[HP change] The opposing Skarmory gained 17 HP (76 -> 93)
+The opposing Skarmory restored a little HP using its Leftovers!
+
+===== Round 3 =====
+
+[AI] Skarmory (1) will use item Full Restore
+
+[AI] Vivillon (3) is considering using Powder against Dream (0)...
+     move will not affect Dream (0)
+     - 80: move will fail
+[AI] Vivillon (3) is considering using Powder against Huh? (2)...
+     - 40: function code modifier (against target)
+[AI] Vivillon (3) is considering using Struggle Bug...
+     lowering the target's Special Attack isn't worthwhile
+     +  8: damaging move (predicted damage 43 = 33% of target's HP)
+     +  6: lowering the target's Special Attack by 1
+     + 18: function code modifier (against target)
+     + 10: affects multiple battlers
+[AI] Vivillon (3) is considering using Sleep Powder against Dream (0)...
+     move will not affect Dream (0)
+     - 80: move will fail
+[AI] Vivillon (3) is considering using Sleep Powder against Huh? (2)...
+     + 15: function code modifier (against target)
+     -  6: accuracy (predicted 75%)
+[AI] Vivillon (3) is considering using Fly against Dream (0)...
+     +  6: function code modifier (against target)
+     + 30: damaging move (predicted damage 198 = 153% of target's HP)
+     + 10: predicted to KO the target
+[AI] Vivillon (3) is considering using Fly against Huh? (2)...
+     +  6: function code modifier (against target)
+     +  3: damaging move (predicted damage 47 = 14% of target's HP)
+[AI] Move choices for Vivillon (3):
+   *   0.0% to use Powder (target 0): score 20
+   *   0.0% to use Powder (target 2): score 60
+   *   0.0% to use Struggle Bug: score 123
+   *   0.0% to use Sleep Powder (target 0): score 20
+   *   0.0% to use Sleep Powder (target 2): score 109
+   * 100.0% to use Fly (target 0): score 146
+   *   0.0% to use Fly (target 2): score 109
+   => will use Fly (target 0)
+
+[Round order] The opposing Skarmory (1), Dream (0), Huh? (2), the opposing Vivillon (3)
+
+Champion Orchid used a Full Restore.
+[Status change] The opposing Skarmory's status was cured
+[HP change] The opposing Skarmory gained 186 HP (93 -> 279)
+The opposing Skarmory's HP was restored.
+[Use move] Dream (0) used Spore
+Dream used Spore!
+The opposing Vivillon fell asleep!
+[Status change] The opposing Vivillon's sleep count is 3
+[Use move] Huh? (2) used Moonblast
+Huh? used Moonblast!
+[HP change] The opposing Vivillon lost 234 HP (234 -> 0)
+The opposing Vivillon fainted!
+Your other Pokémon also gained Exp. Points!
+
+[End of round 3]
+
+**Exception: undefined method `status?' for #<GameData::Move>
+002_AI_Switch.rb:129:in `block in rate_replacement_pokemon'
+008_AI_Utilities.rb:19:in `block in each_foe_battler'
+008_AI_Utilities.rb:17:in `each'
+008_AI_Utilities.rb:17:in `each_with_index'
+008_AI_Utilities.rb:17:in `each_foe_battler'
+002_AI_Switch.rb:126:in `rate_replacement_pokemon'
+002_AI_Switch.rb:96:in `block in choose_best_replacement_pokemon'
+002_AI_Switch.rb:95:in `each'
+002_AI_Switch.rb:95:in `each_with_index'
+002_AI_Switch.rb:95:in `choose_best_replacement_pokemon'
+001_Battle_AI.rb:77:in `pbDefaultChooseNewEnemy'
+005_Battle_ActionSwitching.rb:134:in `pbSwitchInBetween'
+005_Battle_ActionSwitching.rb:157:in `block (2 levels) in pbEORSwitch'
+005_Battle_ActionSwitching.rb:151:in `each'
+005_Battle_ActionSwitching.rb:151:in `block in pbEORSwitch'
+005_Battle_ActionSwitching.rb:149:in `loop'
+005_Battle_ActionSwitching.rb:149:in `pbEORSwitch'
+011_Battle_EndOfRoundPhase.rb:705:in `pbEndOfRoundPhase'
+006_Battle_Clauses.rb:41:in `pbEndOfRoundPhase'
+002_Battle_StartAndEnd.rb:343:in `block (2 levels) in pbBattleLoop'
+001_PBDebug.rb:6:in `logonerr'
+002_Battle_StartAndEnd.rb:343:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:325:in `loop'
+002_Battle_StartAndEnd.rb:325:in `pbBattleLoop'
+002_Battle_StartAndEnd.rb:317:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:515:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:514:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:127:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:513:in `start_core'
+001_Overworld_BattleStarting.rb:479:in `start'
+002_Debug_MenuCommands.rb:303:in `block (3 levels) in load_scripts_from_folder'
+002_Debug_MenuCommands.rb:276:in `loop'
+002_Debug_MenuCommands.rb:276:in `block (2 levels) in load_scripts_from_folder'
+006_Event_HandlerCollections.rb:121:in `call'
+001_Debug_Menus.rb:138:in `block in pbDebugMenu'
+001_Debug_Menus.rb:100:in `loop'
+001_Debug_Menus.rb:100:in `pbDebugMenu'
+[Following Pokemon EX] Refresh.rb:117:in `pbDebugMenu'
+002_Scene_Map.rb:131:in `block in call_debug'
+002_MessageConfig.rb:570:in `pbFadeOutIn'
+002_Scene_Map.rb:131:in `call_debug'
+002_Scene_Map.rb:227:in `update'
+998_Unreal Time System.rb:247:in `update'
+[Mach and Acro bike] 1 - Mach and Acro bike.rb:279:in `update'
+[Following Pokemon EX] Refresh.rb:165:in `update'
+002_Scene_Map.rb:254:in `block in main'
+002_Scene_Map.rb:251:in `loop'
+002_Scene_Map.rb:251:in `main'
+999_Main.rb:32:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:90:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:42:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:41:in `loop'
+999_Main.rb:41:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+

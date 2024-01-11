@@ -1,0 +1,5 @@
+﻿Name       = Poké Ball Swap
+Version    = 1.0 
+Essentials = 20, 20.1
+Link       = https://reliccastle.com/resources/817/
+Credits    = TechSkylander1518

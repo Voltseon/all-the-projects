@@ -1,0 +1,28 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Asher Village (32) - Route 301 (48)
+32,North,8,48,South,0
+# Bulkan Town (76) - Route 301 (48)
+76,South,4,48,North,0
+# Trees (212) - Route 301 (48)
+212,East,0,48,West,0
+# Trees (212) - Bulkan Town (76)
+212,North,16,76,South,0
+# Tildar City (93) - Route 303 (92)
+93,North,18,92,South,0
+# Route 305 (100) - Route 304 (99)
+100,North,41,99,South,0
+# Hubris Town (101) - Route 305 (100)
+101,West,0,100,East,20
+# Smith City (107) - Route 306 (121)
+107,West,0,121,East,0
+# Route 307 (122) - Smith City (107)
+122,South,114,107,North,0
+# Route 307 (122) - Route 306 (121)
+122,South,14,121,North,0
+# Route 309 (133) - Galvin City (125)
+133,West,0,125,East,10
+# Route 313 (172) - Bulgart Town (167)
+172,South,0,167,North,2
+# Underwater Passage (43) - Underwater Passage (40)
+43,East,40,40,West,0

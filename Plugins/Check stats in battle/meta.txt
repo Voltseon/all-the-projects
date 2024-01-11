@@ -1,0 +1,5 @@
+Name      = Check stats in battle
+Version   = 2.0
+Essentials = 20.1
+Website   = https://github.com/Jack1324567/PE-Custom-Script
+Credits   = bo4p5687

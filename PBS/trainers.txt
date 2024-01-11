@@ -1,0 +1,2315 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Special Trainers
+#-------------------------------
+[RIVAL1,Borad,0] # Done
+LoseText = That was spectacular!
+Pokemon = STARTER,5
+  Gender = male
+#-------------------------------
+[RIVAL1,Borad,1] # Done
+LoseText = Wow! That was a fascinating battle!
+Items = SUPERPOTION
+Pokemon = SLOWPOKE,13
+  Gender = male
+Pokemon = SINISTEA,13
+Pokemon = STARTER,14
+  Gender = male
+#-------------------------------
+[RIVAL1,Borad,2] # Done
+LoseText = Thank you for the experience, even though I lost...
+Items = HYPERPOTION
+Pokemon = SLOWPOKE,23
+  Gender = male
+Pokemon = SINISTEA,24
+Pokemon = PETILIL,24
+  Gender = female
+Pokemon = MAGBY,25
+  Gender = female
+Pokemon = STARTER,26
+  Gender = male
+  Item = MIRACLESEED
+#-------------------------------
+[RIVAL1,Borad,3] # Done
+LoseText = One day I will beat you! Unfortunately that wasn't today...
+Items = HYPERPOTION,FULLRESTORE
+Pokemon = SLOWBRO,37
+  Item = LIFEORB
+  Gender = male
+Pokemon = POLTEAGEIST,37
+Pokemon = LILLIGANT,38
+  Gender = female
+  Moves = GIGADRAIN,SYNTHESIS,SUNNYDAY,SOLARBEAM
+Pokemon = MAGMAR,39
+  Item = HEAVYDUTYBOOTS
+  Gender = female
+Pokemon = STARTER,40
+  Gender = male
+  Item = MIRACLESEED
+#-------------------------------
+[RIVAL1,Borad,4] # Done
+LoseText = If it wasn't for you, I might've thought I was the strongest trainer...
+Items = BORADMEGA,FULLHEAL,FULLRESTORE,FULLRESTORE,FULLRESTORE
+Pokemon = PORYGONZ,78
+  Item = QUICKCLAW
+  Moves = DISCHARGE,SIGNALBEAM,TRIATTACK,CONVERSION2
+Pokemon = POLTEAGEIST,78
+  Item = WHITEHERB
+  Moves = SHADOWBALL,SHELLSMASH,STRENGTHSAP,STOREDPOWER
+Pokemon = LILLIGANT,79
+  Moves = GIGADRAIN,SYNTHESIS,SUNNYDAY,SOLARBEAM
+  Item = HEATROCK
+  Gender = female
+Pokemon = MAGMORTAR,79
+  Item = CHOICESPECS
+  Moves = FIREBLAST,THUNDERBOLT,FOCUSBLAST,SCORCHINGSANDS
+  Gender = female
+Pokemon = STARTER,80
+  Item = MIRACLESEED
+  Gender = male
+Pokemon = SLOWBRO,81
+  Gender = male
+  Item = SLOWBRONITE
+  Moves = SCALD,PSYSHOCK,SLACKOFF,ICEBEAM
+#-------------------------------
+[RIVAL2,Ashley,0] # Done
+LoseText = Urgh... Whatever
+Pokemon = STARTER,5
+  Gender = female
+#-------------------------------
+[RIVAL2,Ashley,1] # Done
+LoseText = You just got lucky...
+Items = FULLHEAL
+Pokemon = HERACROSS,20
+  Gender = female
+Pokemon = DUSKULL,20
+  Gender = female
+Pokemon = STARTER,21
+  Gender = female
+  Item = MIRACLESEED
+#-------------------------------
+[RIVAL2,Ashley,2] # Done
+LoseText = I don't have to take this...
+Items = FULLHEAL
+Pokemon = HERACROSS,41
+  Gender = female
+  Item = LIFEORB
+Pokemon = BEWEAR,40
+  Gender = male
+Pokemon = DUSCLOPS,41
+  Gender = female
+Pokemon = STARTER,43
+  Gender = female
+  Item = MIRACLESEED
+#-------------------------------
+[RIVAL2,Ashley,3] # Done
+LoseText = You're saying I made a mistake?
+Items = FULLHEAL,ASHLEYMEGA,FULLRESTORE
+Pokemon = STARTER,48
+  Gender = female
+  Item = MIRACLESEED
+Pokemon = BEWEAR,49
+  Gender = male
+Pokemon = DUSKNOIR,49
+  Gender = female
+  Item = LIFEORB
+Pokemon = SLAKING,50
+  Gender = male
+Pokemon = CROBAT,50
+  Gender = female
+  Item = BLACKSLUDGE
+Pokemon = HERACROSS,51
+  Gender = female
+  Item = HERACRONITE
+#-------------------------------
+[RIVAL2,Ashley,4] # Done
+LoseText = Oh... I am so done with this!
+Items = FULLHEAL,ASHLEYMEGA,FULLRESTORE,FULLRESTORE,FULLRESTORE
+Pokemon = STARTER,74
+  Gender = female
+  Item = MIRACLESEED
+Pokemon = BEWEAR,74
+  Gender = male
+  Item = SILKSCARF
+  SWORDSDANCE,SUPERPOWER,DOUBLEEDGE,SHADOWCLAW
+Pokemon = DUSKNOIR,75
+  Gender = female
+  Item = LIFEORB
+  Moves = GHOULPRESENCE,FIREPUNCH,ICEPUNCH,THUNDERPUNCH
+Pokemon = SLAKING,75
+  Gender = male
+  Item = CHOICEBAND
+  Moves = GIGAIMPACT,EARTHQUAKE,NIGHTSLASH,PLAYROUGH
+Pokemon = CROBAT,75
+  Gender = female
+  Item = BLACKSLUDGE
+  Moves = CROSSPOISON,XSCISSOR,FLY,FIREFANG
+Pokemon = HERACROSS,76
+  Gender = female
+  Item = HERACRONITE
+  Moves = SWORDSDANCE,CLOSECOMBAT,ROCKBLAST,PINMISSILE
+#-------------------------------
+[LEADER_Derek,Derek] # Done
+LoseText = Good job! That was an amazing performance!
+Items = POTION,SUPERPOTION
+Pokemon = RATTATA,14
+  Gender = male
+  Moves = SUPERFANG,FOCUSENERGY,WORKUP,QUICKATTACK
+  IV = 20,20,20,20,20,20
+Pokemon = TAUROS,16
+  Moves = DOUBLEEDGE,WORKUP,ASSURANCE,PURSUIT
+  AbilityIndex = 2
+  Item = WEAKNESSPOLICY
+  IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Pascal,Pascal] # Done
+LoseText = Sheesh, that was a tough battle. Good job!
+Items = FULLHEAL,SUPERPOTION
+Pokemon = QUAGSIRE,23
+  Gender = male
+  Moves = SWAGGER,BUBBLEBEAM,DIG,TAILSLAP
+  IV = 20,20,20,20,20,20
+Pokemon = DONPHAN,25
+  Gender = male
+  Moves = ROLLOUT,MAGNITUDE,HEADBUTT,SWAGGER
+  IV = 20,20,20,20,20,20
+Pokemon = PILOSWINE,26
+  Gender = female
+  Moves = SWAGGER,ICESHARD,EARTHPOWER,AURORABEAM
+  AbilityIndex = 2
+  Item = ROCKYHELMET
+  IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_June,June] # Done
+LoseText = Spectacular! I loved every minute of the battle!
+Items = FULLHEAL,HYPERPOTION,HYPERPOTION
+Pokemon = BRELOOM,31
+  Gender = female
+  Moves = MACHPUNCH,BULLETSEED,BULLETPUNCH,SPORE
+  IV = 20,20,20,20,20,20
+  AbilityIndex = 2
+Pokemon = SHIFTRY,31
+  Gender = male
+  Moves = GRASSKNOT,LEAFBLADE,SUCKERPUNCH,EXTREMESPEED
+  IV = 20,20,20,20,20,20
+Pokemon = LUDICOLO,32
+  Gender = male
+  Moves = GRASSKNOT,AQUAJET,ICEBEAM,PROTECT
+  IV = 20,20,20,20,20,20
+Pokemon = TROPIUS,34
+  Gender = female
+  Moves = TAILWIND,GRASSKNOT,BODYSLAM,AIRSLASH
+  AbilityIndex = 2
+  Item = SITRUSBERRY
+  IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Jackson,Jackson] # Done
+LoseText = Wow that was amazing! What a performance!
+Items = FULLHEAL,FULLRESTORE,FULLRESTORE
+Pokemon = ROTOM,38
+  Form = 4
+  Moves = VOLTSWITCH,AIRSLASH,SHOCKWAVE,CONFUSERAY
+  IV = 20,20,20,20,20,20
+Pokemon = MAGNEZONE,38
+  Moves = HEAVYSLAM,SHOCKWAVE,FLASHCANNON,MAGNETRISE
+  IV = 20,20,20,20,20,20
+  AbilityIndex = 2
+Pokemon = LUXRAY,39
+  Gender = male
+  Moves = IONDELUGE,SHOCKWAVE,WILDCHARGE,CRUNCH
+  IV = 20,20,20,20,20,20
+Pokemon = TOXTRICITY,41
+  Nature = MODEST
+  Gender = male
+  Moves = BOOMBURST,SHOCKWAVE,SUPERSONIC,SLUDGEWAVE
+  AbilityIndex = 2
+  Item = ELECTRICGEM
+  IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Ingrid,Ingrid] # Done
+LoseText = Urgh! I lost?! What a surprise...
+Items = FULLHEAL,FULLRESTORE,FULLRESTORE
+Pokemon = SCOLIPEDE,44
+  Gender = female
+  Moves = BATONPASS,STICKYWEB,SWORDSDANCE,POISONJAB
+  IV = 20,20,20,20,20,20
+Pokemon = TOXICROAK,45
+  Gender = female
+  Moves = POISONJAB,CLOSECOMBAT,SUCKERPUNCH,QUICKGUARD
+  IV = 20,20,20,20,20,20
+  AbilityIndex = 2
+Pokemon = GARBODOR,47
+  Gender = female
+  Moves = POISONJAB,GUNKSHOT,POWERWHIP,PUNISHMENT
+  AbilityIndex = 2
+  Item = ASSAULTVEST
+  IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Tommy,Tommy] # Done
+LoseText = ...?
+Items = MEGARING,FULLHEAL,FULLRESTORE,FULLRESTORE
+Pokemon = TREVENANT,51
+  Gender = male
+  Moves = WOODHAMMER,NIGHTSHADE,PHANTOMFORCE,HORNLEECH
+  IV = 20,20,20,20,20,20
+  AbilityIndex = 2
+Pokemon = GOURGEIST,52
+  Form = 2
+  Gender = female
+  Moves = NIGHTSHADE,SHADOWSNEAK,SEEDBOMB,PHANTOMFORCE
+  IV = 20,20,20,20,20,20
+  AbilityIndex = 2
+Pokemon = AEGISLASH,52
+  Moves = NIGHTSHADE,SHADOWSNEAK,IRONHEAD,KINGSSHIELD
+  IV = 20,20,20,20,20,20
+Pokemon = BANETTE,54
+  Gender = female
+  Moves = NIGHTSHADE,WILLOWISP,PHANTOMFORCE,SUCKERPUNCH
+  AbilityIndex = 0
+  Item = BANETTITE
+  IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_LizArnold,Liz & Arnold] # Done
+LoseText = Liz: This is your fault! Arnold: No you messed it up!
+Items = MEGARING,FULLHEAL,FULLRESTORE,FULLRESTORE
+Pokemon = KOMMOO,54
+  Gender = male
+  Moves = DRAGONPULSE,CLOSECOMBAT,OUTRAGE,ICEPUNCH
+  IV = 20,20,20,20,20,20
+  AbilityIndex = 1
+Pokemon = DRAMPA,54
+  Gender = female
+  Moves = DRAGONPULSE,THUNDERBOLT,FLAMETHROWER,HYPERVOICE
+  IV = 20,20,20,20,20,20
+  AbilityIndex = 0
+Pokemon = LATIOS,56
+  Moves = DRAGONPULSE,PSYCHIC,ENERGYBALL,SHADOWBALL
+    Item = LATIOSITE
+  IV = 31,31,31,31,31,31
+Pokemon = LATIAS,56
+  Moves = DRAGONPULSE,PSYCHIC,TAILWIND,AURASPHERE
+  Item = SOULDEW
+  IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Upsilon,Upsilon] # Done
+LoseText = Great.
+Items = MEGARING,FULLHEAL,FULLRESTORE,FULLRESTORE
+Pokemon = ALCREMIE,72
+  Form = 25
+  Moves = MOONBLAST,ATTRACT,MISTYTERRAIN,SWEETKISS
+  IV = 20,20,20,20,20,20
+  AbilityIndex = 2
+Pokemon = RAPIDASH,72
+  Form = 1
+  Gender = male
+  Moves = MOONBLAST,PSYCHOCUT,MEGAHORN,TAKEDOWN
+  IV = 20,20,20,20,20,20
+  AbilityIndex = 1
+Pokemon = WEEZING,72
+  Form = 1
+  AbilityIndex = 0
+  Moves = MOONBLAST,STRANGESTEAM,DESTINYBOND,SLUDGEBOMB
+  IV = 20,20,20,20,20,20
+Pokemon = GRIMMSNARL,73
+  AbilityIndex = 2
+  Moves = MOONBLAST,PLAYROUGH,POWERUPPUNCH,SUCKERPUNCH
+  IV = 20,20,20,20,20,20
+Pokemon = HATTERENE,73
+  AbilityIndex = 2
+  Moves = MOONBLAST,PSYCHIC,GIGADRAIN,CALMMIND
+  IV = 20,20,20,20,20,20
+Pokemon = DIANCIE,73
+  Moves = MOONBLAST,DIAMONDSTORM,POWERGEM,EARTHPOWER
+  Item = DIANCITE
+  IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Herman,Herman] # Done
+LoseText = Act normal? I've lost? Pancakes! Just fly away already.
+Items = MEGARING,XSPEED,FULLHEAL,FULLRESTORE,FULLRESTORE
+Pokemon = CROBAT,80
+  Item = BLACKSLUDGE
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = CROSSPOISON,XSCISSOR,FLY,CRUNCH
+  Form = 0
+  Gender = male
+Pokemon = GLISCOR,80
+  Item = TOXICORB
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = AERIALACE,EARTHQUAKE,FIREFANG,THUNDERFANG
+  Form = 0
+  Gender = male
+Pokemon = HAWLUCHA,81
+  Item = WEAKNESSPOLICY
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = FLYINGPRESS,SWORDSDANCE,BOUNCE,ROOST
+  Form = 0
+  Gender = male
+Pokemon = PELIPPER,81
+  Item = WATERGEM
+  AbilityIndex = 1
+  IV = 31,31,31,31,31,31
+  Moves = HURRICANE,ICEBEAM,SCALD,TAILWIND
+  Form = 0
+  Gender = male
+Pokemon = NOIVERN,81
+  Item = SITRUSBERRY
+  AbilityIndex = 1
+  IV = 31,31,31,31,31,31
+  Moves = DRAGONPULSE,AIRSLASH,BOOMBURST,FLAMETHROWER
+  Form = 0
+  Gender = male
+Pokemon = PINSIR,82
+  Item = PINSIRITE
+  AbilityIndex = 0
+  IV = 31,31,31,31,31,31
+  Moves = SWORDSDANCE,BODYSLAM,SUPERPOWER,XSCISSOR
+  Form = 0
+  Gender = male
+#-------------------------------
+[ELITEFOUR_Olaf,Olaf] # Done
+LoseText = It's ok. I just need to have ice in my stomach.
+Items = MEGARING,XSPEED,FULLHEAL,FULLRESTORE,FULLRESTORE
+Pokemon = CLOYSTER,81
+  Item = WHITEHERB
+  AbilityIndex = 1
+  IV = 31,31,31,31,31,31
+  Moves = SHELLSMASH,ICICLESPEAR,LIQUIDATION,ROCKBLAST
+  Form = 0
+  Gender = male
+Pokemon = ARCTOZOLT,81
+  Item = SITRUSBERRY
+  AbilityIndex = 1
+  IV = 31,31,31,31,31,31
+  Moves = AVALANCHE,PLUCK,BOLTBEAK,SLAM
+  Form = 0
+  Gender = male
+Pokemon = NINETALES,82
+  Item = WISEGLASSES
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = MOONBLAST,BLIZZARD,EXTRASENSORY,NASTYPLOT
+  Form = 1
+  Gender = male
+Pokemon = MRRIME,82
+  Item = BRIGHTPOWDER
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = PSYCHIC,MOONBLAST,HYPNOSIS,FREEZEDRY
+  Form = 0
+  Gender = male
+Pokemon = WEAVILE,83
+  Item = ASSAULTVEST
+  AbilityIndex = 0
+  IV = 31,31,31,31,31,31
+  Moves = NIGHTSLASH,ICEPUNCH,DIG,POWERUPPUNCH
+  Form = 0
+  Gender = male
+Pokemon = GLALIE,84
+  Item = GLALITITE
+  AbilityIndex = 0
+  IV = 31,31,31,31,31,31
+  Moves = CRUNCH,HYPERBEAM,ICEBEAM,IRONHEAD
+  Form = 0
+  Gender = male
+#-------------------------------
+[ELITEFOUR_Susanne,Susanne] # Done
+LoseText = Good grief bacon. I should not have lost that. I need a snack.
+Items = MEGARING,XSPEED,LAVACOOKIE,FULLRESTORE,FULLRESTORE
+Pokemon = TALONFLAME,82
+  Item = REDCARD
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = BRAVEBIRD,FLAREBLITZ,ACROBATICS,UTURN
+  Form = 0
+  Gender = female
+Pokemon = SALAZZLE,83
+  Item = BLACKSLUDGE
+  AbilityIndex = 0
+  IV = 31,31,31,31,31,31
+  Moves = TOXIC,VENOSHOCK,FLAMETHROWER,DRAGONPULSE
+  Form = 0
+  Gender = female
+Pokemon = VOLCARONA,83
+  Item = FOCUSSASH
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = QUIVERDANCE,FIERYDANCE,BUGBUZZ,GIGADRAIN
+  Form = 0
+  Gender = female
+Pokemon = CHANDELURE,83
+  Item = SITRUSBERRY
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = HEX,WILLOWISP,FLAMETHROWER,ENERGYBALL
+  Form = 0
+  Gender = female
+Pokemon = ROTOM,84
+  Item = METRONOME
+  AbilityIndex = 0
+  IV = 31,31,31,31,31,31
+  Moves = OVERHEAT,DISCHARGE,FLAMETHROWER,FOULPLAY
+  Form = 1
+  Gender = female
+Pokemon = CAMERUPT,85
+  Item = CAMERUPTITE
+  AbilityIndex = 1
+  IV = 31,31,31,31,31,31
+  Moves = ERUPTION,EARTHQUAKE,STONEEDGE,FLAMETHROWER
+  Form = 0
+  Gender = female
+#-------------------------------
+[ELITEFOUR_Marguerite,Marguerite] # Done
+LoseText = My bowl is full...
+Items = MEGARING,XSPEED,FULLHEAL,FULLRESTORE,FULLRESTORE
+Pokemon = MRMIME,83
+  Item = LIGHTCLAY
+  AbilityIndex = 0
+  IV = 31,31,31,31,31,31
+  Moves = REFLECT,LIGHTSCREEN,TRICKROOM,PSYCHIC
+  Form = 0
+  Gender = female
+Pokemon = METAGROSS,84
+  Item = ASSAULTVEST
+  AbilityIndex = 0
+  IV = 31,31,31,31,31,31
+  Moves = METEORMASH,HAMMERARM,ZENHEADBUTT,ICEPUNCH
+  Form = 0
+Pokemon = BRUXISH,84
+  Item = RAZORFANG
+  AbilityIndex = 1
+  IV = 31,31,31,31,31,31
+  Moves = PSYCHICFANGS,CRUNCH,LIQUIDATION,POISONFANG
+  Form = 0
+  Gender = female
+Pokemon = HATTERENE,84
+  Item = LUMBERRY
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = MOONBLAST,PSYCHIC,MYSTICALFIRE,DARKPULSE
+  Form = 0
+  Gender = female
+Pokemon = STARMIE,85
+  Item = LEFTOVERS
+  AbilityIndex = 1
+  IV = 31,31,31,31,31,31
+  Moves = ICEBEAM,SCALD,PSYCHIC,POWERGEM
+  Form = 0
+  Gender = female
+Pokemon = GALLADE,86
+  Item = GALLADITE
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = CLOSECOMBAT,PSYCHOCUT,THUNDERPUNCH,POISONJAB
+  Form = 0
+  Gender = male
+#-------------------------------
+[CHAMPION,Orchid] # Done
+LoseText = Excellent...
+Items = MEGARING,XSPEED,FULLHEAL,FULLRESTORE,FULLRESTORE,FULLRESTORE
+Pokemon = SKARMORY,85
+  Item = LEFTOVERS
+  AbilityIndex = 1
+  IV = 31,31,31,31,31,31
+  Moves = ROOST,WHIRLWIND,SPIKES,BRAVEBIRD
+  Form = 0
+  Gender = female
+  Nature = IMPISH
+  EV = 224,0,252,0,0,32
+  Happiness = 255
+Pokemon = FERROTHORN,85
+  Item = LEFTOVERS
+  AbilityIndex = 0
+  IV = 31,31,31,31,31,31
+  Moves = SPIKES,KNOCKOFF,LEECHSEED,POWERWHIP
+  Form = 0
+  Gender = male
+  Nature = IMPISH
+  EV = 252,0,252,0,0,4
+  Happiness = 255
+Pokemon = WHIMSICOTT,85
+  Item = LEFTOVERS
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = SUBSTITUTE,LEECHSEED,MOONBLAST,KNOCKOFF
+  Form = 0
+  Gender = female
+  Nature = TIMID
+  EV = 252,0,0,252,0,4
+  Happiness = 255
+Pokemon = DRAGAPULT,86
+  Item = CHOICESPECS
+  AbilityIndex = 1
+  IV = 31,31,31,31,31,31
+  Moves = SHADOWBALL,DRACOMETEOR,UTURN,FLAMETHROWER
+  Form = 0
+  Gender = male
+  Nature = TIMID
+  EV = 0,0,0,252,252,4
+  Happiness = 255
+Pokemon = CLEFABLE,86
+  Item = LIFEORB
+  AbilityIndex = 1
+  IV = 31,31,31,31,31,31
+  Moves = CALMMIND,MOONBLAST,SOFTBOILED,THUNDER
+  Form = 0
+  Gender = female
+  Nature = BOLD
+  EV = 252,0,196,60,0,0
+  Happiness = 255
+Pokemon = KANGASKHAN,87
+  Item = KANGASKHANITE
+  AbilityIndex = 2
+  IV = 31,31,31,31,31,31
+  Moves = FAKEOUT,SEISMICTOSS,CRUNCH,BODYSLAM
+  Form = 0
+  Gender = female
+  Nature = JOLLY
+  EV = 52,180,36,232,0,8
+  Happiness = 255
+#-------------------------------
+[DEVVOLTSEON,Voltseon]
+LoseText = Thank you for making it all this way!
+Items = MEGARING,REVIVE
+Pokemon = DUNSPARCE,90
+  AbilityIndex = 0
+Pokemon = ESPEON,90
+Pokemon = SMEARGLE,90
+  Moves = BATONPASS,SPORE,QUIVERDANCE,TRIATTACK
+Pokemon = CHINCHOU,90
+  Item = EVIOLITE
+Pokemon = AMPHAROS,90
+  Item = AMPHAROSITE
+#-------------------------------
+[DEVENLS,ENLS]
+LoseText = I'm about to do a backflip!
+Items = MEGARING,REVIVE
+Pokemon = ARCANINE,90
+  Moves = EXTREMESPEED,FLAREBLITZ,CRUNCH,SUPERPOWER
+Pokemon = RAICHU,90
+  Moves = THUNDER,ENERGYBALL,RAINDANCE,REFLECT
+Pokemon = GLACEON,90
+Pokemon = WAILORD,90
+Pokemon = LUCARIO,90
+  Item = LUCARIONITE
+#-------------------------------
+[DEVTRISTAN,Tristan]
+LoseText = Sayonara! Have a good one!
+Items = MEGARING,REVIVE
+Pokemon = MASQUERAIN,90
+  Name = Bubbles
+  Gender = female
+  Moves = QUIVERDANCE,BUGBUZZ,AIRSLASH,ICEBEAM
+  Shiny = true
+  Item = SILVERPOWDER
+  Ball = FRIENDBALL
+Pokemon = CRADILY,90
+  Gender = male
+  Moves = GIGADRAIN,ANCIENTPOWER,EARTHQUAKE,SLUDGEBOMB
+Pokemon = CROBAT,90
+  Gender = male
+  Moves = CROSSPOISON,AIRSLASH,XSCISSOR,CRUNCH
+Pokemon = VAPOREON,90
+  Gender = female
+  Moves = HYDROPUMP,ICEBEAM,SHADOWBALL,LIQUIDATION
+Pokemon = STEELIX,90
+  Gender = male
+  Moves = IRONTAIL,EARTHQUAKE,ROCKSLIDE,THUNDERFANG
+  Item = STEELIXITE
+  Ball = HEAVYBALL
+#-------------------------------
+# Route 301
+#-------------------------------
+[YOUNGSTER,Jonas,0] # Done
+LoseText = How did I lose?
+Pokemon = RATTATA,3
+#-------------------------------
+[YOUNGSTER,Jonas,1] # Done
+LoseText = How did I lose again?
+Pokemon = RATTATA,12
+#-------------------------------
+# Route 302
+#-------------------------------
+[LASS,Erica] # Done
+LoseText = Bugs scare me!
+Pokemon = GOSSIFLEUR,6
+#-------------------------------
+[LASS,Erica,1] # Done
+LoseText = Bugs scare me!
+Pokemon = GOSSIFLEUR,14
+#-------------------------------
+[BUGCATCHER,Patrick] # Done
+LoseText = I disappointed my bugs!
+Pokemon = WURMPLE,5
+Pokemon = KRICKETOT,6
+#-------------------------------
+# Artemis Woods
+#-------------------------------
+[BUGCATCHER,Jeremy] # Done
+LoseText = Yes, I have bugs and I have bugs!
+Pokemon = SURSKIT,6
+Pokemon = KAKUNA,7
+#-------------------------------
+[BUGCATCHER,Andrew] # Done
+LoseText = Doo... Doo... Oops!
+Pokemon = LEDYBA,7
+Pokemon = PARAS,7
+Pokemon = FOMANTIS,8
+#-------------------------------
+[BUGCATCHER,Andrew,1] # Done
+LoseText = Doo... Doo... Oops!
+Pokemon = LEDYBA,15
+Pokemon = PARAS,15
+Pokemon = FOMANTIS,20
+#-------------------------------
+[BUGCATCHER,Logan] # Done
+LoseText = I wanna make it big time!
+Pokemon = SCYTHER,8
+#-------------------------------
+[HIKER,Grieg] # Done
+LoseText = What is your problem?
+Pokemon = GLAMEOW,8
+Pokemon = ROCKRUFF,9
+#-------------------------------
+[LASS,Lizzy] # Done
+LoseText = You've scared me and I don't have any problems to deal with it right now.
+Pokemon = KECLEON,9
+#-------------------------------
+[AROMALADY,Alice] # Done
+LoseText = What, I have a problem?
+Pokemon = BUNEARY,9
+Pokemon = PUMPKABOO,10
+#-------------------------------
+[YOUNGCOUPLE,Matthew & Stephanie] # Done
+LoseText = We were just theorizing.
+Pokemon = PASSIMIAN,10
+Pokemon = ORANGURU,9
+#-------------------------------
+# Artemis Woods (Post Cave)
+#-------------------------------
+[BUGCATCHER,Alejandro] # Done
+LoseText = Way to go!
+Pokemon = DOTTLER,29
+#-------------------------------
+[BUGCATCHER,Randy] # Done
+LoseText = That's odd.
+Pokemon = RIBOMBEE,29
+Pokemon = SNOM,30
+Pokemon = BEAUTIFLY,30
+#-------------------------------
+[BIRDKEEPER,Raphael] # Done
+LoseText = I was no match...
+Pokemon = FARFETCHD,30
+Pokemon = CHATOT,31
+#-------------------------------
+# Flimsy Cave
+#-------------------------------
+[HIKER,Fletcher] # Done
+LoseText = Could we try that again?
+Pokemon = GRAVELER,27
+#-------------------------------
+[HIKER,Fletcher,1] # Done
+LoseText = Could we try that again?
+Pokemon = GOLEM,30
+#-------------------------------
+[KINDLER,Tanner] # Done
+LoseText = The heat in my heart is no longer burning.
+Pokemon = VULPIX,9
+#-------------------------------
+[CRUSHGIRL,Bonnie] # Done
+LoseText = Argh!
+Pokemon = RIOLU,28
+#-------------------------------
+[BLACKBELT,Daniel] # Done
+LoseText = Urgh!
+Pokemon = MACHOKE,28
+Pokemon = GURDURR,29
+#-------------------------------
+[HEXMANIAC,Valerie] # Done
+LoseText = ...???!!!
+Pokemon = PHANTUMP,28
+Pokemon = SABLEYE,29
+#-------------------------------
+# Route 303
+#-------------------------------
+[SAILOR,Irvin] # Done
+LoseText = I should've caught more Pokémon.
+Pokemon = WIMPOD,12
+Pokemon = SHELLOS,12
+  Form = 1
+Pokemon = WOOPER,13
+#-------------------------------
+[BEAUTY,Tonya] # Done
+LoseText = Does my hair still look good?
+Pokemon = EEVEE,13
+#-------------------------------
+[BEAUTY,Tonya,1] # Done
+LoseText = Does my hair still look good?
+Pokemon = EEVEE,21
+#-------------------------------
+# Tildar City Gym
+#-------------------------------
+[YOUNGSTER,Dani] # Done
+LoseText = Derek will beat you for sure!
+Pokemon = BUNNELBY,13
+#-------------------------------
+[YOUNGSTER,Alec] # Done
+LoseText = I wish I was stronger!
+Pokemon = PATRAT,12
+Pokemon = ZIGZAGOON,13
+#-------------------------------
+[LASS,Victoria] # Done
+LoseText = Ah! Darn!
+Pokemon = WOOLOO,12
+Pokemon = LILLIPUP,13
+#-------------------------------
+# Route 304
+#-------------------------------
+[SAILOR,Jerry] # Done
+LoseText = I could have sworn I caught the best Pokémon!
+Pokemon = MAREANIE,13
+Pokemon = CORSOLA,14
+#-------------------------------
+[SAILOR,Jerry,1] # Done
+LoseText = I even caught more Pokémon, it didn't help!
+Pokemon = MAREANIE,13
+Pokemon = CORSOLA,14
+Pokemon = BASCULIN,15
+  Form = 0
+#-------------------------------
+[SWIMMER_F,Alice] # Done
+LoseText = Better luck next time I suppose...
+Pokemon = CLAMPERL,14
+#-------------------------------
+[TUBER_M,Jimmy] # Done
+LoseText = No fair!
+Pokemon = AZURILL,12
+#-------------------------------
+[FISHERMAN,Arnold] # Done
+LoseText = Heh! That's how it goes!
+Pokemon = BINACLE,12
+Pokemon = TYMPOLE,14
+Pokemon = PYUKUMUKU,14
+#------------SURF---------------
+[SWIMMER_F,Erin] # Done
+LoseText = Unfortunate.
+Pokemon = LUVDISC,20
+Pokemon = CLAMPERL,21
+#-------------------------------
+[SWIMMER_F,Allyn] # Done
+LoseText = I'll never tell you!
+Pokemon = FRILLISH,20
+  Gender = male
+#-------------------------------
+[SWIMMER_M,Ryan] # Done
+LoseText = I've got to keep swimming!
+Pokemon = ARROKUDA,20
+Pokemon = SEADRA,21
+#-------------------------------
+[SWIMMER_M,Isaac] # Done
+LoseText = The water is actually pretty nice.
+Pokemon = DREDNAW,21
+#-------------------------------
+[TUBER_M,Fabian] # Done
+LoseText = Waaahhhh!!
+Pokemon = WIMPOD,22
+Pokemon = MARILL,22
+#-------------------------------
+[TUBER_F,Jessie] # Done
+LoseText = No! I lost!
+Pokemon = CRAMORANT,21
+#-------------------------------
+# Route 305
+#-------------------------------
+[RUINMANIAC,Toby] # Done
+LoseText = Inadequate...
+Pokemon = SILICOBRA,14
+Pokemon = ROGGENROLA,14
+Pokemon = GLIGAR,15
+#-------------------------------
+[RUINMANIAC,Albert] # Done
+LoseText = Interesting...
+Pokemon = LARVITAR,15
+Pokemon = GEODUDE,16
+#-------------------------------
+[BLACKBELT,Donell] # Done
+LoseText = Urgh! I lost!
+Pokemon = THROH,15
+Pokemon = SAWK,16
+#-------------------------------
+[CRUSHGIRL,Florine] # Done
+LoseText = I have got to remain calm...
+Pokemon = MEDITITE,16
+Pokemon = CRABRAWLER,17
+#-------------------------------
+[CRUSHGIRL,Sandy] # Done
+LoseText = How could this happen to me?
+Pokemon = MACHOP,16
+Pokemon = TYROGUE,17
+Pokemon = FALINKS,17
+#-------------------------------
+[TAMER,Graham] # Done
+LoseText = I should have trained my Pokémon more.
+Pokemon = TRAPINCH,16
+Pokemon = APPLIN,17
+#-------------------------------
+[NINJAKID,Randal] # Done
+LoseText = No fair! I should have won!
+Pokemon = NUZLEAF,18
+Pokemon = NINCADA,19
+#-------------------------------
+[NINJAKID,Randal,1] # Done
+LoseText = No fair! I should have won this time!
+Pokemon = SHIFTRY,20
+  Moves = LEAFBLADE,BEATUP,SHADOWSNEAK,PROTECT
+Pokemon = NINJASK,20
+Pokemon = SHEDINJA,20
+  Item = SAFETYGOGGLES
+#-------------------------------
+[PSYCHIC_F,Stacey] # Done
+LoseText = I predicted wrong...
+Pokemon = SIGILYPH,18
+Pokemon = MUNNA,19
+#-------------------------------
+[HIKER,Levi] # Done
+LoseText = I guess you can handle yourself pretty well.
+Pokemon = CARBINK,20
+#-------------------------------
+# Smith City Gym
+#-------------------------------
+[HIKER,Brent] # Done
+LoseText = Pascal is going to be disappointed...
+Pokemon = ONIX,20
+Pokemon = HIPPOPOTAS,20
+Pokemon = GLIGAR,21
+#-------------------------------
+[HIKER,Han] # Done
+LoseText = That was just wishful thinking.
+Pokemon = RHYHORN,20
+#-------------------------------
+[RUINMANIAC,Dane] # Done
+LoseText = Ah darn!
+Pokemon = KABUTO,19
+Pokemon = OMANYTE,19
+#-------------------------------
+[RUINMANIAC,Nico] # Done
+LoseText = Well, I tried at least.
+Pokemon = DIGGERSBY,21
+#-------------------------------
+[BLACKBELT,Gayle] # Done
+LoseText = Urgh! Whatever!
+Pokemon = MACHOP,20
+Pokemon = SILICOBRA,19
+#-------------------------------
+[CRUSHGIRL,Angel] # Done
+LoseText = It's whatever...
+Pokemon = DRILBUR,19
+Pokemon = STUFFUL,20
+#-------------------------------
+[PARASOLLADY,Debora] # Done
+LoseText = Oh wow!
+Pokemon = SWINUB,20
+#-------------------------------
+# Route 306
+#-------------------------------
+[TUBER_M,Jesse] # Done
+LoseText = I don't want to fight anymore.
+Pokemon = SHELLDER,20
+Pokemon = BUIZEL,21
+#-------------------------------
+[TUBER_M,Parker] # Done
+LoseText = Why did I lose?
+Pokemon = CORSOLA,21
+#-------------------------------
+[TUBER_M,Parker,1] # Done
+LoseText = Why did I lose, again?
+Pokemon = CORSOLA,21
+#-------------------------------
+[TUBER_F,Valentine] # Done
+LoseText = No! I lost!
+Pokemon = CHINCHOU,21
+Pokemon = TIRTOUGA,22
+#-------------------------------
+[TUBER_F,Blair] # Done
+LoseText = What happened?
+Pokemon = DUCKLETT,22
+Pokemon = WINGULL,23
+#-------------------------------
+[SWIMMER_M,Sean] # Done
+LoseText = Huh? Did I lose?
+Pokemon = EELEKTRIK,22
+Pokemon = WHISCASH,23
+Pokemon = CLOBBOPUS,22
+#-------------------------------
+[SWIMMER_M,Sherman] # Done
+LoseText = Haha! I beat you! -What? I lost?
+Pokemon = POLIWHIRL,23
+Pokemon = REMORAID,24
+#-------------------------------
+[SWIMMER_F,Marnie] # Done
+LoseText = Darn it! I thought I would win!
+Pokemon = GOLDEEN,25
+#-------------------------------
+[SWIMMER_F,Emily] # Done
+LoseText = That was something...
+Pokemon = LAPRAS,24
+#-------------------------------
+[SWIMMER_F,Hayley] # Done
+LoseText = I should've stayed dry.
+Pokemon = ALOMOMOLA,25
+Pokemon = WAILMER,24
+#-------------------------------
+[FISHERMAN,Casey] # Done
+LoseText = I guess there are more fish in the sea...
+Pokemon = BASCULIN,24
+  Form = 1
+Pokemon = CARVANHA,24
+Pokemon = GYARADOS,25
+#-------------------------------
+[FISHERMAN,Francis] # Done
+LoseText = Huh?
+Pokemon = WISHIWASHI,28
+#-------------------------------
+# Route 307
+#-------------------------------
+[NINJAKID,Jeffrey] # Done
+LoseText = I didn't expect to lose!
+Pokemon = PANCHAM,25
+#-------------------------------
+[BEAUTY,Beth] # Done
+LoseText = You didn't mess with my hair right?!
+Pokemon = SNUBBULL,24
+Pokemon = SPRITZEE,25
+#-------------------------------
+[AROMALADY,Carmen] # Done
+LoseText = Alright, I lost.
+Pokemon = SLURPUFF,26
+#-------------------------------
+# Double Battle
+[PSYCHIC_M,Sheldon] # Done
+LoseText = What a twist!
+Pokemon = MEOWSTIC,27
+  Gender = male
+  Form = 0
+#-------------------------------
+[PSYCHIC_F,Christen] # Done
+LoseText = That was unanticipated...
+Pokemon = MEOWSTIC,28
+  Gender = female
+  Form = 1
+#-------------------------------
+# Jalsin City Gym
+#-------------------------------
+[AROMALADY,Riley] # Done
+LoseText = Well, I tried at least!
+Pokemon = TANGELA,29
+#-------------------------------
+[AROMALADY,Cecil] # Done
+LoseText = Good fight!
+Pokemon = SUNFLORA,29
+Pokemon = LILLIGANT,30
+  Moves = PETALDANCE,GIGADRAIN,SUNNYDAY,QUIVERDANCE
+#-------------------------------
+[AROMALADY,Keira] # Done
+LoseText = I'm impressed!
+Pokemon = FOONGUS,28
+Pokemon = MORELULL,29
+#-------------------------------
+[AROMALADY,Mary] # Done
+LoseText = I guess I'll have to listen better...
+Pokemon = PHANTUMP,29
+#-------------------------------
+[LASS,Jacquelyn] # Done
+LoseText = I expected more...
+Pokemon = CACNEA,29
+Pokemon = EXEGGCUTE,30
+#-------------------------------
+[LASS,Darlene] # Done
+LoseText = Whatever...
+Pokemon = PARASECT,31
+Pokemon = DEERLING,29
+  Form = 1
+#-------------------------------
+[LADY,Adelia] # Done
+LoseText = I saw an opportunity, but I missed it...
+Pokemon = ELDEGOSS,29
+Pokemon = SNOVER,30
+#-------------------------------
+[BEAUTY,Rosalie] # Done
+LoseText = Well done!
+Pokemon = ROSELIA,29
+Pokemon = STEENEE,30
+Pokemon = JUMPLUFF,31
+#-------------------------------
+# Route 308
+#-------------------------------
+[HIKER,Dylan] # Done
+LoseText = Unfortunate.
+Pokemon = DONPHAN,30
+#-------------------------------
+[HIKER,Harry] # Done
+LoseText = Darn! I lost!
+Pokemon = STONJOURNER,31
+Pokemon = DIGGERSBY,31
+#-------------------------------
+[KINDLER,Aaron] # Done
+LoseText = The way the fire burns ay?
+Pokemon = PONYTA,30
+Pokemon = NUMEL,29
+#-------------------------------
+[BLACKBELT,Burt] # Done
+LoseText = Striking!
+Pokemon = FALINKS,30
+#-------------------------------
+[CRUSHGIRL,Brooke] # Done
+LoseText = Crushing!
+Pokemon = PRIMEAPE,30
+Pokemon = MIENFOO,31
+#-------------------------------
+[RICHBOY,Prince] # Done
+LoseText = Pathetic, I lost.
+Pokemon = SABLEYE,30
+Pokemon = TOGEDEMARU,30
+Pokemon = COPPERAJAH,32
+#-------------------------------
+[BUGCATCHER,Syd] # Done
+LoseText = I knew I had to catch more bugs!
+Pokemon = SNOM,30
+Pokemon = LEDIAN,30
+Pokemon = ARIADOS,30
+Pokemon = SIZZLIPEDE,30
+Pokemon = ARAQUANID,30
+#-------------------------------
+[BIRDKEEPER,Jean] # Done
+LoseText = Yikes. I lost.
+Pokemon = DODUO,30
+Pokemon = TRANQUILL,31
+#-------------------------------
+[BIRDKEEPER,Jean,1] # Done
+LoseText = Yikes. I lost again.
+Pokemon = DODRIO,35
+Pokemon = UNFEZANT,36
+  Gender = male
+#-------------------------------
+[GENTLEMAN,Lon] # Done
+LoseText = How unfortunate...
+Pokemon = LICKILICKY,32
+#-------------------------------
+# Galvin City Gym
+#-------------------------------
+[GENTLEMAN,Luis] # Done
+LoseText = How unfortunate.
+Pokemon = MAGNETON,36
+#-------------------------------
+[GENTLEMAN,Truman] # Done
+LoseText = I had you fooled, now you have me fooled.
+Pokemon = EMOLGA,36
+Pokemon = ELECTABUZZ,37
+#-------------------------------
+[GENTLEMAN,Graig] # Done
+LoseText = Shocking!
+Pokemon = LANTURN,37
+#-------------------------------
+[GENTLEMAN,Ed] # Done
+LoseText = I seem to have misjudged the situation.
+Pokemon = EELEKTRIK,36
+Pokemon = HELIOLISK,37
+#-------------------------------
+[GENTLEMAN,Juan] # Done
+LoseText = Tough!
+Pokemon = BOLTUND,36
+Pokemon = TOGEDEMARU,37
+Pokemon = STUNFISK,37
+#-------------------------------
+[GENTLEMAN,Ben] # Done
+LoseText = You certainly are stronger then me.
+Pokemon = MORPEKO,35
+Pokemon = GALVANTULA,37
+#-------------------------------
+[GENTLEMAN,Kenny] # Done
+LoseText = I will have to admit defeat.
+Pokemon = VIKAVOLT,36
+Pokemon = DRACOZOLT,38
+#-------------------------------
+[GENTLEMAN,Maxwell] # Done
+LoseText = I suppose I have lost.
+Pokemon = LUXRAY,37
+#-------------------------------
+# Route 309
+#-------------------------------
+[CRUSHGIRL,Alexa] # Done
+LoseText = Wow! You showed me!
+Pokemon = POLIWRATH,37
+  Moves = WATERFALL,CROSSCHOP,WATERSPORT,HYPNOSIS
+#-------------------------------
+[CRUSHGIRL,Alexa,1] # Done
+LoseText = Wow! You keep amazing me!
+Pokemon = POLIWRATH,40
+  Moves = WATERFALL,CROSSCHOP,WATERSPORT,HYPNOSIS
+#-------------------------------
+# Artemis City Gym
+#-------------------------------
+[COOLTRAINER_M,Andre] # Done
+LoseText = Ingrid is going to be so mad!
+Pokemon = NIDOKING,40
+  Moves = EARTHQUAKE,POISONJAB,MEGAHORN,BULKUP
+Pokemon = WEEZING,41
+  Moves = HEATWAVE,SLUDGEBOMB,SMOKESCREEN,SELFDESTRUCT
+Pokemon = DRAPION,41
+  Moves = THUNDERFANG,NIGHTSLASH,BUGBITE,CROSSPOISON
+Pokemon = TOXTRICITY,42
+  Moves = NUZZLE,SPARK,POISONJAB,TAUNT
+  Form = 0
+  Nature = ADAMANT
+#-------------------------------
+[COOLTRAINER_F,Andrea] # Done
+LoseText = Oh no! Don't tell Ingrid I lost!
+Pokemon = NIDOQUEEN,40
+  Moves = EARTHQUAKE,POISONJAB,MEGAHORN,BULKUP
+Pokemon = ARBOK,41
+  Moves = SLUDGEBOMB,ICEFANG,FIREFANG,CRUNCH
+Pokemon = SKUNTANK,41
+  Moves = NIGHTSLASH,FLAMETHROWER,SUCKERPUNCH,POISONJAB
+Pokemon = TOXTRICITY,42
+  Moves = BOOMBURST,DISCHARGE,SLUDGEBOMB,SCREECH
+  Form = 1
+  Nature = MODEST
+#-------------------------------
+[COOLTRAINER_M,Hunter] # Done
+LoseText = Wow!
+Pokemon = TOXAPEX,41
+  Moves = BANEFULBUNKER,VENOSHOCK,LIQUIDATION,TOXICSPIKES
+#-------------------------------
+[COOLTRAINER_F,Alice] # Done
+LoseText = That's incredible!
+Pokemon = SALAZZLE,41
+  Moves = FIRELASH,TOXIC,POISONJAB,DRAGONPULSE
+#-------------------------------
+# Route 310
+#-------------------------------
+[HEXMANIAC,Andrea] # Done
+LoseText = Oof!
+Pokemon = HAUNTER,41
+  Moves = SHADOWPUNCH,PAYBACK,VENOSHOCK,MEANLOOK
+#-------------------------------
+[HEXMANIAC,Esther] # Done
+LoseText = Aaagh!
+Pokemon = MIMIKYU,41
+  Moves = HONECLAWS,SLASH,SHADOWSNEAK,WOODHAMMER
+#-------------------------------
+# Dim Forest
+#-------------------------------
+[BUGCATCHER,Rey] # Done
+LoseText = I thought this Shadow Pokémon would help.
+Pokemon = RIBOMBEE,41
+  Moves = STRUGGLEBUG,DAZZLINGGLEAM,POLLENPUFF,STUNSPORE
+Pokemon = VENONAT,40
+  Shadow = true
+  Gender = male
+#-------------------------------
+[BUGCATCHER,Brendan] # Done
+LoseText = This Shadow Pokémon is pretty disappointing...
+Pokemon = SHUCKLE,41
+  Shadow = true
+  Gender = male
+#-------------------------------
+[TAMER,Eliott] # Done
+LoseText = Why didn't I win? I had a Shadow Pokémon and everything!
+Pokemon = DREEPY,42
+  Moves = SWIFT,QUICKATTACK,BITE,ASTONISH
+Pokemon = BAGON,40
+  Shadow = true
+  Gender = female
+#-------------------------------
+[TAMER,Eliott,1] # Done
+LoseText = Even without the Shadow Pokémon I still can't win!
+Pokemon = DRAKLOAK,45
+  Moves = UTURN,DRAGONDANCE,PHANTOMFORCE,BREAKINGSWIPE
+Pokemon = AMPHAROS,45
+  Moves = THUNDER,POWERGEM,DRAGONPULSE,CONFUSERAY
+#-------------------------------
+[BEAUTY,Norine] # Done
+LoseText = Wow, that was something.
+Pokemon = AROMATISSE,40
+  Moves = SWEETKISS,MISTYTERRAIN,PSYCHIC,MOONBLAST
+Pokemon = NINJASK,41
+  Shadow = true
+  Gender = male
+#-------------------------------
+[HEXMANIAC,Susan] # Done
+LoseText = What happened?
+Pokemon = GENGAR,39
+  Moves = SHADOWPUNCH,SUCKERPUNCH,HEX,HYPNOSIS
+Pokemon = GOGOAT,41
+  Shadow = true
+  Gender = female
+#-------------------------------
+[KINDLER,Abe] # Done
+LoseText = I've never seen something like that before.
+Pokemon = NINETALES,40
+  Moves = WILLOWISP,FLAMETHROWER,EXTRASENSORY,HEX
+Pokemon = RAPIDASH,42
+  Moves = FLAMEWHEEL,STOMP,MEGAHORN,SMARTSTRIKE
+Pokemon = HEATMOR,42
+  Shadow = true
+  Gender = male
+#-------------------------------
+[AROMALADY,Val] # Done
+LoseText = That aroma... It's mesmerising.
+Pokemon = BELLOSSOM,41
+  Moves = PETALDANCE,PETALBLIZZARD,SWEETSCENT,SLEEPPOWDER
+Pokemon = FLOETTE,42
+  Form = 3
+  Shadow = true
+  Gender = female
+#-------------------------------
+[PSYCHIC_M,Alexi] # Done
+LoseText = Surprising... It's Surprising.
+Pokemon = HATTREM,41
+  Moves = CALMMIND,DAZZLINGGLEAM,PLAYNICE,PSYBEAM
+Pokemon = MUK,43
+  Shadow = true
+  Gender = male
+#-------------------------------
+[YOUNGCOUPLE,Jordan & Arla] # Done
+LoseText = But we tried...
+Pokemon = PLUSLE,45
+  Shadow = true
+  Gender = female
+Pokemon = MINUN,45
+  Shadow = true
+  Gender = male
+#-------------------------------
+[BUGCATCHER,Alex] # Done
+LoseText = How could I be so stupid? I lost?!
+Pokemon = SHEDINJA,43
+  Moves = XSCISSOR,SHADOWSNEAK,SWORDSDANCE,SLASH
+Pokemon = ORBEETLE,44
+  Moves = BUGBUZZ,PSYCHIC,CALMMIND,CONFUSERAY
+#-------------------------------
+[ROCKER,Jonas] # Done
+LoseText = I'm going to write a song about this.
+Pokemon = MAGNETON,45
+  Moves = TRIATTACK,ELECTROBALL,FLASHCANNON,SUPERSONIC
+Pokemon = VIKAVOLT,44
+  Moves = THUNDERBOLT,XSCISSOR,SPARK,DIG
+#-------------------------------
+[HIKER,Perry] # Done
+LoseText = Heh. I didn't expect to lose this badly.
+Pokemon = TYRANTRUM,45
+  Moves = DRAGONCLAW,THRASH,CRUNCH,ROCKSLIDE
+#-------------------------------
+# Route 311
+#-------------------------------
+[NINJAKID,Tyler] # Done
+LoseText = Did... Did I lose???
+Pokemon = KECLEON,44
+  Moves = SHADOWSNEAK,SUCKERPUNCH,CAMOUFLAGE,SLASH
+#-------------------------------
+[NINJAKID,Mory] # Done
+LoseText = How did you see me?
+Pokemon = LEAFEON,43
+  Moves = LEAFBLADE,QUICKATTACK,FACADE,IRONTAIL
+Pokemon = STUNFISK,44
+  Moves = SNAPTRAP,BOUNCE,SUCKERPUNCH,DIG
+  Form = 1
+#-------------------------------
+# Polter City Gym
+#-------------------------------
+[HEXMANIAC,Elizabeth] # Done
+LoseText = Ushaa!
+Pokemon = HAUNTER,46
+  Moves = DARKPULSE,SUCKERPUNCH,NIGHTSHADE,SHADOWPUNCH
+Pokemon = SINISTEA,46
+  Moves = GIGADRAIN,SHADOWBALL,SUCKERPUNCH,AROMATICMIST
+  Item = EVIOLITE
+#-------------------------------
+[HEXMANIAC,Diane] # Done
+LoseText = Argghghhhh...
+Pokemon = MISMAGIUS,47
+  Moves = MYSTICALFIRE,POWERGEM,MAGICALLEAF,SHADOWBALL
+#-------------------------------
+[HEXMANIAC,Arya] # Done
+LoseText = Hmmmmhaaa??
+Pokemon = SABLEYE,48
+  Moves = POWERGEM,MEANLOOK,FOULPLAY,SHADOWCLAW
+#-------------------------------
+[HEXMANIAC,Edith] # Done
+LoseText = Ghaaaaaaaraaa!
+Pokemon = JELLICENT,46
+  Moves = HYDROPUMP,SHADOWBALL,REST,SNORE
+  Gender = female
+Pokemon = GOURGEIST,47
+  Moves = TRICKORTREAT,PHANTOMFORCE,SEEDBOMB,MOONBLAST
+  Form = 1
+Pokemon = ORICORIO,48
+  Moves = REVELATIONDANCE,AIRSLASH,ROOST,CALMMIND
+  Form = 3
+#-------------------------------
+# Route 312
+#-------------------------------
+[LADY,Tracy] # Done
+LoseText = Aww man, I thought I had a chance.
+Pokemon = PURUGLY,48
+  Moves = FAKEOUT,BODYSLAM,ATTRACT,SUCKERPUNCH
+#-------------------------------
+[AROMALADY,Rebecca] # Done
+LoseText = I suppose I am the loser.
+Pokemon = LURANTIS,44
+  Moves = LEAFBLADE,XSCISSOR,SLASH,DUALCHOP
+Pokemon = VICTREEBEL,46
+  Moves = LEAFTORNADO,POISONJAB,SLAM,LEAFBLADE
+#-------------------------------
+[AROMALADY,Rebecca,1] # Done
+LoseText = I suppose I lost again.
+Pokemon = LURANTIS,48
+  Moves = SOLARBLADE,XSCISSOR,SLASH,DUALCHOP
+Pokemon = VICTREEBEL,48
+  Moves = LEAFSTORM,POISONJAB,SLAM,LEAFBLADE
+Pokemon = ILLUMISE,49
+  Moves = BUGBUZZ,ENCORE,WATERPULSE,GIGADRAIN
+#-------------------------------
+[LASS,Pearl] # Done
+LoseText = Wow, you're pretty strong!
+Pokemon = CLAMPERL,45
+  Moves = PROTECT,IRONDEFENSE,SHELLSMASH,SCALD
+Pokemon = GOREBYSS,46
+  Moves = PSYCHIC,WATERPULSE,DRAININGKISS,AQUARING
+#-------------------------------
+[VETERAN_M,Dick] # Done
+LoseText = Pfft. Before I could get serious, I lost!
+Pokemon = STONJOURNER,45
+  Moves = BODYSLAM,ROCKSLIDE,GRAVITY,BULLDOZE
+Pokemon = DIGGERSBY,46
+  Moves = DIG,BOUNCE,TAKEDOWN,LASERFOCUS
+Pokemon = ARCHEOPS,47
+  Moves = DRAGONCLAW,CRUNCH,PLUCK,ROCKSLIDE
+#-------------------------------
+[SAILOR,Ramiro] # Done
+LoseText = Those were some cool moves!
+Pokemon = SWANNA,46
+  Moves = FLY,AIRSLASH,BUBBLEBEAM,STEELWING
+#-------------------------------
+[TAMER,Doug] # Done
+LoseText = OK! I give up!
+Pokemon = DRAGONAIR,46
+  Moves = DRAGONRUSH,THUNDERWAVE,BODYSLAM,WATERFALL
+Pokemon = SLIGGOO,46
+  Moves = DRAGONPULSE,WATERPULSE,PROTECT,ACIDARMOR
+#-------------------------------
+# Arcane City Gym
+#-------------------------------
+[PSYCHIC_M,Brett] # Done
+LoseText = I didn't think this would happen.
+Pokemon = KINGDRA,51
+  Moves = DRAGONPULSE,HYDROPUMP,ICEBEAM,FLASHCANNON
+#-------------------------------
+[PSYCHIC_F,Carlota] # Done
+LoseText = I should've gotten more Pokémon.
+Pokemon = EXEGGUTOR,51
+  Moves = DRAGONHAMMER,LEAFSTORM,WOODHAMMER,DRACOMETEOR
+  Form = 1
+#-------------------------------
+[BLACKBELT,Bill] # Done
+LoseText = Urghhh!
+Pokemon = GARCHOMP,52
+  Moves = CRUNCH,DIG,DRAGONCLAW,SLASH
+#-------------------------------
+[CRUSHGIRL,Noel] # Done
+LoseText = That's frustrating!
+Pokemon = DRACOVISH,52
+  Moves = SUPERFANG,BRUTALSWING,DIVE,OUTRAGE
+#-------------------------------
+[COOLTRAINER_M,Stevie] # Done
+LoseText = How unfortunate.
+Pokemon = DURALUDON,51
+  Moves = BREAKINGSWIPE,IRONDEFENSE,DRAGONCLAW,IRONHEAD
+#-------------------------------
+[COOLTRAINER_F,Ming] # Done
+LoseText = I lost. I lost!
+Pokemon = ZWEILOUS,51
+  Moves = CRUNCH,BODYSLAM,FIREFANG,DRAGONTAIL
+#-------------------------------
+[GENTLEMAN,Hayden] # Done
+LoseText = Hmm. This is disappointing.
+Pokemon = DRAKLOAK,52
+  Moves = PHANTOMFORCE,UTURN,DRAGONDANCE,DRAGONRUSH
+#-------------------------------
+[LADY,Jasmine] # Done
+LoseText = That's too bad.
+Pokemon = ALTARIA,52
+  Moves = HURRICANE,MOONBLAST,DRAGONPULSE,SING
+#-------------------------------
+[COOLTRAINER_M,Daryl] # Done
+LoseText = What? We lost?
+Pokemon = DRUDDIGON,51
+  Moves = HONECLAWS,DRAGONCLAW,DRAGONTAIL,IRONHEAD
+Pokemon = FLYGON,52
+  Moves = DRAGONDANCE,DRAGONCLAW,EARTHQUAKE,CRUNCH
+#-------------------------------
+[COOLTRAINER_F,Delicia] # Done
+LoseText = I thought we had it in the bag!
+Pokemon = DRAGALGE,51
+  Moves = SLUDGEBOMB,HYDROPUMP,DRAGONPULSE,ICYWIND
+Pokemon = HAXORUS,52
+  Moves = SWORDSDANCE,GUILLOTINE,DUALCHOP,CRUNCH
+#-------------------------------
+[YOUNGCOUPLE,Ryan & Joanne] # Done
+LoseText = Liz and Arnold will have to take care of it from here.
+Pokemon = FLAPPLE,53
+  Moves = FLY,DRAGONPULSE,GRAVAPPLE,LEECHSEED
+Pokemon = APPLETUN,53
+  Moves = APPLEACID,DRAGONPULSE,BODYSLAM,RECOVER
+#-------------------------------
+# Route 313
+#-------------------------------
+[BLACKBELT,Emmerson] # Done
+LoseText = I'm glad I got to see your Pokemon!
+Pokemon = PRIMEAPE,54
+  Moves = OUTRAGE,STOMPINGTANTRUM,SKULLBASH,CROSSCHOP
+#-------------------------------
+[BLACKBELT,Tracey] # Done
+LoseText = Ow, ow, ow!
+Pokemon = THROH,55
+  Moves = REVERSAL,SUPERPOWER,BULKUP,ICEPUNCH
+#-------------------------------
+[CRUSHGIRL,Kris] # Done
+LoseText = Just as I thought, you're tough!
+Pokemon = HITMONTOP,54
+  Moves = SUCKERPUNCH,CLOSECOMBAT,FAKEOUT,COUNTER
+Pokemon = HITMONLEE,55
+  Moves = HIGHJUMPKICK,MEGAKICK,BLAZEKICK,FAKEOUT
+#-------------------------------
+[SAILOR,Jordan] # Done
+LoseText = Argh, I can't do anymore...
+Pokemon = WHISCASH,55
+  Moves = FISSURE,MUDDYWATER,EARTHQUAKE,ZENHEADBUTT
+Pokemon = GOLISOPOD,56
+  Moves = FIRSTIMPRESSION,SWORDSDANCE,LIQUIDATION,PINMISSILE
+Pokemon = OCTILLERY,56
+  Moves = ROCKBLAST,OCTAZOOKA,PSYBEAM,ICEBEAM
+#-------------------------------
+[TAMER,Gerald] # Done
+LoseText = Looks like you're the stronger one...
+Pokemon = TURTONATOR,56
+  Moves = SHELLTRAP,FLAMETHROWER,DRAGONPULSE,SHELLSMASH
+#-------------------------------
+[TAMER,Mose] # Done
+LoseText = Oh... That's disappointing!
+Pokemon = DRUDDIGON,55
+  Moves = SUPERPOWER,OUTRAGE,IRONHEAD,CRUNCH
+Pokemon = ALTARIA,56
+  Moves = SKYATTACK,MOONBLAST,COTTONGUARD,DRAGONPULSE
+#-------------------------------
+[KINDLER,Edmund] # Done
+LoseText = Tch! I tried to rush things...
+Pokemon = ARCANINE,54
+  Moves = EXTREMESPEED,FLAREBLITZ,REVERSAL,CRUNCH
+Pokemon = HEATMOR,55
+  Moves = FIRELASH,HONECLAWS,SLASH,BUGBITE
+Pokemon = COALOSSAL,56
+  Moves = TARSHOT,HEATCRASH,BURNUP,ROCKBLAST
+#-------------------------------
+[KINDLER,Edmund,1] # Done
+LoseText = Tch! I've got to stop trying to rush things...
+Pokemon = ARCANINE,59
+  Moves = EXTREMESPEED,FLAREBLITZ,REVERSAL,CRUNCH
+Pokemon = HEATMOR,59
+  Moves = FIRELASH,HONECLAWS,SLASH,BUGBITE
+Pokemon = COALOSSAL,59
+  Moves = TARSHOT,HEATCRASH,BURNUP,ROCKBLAST
+#-------------------------------
+[HIKER,Mason] # Done
+LoseText = I see. So you can battle that way.
+Pokemon = PROBOPASS,57
+  Moves = TRIATTACK,EARTHPOWER,ZAPCANNON,POWERGEM
+Pokemon = MINIOR,58
+  Moves = SHELLSMASH,EXPLOSION,POWERGEM,ACROBATICS
+#-------------------------------
+# Upil City Gym
+#-------------------------------
+[POKEFAN_M,Henderson] # Done
+LoseText = Aack! My Pokemon!
+Pokemon = WIGGLYTUFF,68
+  Moves = BODYSLAM,PLAYROUGH,BULKUP,ATTRACT
+Pokemon = MIMIKYU,68
+  Moves = SHADOWCLAW,PLAYROUGH,HONECLAWS,WOODHAMMER
+#-------------------------------
+[POKEFAN_F,Letha] # Done
+LoseText = I was not expecting to lose that hard.
+Pokemon = COMFEY,68
+  Moves = PETALBLIZZARD,FLOWERSHIELD,SYNTHESIS,PLAYROUGH
+Pokemon = AZUMARILL,69
+  Moves = DIVE,DOUBLEEDGE,BOUNCE,PLAYROUGH
+#-------------------------------
+[POKEFAN_M,Shawn] # Done
+LoseText = Just what I expected.
+Pokemon = TOGEKISS,69
+  Moves = AIRSLASH,ICEBEAM,MOONBLAST,TRIATTACK
+Pokemon = GRANBULL,69
+  Moves = PLAYROUGH,OUTRAGE,FIREFANG,HEADBUTT
+#-------------------------------
+[POKEFAN_F,Geraldine] # Done
+LoseText = Argh! You're too strong!
+Pokemon = SYLVEON,70
+  Moves = MOONBLAST,PSYCHIC,MISTYTERRAIN,LIGHTSCREEN
+Pokemon = NINETALES,70
+  Form = 1
+  Moves = MOONBLAST,ICEBEAM,EXTRASENSORY,NASTYPLOT
+Pokemon = SHIINOTIC,71
+  Moves = MOONBLAST,STRENGTHSAP,SPORE,DREAMEATER
+#-------------------------------
+[POKEFAN_M,Elijah] # Done
+LoseText = ...Humph! Are you happy you won?
+Pokemon = KLEFKI,71
+  Moves = FLASHCANNON,MAGICROOM,CRAFTYSHIELD,PLAYROUGH
+Pokemon = SLURPUFF,72
+  Moves = PLAYROUGH,COTTONGUARD,ENERGYBALL,THUNDERBOLT
+#-------------------------------
+# Mt. Vanity 1F
+#-------------------------------
+[HIKER,Marlon] # Done
+LoseText = Didn't I train enough?
+Pokemon = SUDOWOODO,71
+  Moves = WOODHAMMER,MIMIC,BLOCK,HEADSMASH
+#-------------------------------
+[HIKER,Solomon] # Done
+LoseText = That's strange. I won before.
+Pokemon = LYCANROC,71
+  Form = 1
+  Moves = ROCKSLIDE,COUNTER,CRUNCH,REVERSAL
+Pokemon = BARBARACLE,72
+  Moves = STONEEDGE,CROSSCHOP,RAZORSHELL,SLASH
+#-------------------------------
+[HIKER,Tom] # Done
+LoseText = I was whipped...
+Pokemon = CARBINK,71
+  Moves = MOONBLAST,POWERGEM,SKILLSWAP,PSYCHIC
+Pokemon = HIPPOWDON,71
+  Moves = CRUNCH,SLACKOFF,EARTHQUAKE,ICEFANG
+#-------------------------------
+[HIKER,Horace] # Done
+LoseText = ...Hmmm...
+Pokemon = CRUSTLE,73
+  Moves = ROCKWRECKER,XSCISSOR,SLASH,SHELLSMASH
+Pokemon = GOLURK,74
+  Moves = PHANTOMFORCE,HAMMERARM,EARTHQUAKE,HEAVYSLAM
+#-------------------------------
+[HIKER,Ainsley] # Done
+LoseText = Yow! You're too strong!
+Pokemon = DONPHAN,71
+  Moves = FIREFANG,EARTHQUAKE,SLAM,GIGAIMPACT
+Pokemon = RHYPERIOR,71
+  Moves = HORNDRILL,MEGAHORN,EARTHQUAKE,STONEEDGE
+Pokemon = NIDOKING,72
+  Moves = MEGAHORN,POISONJAB,BULLDOZE,THUNDERPUNCH
+#-------------------------------
+[BLACKBELT,Dylan] # Done
+LoseText = This can't be true!
+Pokemon = HAWLUCHA,71
+  Moves = FLYINGPRESS,SUBMISSION,SKYATTACK,AERIALACE
+Pokemon = MEDICHAM,72
+  Moves = ZENHEADBUTT,FIREPUNCH,BRICKBREAK,ICEPUNCH
+#-------------------------------
+[BLACKBELT,Kurtis] # Done
+LoseText = Gaah!
+Pokemon = POLIWRATH,71
+  Moves = CIRCLETHROW,HYPNOSIS,SUBMISSION,WATERFALL
+Pokemon = CRABOMINABLE,72
+  Moves = ICEPUNCH,ROCKSMASH,DIZZYPUNCH,ICEHAMMER
+Pokemon = HARIYAMA,72
+  Moves = FAKEOUT,HEAVYSLAM,REVERSAL,KNOCKOFF
+#-------------------------------
+[CRUSHGIRL,Alecia] # Done
+LoseText = Yikes! Not fast enough!
+Pokemon = HITMONCHAN,71
+  Moves = THUNDERPUNCH,MACHPUNCH,DRAINPUNCH,FIREPUNCH
+Pokemon = MIENSHAO,72
+  Moves = HONECLAWS,BOUNCE,DRAINPUNCH,UTURN
+#-------------------------------
+[CRUSHGIRL,Liana] # Done
+LoseText = What an amazing battle!
+Pokemon = SCRAFTY,71
+  Moves = HEADSMASH,CRUNCH,HIGHJUMPKICK,FACADE
+Pokemon = SAWK,72
+  Moves = CLOSECOMBAT,REVERSAL,RETALIATE,ENDURE
+#-------------------------------
+[CRUSHGIRL,Latia] # Done
+LoseText = Phew...
+Pokemon = LOPUNNY,72
+  Moves = HIGHJUMPKICK,BOUNCE,HEADBUTT,CHARM
+Pokemon = TOXICROAK,73
+  Moves = REVENGE,POISONJAB,SUCKERPUNCH,TOXIC
+#-------------------------------
+[RUINMANIAC,Clifton] # Done
+LoseText = Pretty impressive! I'm sure you can go anywhere with that skill!
+Pokemon = ARMALDO,73
+  Moves = METALCLAW,XSCISSOR,CRUSHCLAW,ROCKBLAST
+Pokemon = CRADILY,73
+  Moves = LEECHSEED,ENERGYBALL,ANCIENTPOWER,BRINE
+#-------------------------------
+[RUINMANIAC,Flynn] # Done
+LoseText = You're too much!
+Pokemon = OMASTAR,72
+  Moves = SURF,ANCIENTPOWER,PROTECT,AURORABEAM
+Pokemon = CLAYDOL,72
+  Moves = EXPLOSION,EXTRASENSORY,EARTHPOWER,ANCIENTPOWER
+Pokemon = RAMPARDOS,73
+  Moves = HEADSMASH,SWORDSDANCE,ZENHEADBUTT,HEADBUTT
+#-------------------------------
+[RUINMANIAC,Grover] # Done
+LoseText = Good battle!
+Pokemon = ARCTOZOLT,71
+  Moves = BOLTBEAK,PLUCK,ICICLECRASH,SLAM
+Pokemon = DRACOVISH,71
+  Moves = FISHIOUSREND,BRUTALSWING,DRAGONRUSH,FACADE
+Pokemon = ARCTOVISH,72
+  Moves = ICICLECRASH,FISHIOUSREND,SUPERFANG,CRUNCH
+Pokemon = DRACOZOLT,72
+  Moves = BOLTBEAK,DRAGONRUSH,PLUCK,STOMP
+#-------------------------------
+[KINDLER,Weldon] # Done
+LoseText = Gwa ha ha! I lost.
+Pokemon = TALONFLAME,71
+  Moves = TAILWIND,BRAVEBIRD,FLAREBLITZ,STEELWING
+Pokemon = SIMISEAR,72
+  Moves = FLAMEBURST,YAWN,ACROBATICS,CRUNCH
+#-------------------------------
+[KINDLER,Kai] # Done
+LoseText = I can't move anymore...
+Pokemon = MAGCARGO,72
+  Moves = SHELLSMASH,FLAMETHROWER,BULLDOZE,ROCKSLIDE
+Pokemon = FLAREON,72
+  Moves = FLAREBLITZ,DOUBLEEDGE,IRONTAIL,ATTRACT
+Pokemon = DARMANITAN,73
+  Moves = BELLYDRUM,FLAREBLITZ,SUPERPOWER,HEADBUTT
+  Item = SITRUSBERRY
+#-------------------------------
+[RICHBOY,Roland] # Done
+LoseText = That's shocking!
+Pokemon = PERSIAN,71
+  Moves = POWERGEM,SLASH,PLAYROUGH,FAKEOUT
+Pokemon = PERSIAN,71
+  Moves = NIGHTSLASH,SLASH,PLAYROUGH,FAKEOUT
+  Form = 1
+Pokemon = PERRSERKER,71
+  Moves = IRONHEAD,METALBURST,FAKEOUT,THRASH
+Pokemon = MUK,72
+  Moves = VENOMDRENCH,BELCH,SLUDGEWAVE,GIGADRAIN
+  Item = SITRUSBERRY
+Pokemon = MUK,72
+  Moves = POISONFANG,KNOCKOFF,CRUNCH,DISABLE
+  Form = 1
+#-------------------------------
+[AROMALADY,Justice] # Done
+LoseText = Whew... Good battle.
+Pokemon = AMOONGUSS,71
+  Moves = SPORE,GIGADRAIN,INGRAIN,SLUDGEBOMB
+Pokemon = SIMISAGE,72
+  Moves = SEEDBOMB,CRUNCH,ACROBATICS,NATURALGIFT
+#-------------------------------
+[BEAUTY,Addison] # Done
+LoseText = Oh, yikes! We lost!
+Pokemon = DELCATTY,71
+  Moves = FAKEOUT,FACADE,PLAYROUGH,SING
+Pokemon = FURFROU,72
+  Moves = HEADBUTT,COTTONGUARD,SUCKERPUNCH,RETALIATE
+  Form = 3
+Pokemon = CURSOLA,72
+  Moves = PERISHSONG,MIRRORCOAT,POWERGEM,SHADOWBALL
+#-------------------------------
+# Mt. Vanity B1F
+#-------------------------------
+[VETERAN_F,Breana] # Done
+LoseText = Heh, I guess I didn't try hard enough.
+Pokemon = DEWGONG,72
+  Moves = ICEBEAM,BRINE,REST,HEADBUTT
+  Item = CHESTOBERRY
+Pokemon = EMOLGA,73
+  Moves = NUZZLE,ACROBATICS,VOLTSWITCH,ENCORE
+#-------------------------------
+[VETERAN_F,Nakisha] # Done
+LoseText = I lost that one!
+Pokemon = CASTFORM,73
+  Moves = RAINDANCE,HYDROPUMP,WEATHERBALL,HURRICANE
+Pokemon = JOLTEON,72
+  Moves = THUNDERFANG,PINMISSILE,THUNDER,DOUBLEEDGE
+Pokemon = ACCELGOR,72
+  Moves = BUGBUZZ,WATERSHURIKEN,GIGADRAIN,TOXIC
+#-------------------------------
+[VETERAN_M,Esteban] # Done
+LoseText = Mercy!
+Pokemon = SWALOT,72
+  Moves = GUNKSHOT,STOCKPILE,SWALLOW,SPITUP
+Pokemon = AERODACTYL,73
+  Moves = WINGATTACK,ROCKSLIDE,HYPERBEAM,CRUNCH
+#-------------------------------
+[SWIMMER_M,Parker] # Done
+LoseText = Whatever!
+Pokemon = WISHIWASHI,71
+  Moves = DIVE,DOUBLEEDGE,TEARFULLOOK,AQUARING
+Pokemon = MANTINE,72
+  Moves = BUBBLEBEAM,AIRSLASH,PSYBEAM,ROOST
+#-------------------------------
+[SWIMMER_M,Thomas] # Done
+LoseText = Gulp! This is a bleak moment.
+Pokemon = LAPRAS,72
+  Moves = PERISHSONG,SHEERCOLD,HYDROPUMP,ICEBEAM
+Pokemon = AZUMARILL,72
+  Moves = SUPERPOWER,PLAYROUGH,DOUBLEEDGE,AQUATAIL
+Pokemon = LUMINEON,73
+  Moves = BOUNCE,TAILWIND,WATERPULSE,AQUARING
+#-------------------------------
+[SWIMMER_F,Sumiko] # Done
+LoseText = Tch! I took you too lightly!
+Pokemon = GOREBYSS,72
+  Moves = HYDROPUMP,DRAININGKISS,PSYCHIC,SAFEGUARD
+Pokemon = HUNTAIL,72
+  Moves = SHELLSMASH,SUCKERPUNCH,AQUATAIL,ICEFANG
+#-------------------------------
+[SWIMMER_F,Shalissa] # Done
+LoseText = Uh-oh! I was also sunk by indecision!
+Pokemon = BRUXISH,72
+  Moves = WATERFALL,PSYCHICFANGS,CRUNCH,SWORDSDANCE
+Pokemon = DREDNAW,72
+  Moves = JAWLOCK,HEADSMASH,LIQUIDATION,COUNTER
+#-------------------------------
+[HIKER,Jules] # Done
+LoseText = Ayeeee!
+Pokemon = LUNATONE,72
+  Moves = MOONBLAST,MOONLIGHT,PSYSHOCK,METEORBEAM
+Pokemon = SOLROCK,73
+  Moves = FLAREBLITZ,MORNINGSUN,ZENHEADBUTT,STONEEDGE
+#-------------------------------
+# Route 314
+#-------------------------------
+[HIKER,Manuel] # Done
+LoseText = Impressive...
+Pokemon = GLISCOR,71
+  Moves = XSCISSOR,SUCKERPUNCH,EARTHQUAKE,AIRCUTTER
+Pokemon = KROOKODILE,72
+  Moves = CRUNCH,EARTHQUAKE,STONEEDGE,SWORDSDANCE
+#-------------------------------
+[HIKER,Pat] # Done
+LoseText = ...did I win?
+Pokemon = CAMERUPT,71
+  Moves = ERUPTION,EARTHPOWER,FLAMETHROWER,SOLARBEAM
+Pokemon = DUGTRIO,72
+  Form = 1
+  Moves = IRONHEAD,DIG,SLASH,SUCKERPUNCH
+#-------------------------------
+[BEAUTY,Kena] # Done
+LoseText = Oh... I lost... you're not weak...
+Pokemon = GLACEON,72
+  Moves = ICEBEAM,BLIZZARD,WATERPULSE,ENERGYBALL
+#-------------------------------
+[COOLTRAINER_F,Marisha] # Done
+LoseText = Yikes! Sorry!
+Pokemon = BLISSEY,74
+  Moves = SEISMICTOSS,SOFTBOILED,DEFENSECURL,CHARM
+Pokemon = AUDINO,73
+  Moves = RECOVER,DAZZLINGGLEAM,HYPERVOICE,PROTECT
+#-------------------------------
+[COOLTRAINER_F,Marisha,1] # Done
+LoseText = Again, sorry!
+Pokemon = BLISSEY,77
+  Moves = SEISMICTOSS,SOFTBOILED,DEFENSECURL,CHARM
+Pokemon = AUDINO,78
+  Moves = RECOVER,DAZZLINGGLEAM,HYPERVOICE,PROTECT
+#-------------------------------
+[POKEFAN_M,James] # Done
+LoseText = Oh, dear! I wanted to win!
+Pokemon = VESPIQUEN,72
+  Moves = ATTACKORDER,DEFENDORDER,HEALORDER,AIRSLASH
+#-------------------------------
+[HEXMANIAC,Rachel] # Done
+LoseText = Uwaaah! Eeek!
+Pokemon = FROSLASS,71
+  Moves = BLIZZARD,HEX,THUNDERBOLT,DRAININGKISS
+Pokemon = AEGISLASH,72
+  Moves = SECRETSWORD,KINGSSHIELD,IRONHEAD,SHADOWSNEAK
+#-------------------------------
+[TRIATHLETE_F,Katharine] # Done
+LoseText = ... ... I'll go train some more...
+Pokemon = DODRIO,72
+  Moves = DRILLPECK,FURYATTACK,TRIATTACK,DOUBLEHIT
+Pokemon = SPINDA,73
+  Moves = TEETERDANCE,FRUSTRATION,HYPNOSIS,BODYSLAM
+Pokemon = OBSTAGOON,73
+  Moves = OBSTRUCT,THROATCHOP,BRUTALSWING,STRENGTH
+#-------------------------------
+[INTERVIEWERS,Dominique & Tory] # Done
+LoseText = Looks like we underestimated you.
+Pokemon = EXPLOUD,72
+  Moves = BOOMBURST,FLAMETHROWER,EARTHQUAKE,RAINDANCE
+Pokemon = MAGNEZONE,72
+  Moves = THUNDERBOLT,PROTECT,FLASHCANNON,REFLECT
+Pokemon = HELIOLISK,72
+  Moves = ELECTRIFY,THUNDER,ENERGYBALL,HYPERVOICE
+Pokemon = KLINKLANG,72
+  Moves = SHIFTGEAR,GEARGRIND,ZAPCANNON,SIGNALBEAM
+#-------------------------------
+[PSYCHIC_M,Toby] # Done
+LoseText = Oh... I lost...
+Pokemon = GRUMPIG,72
+  Moves = PSYCHIC,SHADOWBALL,TRICKROOM,RECOVER
+Pokemon = GOTHITELLE,73
+  Moves = WONDERROOM,FUTURESIGHT,OMINOUSWIND,PSYCHIC
+#-------------------------------
+# Victory Road
+#-------------------------------
+[HIKER,Tobey] # Done
+LoseText = I was no match...
+Pokemon = STEELIX,71
+  Moves = EARTHQUAKE,STONEEDGE,IRONHEAD,BODYSLAM
+Pokemon = AGGRON,71
+  Moves = IRONDEFENSE,ROCKSLIDE,BULLDOZE,IRONTAIL
+#-------------------------------
+[HIKER,Maxwell] # Done
+LoseText = You never saw me...
+Pokemon = SWOOBAT,72
+  Moves = HEARTSTAMP,AIRSLASH,LEECHLIFE,SUPERSONIC
+Pokemon = EXCADRILL,72
+  Moves = SHADOWCLAW,STONEEDGE,IRONHEAD,DRILLRUN
+Pokemon = HAWLUCHA,73
+  Moves = FLYINGPRESS,BRAVEBIRD,CLOSECOMBAT,DETECT
+#-------------------------------
+[HIKER,Emmett] # Done
+LoseText = Peace--even though I lost!
+Pokemon = DIGGERSBY,71
+  Moves = MUDBOMB,DIG,DOUBLEEDGE,BIDE
+Pokemon = COALOSSAL,72
+  Moves = OVERHEAT,FLAREBLITZ,ROCKSLIDE,POWERGEM
+#-------------------------------
+[KINDLER,Mauro] # Done
+LoseText = I did not expect to lose this battle.
+Pokemon = RAPIDASH,72
+  Moves = FLAREBLITZ,FLAMECHARGE,STOMP,MEGAHORN
+Pokemon = MAGCARGO,72
+  Moves = ROCKSLIDE,LAVAPLUME,ROCKPOLISH,EARTHPOWER
+Pokemon = CENTISKORCH,73
+  Moves = FLAMETHROWER,BUGBUZZ,BIND,LEECHLIFE
+Pokemon = PYROAR,73
+  Gender = female
+  Moves = BURNUP,FIREBLAST,HYPERVOICE,NOBLEROAR
+#-------------------------------
+[COOLTRAINER_M,Donny] # Done
+LoseText = Aww, darn it!
+Pokemon = EISCUE,71
+  Moves = HEADBUTT,SURF,ICEPUNCH,HEADSMASH
+Pokemon = ZEBSTRIKA,72
+  Moves = FLAMECHARGE,WILDCHARGE,DOUBLEEDGE,RETURN
+#-------------------------------
+[COOLTRAINER_M,Frankie] # Done
+LoseText = You cheated! It's that simple.
+Pokemon = HONCHKROW,73
+  Moves = FLY,NIGHTSLASH,SHADOWBALL,SUCKERPUNCH
+Pokemon = CORVIKNIGHT,73
+  Moves = STEELWING,AIRCUTTER,BRAVEBIRD,AUTOTOMIZE
+Pokemon = SIMIPOUR,73
+  Moves = SCALD,ICEBEAM,HEX,UPROAR
+#-------------------------------
+[COOLTRAINER_M,Heriberto] # Done
+LoseText = I thought I was prepared for anything!
+Pokemon = GREEDENT,72
+  Item  = CHESTOBERRY
+  Moves = BODYSLAM,QUASH,REST,SNORE
+Pokemon = AVALUGG,73
+  Moves = AVALANCHE,HAIL,BLIZZARD,WATERPULSE
+#-------------------------------
+[COOLTRAINER_M,Miguel] # Done
+LoseText = I knew you would win.
+Pokemon = DRIFBLIM,71
+  Moves = DESTINYBOND,EXPLOSION,OMINOUSWIND,TAILWIND
+Pokemon = PALOSSAND,72
+  Moves = GIGADRAIN,EARTHPOWER,SHADOWBALL,GRUDGE
+Pokemon = MARACTUS,72
+  Moves = NEEDLEARM,POISONJAB,SPIKYSHIELD,SUCKERPUNCH
+#-------------------------------
+[COOLTRAINER_M,Logan] # Done
+LoseText = Wow, you're too good!
+Pokemon = ZOROARK,72
+  Moves = NIGHTDAZE,FLAMETHROWER,GUNKSHOT,EXTRASENSORY
+Pokemon = MAMOSWINE,72
+  Moves = EARTHQUAKE,AVALANCHE,ROCKSLIDE,GIGAIMPACT
+Pokemon = MUDSDALE,73
+  Moves = ROCKSMASH,HIGHHORSEPOWER,STRENGTH,HEAVYSLAM
+Pokemon = MILOTIC,73
+  Moves = MOONBLAST,HYDROPUMP,PSYCHIC,RECOVER
+#-------------------------------
+[COOLTRAINER_M,Robbie] # Done
+LoseText = Wow! You're super impressive.
+Pokemon = KOMALA,73
+  Moves = YAWN,PSYCHUP,WOODHAMMER,THRASH
+Pokemon = COFAGRIGUS,73
+  Moves = WILLOWISP,HEX,DARKPULSE,DESTINYBOND
+#-------------------------------
+[COOLTRAINER_F,Sharon] # Done
+LoseText = Hmmm. That was unexpected.
+Pokemon = PINCURCHIN,74
+  Moves = SPARK,ELECTRICTERRAIN,ZINGZAP,POISONJAB
+#-------------------------------
+[COOLTRAINER_F,Lesha] # Done
+LoseText = I was not ready for that.
+Pokemon = VIVILLON,72
+  Form = 6
+  Moves = POWDER,STRUGGLEBUG,SLEEPPOWDER,FLY
+Pokemon = LIEPARD,73
+  Moves = NIGHTSLASH,COPYCAT,ASSIST,SLASH
+#-------------------------------
+[COOLTRAINER_F,Ellery] # Done
+LoseText = Wait, it's already over?
+Pokemon = YANMEGA,72
+  Moves = ANCIENTPOWER,BUGBUZZ,AIRSLASH,TAILWIND
+Pokemon = BEARTIC,73
+  Moves = SLASH,ICEFANG,CRUNCH,HONECLAWS
+#-------------------------------
+[COOLTRAINER_F,Eli] # Done
+LoseText = What do you mean I lost?
+Pokemon = AURORUS,71
+  Moves = ROCKSLIDE,AURORAVEIL,ICICLECRASH,COSMICPOWER
+Pokemon = SPIRITOMB,72
+  Moves = CURSE,SPITE,SHADOWSNEAK,SNARL
+#-------------------------------
+[COOLTRAINER_F,Jade] # Done
+LoseText = Hmpf... Not fair!
+Pokemon = LEAVANNY,72
+  Moves = HIGHJUMPKICK,MEGAKICK,ATTRACT,QUICKATTACK
+Pokemon = ELECTIVIRE,72
+  Moves = ICEPUNCH,THUNDERPUNCH,FIREPUNCH,BULLETPUNCH
+Pokemon = AMBIPOM,73
+  Moves = DOUBLEHIT,JUMPKICK,DOUBLETEAM,ENTRAINMENT
+#-------------------------------
+[COOLTRAINER_F,Jeniffer] # Done
+LoseText = I tried my best.
+Pokemon = CARNIVINE,73
+  Moves = LEECHSEED,POWERWHIP,INGRAIN,POISONFANG
+Pokemon = CRYOGONAL,73
+  Moves = FREEZEDRY,HAIL,BLIZZARD,HEADBUTT
+Pokemon = WALREIN,74
+  Moves = BODYSLAM,ICESHARD,ICEFANG,DIVE
+#-------------------------------
+[VETERAN_M,Ira] # Done
+LoseText = I guess that's all.
+Pokemon = RUNERIGUS,72
+  Moves = GIGADRAIN,PSYCHIC,THUNDER,REFRESH
+Pokemon = MALAMAR,73
+  Moves = TOPSYTURVY,PSYSHOCK,DARKPULSE,WATERPULSE
+#-------------------------------
+[VETERAN_M,Son] # Done
+LoseText = Thanks for an amazing battle.
+Pokemon = GUMSHOOS,73
+  Moves = WORKUP,SUPERFANG,UPROAR,REVERSAL
+Pokemon = BOUFFALANT,73
+  Moves = GIGAIMPACT,MEGAHORN,SWORDSDANCE,ZENHEADBUTT
+#-------------------------------
+[VETERAN_M,Ernie] # Done
+LoseText = Who would've thought?
+Pokemon = BISHARP,73
+  Moves = SUCKERPUNCH,IRONHEAD,SLASH,NIGHTSLASH
+Pokemon = CHERRIM,73
+  Moves = SUNNYDAY,SOLARBEAM,SYNTHESIS,FIREBLAST
+Pokemon = VANILLUXE,74
+  Moves = AVALANCHE,BLIZZARD,SIGNALBEAM,HIDDENPOWER
+#-------------------------------
+[VETERAN_F,Luisa] # Done
+LoseText = Huh?
+Pokemon = DEDENNE,72
+  Moves = NUZZLE,PLAYNICE,THUNDER,PLAYROUGH
+Pokemon = ESCAVALIER,73
+  Moves = EXTREMESPEED,SUCKERPUNCH,XSCISSOR,WATERSHURIKEN
+Pokemon = MOTHIM,73
+  Moves = BUGBUZZ,AIRSLASH,REFRESH,POWDER
+Pokemon = RELICANTH,73
+  Moves = HEADSMASH,WATERFALL,CRUNCH,AQUARING
+#-------------------------------
+[VETERAN_F,Tena] # Done
+LoseText = I'm sorry, I didn't catch that.
+Pokemon = CINCCINO,73
+  Moves = TAILSLAP,ROCKBLAST,WORKUP,BULLETSEED
+  AbilityIndex = 2
+Pokemon = PACHIRISU,73
+  Moves = STRENGTH,NUZZLE,SPARK,BULKUP
+Pokemon = STARAPTOR,74
+  Moves = CLOSECOMBAT,BRAVEBIRD,DOUBLEEDGE,AGILITY
+#-------------------------------
+[VETERAN_F,Julia] # Done
+LoseText = How did I not win?
+Pokemon = BRAVIARY,74
+  Moves = BRAVEBIRD,SKYDROP,HEADBUTT,LOCKON
+Pokemon = TOUCANNON,74
+  Moves = BEAKBLAST,LEAFBLADE,ROCKSMASH,WINGATTACK
+Pokemon = MANDIBUZZ,75
+  Moves = BRAVEBIRD,PURSUIT,NIGHTSLASH,BONECLUB
+#-------------------------------
+[PSYCHIC_M,Karter] # Done
+LoseText = But I tried though.
+Pokemon = BEHEEYEM,72
+  Moves = PSYCHIC,SHOCKWAVE,FLASHCANNON,CALMMIND
+Pokemon = BRONZONG,73
+  Moves = FLASHCANNON,PSYCHIC,IRONDEFENSE,HEAVYSLAM
+#-------------------------------
+# Double Battle
+[PSYCHIC_M,Dan] # Done
+LoseText = We were not in sync.
+Pokemon = INDEEDEE,74
+  Form = 0
+  Gender = male
+  Moves = HELPINGHAND,PSYCHIC,AROMATHERAPY,HYPERVOICE
+Pokemon = GARDEVOIR,75
+  Moves = DAZZLINGGLEAM,PSYCHIC,DESTINYBOND,SHOCKWAVE
+Pokemon = JYNX,75
+  Moves = BLIZZARD,SING,DRAININGKISS,PSYSHOCK
+#-------------------------------
+[PSYCHIC_F,Pearlene] # Done
+LoseText = We were not on the same page.
+Pokemon = INDEEDEE,75
+  Form = 1
+  Gender = female
+  Moves = CALMMIND,STOREDPOWER,ENERGYBALL,HYPERVOICE
+Pokemon = REUNICLUS,74
+  Moves = PSYCHIC,SHADOWBALL,CALMMIND,RECOVER
+Pokemon = GIRAFARIG,76
+  Moves = PSYCHIC,UPROAR,COSMICPOWER,AGILITY
+#------------------------------
+[SWIMMER_M,Elias] # Done
+LoseText = I don't know...
+Pokemon = TENTACRUEL,72
+  Moves = SURF,SLUDGEWAVE,HEX,SCREECH
+Pokemon = KINGLER,73
+  Moves = CRABHAMMER,LIQUIDATION,SLAM,HAMMERARM
+Pokemon = CRAWDAUNT,73
+  Moves = RAZORSHELL,CRUNCH,AQUARING,AERIALACE
+#------------------------------
+[SWIMMER_F,Samantha] # Done
+LoseText = Wow, I didn't know that!
+Pokemon = GOLDUCK,73
+  Moves = PSYCHIC,CONFUSERAY,AQUAJET,BRINE
+Pokemon = QWILFISH,73
+  Moves = PINMISSILE,AQUATAIL,EXPLOSION,POISONJAB
+#-------------------------------
+#-------------------------------
+[UNKNOWN,Unknown] # Done
+LoseText = ... ... I... I... I... I... I...
+Pokemon = WINGULL,10
+#-------------------------------
+[TEAMROCKET_M,Grunt,0] # Done
+LoseText = Urgh!
+Pokemon = MEOWTH,29
+  Moves = PAYDAY,FURYSWIPES,FAKEOUT,FEINT
+Pokemon = VENONAT,30
+  Shadow = true
+  Gender = male
+#-------------------------------
+#----------Double---------------
+[TEAMROCKET_M,Grunt,1] # Done
+LoseText = What?
+Pokemon = SHUCKLE,31
+  Shadow = true
+  Gender = male
+#-------------------------------
+[TEAMROCKET_F,Grunt,0] # Done
+LoseText = But how?
+Pokemon = BAGON,30
+  Shadow = true
+  Gender = male
+#-------------------------------
+#-------------------------------
+[TEAMROCKET_M,Grunt,9] # Done
+LoseText = I need to get out of here...
+Pokemon = RAICHU,45
+  Form = 1
+  Shadow = true
+  Gender = male
+#-------------------------------
+[TEAMROCKET_M,Grunt,10] # Done
+LoseText = Ugh, why do I always keep losing these battles?
+Pokemon = SALAZZLE,30
+  Moves = TOXIC,INCINERATE,SLUDGE,DRAGONPULSE
+#-------------------------------
+[TEAMROCKET_F,Grunt,1] # Done
+LoseText = How did I lose?
+Pokemon = GRAPPLOCT,50
+  Shadow = true
+  Gender = male
+#-------------------------------
+#----------Double---------------
+[TEAMROCKET_M,Grunt,2] # Done
+LoseText = We give up! You're the winner!
+Pokemon = LYCANROC,60
+  Shadow = true
+  Form = 0
+  Gender = male
+#-------------------------------
+[TEAMROCKET_F,Grunt,2] # Done
+LoseText = Uww... I blew it.
+Pokemon = MIGHTYENA,59
+  Moves = CRUNCH,HEADBUTT,ICEFANG,HOWL
+#-------------------------------
+#-------------------------------
+[TEAMROCKET_F,Grunt,3] # Done
+LoseText = Oh, so close! I almost had you!
+Pokemon = GOLBAT,59
+  Moves = LEECHLIFE,WINGATTACK,POISONFANG,CRUNCH
+Pokemon = LUXRAY,60
+  Shadow = true
+  Gender = male
+#-------------------------------
+[TEAMROCKET_M,Grunt,3] # Done
+LoseText = Yaha! I lost!
+Pokemon = ARAQUANID,60
+  Moves = SPIDERWEB,LIQUIDATION,LUNGE,HEADBUTT
+Pokemon = CLAWITZER,61
+  Moves = HYDROPUMP,DRAGONPULSE,HYPERBEAM,FLASHCANNON
+Pokemon = SEAKING,62
+  Shadow = true
+  Gender = female
+#-------------------------------
+[TEAMROCKET_F,Grunt,4] # Done
+LoseText = Uwahauwaha!
+Pokemon = THIEVUL,61
+  Item  = IRONBALL
+  Moves = TAUNT,FOULPLAY,FLING,SUCKERPUNCH
+Pokemon = DHELMISE,62
+  Moves = ENERGYBALL,HEAVYSLAM,WATERPULSE,SHADOWSNEAK
+Pokemon = DUSKNOIR,62
+  Moves = GHOULPRESENCE,FIREPUNCH,THUNDERPUNCH,BULKUP
+#-------------------------------
+[TEAMROCKET_M,Grunt,4] # Done
+LoseText = Nyuraahahhaah
+Pokemon = ELECTRODE,61
+  Moves = THUNDER,EXPLOSION,MAGNETRISE,SHOCKWAVE
+Pokemon = CHIMECHO,62
+  Moves = ECHOEDVOICE,HEALBELL,EXTRASENSORY,UPROAR
+#-------------------------------
+[TEAMROCKET_M,Grunt,5] # Done
+LoseText = Grr! I lost that...
+Pokemon = WEEZING,62
+  Moves = EXPLOSION,POISONGAS,FLAMETHROWER,SLUDGEBOMB
+Pokemon = COPPERAJAH,64
+  Shadow = true
+  Gender = male
+#-------------------------------
+[TEAMROCKET_F,Grunt,5] # Done
+LoseText = No way!
+Pokemon = LUDICOLO,62
+  Moves = GIGADRAIN,RAINDANCE,ICEBEAM,SLEEPPOWDER
+Pokemon = LUDICOLO,63
+  Moves = GIGADRAIN,RAINDANCE,ICEBEAM,SLEEPPOWDER
+Pokemon = SUDOWOODO,62
+  Shadow = true
+  Gender = male
+#-------------------------------
+[TEAMROCKET_F,Grunt,6] # Done
+LoseText = I should've known you would cheat.
+Pokemon = HOUNDOOM,63
+  Moves = INFERNO,NASTYPLOT,FOULPLAY,DARKPULSE
+Pokemon = TALONFLAME,64
+  Shadow = true
+  Gender = male
+#-------------------------------
+[TEAMROCKET_M,Grunt,6] # Done
+LoseText = This can't be happening.
+Pokemon = MIMIKYU,63
+  Moves = SHADOWSNEAK,PLAYROUGH,SWORDSDANCE,SLASH
+Pokemon = SCOLIPEDE,63
+  Moves = TOXICSPIKES,PROTECT,POISONJAB,MEGAHORN
+Pokemon = STUNFISK,65
+  Shadow = true
+  Gender = female
+  Form = 1
+#-------------------------------
+[TEAMROCKET_F,Grunt,7] # Done
+LoseText = I can't accept defeat like this...
+Pokemon = SHIFTRY,63
+  Moves = LEECHSEED,PURSUIT,LEAFBLADE,CUT
+Pokemon = LUCARIO,64
+  Shadow = true
+  Gender = male
+#-------------------------------
+[TEAMROCKET_M,Grunt,7] # Done
+LoseText = Hang on, this makes no sense...
+Pokemon = SIRFETCHD,65
+  Moves = IRONDEFENSE,FIRSTIMPRESSION,BRICKBREAK,BRAVEBIRD
+#-------------------------------
+[TEAMROCKET_F,Grunt,8] # Done
+LoseText = You're not stopping us!
+Pokemon = TREVENANT,64
+  Moves = WOODHAMMER,FORESTSCURSE,CURSE,SHADOWSNEAK
+Pokemon = UMBREON,64
+  Moves = MOONLIGHT,DARKPULSE,SHADOWBALL,TAUNT
+Pokemon = RAPIDASH,65
+  Shadow = true
+  Form = 1
+  Gender = female
+#-------------------------------
+[TEAMROCKET_M,Grunt,8] # Done
+LoseText = The boss will deal with you...
+Pokemon = ABSOL,65
+  Moves = SNARL,PSYCHOCUT,MEGAHORN,CRUNCH
+Pokemon = TYRANITAR,67
+  Shadow = true
+  Gender = male
+#-------------------------------
+[ROCKETBOSS,Silver] # Done
+LoseText = Necrozma? But how?
+Pokemon = NECROZMA,70
+ Form = 3
+ Shadow = true
+#-------------------------------
+[ROCKETBOSS,Silver,1] # Done
+LoseText = ...What? No!
+Items = MEGARING,FULLHEAL,FULLHEAL,FULLRESTORE,FULLRESTORE,FULLRESTORE
+Pokemon = STARTER,67
+  Item = MIRACLESEED
+  AbilityIndex = 2
+  Nature = BOLD
+  Gender = male
+  IV = 31,31,31,31,31,31
+Pokemon = WEAVILE,67
+  AbilityIndex = 2
+  Nature = ADAMANT
+  Gender = male
+  Moves = SHADOWCLAW,METALCLAW,FEINTATTACK,ICESHARD
+  IV = 31,31,31,31,31,31
+Pokemon = MAGNEZONE,68
+  AbilityIndex = 2
+  Nature = TIMID
+  Moves = DISCHARGE,MIRRORSHOT,THUNDERWAVE,SCREECH
+  IV = 31,31,31,31,31,31
+Pokemon = CROBAT,68
+  AbilityIndex = 2
+  Moves = AIRCUTTER,CRUNCH,TOXIC,CONFUSERAY
+  Gender = male
+  Nature = JOLLY
+  IV = 31,31,31,31,31,31
+Pokemon = ALAKAZAM,69
+  AbilityIndex = 2
+  Shadow = true
+  Item = SHADOWORB
+  Moves = SHADOWRUSH,SHADOWWAVE,SHADOWSHED,SHADOWCHILL
+  Gender = male
+Pokemon = GENGAR,70
+  AbilityIndex = 2
+  Item = GENGARITE
+  Moves = SHADOWBALL,SLUDGEBOMB,DARKPULSE,NASTYPLOT
+  Gender = male
+  Nature = TIMID
+  IV = 31,31,31,31,31,31
+#-------------------------------
+[OLDROCKET,Terry]
+LoseText = It was bound to happen.
+Pokemon = GOLBAT,80
+  Moves = XSCISSOR,FLY,POISONFANG,SUBSTITUTE
+Pokemon = RATICATE,80
+  Moves = FIRESPIN,SUPERFANG,CRUNCH,HYPERFANG
+Pokemon = HYPNO,80
+  Moves = FIREPUNCH,THUNDERPUNCH,PSYCHOCUT,SHADOWCLAW
+Pokemon = MUK,80
+  Moves = SLUDGEWAVE,STOCKPILE,SWALLOW,SPITUP
+Pokemon = ARBOK,80
+  Moves = POISONJAB,CRUNCH,GLARE,COIL
+Pokemon = DITTO,80
+  AbilityIndex = 2

@@ -1,0 +1,5 @@
+Name       = Carmaniac's Speech Bubble Script
+Version    = 1.0.0
+Essentials = 20, 20.1
+Website    = https://reliccastle.com/resources/featured/
+Credits    = NonoNever,  Carmaniac

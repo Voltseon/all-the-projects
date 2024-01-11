@@ -1,0 +1,264 @@
+
+Pokémon Shattered Light
+
+Voltseon
+ENLS
+Tristantine The Great
+
+
+
+
+
+
+
+Official Gen 4 Day & Night Tones by:
+VanillaSunshine
+
+GBA Remixes by:
+Zame
+Soundfont Witch
+MezmerKaiser
+
+Unreal Time System by:
+FL
+
+Shiny Icons by:
+StarWolff
+
+Pokemon USUM Ultra Necrozma Overworld Sprite by:
+Zender1752
+
+Defiance-styled Region Map Kit by:
+Makattack202
+
+Overworld Weather Moves by:
+TechSkylander1518
+
+Tilesets by:
+Ekat
+Vurtax
+Slimshady
+TheWildDeadHeroAlistar
+Zein
+Heartlessdragoon
+Idilio
+Aveontrainer
+Shyinn
+AnonAlpaca
+Zeo
+Aldo
+War8
+Redblueyellow
+SteamyJ
+Puggsoy
+Voltseon
+Pokémon Rejuvenation
+
+Ultra Wormhole Animation by:
+Ulithium_Dragon
+
+Location Signposts by:
+LostSoulsDev / carmaniac
+PurpleZaffre
+Golisopod User
+
+Terrain Step Sounds by:
+Enurta
+gameguy
+
+Wall Clock by:
+FL
+
+Roaming Icons by:
+G.E.Z
+WolfPP
+
+
+
+"Voltseon's Pause Menu" v.1.8 by:
+Voltseon
+Golisopod User
+ENLS
+
+"Voltseon's Handy Tools" v.1.4 by:
+Voltseon
+ENLS
+
+"Voltseon's A-Star Pathfinding" v.1.2 by:
+Voltseon
+Golisopod User
+ENLS
+
+"Transform Mosaic Animation" v.1.0 by:
+KleinStudio (original)
+bo4p5687 (update)
+
+"Better Speed Up" v.2.0 by:
+Marin
+Phantombass
+
+"Rename from Party" v.1.0 by:
+TechSkylander1518
+
+"RSE Trainer Card" v.1.1.0 by:
+Shashu-Greninja
+Gazza teh Fox
+ENLS
+
+"RSE Starter Choice" v.1.0 by:
+Voltseon
+
+"Poké Ball Swap" v.1.0 by:
+TechSkylander1518
+
+"PokéSearch" v.1.1 by:
+Voltseon
+
+"Overworld Weather Moves" v.1.0 by:
+TechSkylander1518
+
+"Overworld Shadows EX" v.2.0.2 by:
+Golisopod User
+Wolf PP
+Marin
+
+"Ultimate Move Tutor" v.1.2 by:
+Grogro
+
+"More Pokedex Page : Size Comparison" v.1.0 by:
+Caruban
+
+"Marin's Scripting Utilities" v.2.0 by:
+Marin
+
+"Marin's Map Exporter" v.2.1 by:
+Marin
+
+"Mach and Acro bike" v.2.0 by:
+Rei (original - 2014)
+bo4p5687 (update)
+
+"Item Find" v.2.0 by:
+Boonzeet
+
+"HM Emulator" v.1.0 by:
+Voltseon
+ENLS
+
+"Generation 8 Pack Scripts" v.1.0.1 by:
+Golisopod User
+Luka S.J.
+
+"Gender selection (style: S/M)" v.2.0 by:
+bo4p5687
+Richard PT (graphics)
+
+"Footprints" v.1.0 by:
+KleinStudio
+WolfPP
+bo4p5687
+
+"Following Pokemon EX" v.2.2.2 by:
+Golisopod User
+Help-14
+zingzags
+Rayd12smitty
+Venom12
+mej71
+PurpleZaffre
+Akizakura16
+Thundaga
+Armin (Fairies Resource Pack)
+Maruno
+
+"Fly Animation by KleinStudio" v.2.0 by:
+KleinStudio (original)
+bo4p5687 (update)
+
+"ENLS's Random Utilities" v.1.1 by:
+ENLS
+
+"Deep Marsh Tiles" v.1.0.0 by:
+Kotaro
+Vendily
+Mashirosakura
+
+"Check stats in battle" v.2.0 by:
+bo4p5687
+
+"Carmaniac's Speech Bubble Script" v.1.0.0 by:
+NonoNever
+Carmaniac
+
+"Boon's Phenomena" v.3.0 by:
+Boonzeet
+
+"BerryPots for Essentials v20" v.1.0 by:
+Caruban
+
+"Bag Screen w/int. Party" v.2.2.0 by:
+DiegoWT
+
+"Animation change form (BW)" v.2.0 by:
+KleinStudio
+bo4p5687
+
+
+
+"Pokémon Essentials" was created by:
+Flameguru
+Poccil (Peter O.)
+Maruno
+
+With contributions from:
+AvatarMonkeyKirby
+Marin
+Boushy
+MiDas Mike
+Brother1440
+Near Fantastica
+FL.
+PinkMan
+Genzai Kawakami
+Popper
+Golisopod User
+Rataime
+help-14
+Savordez
+IceGod64
+SoundSpawn
+Jacob O. Wobbrock
+the__end
+KitsuneKouta
+Venom12
+Lisa Anthony
+Wachunga
+Luka S.J.
+
+and everyone else who helped out
+
+"mkxp-z" by:
+Roza
+Based on "mkxp" by Ancurio et al.
+
+"RPG Maker XP" by:
+Enterbrain
+
+Pokémon is owned by:
+The Pokémon Company
+Nintendo
+Affiliated with Game Freak
+
+
+
+
+
+Thank you for playing!
+- Devs
+
+
+
+This is a non-profit fan-made game.
+No copyright infringements intended.
+Please support the official games!
+

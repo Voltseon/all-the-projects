@@ -1,0 +1,48 @@
+﻿Name       = Voltseon's Handy Tools
+Version    = 1.4
+Essentials = 20.1
+Website    = https://reliccastle.com/resources/400/
+Credits    = Voltseon, ENLS
+################################################################################
+#
+# Changelog
+#
+################################################################################
+#
+# v1.1 (29/07/2020) - Voltseon
+# - Added Alternate Methods for all existing methods
+# - The pbHasItem, pbItemQuantity and pbHasSpecies methods implemented.
+# - The -Silent() methods to add items and Pokemon silently added.
+# - A few more comments to help out the average joe
+# - I wish I had more to add here :(
+#
+#
+# v1.2 (06/08/2020) - Voltseon
+# - Added the ability to change a specific self switch
+# - Toggle Self Switches
+# - Toggle Global Switches
+# - Added the Manipulate player tab
+# - Set trainer gender & outfit
+# - Toggle trainer gender
+# - Toggle pokegear
+# - Toggle runningshoes
+# - Toggle pokedex & regiondex
+# - Fixed the Alternate Methods to have default values
+# - And put some more love into it <3
+#
+#
+# v1.2.1 (07/09/2020) - Voltseon
+# - Added the plugin manager used for v18
+# - Added an unnecessary extra decimal to the versions
+#
+#
+# v1.3 (02/05/2021) - Voltseon
+# - Updated format to work with v19
+# - Changed the vCry method to work with future v20 stuff
+#
+#
+# v1.4 (21/05/2022) - ENLS
+# - Updated all methods to work with v20
+# - vG (Set Gender) is now vC (Set Character). vG still works, but will be removed in future versions
+#
+################################################################################

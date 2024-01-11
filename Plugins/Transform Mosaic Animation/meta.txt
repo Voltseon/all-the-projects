@@ -1,0 +1,4 @@
+﻿Name      = Transform Mosaic Animation
+Version   = 1.0
+Website   = https://github.com/Jack1324567/PE-Custom-Script
+Credits   = KleinStudio (original), bo4p5687 (update)

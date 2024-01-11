@@ -1,0 +1,5 @@
+﻿Name      = Mach and Acro bike
+Version   = 2.0
+Essentials = 20.1
+Website   = https://github.com/Jack1324567/PE-Custom-Script
+Credits   = Rei (original - 2014), bo4p5687 (update)

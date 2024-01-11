@@ -1,0 +1,899 @@
+internalname,realname,type1,type2,dexnumber
+BULBASAUR,Bulbasaur,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,001
+IVYSAUR,Ivysaur,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,002
+VENUSAUR,Venusaur,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,003
+CHARMANDER,Charmander,<img src="/assets/images/icons/type_FIRE.png">,,004
+CHARMELEON,Charmeleon,<img src="/assets/images/icons/type_FIRE.png">,,005
+CHARIZARD,Charizard,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_flying.png">,006
+SQUIRTLE,Squirtle,<img src="/assets/images/icons/type_WATER.png">,,007
+WARTORTLE,Wartortle,<img src="/assets/images/icons/type_WATER.png">,,008
+BLASTOISE,Blastoise,<img src="/assets/images/icons/type_WATER.png">,,009
+CATERPIE,Caterpie,<img src="/assets/images/icons/type_bug.png">,,010
+METAPOD,Metapod,<img src="/assets/images/icons/type_bug.png">,,011
+BUTTERFREE,Butterfree,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,012
+WEEDLE,Weedle,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,013
+KAKUNA,Kakuna,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,014
+BEEDRILL,Beedrill,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,015
+PIDGEY,Pidgey,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,016
+PIDGEOTTO,Pidgeotto,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,017
+PIDGEOT,Pidgeot,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,018
+RATTATA,Rattata,<img src="/assets/images/icons/type_normal.png">,,019
+RATICATE,Raticate,<img src="/assets/images/icons/type_normal.png">,,020
+SPEAROW,Spearow,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,021
+FEAROW,Fearow,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,022
+EKANS,Ekans,<img src="/assets/images/icons/type_poison.png">,,023
+ARBOK,Arbok,<img src="/assets/images/icons/type_poison.png">,,024
+PIKACHU,Pikachu,<img src="/assets/images/icons/type_ELECTRIC.png">,,025
+RAICHU,Raichu,<img src="/assets/images/icons/type_ELECTRIC.png">,,026
+SANDSHREW,Sandshrew,<img src="/assets/images/icons/type_ground.png">,,027
+SANDSLASH,Sandslash,<img src="/assets/images/icons/type_ground.png">,,028
+NIDORANfE,Nidoran♀,<img src="/assets/images/icons/type_poison.png">,,029
+NIDORINA,Nidorina,<img src="/assets/images/icons/type_poison.png">,,030
+NIDOQUEEN,Nidoqueen,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_ground.png">,031
+NIDORANmA,Nidoran♂,<img src="/assets/images/icons/type_poison.png">,,032
+NIDORINO,Nidorino,<img src="/assets/images/icons/type_poison.png">,,033
+NIDOKING,Nidoking,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_ground.png">,034
+CLEFAIRY,Clefairy,<img src="/assets/images/icons/type_FAIRY.png">,,035
+CLEFABLE,Clefable,<img src="/assets/images/icons/type_FAIRY.png">,,036
+VULPIX,Vulpix,<img src="/assets/images/icons/type_FIRE.png">,,037
+NINETALES,Ninetales,<img src="/assets/images/icons/type_FIRE.png">,,038
+JIGGLYPUFF,Jigglypuff,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_FAIRY.png">,039
+WIGGLYTUFF,Wigglytuff,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_FAIRY.png">,040
+ZUBAT,Zubat,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_flying.png">,041
+GOLBAT,Golbat,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_flying.png">,042
+ODDISH,Oddish,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,043
+GLOOM,Gloom,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,044
+VILEPLUME,Vileplume,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,045
+PARAS,Paras,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_GRASS.png">,046
+PARASECT,Parasect,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_GRASS.png">,047
+VENONAT,Venonat,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,048
+VENOMOTH,Venomoth,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,049
+DIGLETT,Diglett,<img src="/assets/images/icons/type_ground.png">,,050
+DUGTRIO,Dugtrio,<img src="/assets/images/icons/type_ground.png">,,051
+MEOWTH,Meowth,<img src="/assets/images/icons/type_normal.png">,,052
+PERSIAN,Persian,<img src="/assets/images/icons/type_normal.png">,,053
+PSYDUCK,Psyduck,<img src="/assets/images/icons/type_WATER.png">,,054
+GOLDUCK,Golduck,<img src="/assets/images/icons/type_WATER.png">,,055
+MANKEY,Mankey,<img src="/assets/images/icons/type_fighting.png">,,056
+PRIMEAPE,Primeape,<img src="/assets/images/icons/type_fighting.png">,,057
+GROWLITHE,Growlithe,<img src="/assets/images/icons/type_FIRE.png">,,058
+ARCANINE,Arcanine,<img src="/assets/images/icons/type_FIRE.png">,,059
+POLIWAG,Poliwag,<img src="/assets/images/icons/type_WATER.png">,,060
+POLIWHIRL,Poliwhirl,<img src="/assets/images/icons/type_WATER.png">,,061
+POLIWRATH,Poliwrath,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_fighting.png">,062
+ABRA,Abra,<img src="/assets/images/icons/type_PSYCHIC.png">,,063
+KADABRA,Kadabra,<img src="/assets/images/icons/type_PSYCHIC.png">,,064
+ALAKAZAM,Alakazam,<img src="/assets/images/icons/type_PSYCHIC.png">,,065
+MACHOP,Machop,<img src="/assets/images/icons/type_fighting.png">,,066
+MACHOKE,Machoke,<img src="/assets/images/icons/type_fighting.png">,,067
+MACHAMP,Machamp,<img src="/assets/images/icons/type_fighting.png">,,068
+BELLSPROUT,Bellsprout,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,069
+WEEPINBELL,Weepinbell,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,070
+VICTREEBEL,Victreebel,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,071
+TENTACOOL,Tentacool,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_poison.png">,072
+TENTACRUEL,Tentacruel,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_poison.png">,073
+GEODUDE,Geodude,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_ground.png">,074
+GRAVELER,Graveler,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_ground.png">,075
+GOLEM,Golem,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_ground.png">,076
+PONYTA,Ponyta,<img src="/assets/images/icons/type_FIRE.png">,,077
+RAPIDASH,Rapidash,<img src="/assets/images/icons/type_FIRE.png">,,078
+SLOWPOKE,Slowpoke,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,079
+SLOWBRO,Slowbro,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,080
+MAGNEMITE,Magnemite,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_steel.png">,081
+MAGNETON,Magneton,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_steel.png">,082
+FARFETCHD,Farfetch'd,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,083
+DODUO,Doduo,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,084
+DODRIO,Dodrio,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,085
+SEEL,Seel,<img src="/assets/images/icons/type_WATER.png">,,086
+DEWGONG,Dewgong,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ICE.png">,087
+GRIMER,Grimer,<img src="/assets/images/icons/type_poison.png">,,088
+MUK,Muk,<img src="/assets/images/icons/type_poison.png">,,089
+SHELLDER,Shellder,<img src="/assets/images/icons/type_WATER.png">,,090
+CLOYSTER,Cloyster,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ICE.png">,091
+GASTLY,Gastly,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_poison.png">,092
+HAUNTER,Haunter,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_poison.png">,093
+GENGAR,Gengar,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_poison.png">,094
+ONIX,Onix,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_ground.png">,095
+DROWZEE,Drowzee,<img src="/assets/images/icons/type_PSYCHIC.png">,,096
+HYPNO,Hypno,<img src="/assets/images/icons/type_PSYCHIC.png">,,097
+KRABBY,Krabby,<img src="/assets/images/icons/type_WATER.png">,,098
+KINGLER,Kingler,<img src="/assets/images/icons/type_WATER.png">,,099
+VOLTORB,Voltorb,<img src="/assets/images/icons/type_ELECTRIC.png">,,100
+ELECTRODE,Electrode,<img src="/assets/images/icons/type_ELECTRIC.png">,,101
+EXEGGCUTE,Exeggcute,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,102
+EXEGGUTOR,Exeggutor,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,103
+CUBONE,Cubone,<img src="/assets/images/icons/type_ground.png">,,104
+MAROWAK,Marowak,<img src="/assets/images/icons/type_ground.png">,,105
+HITMONLEE,Hitmonlee,<img src="/assets/images/icons/type_fighting.png">,,106
+HITMONCHAN,Hitmonchan,<img src="/assets/images/icons/type_fighting.png">,,107
+LICKITUNG,Lickitung,<img src="/assets/images/icons/type_normal.png">,,108
+KOFFING,Koffing,<img src="/assets/images/icons/type_poison.png">,,109
+WEEZING,Weezing,<img src="/assets/images/icons/type_poison.png">,,110
+RHYHORN,Rhyhorn,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_rock.png">,111
+RHYDON,Rhydon,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_rock.png">,112
+CHANSEY,Chansey,<img src="/assets/images/icons/type_normal.png">,,113
+TANGELA,Tangela,<img src="/assets/images/icons/type_GRASS.png">,,114
+KANGASKHAN,Kangaskhan,<img src="/assets/images/icons/type_normal.png">,,115
+HORSEA,Horsea,<img src="/assets/images/icons/type_WATER.png">,,116
+SEADRA,Seadra,<img src="/assets/images/icons/type_WATER.png">,,117
+GOLDEEN,Goldeen,<img src="/assets/images/icons/type_WATER.png">,,118
+SEAKING,Seaking,<img src="/assets/images/icons/type_WATER.png">,,119
+STARYU,Staryu,<img src="/assets/images/icons/type_WATER.png">,,120
+STARMIE,Starmie,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,121
+MRMIME,Mr. Mime,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_FAIRY.png">,122
+SCYTHER,Scyther,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,123
+JYNX,Jynx,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,124
+ELECTABUZZ,Electabuzz,<img src="/assets/images/icons/type_ELECTRIC.png">,,125
+MAGMAR,Magmar,<img src="/assets/images/icons/type_FIRE.png">,,126
+PINSIR,Pinsir,<img src="/assets/images/icons/type_bug.png">,,127
+TAUROS,Tauros,<img src="/assets/images/icons/type_normal.png">,,128
+MAGIKARP,Magikarp,<img src="/assets/images/icons/type_WATER.png">,,129
+GYARADOS,Gyarados,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_flying.png">,130
+LAPRAS,Lapras,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ICE.png">,131
+DITTO,Ditto,<img src="/assets/images/icons/type_normal.png">,,132
+EEVEE,Eevee,<img src="/assets/images/icons/type_normal.png">,,133
+VAPOREON,Vaporeon,<img src="/assets/images/icons/type_WATER.png">,,134
+JOLTEON,Jolteon,<img src="/assets/images/icons/type_ELECTRIC.png">,,135
+FLAREON,Flareon,<img src="/assets/images/icons/type_FIRE.png">,,136
+PORYGON,Porygon,<img src="/assets/images/icons/type_normal.png">,,137
+OMANYTE,Omanyte,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_WATER.png">,138
+OMASTAR,Omastar,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_WATER.png">,139
+KABUTO,Kabuto,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_WATER.png">,140
+KABUTOPS,Kabutops,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_WATER.png">,141
+AERODACTYL,Aerodactyl,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_flying.png">,142
+SNORLAX,Snorlax,<img src="/assets/images/icons/type_normal.png">,,143
+ARTICUNO,Articuno,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_flying.png">,144
+ZAPDOS,Zapdos,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_flying.png">,145
+MOLTRES,Moltres,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_flying.png">,146
+DRATINI,Dratini,<img src="/assets/images/icons/type_DRAGON.png">,,147
+DRAGONAIR,Dragonair,<img src="/assets/images/icons/type_DRAGON.png">,,148
+DRAGONITE,Dragonite,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_flying.png">,149
+MEWTWO,Mewtwo,<img src="/assets/images/icons/type_PSYCHIC.png">,,150
+MEW,Mew,<img src="/assets/images/icons/type_PSYCHIC.png">,,151
+CHIKORITA,Chikorita,<img src="/assets/images/icons/type_GRASS.png">,,152
+BAYLEEF,Bayleef,<img src="/assets/images/icons/type_GRASS.png">,,153
+MEGANIUM,Meganium,<img src="/assets/images/icons/type_GRASS.png">,,154
+CYNDAQUIL,Cyndaquil,<img src="/assets/images/icons/type_FIRE.png">,,155
+QUILAVA,Quilava,<img src="/assets/images/icons/type_FIRE.png">,,156
+TYPHLOSION,Typhlosion,<img src="/assets/images/icons/type_FIRE.png">,,157
+TOTODILE,Totodile,<img src="/assets/images/icons/type_WATER.png">,,158
+CROCONAW,Croconaw,<img src="/assets/images/icons/type_WATER.png">,,159
+FERALIGATR,Feraligatr,<img src="/assets/images/icons/type_WATER.png">,,160
+SENTRET,Sentret,<img src="/assets/images/icons/type_normal.png">,,161
+FURRET,Furret,<img src="/assets/images/icons/type_normal.png">,,162
+HOOTHOOT,Hoothoot,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,163
+NOCTOWL,Noctowl,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,164
+LEDYBA,Ledyba,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,165
+LEDIAN,Ledian,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,166
+SPINARAK,Spinarak,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,167
+ARIADOS,Ariados,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,168
+CROBAT,Crobat,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_flying.png">,169
+CHINCHOU,Chinchou,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ELECTRIC.png">,170
+LANTURN,Lanturn,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ELECTRIC.png">,171
+PICHU,Pichu,<img src="/assets/images/icons/type_ELECTRIC.png">,,172
+CLEFFA,Cleffa,<img src="/assets/images/icons/type_FAIRY.png">,,173
+IGGLYBUFF,Igglybuff,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_FAIRY.png">,174
+TOGEPI,Togepi,<img src="/assets/images/icons/type_FAIRY.png">,,175
+TOGETIC,Togetic,<img src="/assets/images/icons/type_FAIRY.png">,<img src="/assets/images/icons/type_flying.png">,176
+NATU,Natu,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_flying.png">,177
+XATU,Xatu,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_flying.png">,178
+MAREEP,Mareep,<img src="/assets/images/icons/type_ELECTRIC.png">,,179
+FLAAFFY,Flaaffy,<img src="/assets/images/icons/type_ELECTRIC.png">,,180
+AMPHAROS,Ampharos,<img src="/assets/images/icons/type_ELECTRIC.png">,,181
+BELLOSSOM,Bellossom,<img src="/assets/images/icons/type_GRASS.png">,,182
+MARILL,Marill,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_FAIRY.png">,183
+AZUMARILL,Azumarill,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_FAIRY.png">,184
+SUDOWOODO,Sudowoodo,<img src="/assets/images/icons/type_rock.png">,,185
+POLITOED,Politoed,<img src="/assets/images/icons/type_WATER.png">,,186
+HOPPIP,Hoppip,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_flying.png">,187
+SKIPLOOM,Skiploom,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_flying.png">,188
+JUMPLUFF,Jumpluff,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_flying.png">,189
+AIPOM,Aipom,<img src="/assets/images/icons/type_normal.png">,,190
+SUNKERN,Sunkern,<img src="/assets/images/icons/type_GRASS.png">,,191
+SUNFLORA,Sunflora,<img src="/assets/images/icons/type_GRASS.png">,,192
+YANMA,Yanma,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,193
+WOOPER,Wooper,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ground.png">,194
+QUAGSIRE,Quagsire,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ground.png">,195
+ESPEON,Espeon,<img src="/assets/images/icons/type_PSYCHIC.png">,,196
+UMBREON,Umbreon,<img src="/assets/images/icons/type_DARK.png">,,197
+MURKROW,Murkrow,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_flying.png">,198
+SLOWKING,Slowking,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,199
+MISDREAVUS,Misdreavus,<img src="/assets/images/icons/type_ghost.png">,,200
+UNOWN,Unown,<img src="/assets/images/icons/type_PSYCHIC.png">,,201
+WOBBUFFET,Wobbuffet,<img src="/assets/images/icons/type_PSYCHIC.png">,,202
+GIRAFARIG,Girafarig,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,203
+PINECO,Pineco,<img src="/assets/images/icons/type_bug.png">,,204
+FORRETRESS,Forretress,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_steel.png">,205
+DUNSPARCE,Dunsparce,<img src="/assets/images/icons/type_normal.png">,,206
+GLIGAR,Gligar,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_flying.png">,207
+STEELIX,Steelix,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_ground.png">,208
+SNUBBULL,Snubbull,<img src="/assets/images/icons/type_FAIRY.png">,,209
+GRANBULL,Granbull,<img src="/assets/images/icons/type_FAIRY.png">,,210
+QWILFISH,Qwilfish,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_poison.png">,211
+SCIZOR,Scizor,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_steel.png">,212
+SHUCKLE,Shuckle,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_rock.png">,213
+HERACROSS,Heracross,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_fighting.png">,214
+SNEASEL,Sneasel,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_ICE.png">,215
+TEDDIURSA,Teddiursa,<img src="/assets/images/icons/type_normal.png">,,216
+URSARING,Ursaring,<img src="/assets/images/icons/type_normal.png">,,217
+SLUGMA,Slugma,<img src="/assets/images/icons/type_FIRE.png">,,218
+MAGCARGO,Magcargo,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_rock.png">,219
+SWINUB,Swinub,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_ground.png">,220
+PILOSWINE,Piloswine,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_ground.png">,221
+CORSOLA,Corsola,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_rock.png">,222
+REMORAID,Remoraid,<img src="/assets/images/icons/type_WATER.png">,,223
+OCTILLERY,Octillery,<img src="/assets/images/icons/type_WATER.png">,,224
+DELIBIRD,Delibird,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_flying.png">,225
+MANTINE,Mantine,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_flying.png">,226
+SKARMORY,Skarmory,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_flying.png">,227
+HOUNDOUR,Houndour,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_FIRE.png">,228
+HOUNDOOM,Houndoom,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_FIRE.png">,229
+KINGDRA,Kingdra,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_DRAGON.png">,230
+PHANPY,Phanpy,<img src="/assets/images/icons/type_ground.png">,,231
+DONPHAN,Donphan,<img src="/assets/images/icons/type_ground.png">,,232
+PORYGON2,Porygon2,<img src="/assets/images/icons/type_normal.png">,,233
+STANTLER,Stantler,<img src="/assets/images/icons/type_normal.png">,,234
+SMEARGLE,Smeargle,<img src="/assets/images/icons/type_normal.png">,,235
+TYROGUE,Tyrogue,<img src="/assets/images/icons/type_fighting.png">,,236
+HITMONTOP,Hitmontop,<img src="/assets/images/icons/type_fighting.png">,,237
+SMOOCHUM,Smoochum,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,238
+ELEKID,Elekid,<img src="/assets/images/icons/type_ELECTRIC.png">,,239
+MAGBY,Magby,<img src="/assets/images/icons/type_FIRE.png">,,240
+MILTANK,Miltank,<img src="/assets/images/icons/type_normal.png">,,241
+BLISSEY,Blissey,<img src="/assets/images/icons/type_normal.png">,,242
+RAIKOU,Raikou,<img src="/assets/images/icons/type_ELECTRIC.png">,,243
+ENTEI,Entei,<img src="/assets/images/icons/type_FIRE.png">,,244
+SUICUNE,Suicune,<img src="/assets/images/icons/type_WATER.png">,,245
+LARVITAR,Larvitar,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_ground.png">,246
+PUPITAR,Pupitar,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_ground.png">,247
+TYRANITAR,Tyranitar,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_DARK.png">,248
+LUGIA,Lugia,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_flying.png">,249
+HOOH,Ho-Oh,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_flying.png">,250
+CELEBI,Celebi,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_GRASS.png">,251
+TREECKO,Treecko,<img src="/assets/images/icons/type_GRASS.png">,,252
+GROVYLE,Grovyle,<img src="/assets/images/icons/type_GRASS.png">,,253
+SCEPTILE,Sceptile,<img src="/assets/images/icons/type_GRASS.png">,,254
+TORCHIC,Torchic,<img src="/assets/images/icons/type_FIRE.png">,,255
+COMBUSKEN,Combusken,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_fighting.png">,256
+BLAZIKEN,Blaziken,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_fighting.png">,257
+MUDKIP,Mudkip,<img src="/assets/images/icons/type_WATER.png">,,258
+MARSHTOMP,Marshtomp,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ground.png">,259
+SWAMPERT,Swampert,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ground.png">,260
+POOCHYENA,Poochyena,<img src="/assets/images/icons/type_DARK.png">,,261
+MIGHTYENA,Mightyena,<img src="/assets/images/icons/type_DARK.png">,,262
+ZIGZAGOON,Zigzagoon,<img src="/assets/images/icons/type_normal.png">,,263
+LINOONE,Linoone,<img src="/assets/images/icons/type_normal.png">,,264
+WURMPLE,Wurmple,<img src="/assets/images/icons/type_bug.png">,,265
+SILCOON,Silcoon,<img src="/assets/images/icons/type_bug.png">,,266
+BEAUTIFLY,Beautifly,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,267
+CASCOON,Cascoon,<img src="/assets/images/icons/type_bug.png">,,268
+DUSTOX,Dustox,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,269
+LOTAD,Lotad,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_GRASS.png">,270
+LOMBRE,Lombre,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_GRASS.png">,271
+LUDICOLO,Ludicolo,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_GRASS.png">,272
+SEEDOT,Seedot,<img src="/assets/images/icons/type_GRASS.png">,,273
+NUZLEAF,Nuzleaf,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_DARK.png">,274
+SHIFTRY,Shiftry,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_DARK.png">,275
+TAILLOW,Taillow,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,276
+SWELLOW,Swellow,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,277
+WINGULL,Wingull,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_flying.png">,278
+PELIPPER,Pelipper,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_flying.png">,279
+RALTS,Ralts,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_FAIRY.png">,280
+KIRLIA,Kirlia,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_FAIRY.png">,281
+GARDEVOIR,Gardevoir,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_FAIRY.png">,282
+SURSKIT,Surskit,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_WATER.png">,283
+MASQUERAIN,Masquerain,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,284
+SHROOMISH,Shroomish,<img src="/assets/images/icons/type_GRASS.png">,,285
+BRELOOM,Breloom,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_fighting.png">,286
+SLAKOTH,Slakoth,<img src="/assets/images/icons/type_normal.png">,,287
+VIGOROTH,Vigoroth,<img src="/assets/images/icons/type_normal.png">,,288
+SLAKING,Slaking,<img src="/assets/images/icons/type_normal.png">,,289
+NINCADA,Nincada,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_ground.png">,290
+NINJASK,Ninjask,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,291
+SHEDINJA,Shedinja,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_ghost.png">,292
+WHISMUR,Whismur,<img src="/assets/images/icons/type_normal.png">,,293
+LOUDRED,Loudred,<img src="/assets/images/icons/type_normal.png">,,294
+EXPLOUD,Exploud,<img src="/assets/images/icons/type_normal.png">,,295
+MAKUHITA,Makuhita,<img src="/assets/images/icons/type_fighting.png">,,296
+HARIYAMA,Hariyama,<img src="/assets/images/icons/type_fighting.png">,,297
+AZURILL,Azurill,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_FAIRY.png">,298
+NOSEPASS,Nosepass,<img src="/assets/images/icons/type_rock.png">,,299
+SKITTY,Skitty,<img src="/assets/images/icons/type_normal.png">,,300
+DELCATTY,Delcatty,<img src="/assets/images/icons/type_normal.png">,,301
+SABLEYE,Sableye,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_ghost.png">,302
+MAWILE,Mawile,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_FAIRY.png">,303
+ARON,Aron,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_rock.png">,304
+LAIRON,Lairon,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_rock.png">,305
+AGGRON,Aggron,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_rock.png">,306
+MEDITITE,Meditite,<img src="/assets/images/icons/type_fighting.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,307
+MEDICHAM,Medicham,<img src="/assets/images/icons/type_fighting.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,308
+ELECTRIKE,Electrike,<img src="/assets/images/icons/type_ELECTRIC.png">,,309
+MANECTRIC,Manectric,<img src="/assets/images/icons/type_ELECTRIC.png">,,310
+PLUSLE,Plusle,<img src="/assets/images/icons/type_ELECTRIC.png">,,311
+MINUN,Minun,<img src="/assets/images/icons/type_ELECTRIC.png">,,312
+VOLBEAT,Volbeat,<img src="/assets/images/icons/type_bug.png">,,313
+ILLUMISE,Illumise,<img src="/assets/images/icons/type_bug.png">,,314
+ROSELIA,Roselia,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,315
+GULPIN,Gulpin,<img src="/assets/images/icons/type_poison.png">,,316
+SWALOT,Swalot,<img src="/assets/images/icons/type_poison.png">,,317
+CARVANHA,Carvanha,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_DARK.png">,318
+SHARPEDO,Sharpedo,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_DARK.png">,319
+WAILMER,Wailmer,<img src="/assets/images/icons/type_WATER.png">,,320
+WAILORD,Wailord,<img src="/assets/images/icons/type_WATER.png">,,321
+NUMEL,Numel,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_ground.png">,322
+CAMERUPT,Camerupt,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_ground.png">,323
+TORKOAL,Torkoal,<img src="/assets/images/icons/type_FIRE.png">,,324
+SPOINK,Spoink,<img src="/assets/images/icons/type_PSYCHIC.png">,,325
+GRUMPIG,Grumpig,<img src="/assets/images/icons/type_PSYCHIC.png">,,326
+SPINDA,Spinda,<img src="/assets/images/icons/type_normal.png">,,327
+TRAPINCH,Trapinch,<img src="/assets/images/icons/type_ground.png">,,328
+VIBRAVA,Vibrava,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_DRAGON.png">,329
+FLYGON,Flygon,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_DRAGON.png">,330
+CACNEA,Cacnea,<img src="/assets/images/icons/type_GRASS.png">,,331
+CACTURNE,Cacturne,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_DARK.png">,332
+SWABLU,Swablu,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,333
+ALTARIA,Altaria,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_flying.png">,334
+ZANGOOSE,Zangoose,<img src="/assets/images/icons/type_normal.png">,,335
+SEVIPER,Seviper,<img src="/assets/images/icons/type_poison.png">,,336
+LUNATONE,Lunatone,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,337
+SOLROCK,Solrock,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,338
+BARBOACH,Barboach,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ground.png">,339
+WHISCASH,Whiscash,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ground.png">,340
+CORPHISH,Corphish,<img src="/assets/images/icons/type_WATER.png">,,341
+CRAWDAUNT,Crawdaunt,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_DARK.png">,342
+BALTOY,Baltoy,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,343
+CLAYDOL,Claydol,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,344
+LILEEP,Lileep,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_GRASS.png">,345
+CRADILY,Cradily,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_GRASS.png">,346
+ANORITH,Anorith,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_bug.png">,347
+ARMALDO,Armaldo,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_bug.png">,348
+FEEBAS,Feebas,<img src="/assets/images/icons/type_WATER.png">,,349
+MILOTIC,Milotic,<img src="/assets/images/icons/type_WATER.png">,,350
+CASTFORM,Castform,<img src="/assets/images/icons/type_normal.png">,,351
+KECLEON,Kecleon,<img src="/assets/images/icons/type_normal.png">,,352
+SHUPPET,Shuppet,<img src="/assets/images/icons/type_ghost.png">,,353
+BANETTE,Banette,<img src="/assets/images/icons/type_ghost.png">,,354
+DUSKULL,Duskull,<img src="/assets/images/icons/type_ghost.png">,,355
+DUSCLOPS,Dusclops,<img src="/assets/images/icons/type_ghost.png">,,356
+TROPIUS,Tropius,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_flying.png">,357
+CHIMECHO,Chimecho,<img src="/assets/images/icons/type_PSYCHIC.png">,,358
+ABSOL,Absol,<img src="/assets/images/icons/type_DARK.png">,,359
+WYNAUT,Wynaut,<img src="/assets/images/icons/type_PSYCHIC.png">,,360
+SNORUNT,Snorunt,<img src="/assets/images/icons/type_ICE.png">,,361
+GLALIE,Glalie,<img src="/assets/images/icons/type_ICE.png">,,362
+SPHEAL,Spheal,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_WATER.png">,363
+SEALEO,Sealeo,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_WATER.png">,364
+WALREIN,Walrein,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_WATER.png">,365
+CLAMPERL,Clamperl,<img src="/assets/images/icons/type_WATER.png">,,366
+HUNTAIL,Huntail,<img src="/assets/images/icons/type_WATER.png">,,367
+GOREBYSS,Gorebyss,<img src="/assets/images/icons/type_WATER.png">,,368
+RELICANTH,Relicanth,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_rock.png">,369
+LUVDISC,Luvdisc,<img src="/assets/images/icons/type_WATER.png">,,370
+BAGON,Bagon,<img src="/assets/images/icons/type_DRAGON.png">,,371
+SHELGON,Shelgon,<img src="/assets/images/icons/type_DRAGON.png">,,372
+SALAMENCE,Salamence,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_flying.png">,373
+BELDUM,Beldum,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,374
+METANG,Metang,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,375
+METAGROSS,Metagross,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,376
+REGIROCK,Regirock,<img src="/assets/images/icons/type_rock.png">,,377
+REGICE,Regice,<img src="/assets/images/icons/type_ICE.png">,,378
+REGISTEEL,Registeel,<img src="/assets/images/icons/type_steel.png">,,379
+LATIAS,Latias,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,380
+LATIOS,Latios,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,381
+KYOGRE,Kyogre,<img src="/assets/images/icons/type_WATER.png">,,382
+GROUDON,Groudon,<img src="/assets/images/icons/type_ground.png">,,383
+RAYQUAZA,Rayquaza,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_flying.png">,384
+JIRACHI,Jirachi,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,385
+DEOXYS,Deoxys,<img src="/assets/images/icons/type_PSYCHIC.png">,,386
+TURTWIG,Turtwig,<img src="/assets/images/icons/type_GRASS.png">,,387
+GROTLE,Grotle,<img src="/assets/images/icons/type_GRASS.png">,,388
+TORTERRA,Torterra,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_ground.png">,389
+CHIMCHAR,Chimchar,<img src="/assets/images/icons/type_FIRE.png">,,390
+MONFERNO,Monferno,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_fighting.png">,391
+INFERNAPE,Infernape,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_fighting.png">,392
+PIPLUP,Piplup,<img src="/assets/images/icons/type_WATER.png">,,393
+PRINPLUP,Prinplup,<img src="/assets/images/icons/type_WATER.png">,,394
+EMPOLEON,Empoleon,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_steel.png">,395
+STARLY,Starly,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,396
+STARAVIA,Staravia,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,397
+STARAPTOR,Staraptor,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,398
+BIDOOF,Bidoof,<img src="/assets/images/icons/type_normal.png">,,399
+BIBAREL,Bibarel,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_WATER.png">,400
+KRICKETOT,Kricketot,<img src="/assets/images/icons/type_bug.png">,,401
+KRICKETUNE,Kricketune,<img src="/assets/images/icons/type_bug.png">,,402
+SHINX,Shinx,<img src="/assets/images/icons/type_ELECTRIC.png">,,403
+LUXIO,Luxio,<img src="/assets/images/icons/type_ELECTRIC.png">,,404
+LUXRAY,Luxray,<img src="/assets/images/icons/type_ELECTRIC.png">,,405
+BUDEW,Budew,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,406
+ROSERADE,Roserade,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,407
+CRANIDOS,Cranidos,<img src="/assets/images/icons/type_rock.png">,,408
+RAMPARDOS,Rampardos,<img src="/assets/images/icons/type_rock.png">,,409
+SHIELDON,Shieldon,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_steel.png">,410
+BASTIODON,Bastiodon,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_steel.png">,411
+BURMY,Burmy,<img src="/assets/images/icons/type_bug.png">,,412
+WORMADAM,Wormadam,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_GRASS.png">,413
+MOTHIM,Mothim,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,414
+COMBEE,Combee,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,415
+VESPIQUEN,Vespiquen,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,416
+PACHIRISU,Pachirisu,<img src="/assets/images/icons/type_ELECTRIC.png">,,417
+BUIZEL,Buizel,<img src="/assets/images/icons/type_WATER.png">,,418
+FLOATZEL,Floatzel,<img src="/assets/images/icons/type_WATER.png">,,419
+CHERUBI,Cherubi,<img src="/assets/images/icons/type_GRASS.png">,,420
+CHERRIM,Cherrim,<img src="/assets/images/icons/type_GRASS.png">,,421
+SHELLOS,Shellos,<img src="/assets/images/icons/type_WATER.png">,,422
+GASTRODON,Gastrodon,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ground.png">,423
+AMBIPOM,Ambipom,<img src="/assets/images/icons/type_normal.png">,,424
+DRIFLOON,Drifloon,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_flying.png">,425
+DRIFBLIM,Drifblim,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_flying.png">,426
+BUNEARY,Buneary,<img src="/assets/images/icons/type_normal.png">,,427
+LOPUNNY,Lopunny,<img src="/assets/images/icons/type_normal.png">,,428
+MISMAGIUS,Mismagius,<img src="/assets/images/icons/type_ghost.png">,,429
+HONCHKROW,Honchkrow,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_flying.png">,430
+GLAMEOW,Glameow,<img src="/assets/images/icons/type_normal.png">,,431
+PURUGLY,Purugly,<img src="/assets/images/icons/type_normal.png">,,432
+CHINGLING,Chingling,<img src="/assets/images/icons/type_PSYCHIC.png">,,433
+STUNKY,Stunky,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_DARK.png">,434
+SKUNTANK,Skuntank,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_DARK.png">,435
+BRONZOR,Bronzor,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,436
+BRONZONG,Bronzong,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,437
+BONSLY,Bonsly,<img src="/assets/images/icons/type_rock.png">,,438
+MIMEJR,Mime Jr.,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_FAIRY.png">,439
+HAPPINY,Happiny,<img src="/assets/images/icons/type_normal.png">,,440
+CHATOT,Chatot,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,441
+SPIRITOMB,Spiritomb,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_DARK.png">,442
+GIBLE,Gible,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_ground.png">,443
+GABITE,Gabite,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_ground.png">,444
+GARCHOMP,Garchomp,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_ground.png">,445
+MUNCHLAX,Munchlax,<img src="/assets/images/icons/type_normal.png">,,446
+RIOLU,Riolu,<img src="/assets/images/icons/type_fighting.png">,,447
+LUCARIO,Lucario,<img src="/assets/images/icons/type_fighting.png">,<img src="/assets/images/icons/type_steel.png">,448
+HIPPOPOTAS,Hippopotas,<img src="/assets/images/icons/type_ground.png">,,449
+HIPPOWDON,Hippowdon,<img src="/assets/images/icons/type_ground.png">,,450
+SKORUPI,Skorupi,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_bug.png">,451
+DRAPION,Drapion,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_DARK.png">,452
+CROAGUNK,Croagunk,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_fighting.png">,453
+TOXICROAK,Toxicroak,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_fighting.png">,454
+CARNIVINE,Carnivine,<img src="/assets/images/icons/type_GRASS.png">,,455
+FINNEON,Finneon,<img src="/assets/images/icons/type_WATER.png">,,456
+LUMINEON,Lumineon,<img src="/assets/images/icons/type_WATER.png">,,457
+MANTYKE,Mantyke,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_flying.png">,458
+SNOVER,Snover,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_ICE.png">,459
+ABOMASNOW,Abomasnow,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_ICE.png">,460
+WEAVILE,Weavile,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_ICE.png">,461
+MAGNEZONE,Magnezone,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_steel.png">,462
+LICKILICKY,Lickilicky,<img src="/assets/images/icons/type_normal.png">,,463
+RHYPERIOR,Rhyperior,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_rock.png">,464
+TANGROWTH,Tangrowth,<img src="/assets/images/icons/type_GRASS.png">,,465
+ELECTIVIRE,Electivire,<img src="/assets/images/icons/type_ELECTRIC.png">,,466
+MAGMORTAR,Magmortar,<img src="/assets/images/icons/type_FIRE.png">,,467
+TOGEKISS,Togekiss,<img src="/assets/images/icons/type_FAIRY.png">,<img src="/assets/images/icons/type_flying.png">,468
+YANMEGA,Yanmega,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,469
+LEAFEON,Leafeon,<img src="/assets/images/icons/type_GRASS.png">,,470
+GLACEON,Glaceon,<img src="/assets/images/icons/type_ICE.png">,,471
+GLISCOR,Gliscor,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_flying.png">,472
+MAMOSWINE,Mamoswine,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_ground.png">,473
+PORYGONZ,Porygon-Z,<img src="/assets/images/icons/type_normal.png">,,474
+GALLADE,Gallade,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_fighting.png">,475
+PROBOPASS,Probopass,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_steel.png">,476
+DUSKNOIR,Dusknoir,<img src="/assets/images/icons/type_ghost.png">,,477
+FROSLASS,Froslass,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_ghost.png">,478
+ROTOM,Rotom,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_ghost.png">,479
+UXIE,Uxie,<img src="/assets/images/icons/type_PSYCHIC.png">,,480
+MESPRIT,Mesprit,<img src="/assets/images/icons/type_PSYCHIC.png">,,481
+AZELF,Azelf,<img src="/assets/images/icons/type_PSYCHIC.png">,,482
+DIALGA,Dialga,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_DRAGON.png">,483
+PALKIA,Palkia,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_DRAGON.png">,484
+HEATRAN,Heatran,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_steel.png">,485
+REGIGIGAS,Regigigas,<img src="/assets/images/icons/type_normal.png">,,486
+GIRATINA,Giratina,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_DRAGON.png">,487
+CRESSELIA,Cresselia,<img src="/assets/images/icons/type_PSYCHIC.png">,,488
+PHIONE,Phione,<img src="/assets/images/icons/type_WATER.png">,,489
+MANAPHY,Manaphy,<img src="/assets/images/icons/type_WATER.png">,,490
+DARKRAI,Darkrai,<img src="/assets/images/icons/type_DARK.png">,,491
+SHAYMIN,Shaymin,<img src="/assets/images/icons/type_GRASS.png">,,492
+ARCEUS,Arceus,<img src="/assets/images/icons/type_normal.png">,,493
+VICTINI,Victini,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_FIRE.png">,494
+SNIVY,Snivy,<img src="/assets/images/icons/type_GRASS.png">,,495
+SERVINE,Servine,<img src="/assets/images/icons/type_GRASS.png">,,496
+SERPERIOR,Serperior,<img src="/assets/images/icons/type_GRASS.png">,,497
+TEPIG,Tepig,<img src="/assets/images/icons/type_FIRE.png">,,498
+PIGNITE,Pignite,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_fighting.png">,499
+EMBOAR,Emboar,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_fighting.png">,500
+OSHAWOTT,Oshawott,<img src="/assets/images/icons/type_WATER.png">,,501
+DEWOTT,Dewott,<img src="/assets/images/icons/type_WATER.png">,,502
+SAMUROTT,Samurott,<img src="/assets/images/icons/type_WATER.png">,,503
+PATRAT,Patrat,<img src="/assets/images/icons/type_normal.png">,,504
+WATCHOG,Watchog,<img src="/assets/images/icons/type_normal.png">,,505
+LILLIPUP,Lillipup,<img src="/assets/images/icons/type_normal.png">,,506
+HERDIER,Herdier,<img src="/assets/images/icons/type_normal.png">,,507
+STOUTLAND,Stoutland,<img src="/assets/images/icons/type_normal.png">,,508
+PURRLOIN,Purrloin,<img src="/assets/images/icons/type_DARK.png">,,509
+LIEPARD,Liepard,<img src="/assets/images/icons/type_DARK.png">,,510
+PANSAGE,Pansage,<img src="/assets/images/icons/type_GRASS.png">,,511
+SIMISAGE,Simisage,<img src="/assets/images/icons/type_GRASS.png">,,512
+PANSEAR,Pansear,<img src="/assets/images/icons/type_FIRE.png">,,513
+SIMISEAR,Simisear,<img src="/assets/images/icons/type_FIRE.png">,,514
+PANPOUR,Panpour,<img src="/assets/images/icons/type_WATER.png">,,515
+SIMIPOUR,Simipour,<img src="/assets/images/icons/type_WATER.png">,,516
+MUNNA,Munna,<img src="/assets/images/icons/type_PSYCHIC.png">,,517
+MUSHARNA,Musharna,<img src="/assets/images/icons/type_PSYCHIC.png">,,518
+PIDOVE,Pidove,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,519
+TRANQUILL,Tranquill,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,520
+UNFEZANT,Unfezant,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,521
+BLITZLE,Blitzle,<img src="/assets/images/icons/type_ELECTRIC.png">,,522
+ZEBSTRIKA,Zebstrika,<img src="/assets/images/icons/type_ELECTRIC.png">,,523
+ROGGENROLA,Roggenrola,<img src="/assets/images/icons/type_rock.png">,,524
+BOLDORE,Boldore,<img src="/assets/images/icons/type_rock.png">,,525
+GIGALITH,Gigalith,<img src="/assets/images/icons/type_rock.png">,,526
+WOOBAT,Woobat,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_flying.png">,527
+SWOOBAT,Swoobat,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_flying.png">,528
+DRILBUR,Drilbur,<img src="/assets/images/icons/type_ground.png">,,529
+EXCADRILL,Excadrill,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_steel.png">,530
+AUDINO,Audino,<img src="/assets/images/icons/type_normal.png">,,531
+TIMBURR,Timburr,<img src="/assets/images/icons/type_fighting.png">,,532
+GURDURR,Gurdurr,<img src="/assets/images/icons/type_fighting.png">,,533
+CONKELDURR,Conkeldurr,<img src="/assets/images/icons/type_fighting.png">,,534
+TYMPOLE,Tympole,<img src="/assets/images/icons/type_WATER.png">,,535
+PALPITOAD,Palpitoad,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ground.png">,536
+SEISMITOAD,Seismitoad,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ground.png">,537
+THROH,Throh,<img src="/assets/images/icons/type_fighting.png">,,538
+SAWK,Sawk,<img src="/assets/images/icons/type_fighting.png">,,539
+SEWADDLE,Sewaddle,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_GRASS.png">,540
+SWADLOON,Swadloon,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_GRASS.png">,541
+LEAVANNY,Leavanny,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_GRASS.png">,542
+VENIPEDE,Venipede,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,543
+WHIRLIPEDE,Whirlipede,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,544
+SCOLIPEDE,Scolipede,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_poison.png">,545
+COTTONEE,Cottonee,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_FAIRY.png">,546
+WHIMSICOTT,Whimsicott,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_FAIRY.png">,547
+PETILIL,Petilil,<img src="/assets/images/icons/type_GRASS.png">,,548
+LILLIGANT,Lilligant,<img src="/assets/images/icons/type_GRASS.png">,,549
+BASCULIN,Basculin,<img src="/assets/images/icons/type_WATER.png">,,550
+SANDILE,Sandile,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_DARK.png">,551
+KROKOROK,Krokorok,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_DARK.png">,552
+KROOKODILE,Krookodile,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_DARK.png">,553
+DARUMAKA,Darumaka,<img src="/assets/images/icons/type_FIRE.png">,,554
+DARMANITAN,Darmanitan,<img src="/assets/images/icons/type_FIRE.png">,,555
+MARACTUS,Maractus,<img src="/assets/images/icons/type_GRASS.png">,,556
+DWEBBLE,Dwebble,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_rock.png">,557
+CRUSTLE,Crustle,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_rock.png">,558
+SCRAGGY,Scraggy,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_fighting.png">,559
+SCRAFTY,Scrafty,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_fighting.png">,560
+SIGILYPH,Sigilyph,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_flying.png">,561
+YAMASK,Yamask,<img src="/assets/images/icons/type_ghost.png">,,562
+COFAGRIGUS,Cofagrigus,<img src="/assets/images/icons/type_ghost.png">,,563
+TIRTOUGA,Tirtouga,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_rock.png">,564
+CARRACOSTA,Carracosta,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_rock.png">,565
+ARCHEN,Archen,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_flying.png">,566
+ARCHEOPS,Archeops,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_flying.png">,567
+TRUBBISH,Trubbish,<img src="/assets/images/icons/type_poison.png">,,568
+GARBODOR,Garbodor,<img src="/assets/images/icons/type_poison.png">,,569
+ZORUA,Zorua,<img src="/assets/images/icons/type_DARK.png">,,570
+ZOROARK,Zoroark,<img src="/assets/images/icons/type_DARK.png">,,571
+MINCCINO,Minccino,<img src="/assets/images/icons/type_normal.png">,,572
+CINCCINO,Cinccino,<img src="/assets/images/icons/type_normal.png">,,573
+GOTHITA,Gothita,<img src="/assets/images/icons/type_PSYCHIC.png">,,574
+GOTHORITA,Gothorita,<img src="/assets/images/icons/type_PSYCHIC.png">,,575
+GOTHITELLE,Gothitelle,<img src="/assets/images/icons/type_PSYCHIC.png">,,576
+SOLOSIS,Solosis,<img src="/assets/images/icons/type_PSYCHIC.png">,,577
+DUOSION,Duosion,<img src="/assets/images/icons/type_PSYCHIC.png">,,578
+REUNICLUS,Reuniclus,<img src="/assets/images/icons/type_PSYCHIC.png">,,579
+DUCKLETT,Ducklett,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_flying.png">,580
+SWANNA,Swanna,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_flying.png">,581
+VANILLITE,Vanillite,<img src="/assets/images/icons/type_ICE.png">,,582
+VANILLISH,Vanillish,<img src="/assets/images/icons/type_ICE.png">,,583
+VANILLUXE,Vanilluxe,<img src="/assets/images/icons/type_ICE.png">,,584
+DEERLING,Deerling,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_GRASS.png">,585
+SAWSBUCK,Sawsbuck,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_GRASS.png">,586
+EMOLGA,Emolga,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_flying.png">,587
+KARRABLAST,Karrablast,<img src="/assets/images/icons/type_bug.png">,,588
+ESCAVALIER,Escavalier,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_steel.png">,589
+FOONGUS,Foongus,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,590
+AMOONGUSS,Amoonguss,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_poison.png">,591
+FRILLISH,Frillish,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ghost.png">,592
+JELLICENT,Jellicent,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ghost.png">,593
+ALOMOMOLA,Alomomola,<img src="/assets/images/icons/type_WATER.png">,,594
+JOLTIK,Joltik,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_ELECTRIC.png">,595
+GALVANTULA,Galvantula,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_ELECTRIC.png">,596
+FERROSEED,Ferroseed,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_steel.png">,597
+FERROTHORN,Ferrothorn,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_steel.png">,598
+KLINK,Klink,<img src="/assets/images/icons/type_steel.png">,,599
+KLANG,Klang,<img src="/assets/images/icons/type_steel.png">,,600
+KLINKLANG,Klinklang,<img src="/assets/images/icons/type_steel.png">,,601
+TYNAMO,Tynamo,<img src="/assets/images/icons/type_ELECTRIC.png">,,602
+EELEKTRIK,Eelektrik,<img src="/assets/images/icons/type_ELECTRIC.png">,,603
+EELEKTROSS,Eelektross,<img src="/assets/images/icons/type_ELECTRIC.png">,,604
+ELGYEM,Elgyem,<img src="/assets/images/icons/type_PSYCHIC.png">,,605
+BEHEEYEM,Beheeyem,<img src="/assets/images/icons/type_PSYCHIC.png">,,606
+LITWICK,Litwick,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_FIRE.png">,607
+LAMPENT,Lampent,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_FIRE.png">,608
+CHANDELURE,Chandelure,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_FIRE.png">,609
+AXEW,Axew,<img src="/assets/images/icons/type_DRAGON.png">,,610
+FRAXURE,Fraxure,<img src="/assets/images/icons/type_DRAGON.png">,,611
+HAXORUS,Haxorus,<img src="/assets/images/icons/type_DRAGON.png">,,612
+CUBCHOO,Cubchoo,<img src="/assets/images/icons/type_ICE.png">,,613
+BEARTIC,Beartic,<img src="/assets/images/icons/type_ICE.png">,,614
+CRYOGONAL,Cryogonal,<img src="/assets/images/icons/type_ICE.png">,,615
+SHELMET,Shelmet,<img src="/assets/images/icons/type_bug.png">,,616
+ACCELGOR,Accelgor,<img src="/assets/images/icons/type_bug.png">,,617
+STUNFISK,Stunfisk,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_ELECTRIC.png">,618
+MIENFOO,Mienfoo,<img src="/assets/images/icons/type_fighting.png">,,619
+MIENSHAO,Mienshao,<img src="/assets/images/icons/type_fighting.png">,,620
+DRUDDIGON,Druddigon,<img src="/assets/images/icons/type_DRAGON.png">,,621
+GOLETT,Golett,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_ghost.png">,622
+GOLURK,Golurk,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_ghost.png">,623
+PAWNIARD,Pawniard,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_steel.png">,624
+BISHARP,Bisharp,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_steel.png">,625
+BOUFFALANT,Bouffalant,<img src="/assets/images/icons/type_normal.png">,,626
+RUFFLET,Rufflet,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,627
+BRAVIARY,Braviary,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,628
+VULLABY,Vullaby,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_flying.png">,629
+MANDIBUZZ,Mandibuzz,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_flying.png">,630
+HEATMOR,Heatmor,<img src="/assets/images/icons/type_FIRE.png">,,631
+DURANT,Durant,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_steel.png">,632
+DEINO,Deino,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_DRAGON.png">,633
+ZWEILOUS,Zweilous,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_DRAGON.png">,634
+HYDREIGON,Hydreigon,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_DRAGON.png">,635
+LARVESTA,Larvesta,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_FIRE.png">,636
+VOLCARONA,Volcarona,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_FIRE.png">,637
+COBALION,Cobalion,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_fighting.png">,638
+TERRAKION,Terrakion,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_fighting.png">,639
+VIRIZION,Virizion,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_fighting.png">,640
+TORNADUS,Tornadus,<img src="/assets/images/icons/type_flying.png">,,641
+THUNDURUS,Thundurus,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_flying.png">,642
+RESHIRAM,Reshiram,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_FIRE.png">,643
+ZEKROM,Zekrom,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_ELECTRIC.png">,644
+LANDORUS,Landorus,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_flying.png">,645
+KYUREM,Kyurem,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_ICE.png">,646
+KELDEO,Keldeo,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_fighting.png">,647
+MELOETTA,Meloetta,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,648
+GENESECT,Genesect,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_steel.png">,649
+CHESPIN,Chespin,<img src="/assets/images/icons/type_GRASS.png">,,650
+QUILLADIN,Quilladin,<img src="/assets/images/icons/type_GRASS.png">,,651
+CHESNAUGHT,Chesnaught,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_fighting.png">,652
+FENNEKIN,Fennekin,<img src="/assets/images/icons/type_FIRE.png">,,653
+BRAIXEN,Braixen,<img src="/assets/images/icons/type_FIRE.png">,,654
+DELPHOX,Delphox,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,655
+FROAKIE,Froakie,<img src="/assets/images/icons/type_WATER.png">,,656
+FROGADIER,Frogadier,<img src="/assets/images/icons/type_WATER.png">,,657
+GRENINJA,Greninja,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_DARK.png">,658
+BUNNELBY,Bunnelby,<img src="/assets/images/icons/type_normal.png">,,659
+DIGGERSBY,Diggersby,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_ground.png">,660
+FLETCHLING,Fletchling,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,661
+FLETCHINDER,Fletchinder,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_flying.png">,662
+TALONFLAME,Talonflame,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_flying.png">,663
+SCATTERBUG,Scatterbug,<img src="/assets/images/icons/type_bug.png">,,664
+SPEWPA,Spewpa,<img src="/assets/images/icons/type_bug.png">,,665
+VIVILLON,Vivillon,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_flying.png">,666
+LITLEO,Litleo,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_normal.png">,667
+PYROAR,Pyroar,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_normal.png">,668
+FLABEBE,Flabébé,<img src="/assets/images/icons/type_FAIRY.png">,,669
+FLOETTE,Floette,<img src="/assets/images/icons/type_FAIRY.png">,,670
+FLORGES,Florges,<img src="/assets/images/icons/type_FAIRY.png">,,671
+SKIDDO,Skiddo,<img src="/assets/images/icons/type_GRASS.png">,,672
+GOGOAT,Gogoat,<img src="/assets/images/icons/type_GRASS.png">,,673
+PANCHAM,Pancham,<img src="/assets/images/icons/type_fighting.png">,,674
+PANGORO,Pangoro,<img src="/assets/images/icons/type_fighting.png">,<img src="/assets/images/icons/type_DARK.png">,675
+FURFROU,Furfrou,<img src="/assets/images/icons/type_normal.png">,,676
+ESPURR,Espurr,<img src="/assets/images/icons/type_PSYCHIC.png">,,677
+MEOWSTIC,Meowstic,<img src="/assets/images/icons/type_PSYCHIC.png">,,678
+HONEDGE,Honedge,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_ghost.png">,679
+DOUBLADE,Doublade,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_ghost.png">,680
+AEGISLASH,Aegislash,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_ghost.png">,681
+SPRITZEE,Spritzee,<img src="/assets/images/icons/type_FAIRY.png">,,682
+AROMATISSE,Aromatisse,<img src="/assets/images/icons/type_FAIRY.png">,,683
+SWIRLIX,Swirlix,<img src="/assets/images/icons/type_FAIRY.png">,,684
+SLURPUFF,Slurpuff,<img src="/assets/images/icons/type_FAIRY.png">,,685
+INKAY,Inkay,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,686
+MALAMAR,Malamar,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,687
+BINACLE,Binacle,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_WATER.png">,688
+BARBARACLE,Barbaracle,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_WATER.png">,689
+SKRELP,Skrelp,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_WATER.png">,690
+DRAGALGE,Dragalge,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_DRAGON.png">,691
+CLAUNCHER,Clauncher,<img src="/assets/images/icons/type_WATER.png">,,692
+CLAWITZER,Clawitzer,<img src="/assets/images/icons/type_WATER.png">,,693
+HELIOPTILE,Helioptile,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_normal.png">,694
+HELIOLISK,Heliolisk,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_normal.png">,695
+TYRUNT,Tyrunt,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_DRAGON.png">,696
+TYRANTRUM,Tyrantrum,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_DRAGON.png">,697
+AMAURA,Amaura,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_ICE.png">,698
+AURORUS,Aurorus,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_ICE.png">,699
+SYLVEON,Sylveon,<img src="/assets/images/icons/type_FAIRY.png">,,700
+HAWLUCHA,Hawlucha,<img src="/assets/images/icons/type_fighting.png">,<img src="/assets/images/icons/type_flying.png">,701
+DEDENNE,Dedenne,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_FAIRY.png">,702
+CARBINK,Carbink,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_FAIRY.png">,703
+GOOMY,Goomy,<img src="/assets/images/icons/type_DRAGON.png">,,704
+SLIGGOO,Sliggoo,<img src="/assets/images/icons/type_DRAGON.png">,,705
+GOODRA,Goodra,<img src="/assets/images/icons/type_DRAGON.png">,,706
+KLEFKI,Klefki,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_FAIRY.png">,707
+PHANTUMP,Phantump,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_GRASS.png">,708
+TREVENANT,Trevenant,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_GRASS.png">,709
+PUMPKABOO,Pumpkaboo,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_GRASS.png">,710
+GOURGEIST,Gourgeist,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_GRASS.png">,711
+BERGMITE,Bergmite,<img src="/assets/images/icons/type_ICE.png">,,712
+AVALUGG,Avalugg,<img src="/assets/images/icons/type_ICE.png">,,713
+NOIBAT,Noibat,<img src="/assets/images/icons/type_flying.png">,<img src="/assets/images/icons/type_DRAGON.png">,714
+NOIVERN,Noivern,<img src="/assets/images/icons/type_flying.png">,<img src="/assets/images/icons/type_DRAGON.png">,715
+XERNEAS,Xerneas,<img src="/assets/images/icons/type_FAIRY.png">,,716
+YVELTAL,Yveltal,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_flying.png">,717
+ZYGARDE,Zygarde,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_ground.png">,718
+DIANCIE,Diancie,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_FAIRY.png">,719
+HOOPA,Hoopa,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_ghost.png">,720
+VOLCANION,Volcanion,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_WATER.png">,721
+ROWLET,Rowlet,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_flying.png">,722
+DARTRIX,Dartrix,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_flying.png">,723
+DECIDUEYE,Decidueye,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_ghost.png">,724
+LITTEN,Litten,<img src="/assets/images/icons/type_FIRE.png">,,725
+TORRACAT,Torracat,<img src="/assets/images/icons/type_FIRE.png">,,726
+INCINEROAR,Incineroar,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_DARK.png">,727
+POPPLIO,Popplio,<img src="/assets/images/icons/type_WATER.png">,,728
+BRIONNE,Brionne,<img src="/assets/images/icons/type_WATER.png">,,729
+PRIMARINA,Primarina,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_FAIRY.png">,730
+PIKIPEK,Pikipek,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,731
+TRUMBEAK,Trumbeak,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,732
+TOUCANNON,Toucannon,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_flying.png">,733
+YUNGOOS,Yungoos,<img src="/assets/images/icons/type_normal.png">,,734
+GUMSHOOS,Gumshoos,<img src="/assets/images/icons/type_normal.png">,,735
+GRUBBIN,Grubbin,<img src="/assets/images/icons/type_bug.png">,,736
+CHARJABUG,Charjabug,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_ELECTRIC.png">,737
+VIKAVOLT,Vikavolt,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_ELECTRIC.png">,738
+CRABRAWLER,Crabrawler,<img src="/assets/images/icons/type_fighting.png">,,739
+CRABOMINABLE,Crabominable,<img src="/assets/images/icons/type_fighting.png">,<img src="/assets/images/icons/type_ICE.png">,740
+ORICORIO,Oricorio,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_flying.png">,741
+CUTIEFLY,Cutiefly,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_FAIRY.png">,742
+RIBOMBEE,Ribombee,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_FAIRY.png">,743
+ROCKRUFF,Rockruff,<img src="/assets/images/icons/type_rock.png">,,744
+LYCANROC,Lycanroc,<img src="/assets/images/icons/type_rock.png">,,745
+WISHIWASHI,Wishiwashi,<img src="/assets/images/icons/type_WATER.png">,,746
+MAREANIE,Mareanie,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_WATER.png">,747
+TOXAPEX,Toxapex,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_WATER.png">,748
+MUDBRAY,Mudbray,<img src="/assets/images/icons/type_ground.png">,,749
+MUDSDALE,Mudsdale,<img src="/assets/images/icons/type_ground.png">,,750
+DEWPIDER,Dewpider,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_bug.png">,751
+ARAQUANID,Araquanid,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_bug.png">,752
+FOMANTIS,Fomantis,<img src="/assets/images/icons/type_GRASS.png">,,753
+LURANTIS,Lurantis,<img src="/assets/images/icons/type_GRASS.png">,,754
+MORELULL,Morelull,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_FAIRY.png">,755
+SHIINOTIC,Shiinotic,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_FAIRY.png">,756
+SALANDIT,Salandit,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_FIRE.png">,757
+SALAZZLE,Salazzle,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_FIRE.png">,758
+STUFFUL,Stufful,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_fighting.png">,759
+BEWEAR,Bewear,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_fighting.png">,760
+BOUNSWEET,Bounsweet,<img src="/assets/images/icons/type_GRASS.png">,,761
+STEENEE,Steenee,<img src="/assets/images/icons/type_GRASS.png">,,762
+TSAREENA,Tsareena,<img src="/assets/images/icons/type_GRASS.png">,,763
+COMFEY,Comfey,<img src="/assets/images/icons/type_FAIRY.png">,,764
+ORANGURU,Oranguru,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,765
+PASSIMIAN,Passimian,<img src="/assets/images/icons/type_fighting.png">,,766
+WIMPOD,Wimpod,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_WATER.png">,767
+GOLISOPOD,Golisopod,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_WATER.png">,768
+SANDYGAST,Sandygast,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_ground.png">,769
+PALOSSAND,Palossand,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_ground.png">,770
+PYUKUMUKU,Pyukumuku,<img src="/assets/images/icons/type_WATER.png">,,771
+TYPENULL,Type Null,<img src="/assets/images/icons/type_normal.png">,,772
+SILVALLY,Silvally,<img src="/assets/images/icons/type_normal.png">,,773
+MINIOR,Minior,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_flying.png">,774
+KOMALA,Komala,<img src="/assets/images/icons/type_normal.png">,,775
+TURTONATOR,Turtonator,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_DRAGON.png">,776
+TOGEDEMARU,Togedemaru,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_steel.png">,777
+MIMIKYU,Mimikyu,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_FAIRY.png">,778
+BRUXISH,Bruxish,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,779
+DRAMPA,Drampa,<img src="/assets/images/icons/type_normal.png">,<img src="/assets/images/icons/type_DRAGON.png">,780
+DHELMISE,Dhelmise,<img src="/assets/images/icons/type_ghost.png">,<img src="/assets/images/icons/type_GRASS.png">,781
+JANGMOO,Jangmo-o,<img src="/assets/images/icons/type_DRAGON.png">,,782
+HAKAMOO,Hakamo-o,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_fighting.png">,783
+KOMMOO,Kommo-o,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_fighting.png">,784
+TAPUKOKO,Tapu Koko,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_FAIRY.png">,785
+TAPULELE,Tapu Lele,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_FAIRY.png">,786
+TAPUBULU,Tapu Bulu,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_FAIRY.png">,787
+TAPUFINI,Tapu Fini,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_FAIRY.png">,788
+COSMOG,Cosmog,<img src="/assets/images/icons/type_PSYCHIC.png">,,789
+COSMOEM,Cosmoem,<img src="/assets/images/icons/type_PSYCHIC.png">,,790
+SOLGALEO,Solgaleo,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_steel.png">,791
+LUNALA,Lunala,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_ghost.png">,792
+NIHILEGO,Nihilego,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_poison.png">,793
+BUZZWOLE,Buzzwole,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_fighting.png">,794
+PHEROMOSA,Pheromosa,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_fighting.png">,795
+XURKITREE,Xurkitree,<img src="/assets/images/icons/type_ELECTRIC.png">,,796
+CELESTEELA,Celesteela,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_flying.png">,797
+KARTANA,Kartana,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_steel.png">,798
+GUZZLORD,Guzzlord,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_DRAGON.png">,799
+NECROZMA,Necrozma,<img src="/assets/images/icons/type_PSYCHIC.png">,,800
+MAGEARNA,Magearna,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_FAIRY.png">,801
+MARSHADOW,Marshadow,<img src="/assets/images/icons/type_fighting.png">,<img src="/assets/images/icons/type_ghost.png">,802
+POIPOLE,Poipole,<img src="/assets/images/icons/type_poison.png">,,803
+NAGANADEL,Naganadel,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_DRAGON.png">,804
+STAKATAKA,Stakataka,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_steel.png">,805
+BLACEPHALON,Blacephalon,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_ghost.png">,806
+ZERAORA,Zeraora,<img src="/assets/images/icons/type_ELECTRIC.png">,,807
+MELTAN,Meltan,<img src="/assets/images/icons/type_steel.png">,,808
+MELMETAL,Melmetal,<img src="/assets/images/icons/type_steel.png">,,809
+GROOKEY,Grookey,<img src="/assets/images/icons/type_GRASS.png">,,810
+THWACKEY,Thwackey,<img src="/assets/images/icons/type_GRASS.png">,,811
+RILLABOOM,Rillaboom,<img src="/assets/images/icons/type_GRASS.png">,,812
+SCORBUNNY,Scorbunny,<img src="/assets/images/icons/type_FIRE.png">,,813
+RABOOT,Raboot,<img src="/assets/images/icons/type_FIRE.png">,,814
+CINDERACE,Cinderace,<img src="/assets/images/icons/type_FIRE.png">,,815
+SOBBLE,Sobble,<img src="/assets/images/icons/type_WATER.png">,,816
+DRIZZILE,Drizzile,<img src="/assets/images/icons/type_WATER.png">,,817
+INTELEON,Inteleon,<img src="/assets/images/icons/type_WATER.png">,,818
+SKWOVET,Skwovet,<img src="/assets/images/icons/type_normal.png">,,819
+GREEDENT,Greedent,<img src="/assets/images/icons/type_normal.png">,,820
+ROOKIDEE,Rookidee,<img src="/assets/images/icons/type_flying.png">,,821
+CORVISQUIRE,Corvisquire,<img src="/assets/images/icons/type_flying.png">,,822
+CORVIKNIGHT,Corviknight,<img src="/assets/images/icons/type_flying.png">,<img src="/assets/images/icons/type_steel.png">,823
+BLIPBUG,Blipbug,<img src="/assets/images/icons/type_bug.png">,,824
+DOTTLER,Dottler,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,825
+ORBEETLE,Orbeetle,<img src="/assets/images/icons/type_bug.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,826
+NICKIT,Nickit,<img src="/assets/images/icons/type_DARK.png">,,827
+THIEVUL,Thievul,<img src="/assets/images/icons/type_DARK.png">,,828
+GOSSIFLEUR,Gossifleur,<img src="/assets/images/icons/type_GRASS.png">,,829
+ELDEGOSS,Eldegoss,<img src="/assets/images/icons/type_GRASS.png">,,830
+WOOLOO,Wooloo,<img src="/assets/images/icons/type_normal.png">,,831
+DUBWOOL,Dubwool,<img src="/assets/images/icons/type_normal.png">,,832
+CHEWTLE,Chewtle,<img src="/assets/images/icons/type_WATER.png">,,833
+DREDNAW,Drednaw,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_rock.png">,834
+YAMPER,Yamper,<img src="/assets/images/icons/type_ELECTRIC.png">,,835
+BOLTUND,Boltund,<img src="/assets/images/icons/type_ELECTRIC.png">,,836
+ROLYCOLY,Rolycoly,<img src="/assets/images/icons/type_rock.png">,,837
+CARKOL,Carkol,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_FIRE.png">,838
+COALOSSAL,Coalossal,<img src="/assets/images/icons/type_rock.png">,<img src="/assets/images/icons/type_FIRE.png">,839
+APPLIN,Applin,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_DRAGON.png">,840
+FLAPPLE,Flapple,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_DRAGON.png">,841
+APPLETUN,Appletun,<img src="/assets/images/icons/type_GRASS.png">,<img src="/assets/images/icons/type_DRAGON.png">,842
+SILICOBRA,Silicobra,<img src="/assets/images/icons/type_ground.png">,,843
+SANDACONDA,Sandaconda,<img src="/assets/images/icons/type_ground.png">,,844
+CRAMORANT,Cramorant,<img src="/assets/images/icons/type_flying.png">,<img src="/assets/images/icons/type_WATER.png">,845
+ARROKUDA,Arrokuda,<img src="/assets/images/icons/type_WATER.png">,,846
+BARRASKEWDA,Barraskewda,<img src="/assets/images/icons/type_WATER.png">,,847
+TOXEL,Toxel,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_poison.png">,848
+TOXTRICITY,Toxtricity,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_poison.png">,849
+SIZZLIPEDE,Sizzlipede,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_bug.png">,850
+CENTISKORCH,Centiskorch,<img src="/assets/images/icons/type_FIRE.png">,<img src="/assets/images/icons/type_bug.png">,851
+CLOBBOPUS,Clobbopus,<img src="/assets/images/icons/type_fighting.png">,,852
+GRAPPLOCT,Grapploct,<img src="/assets/images/icons/type_fighting.png">,,853
+SINISTEA,Sinistea,<img src="/assets/images/icons/type_ghost.png">,,854
+POLTEAGEIST,Polteageist,<img src="/assets/images/icons/type_ghost.png">,,855
+HATENNA,Hatenna,<img src="/assets/images/icons/type_PSYCHIC.png">,,856
+HATTREM,Hattrem,<img src="/assets/images/icons/type_PSYCHIC.png">,,857
+HATTERENE,Hatterene,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_FAIRY.png">,858
+IMPIDIMP,Impidimp,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_FAIRY.png">,859
+MORGREM,Morgrem,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_FAIRY.png">,860
+GRIMMSNARL,Grimmsnarl,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_FAIRY.png">,861
+OBSTAGOON,Obstagoon,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_normal.png">,862
+PERRSERKER,Perrserker,<img src="/assets/images/icons/type_steel.png">,,863
+CURSOLA,Cursola,<img src="/assets/images/icons/type_ghost.png">,,864
+SIRFETCHD,Sirfetch'd,<img src="/assets/images/icons/type_fighting.png">,,865
+MRRIME,Mr. Rime,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_PSYCHIC.png">,866
+RUNERIGUS,Runerigus,<img src="/assets/images/icons/type_ground.png">,<img src="/assets/images/icons/type_ghost.png">,867
+MILCERY,Milcery,<img src="/assets/images/icons/type_FAIRY.png">,,868
+ALCREMIE,Alcremie,<img src="/assets/images/icons/type_FAIRY.png">,,869
+FALINKS,Falinks,<img src="/assets/images/icons/type_fighting.png">,,870
+PINCURCHIN,Pincurchin,<img src="/assets/images/icons/type_ELECTRIC.png">,,871
+SNOM,Snom,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_bug.png">,872
+FROSMOTH,Frosmoth,<img src="/assets/images/icons/type_ICE.png">,<img src="/assets/images/icons/type_bug.png">,873
+STONJOURNER,Stonjourner,<img src="/assets/images/icons/type_rock.png">,,874
+EISCUE,Eiscue,<img src="/assets/images/icons/type_ICE.png">,,875
+INDEEDEE,Indeedee,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_normal.png">,876
+MORPEKO,Morpeko,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_DARK.png">,877
+CUFANT,Cufant,<img src="/assets/images/icons/type_steel.png">,,878
+COPPERAJAH,Copperajah,<img src="/assets/images/icons/type_steel.png">,,879
+DRACOZOLT,Dracozolt,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_DRAGON.png">,880
+ARCTOZOLT,Arctozolt,<img src="/assets/images/icons/type_ELECTRIC.png">,<img src="/assets/images/icons/type_ICE.png">,881
+DRACOVISH,Dracovish,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_DRAGON.png">,882
+ARCTOVISH,Arctovish,<img src="/assets/images/icons/type_WATER.png">,<img src="/assets/images/icons/type_ICE.png">,883
+DURALUDON,Duraludon,<img src="/assets/images/icons/type_steel.png">,<img src="/assets/images/icons/type_DRAGON.png">,884
+DREEPY,Dreepy,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_ghost.png">,885
+DRAKLOAK,Drakloak,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_ghost.png">,886
+DRAGAPULT,Dragapult,<img src="/assets/images/icons/type_DRAGON.png">,<img src="/assets/images/icons/type_ghost.png">,887
+ZACIAN,Zacian,<img src="/assets/images/icons/type_FAIRY.png">,,888
+ZAMAZENTA,Zamazenta,<img src="/assets/images/icons/type_fighting.png">,,889
+ETERNATUS,Eternatus,<img src="/assets/images/icons/type_poison.png">,<img src="/assets/images/icons/type_DRAGON.png">,890
+KUBFU,Kubfu,<img src="/assets/images/icons/type_fighting.png">,,891
+URSHIFU,Urshifu,<img src="/assets/images/icons/type_fighting.png">,<img src="/assets/images/icons/type_DARK.png">,892
+ZARUDE,Zarude,<img src="/assets/images/icons/type_DARK.png">,<img src="/assets/images/icons/type_GRASS.png">,893
+REGIELEKI,Regieleki,<img src="/assets/images/icons/type_ELECTRIC.png">,,894
+REGIDRAGO,Regidrago,<img src="/assets/images/icons/type_DRAGON.png">,,895
+GLASTRIER,Glastrier,<img src="/assets/images/icons/type_ICE.png">,,896
+SPECTRIER,Spectrier,<img src="/assets/images/icons/type_ghost.png">,,897
+CALYREX,Calyrex,<img src="/assets/images/icons/type_PSYCHIC.png">,<img src="/assets/images/icons/type_GRASS.png">,898

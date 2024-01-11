@@ -1,0 +1,22 @@
+18,22
+15%	Binacle
+10%	Mareanie
+5%	Goldeen
+5%	Skrelp
+5%	Tympole
+5%	Mantyke
+5%	Carvanha
+5%	Horsea
+5%	Remoraid
+5%	Poliwag
+5%	Chinchou
+5%	Finizen
+5%	Krabby
+5%	Corphish
+3%	Dhelmise
+3%	Luvdisc
+3%	Finneon
+2%	Clamperl
+2%	Qwilfish
+1%	Feebas
+1%	Dratini

@@ -1,0 +1,5 @@
+﻿Name       = Voltseon's Outfit System
+Version    = 1.0
+Essentials = 20.1
+Website    = https://www.voltseon.com/
+Credits    = Voltseon

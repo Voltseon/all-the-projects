@@ -1,0 +1,5 @@
+﻿Name      = Fly Animation by KleinStudio
+Version   = 2.0
+Essentials = 20.1
+Website   = https://github.com/Jack1324567/PE-Custom-Script
+Credits   = KleinStudio (original), bo4p5687 (update)

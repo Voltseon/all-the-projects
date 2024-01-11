@@ -1,0 +1,1180 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[032]   # Asher Village
+Name = Asher Village
+Name = 
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,14,11
+BattleBack = path
+Environment = None
+#-------------------------------
+[033]   # \PN's House
+Name = \PN's House
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,14,11
+#-------------------------------
+[039]   # Mysterious Isle
+Name = Mysterious Isle
+DiveMap = 43
+#-------------------------------
+[040]   # Underwater Passage
+Name = Underwater Passage
+ShowArea = true
+MapPosition = 0,11,17
+DarkMap = true
+BattleBack = sea
+MapSize = 7,1111111
+Environment = MovingWater
+#-------------------------------
+[041]   # Underwater Passage
+Name = Underwater Passage
+ShowArea = true
+MapPosition = 0,16,17
+DarkMap = true
+#-------------------------------
+[042]   # Borad's House
+Name = Borad's House
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,14,11
+#-------------------------------
+[043]   # Underwater Passage
+Name = Underwater Passage
+Outdoor = false
+ShowArea = true
+MapPosition = 0,9,19
+DarkMap = true
+#-------------------------------
+[048]   # Route 301
+Name = Route 301
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,9
+BattleBack = grass
+MapSize = 1,11
+Environment = Grass
+#-------------------------------
+[058]   # Battle Palace
+Name = Battle Frontier
+MapPosition = 0,3,15
+#-------------------------------
+[059]   # Battle Palace arena
+Name = Battle Frontier
+MapPosition = 0,3,15
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[060]   # Battle Arena
+Name = Battle Frontier
+MapPosition = 0,3,15
+#-------------------------------
+[061]   # Battle Arena arena
+Name = Battle Frontier
+MapPosition = 0,3,15
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[062]   # Battle Factory
+Name = Battle Frontier
+MapPosition = 0,3,15
+#-------------------------------
+[063]   # Battle Factory intro corridor
+Name = Battle Frontier
+MapPosition = 0,3,15
+Flags = DisableBoxLink
+#-------------------------------
+[064]   # Battle Factory arena
+Name = Battle Frontier
+MapPosition = 0,3,15
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[065]   # Battle Factory corridor
+Name = Battle Frontier
+MapPosition = 0,3,15
+Flags = DisableBoxLink
+#-------------------------------
+[076]   # Bulkan Town
+Name = Bulkan Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,8
+BattleBack = path
+MapSize = 2,11
+#-------------------------------
+[077]   # Bulkan Poké Mart
+Name = Bulkan Poké Mart
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,14,8
+#-------------------------------
+[078]   # Bulkan Poké Center
+Name = Bulkan Poké Center
+Outdoor = false
+ShowArea = false
+HealingSpot = 76,35,17
+MapPosition = 0,15,8
+#-------------------------------
+[079]   # Bulkan Town
+Name = Bulkan Town
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,14,8
+#-------------------------------
+[080]   # Laboratory
+Name = Laboratory
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,15,8
+#-------------------------------
+[081]   # Route 302
+Name = Route 302
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,8
+BattleBack = grass
+MapSize = 4,1111
+Environment = Grass
+#-------------------------------
+[082]   # Artemis City
+Name = Artemis City
+Name = 
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,8
+BattleBack = path
+#-------------------------------
+[083]   # Artemis Poké Mart
+Name = Artemis Poké Mart
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,20,8
+#-------------------------------
+[084]   # Artemis Poké Center
+Name = Artemis Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 82,27,28
+MapPosition = 0,20,8
+#-------------------------------
+[085]   # Artemis City
+Name = Artemis City
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,20,8
+#-------------------------------
+[086]   # Artemis City
+Name = Artemis City
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,20,8
+#-------------------------------
+[087]   # Artemis City
+Name = Artemis City
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,20,8
+#-------------------------------
+[088]   # Artemis City
+Name = Artemis City
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,20,8
+#-------------------------------
+[089]   # Artemis City Gym
+Name = Artemis City Gym
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,20,8
+BattleBack = arena5
+Environment = Mud
+#-------------------------------
+[090]   # Artemis Woods
+Name = Artemis Woods
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,8
+BattleBack = forest
+MapSize = 3,111
+Environment = Forest
+Flags = CannotHail
+#-------------------------------
+[091]   # Flimsy Cave
+Name = Flimsy Cave
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,23,7
+DarkMap = true
+BattleBack = cave
+Environment = Cave
+#-------------------------------
+[092]   # Route 303
+Name = Route 303
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,9
+BattleBack = grass
+MapSize = 1,11
+Environment = Grass
+#-------------------------------
+[093]   # Tildar City
+Name = Tildar City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,11
+BattleBack = path
+MapSize = 2,11
+#-------------------------------
+[094]   # Tildar Poké Mart
+Name = Tildar Poké Mart
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,23,11
+#-------------------------------
+[095]   # Tildar Poké Center
+Name = Tildar Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 93,26,34
+MapPosition = 0,22,11
+#-------------------------------
+[096]   # Tildar City
+Name = Tildar City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,22,11
+#-------------------------------
+[097]   # Tildar City
+Name = Tildar City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,22,11
+#-------------------------------
+[098]   # Tildar City Gym
+Name = Tildar City Gym
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,23,11
+BattleBack = arena1
+#-------------------------------
+[099]   # Route 304
+Name = Route 304
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,12
+BattleBack = path
+MapSize = 1,11
+#-------------------------------
+[100]   # Route 305
+Name = Route 305
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,100
+MapPosition = 0,20,14
+BattleBack = desert
+MapSize = 6,001111001001001000111000
+Environment = Sand
+Flags = CannotHail,CannotRain,CannotSun
+#-------------------------------
+[101]   # Hubris Town
+Name = Hubris Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,50
+MapPosition = 0,26,15
+BattleBack = desert
+Environment = Sand
+Flags = CannotRain,CannotHail,CannotSun
+#-------------------------------
+[102]   # Hubris Poké Center
+Name = Hubris Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 101,17,22
+MapPosition = 0,26,15
+#-------------------------------
+[103]   # Hubris Town
+Name = Hubris Town
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,26,15
+#-------------------------------
+[104]   # Hubris Town
+Name = Hubris Town
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,26,15
+#-------------------------------
+[105]   # Hubris Museum
+Name = Hubris Museum
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,26,15
+#-------------------------------
+[106]   # Hubris Tunnel
+Name = Hubris Tunnel
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,27,15
+BattleBack = cave
+Environment = Rock
+#-------------------------------
+[107]   # Smith City
+Name = Smith City
+Name = 
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,16
+BattleBack = desert
+MapSize = 2,1111
+Environment = Sand
+Flags = CannotRain,CannotHail,CannotSun
+#-------------------------------
+[108]   # Smith Poké Mart
+Name = Smith Poké Mart
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,19,17
+#-------------------------------
+[109]   # Smith Poké Center
+Name = Smith Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 107,29,24
+MapPosition = 0,19,17
+#-------------------------------
+[110]   # Smith City Gym
+Name = Smith City Gym
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,18,16
+BattleBack = arena2
+Environment = Sand
+#-------------------------------
+[111]   # Smith City
+Name = Smith City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,19,16
+#-------------------------------
+[112]   # Smith City Bike Shop
+Name = Smith City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,19,16
+#-------------------------------
+[113]   # Smith City
+Name = Smith City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,18,16
+#-------------------------------
+[114]   # Smith City
+Name = Smith City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,18,17
+#-------------------------------
+[115]   # Smith City
+Name = Smith City
+Name = 
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,19,16
+#-------------------------------
+[121]   # Route 306
+Name = Route 306
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,11,17
+DiveMap = 40
+BattleBack = sand
+MapSize = 7,1111111
+Flags = CannotRain,CannotSun,CannotHail
+#-------------------------------
+[122]   # Route 307
+Name = Route 307
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,33
+MapPosition = 0,11,14
+BattleBack = path
+MapSize = 1,111
+Environment = TallGrass
+#-------------------------------
+[123]   # Route 308
+Name = Route 308
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,11,9
+BattleBack = path
+MapSize = 1,111
+Environment = Rock
+#-------------------------------
+[124]   # Bright Cave
+Name = Bright Cave
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,12,10
+BattleBack = cave
+Environment = Cave
+Flags = Magnetic
+#-------------------------------
+[125]   # Galvin City
+Name = Galvin City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,11,8
+BattleBack = path
+#-------------------------------
+[126]   # Galvin Poké Mart
+Name = Galvin Poké Mart
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,11,8
+#-------------------------------
+[127]   # Galvin Poké Center
+Name = Galvin Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 125,19,19
+MapPosition = 0,11,8
+#-------------------------------
+[128]   # Galvin City Gym
+Name = Galvin City Gym
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,11,8
+BattleBack = arena4
+#-------------------------------
+[129]   # Galvin City
+Name = Galvin City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,11,8
+#-------------------------------
+[130]   # Galvin City
+Name = Galvin City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,11,8
+#-------------------------------
+[131]   # Galvin City
+Name = Galvin City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,11,8
+#-------------------------------
+[132]   # Galvin Casino
+Name = Galvin City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,11,8
+#-------------------------------
+[133]   # Route 309
+Name = Route 309
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,12,8
+BattleBack = path
+MapSize = 2,11
+Environment = Grass
+#-------------------------------
+[134]   # Route 310
+Name = Route 310
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,10,12
+BattleBack = path
+Environment = Mud
+#-------------------------------
+[135]   # Dim Village
+Name = Dim Village
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,9,12
+BattleBack = path
+#-------------------------------
+[136]   # Dim Village Poké Center
+Name = Dim Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 135,30,17
+MapPosition = 0,9,12
+#-------------------------------
+[137]   # Dim Village
+Name = Dim Village
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,9,12
+#-------------------------------
+[138]   # Dim Village
+Name = Dim Village
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,9,12
+#-------------------------------
+[139]   # Dim Village
+Name = Dim Village
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,9,12
+#-------------------------------
+[140]   # Dim Village Berry House
+Name = Dim Village
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,9,12
+#-------------------------------
+[141]   # Jalsin City
+Name = Jalsin City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,11,12
+BattleBack = path
+MapSize = 1,11
+#-------------------------------
+[142]   # Jalsin Poké Mart
+Name = Jalsin Poké Mart
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,11,12
+#-------------------------------
+[143]   # Jalsin Poké Center
+Name = Jalsin Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 141,18,17
+MapPosition = 0,11,12
+#-------------------------------
+[144]   # Jalsin City Gym
+Name = Jalsin City Gym
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,11,13
+BattleBack = arena3
+#-------------------------------
+[145]   # Jalsin City
+Name = Jalsin City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,11,12
+#-------------------------------
+[146]   # Jalsin City
+Name = Jalsin City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,11,12
+#-------------------------------
+[147]   # Jalsin City
+Name = Jalsin City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,11,12
+#-------------------------------
+[148]   # Dim Forest
+Name = Dim Forest
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,9,8
+BattleBack = forest
+MapSize = 1,1111
+Environment = Mystical
+Flags = CannotRain,CannotHail,CannotSun
+#-------------------------------
+[149]   # Route 311
+Name = Route 311
+Name = 
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,8,9
+BattleBack = path
+Environment = Mystical
+#-------------------------------
+[150]   # Polter City
+Name = Polter City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,7,9
+BattleBack = path
+#-------------------------------
+[151]   # Polter Poké Mart
+Name = Polter Poké Mart
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,7,9
+#-------------------------------
+[152]   # Polter Poké Center
+Name = Polter Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 150,35,15
+MapPosition = 0,7,9
+#-------------------------------
+[153]   # Polter City Gym
+Name = Polter City Gym
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,7,9
+DarkMap = true
+BattleBack = arena6
+#-------------------------------
+[154]   # Polter City
+Name = Polter City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,7,9
+#-------------------------------
+[155]   # Polter City
+Name = Polter City
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,7,9
+#-------------------------------
+[156]   # Polter City
+Name = Polter City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,7,9
+#-------------------------------
+[157]   # Route 312
+Name = Route 312
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,9,4
+BattleBack = path
+MapSize = 1,11111
+Environment = Grass
+#-------------------------------
+[158]   # Bronze Shrine
+Name = Bronze Shrine
+Outdoor = true
+ShowArea = true
+Bicycle = false
+MapPosition = 0,10,6
+BattleBack = forest
+Environment = Mystical
+Flags = CannotRain,CannotSun,CannotHail
+#-------------------------------
+[159]   # Arcane City
+Name = Arcane City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,9,3
+BattleBack = path
+MapSize = 2,11
+#-------------------------------
+[160]   # Arcane Poké Mart
+Name = Arcane Poké Mart
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,9,3
+#-------------------------------
+[161]   # Arcane Poké Center
+Name = Arcane Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 159,14,36
+MapPosition = 0,9,3
+#-------------------------------
+[162]   # Arcane City Gym
+Name = Arcane City Gym
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,9,3
+BattleBack = arena7
+#-------------------------------
+[163]   # Arcane City
+Name = Arcane City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,9,3
+#-------------------------------
+[164]   # Arcane City
+Name = Arcane City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,9,3
+#-------------------------------
+[165]   # Tildar Day Care
+Name = Tildar Day Care
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,23,11
+#-------------------------------
+[166]   # Artemis Woods
+Name = Artemis Woods
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,6
+BattleBack = forest
+Environment = Forest
+Flags = CannotHail,MossRock
+#-------------------------------
+[167]   # Bulgart Town
+Name = Bulgart Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,50
+MapPosition = 0,23,4
+BattleBack = snow
+MapSize = 1,11
+Environment = Snow
+Flags = CannotRain,CannotSun
+#-------------------------------
+[168]   # Bulgart Poké Mart
+Name = Bulgart Poké Mart
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,23,4
+#-------------------------------
+[169]   # Bulgart Poké Center
+Name = Bulgart Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 167,23,30
+MapPosition = 0,23,5
+#-------------------------------
+[170]   # Bulgart Town
+Name = Bulgart Town
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,23,4
+#-------------------------------
+[171]   # Bulgart Town
+Name = Bulgart Town
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,23,5
+#-------------------------------
+[172]   # Route 313
+Name = Route 313
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,50
+MapPosition = 0,23,3
+SnapEdges = false
+BattleBack = snow
+Environment = Snow
+Flags = CannotRain,CannotSun,IceRock
+#-------------------------------
+[173]   # Upil City
+Name = Upil City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,50
+MapPosition = 0,22,1
+BattleBack = snow
+MapSize = 2,1111
+Environment = Snow
+#-------------------------------
+[174]   # Upil Poké Mart
+Name = Upil Poké Mart
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,23,1
+#-------------------------------
+[175]   # Upil Poké Center
+Name = Upil Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 173,47,20
+MapPosition = 0,23,1
+#-------------------------------
+[176]   # Upil City Gym
+Name = Upil City Gym
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,22,1
+BattleBack = arena8
+Environment = Mystical
+#-------------------------------
+[177]   # Upil City
+Name = Upil City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,22,1
+#-------------------------------
+[178]   # Upil City
+Name = Upil City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,23,1
+#-------------------------------
+[179]   # Upil City
+Name = Upil City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,22,2
+#-------------------------------
+[180]   # Mt. Vanity 1F
+Name = Mt. Vanity
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,10,2
+BattleBack = cave
+MapSize = 4,
+Environment = Cave
+#-------------------------------
+[181]   # Mt. Vanity B1F
+Name = Mt. Vanity
+Outdoor = false
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,10,2
+DiveMap = 182
+BattleBack = cave
+MapSize = 4,1111
+Environment = Cave
+#-------------------------------
+[182]   # Mt. Vanity B2F
+Name = Mt. Vanity
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,12,2
+DarkMap = true
+BattleBack = sea
+Environment = MovingWater
+#-------------------------------
+[183]   # Liberty Town
+Name = Liberty Town
+Outdoor = true
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,2
+BattleBack = path
+Environment = Grass
+#-------------------------------
+[184]   # Liberty Poké Center
+Name = Liberty Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 183,23,25
+MapPosition = 0,14,2
+#-------------------------------
+[185]   # Victory Road
+Name = Victory Road
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,3
+BattleBack = cave
+Environment = Cave
+#-------------------------------
+[186]   # Route 314
+Name = Route 314
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Blizzard,100
+MapPosition = 0,15,1
+BattleBack = snow
+MapSize = 7,00011111111000
+Environment = Snow
+Flags = CannotRain,CannotHail,CannotSun
+#-------------------------------
+[187]   # Victory City
+Name = Victory City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,4
+BattleBack = path
+#-------------------------------
+[188]   # Victory Poké Center
+Name = Victory Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 187,15,18
+MapPosition = 0,14,4
+#-------------------------------
+[189]   # Victory City
+Name = Victory City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,4
+#-------------------------------
+[190]   # Victory City
+Name = Victory City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,4
+#-------------------------------
+[191]   # Victory Dept. Store 1F
+Name = Victory Dept. Store
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,14,4
+#-------------------------------
+[192]   # Victory Dept. Store 2F
+Name = Victory Dept. Store
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,14,4
+#-------------------------------
+[193]   # Victory Dept. Store 3F
+Name = Victory Dept. Store
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,14,4
+#-------------------------------
+[194]   # Victory Dept. Store 4F
+Name = Victory Dept. Store
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,14,4
+#-------------------------------
+[195]   # Victory Dept. Store 5F
+Name = Victory Dept. Store
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,14,4
+#-------------------------------
+[196]   # Victory Dept. Store Elevator
+Name = Victory Dept. Store
+Outdoor = false
+ShowArea = false
+Bicycle = false
+MapPosition = 0,14,4
+#-------------------------------
+[197]   # Tepora League
+Name = Tepora League
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,5
+BattleBack = path
+#-------------------------------
+[198]   # Tepora League
+Name = Tepora League
+Outdoor = false
+ShowArea = true
+Bicycle = false
+HealingSpot = 197,37,17
+MapPosition = 0,14,5
+#-------------------------------
+[199]   # Herman Room
+Name = Tepora League
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,5
+BattleBack = arena9
+Environment = Sky
+#-------------------------------
+[200]   # Olaf Room
+Name = Tepora League
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,5
+BattleBack = arena10
+Environment = Snow
+#-------------------------------
+[201]   # Susanne Room
+Name = Tepora League
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,5
+BattleBack = arena11
+Environment = Volcano
+#-------------------------------
+[202]   # Marguerite Room
+Name = Tepora League
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,5
+BattleBack = arena12
+Environment = Space
+#-------------------------------
+[203]   # Orchid Room
+Name = Tepora League
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,5
+BattleBack = arena13
+Environment = Mystical
+#-------------------------------
+[204]   # Hall of Fame
+Name = Hall of Fame
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,5
+#-------------------------------
+[205]   # Dev Room
+Name = Victory City
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,14,4
+BattleBack = indoor2
+#-------------------------------
+[206]   # Silver Isle
+Name = Silver Isle
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,11
+BattleBack = path
+Environment = Mystical
+#-------------------------------
+[207]   # Silver Shrine
+Name = Silver Shrine
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,11
+BattleBack = path
+Environment = Mystical
+#-------------------------------
+[209]   # Gold Isle
+Name = Gold Isle
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,7
+BattleBack = path
+Environment = Mystical
+#-------------------------------
+[210]   # Battle Island
+Name = Battle Island
+Name = 
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,3,15
+BattleBack = path
+#-------------------------------
+[211]   # Battle Island Poké Center
+Name = Battle Island Poké Center
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+HealingSpot = 210,24,30
+MapPosition = 0,3,15

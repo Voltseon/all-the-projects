@@ -1,0 +1,220 @@
+TrainerType;Name;LoseText;Map
+RIVAL1;Borad;That was spectacular!;
+RIVAL1;Borad;Wow! That was a fascinating battle!;
+RIVAL1;Borad;Thank you for the experience, even though I lost...;
+RIVAL1;Borad;One day I will beat you! Unfortunately that wasn't today...;
+RIVAL1;Borad;If it wasn't for you, I might've thought I was the strongest trainer...;
+RIVAL2;Ashley;Urgh... Whatever;
+RIVAL2;Ashley;You just got lucky...;
+RIVAL2;Ashley;I don't have to take this...;
+RIVAL2;Ashley;You're saying I made a mistake?;
+LEADER_Derek;Derek;Good job! That was an amazing performance!;
+LEADER_Pascal;Pascal;Sheesh, that was a tough battle. Good job!;
+LEADER_June;June;Spectacular! I loved every minute of the battle!;
+LEADER_Jackson;Jackson;Wow that was amazing! What a performance!;
+LEADER_Ingrid;Ingrid;Urgh! I lost?! What a surprise...;
+LEADER_Tommy;Tommy;...?;
+LEADER_LizArnold;Liz & Arnold;Liz: This is your fault! Arnold: No you messed it up!;
+LEADER_Upsilon;Upsilon;Great.;
+ELITEFOUR_Herman;Herman;Act normal? I've lost? Pancakes! Just fly away already.;
+ELITEFOUR_Olaf;Olaf;It's ok. I just need to have ice in my stomach.;
+ELITEFOUR_Susanne;Susanne;Good grief bacon. I should not have lost that. I need a snack.;
+ELITEFOUR_Marguerite;Marguerite;My bowl is full...;
+CHAMPION;Orchid;Excellent...;
+YOUNGSTER;Jonas;How did I lose?;Route 301
+YOUNGSTER;Jonas;How did I lose again?;Route 301
+LASS;Erica;Bugs scare me!;Route 302
+LASS;Erica;Bugs scare me!;Route 302
+BUGCATCHER;Patrick;I disappointed my bugs!;Route 302
+BUGCATCHER;Jeremy;Yes, I have bugs and I have bugs!;Artemis Woods
+BUGCATCHER;Andrew;Doo... Doo... Oops!;Artemis Woods
+BUGCATCHER;Andrew;Doo... Doo... Oops!;Artemis Woods
+BUGCATCHER;Logan;I wanna make it big time!;Artemis Woods
+HIKER;Grieg;What is your problem?;Artemis Woods
+LASS;Lizzy;You've scared me and I don't have any problems to deal with it right now.;Artemis Woods
+AROMALADY;Alice;What, I have a problem?;Artemis Woods
+YOUNGCOUPLE;Matthew & Stephanie;We were just theorizing.;Artemis Woods
+BUGCATCHER;Alejandro;Way to go!;Artemis Woods
+BUGCATCHER;Randy;That's odd.;Artemis Woods
+BIRDKEEPER;Raphael;I was no match...;Artemis Woods
+HIKER;Fletcher;Could we try that again?;Flimsy Cave
+HIKER;Fletcher;Could we try that again?;Flimsy Cave
+KINDLER;Tanner;The heat in my heart is no longer burning.;Flimsy Cave
+CRUSHGIRL;Bonnie;Argh!;Flimsy Cave
+BLACKBELT;Daniel;Urgh!;Flimsy Cave
+HEXMANIAC;Valerie;...???!!!;Flimsy Cave
+SAILOR;Irvin;I should've caught more Pokémon.;Route 303
+BEAUTY;Tonya;Does my hair still look good?;Route 303
+BEAUTY;Tonya;Does my hair still look good?;Route 303
+YOUNGSTER;Dani;Derek will beat you for sure!;Tildar City Gym
+YOUNGSTER;Alec;I wish I was stronger!;Tildar City Gym
+LASS;Victoria;Ah! Darn!;Tildar City Gym
+SAILOR;Jerry;I could have sworn I caught the best Pokémon!;Route 304
+SAILOR;Jerry;I even caught more Pokémon, it didn't help!;Route 304
+SWIMMER_F;Alice;Better luck next time I suppose...;Route 304
+TUBER_M;Jimmy;No fair!;Route 304
+FISHERMAN;Arnold;Heh! That's how it goes!;Route 304
+SWIMMER_F;Erin;Unfortunate.;Route 304
+SWIMMER_F;Allyn;I'll never tell you!;Route 304
+SWIMMER_M;Ryan;I've got to keep swimming!;Route 304
+SWIMMER_M;Isaac;The water is actually pretty nice.;Route 304
+TUBER_M;Fabian;Waaahhhh!!;Route 304
+TUBER_F;Jessie;No! I lost!;Route 304
+RUINMANIAC;Toby;Inadequate...;Route 305
+RUINMANIAC;Albert;Interesting...;Route 305
+BLACKBELT;Donell;Urgh! I lost!;Route 305
+CRUSHGIRL;Florine;I have got to remain calm...;Route 305
+CRUSHGIRL;Sandy;How could this happen to me?;Route 305
+TAMER;Graham;I should have trained my Pokémon more.;Route 305
+NINJAKID;Randal;No fair! I should have won!;Route 305
+PSYCHIC_F;Stacey;I predicted wrong...;Route 305
+HIKER;Levi;I guess you can handle yourself pretty well.;Route 305
+HIKER;Brent;Pascal is going to be disappointed...;Smith City Gym
+HIKER;Han;That was just wishful thinking.;Smith City Gym
+RUINMANIAC;Dane;Ah darn!;Smith City Gym
+RUINMANIAC;Nico;Well, I tried at least.;Smith City Gym
+BLACKBELT;Gayle;Urgh! Whatever!;Smith City Gym
+CRUSHGIRL;Angel;It's whatever...;Smith City Gym
+PARASOLLADY;Debora;Oh wow!;Smith City Gym
+TUBER_M;Jesse;I don't want to fight anymore.;Route 306
+TUBER_M;Parker;Why did I lose?;Route 306
+TUBER_F;Valentine;No! I lost!;Route 306
+TUBER_F;Blair;What happened?;Route 306
+SWIMMER_M;Sean;Huh? Did I lose?;Route 306
+SWIMMER_M;Sherman;Haha! I beat you! -What? I lost?;Route 306
+SWIMMER_F;Marnie;Darn it! I thought I would win!;Route 306
+SWIMMER_F;Emily;That was something...;Route 306
+SWIMMER_F;Hayley;I should've stayed dry.;Route 306
+FISHERMAN;Casey;I guess there are more fish in the sea...;Route 306
+FISHERMAN;Francis;Huh?;Route 306
+NINJAKID;Jeffrey;I didn't expect to lose!;Route 307
+BEAUTY;Beth;You didn't mess with my hair right?!;Route 307
+AROMALADY;Carmen;Alright, I lost.;Route 307
+PSYCHIC_M;Sheldon;What a twist!;Route 307
+PSYCHIC_F;Christen;That was unanticipated...;Route 307
+AROMALADY;Riley;Well, I tried at least!;Jalsin City Gym
+AROMALADY;Cecil;Good fight!;Jalsin City Gym
+AROMALADY;Keira;I'm impressed!;Jalsin City Gym
+AROMALADY;Mary;I guess I'll have to listen better...;Jalsin City Gym
+LASS;Jacquelyn;I expected more...;Jalsin City Gym
+LASS;Darlene;Whatever...;Jalsin City Gym
+LADY;Adelia;I saw an opportunity, but I missed it...;Jalsin City Gym
+BEAUTY;Rosalie;Well done!;Jalsin City Gym
+HIKER;Dylan;Unfortunate.;Route 308
+HIKER;Harry;Darn! I lost!;Route 308
+KINDLER;Aaron;The way the fire burns ay?;Route 308
+BLACKBELT;Burt;Striking!;Route 308
+CRUSHGIRL;Brooke;Crushing!;Route 308
+RICHBOY;Prince;Pathetic, I lost.;Route 308
+BUGCATCHER;Syd;I knew I had to catch more bugs!;Route 308
+BIRDKEEPER;Jean;Yikes. I lost.;Route 308
+GENTLEMAN;Lon;How unfortunate...;Route 308
+GENTLEMAN;Luis;How unfortunate.;
+GENTLEMAN;Truman;I had you fooled, now you have me fooled.;
+GENTLEMAN;Graig;Shocking!;
+GENTLEMAN;Ed;I seem to have misjudged the situation.;
+GENTLEMAN;Juan;Tough!;
+GENTLEMAN;Ben;You certainly are stronger then me.;
+GENTLEMAN;Kenny;I will have to admit defeat.;
+GENTLEMAN;Maxwell;I suppose I have lost.;
+CRUSHGIRL;Alexa;Wow! You showed me!;Route 309
+COOLTRAINER_M;Andre;Ingrid is going to be so mad!;Artemis City Gym
+COOLTRAINER_F;Andrea;Oh no! Don't tell Ingrid I lost!;Artemis City Gym
+COOLTRAINER_M;Hunter;Wow!;Artemis City Gym
+COOLTRAINER_F;Alice;That's incredible!;Artemis City Gym
+HEXMANIAC;Andrea;Oof!;Route 310
+HEXMANIAC;Esther;Aaagh!;Route 310
+BUGCATCHER;Rey;I thought this Shadow Pokémon would help.;Dim Forest
+BUGCATCHER;Brendan;This Shadow Pokémon is pretty disappointing...;Dim Forest
+TAMER;Eliott;Why didn't I win? I had a Shadow Pokémon and everything!;Dim Forest
+BEAUTY;Norine;Wow, that was something.;Dim Forest
+HEXMANIAC;Susan;What happened?;Dim Forest
+KINDLER;Abe;I've never seen something like that before.;Dim Forest
+AROMALADY;Val;That aroma... It's mesmerising.;Dim Forest
+PSYCHIC_M;Alexi;Surprising... It's Surprising.;Dim Forest
+YOUNGCOUPLE;Jordan & Arla;But we tried...;Dim Forest
+BUGCATCHER;Alex;How could I be so stupid? I lost?!;Dim Forest
+ROCKER;Jonas;I'm going to write a song about this.;Dim Forest
+HIKER;Perry;Heh. I didn't expect to lose this badly.;Dim Forest
+NINJAKID;Tyler;Did... Did I lose???;Route 311
+NINJAKID;Mory;How did you see me?;Route 311
+HEXMANIAC;Elizabeth;Ushaa!;Polter City Gym
+HEXMANIAC;Diane;Argghghhhh...;Polter City Gym
+HEXMANIAC;Arya;Hmmmmhaaa??;Polter City Gym
+HEXMANIAC;Edith;Ghaaaaaaaraaa!;Polter City Gym
+LADY;Tracy;Aww man, I thought I had a chance.;Route 312
+AROMALADY;Rebecca;I suppose I am the loser.;Route 312
+LASS;Pearl;Wow, you're pretty strong!;Route 312
+VETERAN_M;Dick;Pfft. Before I could get serious, I lost!;Route 312
+SAILOR;Ramiro;Those were some cool moves!;Route 312
+TAMER;Doug;OK! I give up!;Route 312
+PSYCHIC_M;Brett;I didn't think this would happen.;Arcane City Gym
+PSYCHIC_F;Carlota;I should've gotten more Pokémon.;Arcane City Gym
+BLACKBELT;Bill;Urghhh!;Arcane City Gym
+CRUSHGIRL;Noel;That's frustrating!;Arcane City Gym
+COOLTRAINER_M;Stevie;How unfortunate.;Arcane City Gym
+COOLTRAINER_F;Ming;I lost. I lost!;Arcane City Gym
+GENTLEMAN;Hayden;Hmm. This is disappointing.;Arcane City Gym
+LADY;Jasmine;That's too bad.;Arcane City Gym
+COOLTRAINER_M;Daryl;What? We lost?;Arcane City Gym
+COOLTRAINER_F;Delicia;I thought we had it in the bag!;Arcane City Gym
+YOUNGCOUPLE;Ryan & Joanne;Liz and Arnold will have to take care of it from here.;Arcane City Gym
+BLACKBELT;Emmerson;I'm glad I got to see your Pokemon!;Route 313
+BLACKBELT;Tracey;Ow, ow, ow!;Route 313
+CRUSHGIRL;Kris;Just as I thought, you're tough!;Route 313
+SAILOR;Jordan;Argh, I can't do anymore...;Route 313
+TAMER;Gerald;Looks like you're the stronger one...;Route 313
+TAMER;Mose;Oh... That's disappointing!;Route 313
+KINDLER;Edmund;Tch! I tried to rush things...;Route 313
+HIKER;Mason;I see. So you can battle that way.;Route 313
+POKEFAN_M;Henderson;Aack! My Pokemon!;Upil City Gym
+POKEFAN_F;Letha;I was not expecting to lose that hard.;Upil City Gym
+POKEFAN_M;Shawn;Just what I expected.;Upil City Gym
+POKEFAN_F;Geraldine;Argh! You're too strong!;Upil City Gym
+POKEFAN_M;Elijah;...Humph! Are you happy you won?;Upil City Gym
+HIKER;Marlon;Didn't I train enough?";Mt. Vanity
+HIKER;Solomon;That's strange. I won before.;Mt. Vanity
+HIKER;Tom;I was whipped...;Mt. Vanity
+HIKER;Horace;...Hmmm...;Mt. Vanity
+HIKER;Ainsley;Yow! You're too strong!;Mt. Vanity
+BLACKBELT;Dylan;This can't be true!;Mt. Vanity
+BLACKBELT;Kurtis;Gaah!;Mt. Vanity
+CRUSHGIRL;Alecia;Yikes! Not fast enough!;Mt. Vanity
+CRUSHGIRL;Liana;What an amazing battle!;Mt. Vanity
+CRUSHGIRL;Latia;Phew...;Mt. Vanity
+RUINMANIAC;Clifton;Pretty impressive! I'm sure you can go anywhere with that skill!;Mt. Vanity
+RUINMANIAC;Flynn;You're too much!;Mt. Vanity
+RUINMANIAC;Grover;Good battle!;Mt. Vanity
+KINDLER;Weldon;Gwa ha ha! I lost.;Mt. Vanity
+KINDLER;Kai;I can't move anymore...;Mt. Vanity
+RICHBOY;Roland;That's shocking!;Mt. Vanity
+AROMALADY;Justice;Whew... Good battle.;Mt. Vanity
+BEAUTY;Addison;Oh, yikes! We lost!;Mt. Vanity
+VETERAN_F;Breana;Heh, I guess I didn't try hard enough.;Mt. Vanity
+VETERAN_F;Nakisha;I lost that one!;Mt. Vanity
+VETERAN_M;Esteban;Mercy!;Mt. Vanity
+SWIMMER_M;Parker;Whatever!;Mt. Vanity
+SWIMMER_M;Thomas;Gulp! This is a bleak moment.;Mt. Vanity
+SWIMMER_F;Sumiko;Tch! I took you too lightly!;Mt. Vanity
+SWIMMER_F;Sharissa;Uh-oh! I was also sunk by indecision!;Mt. Vanity
+HIKER;Jules;Ayeeee!;Mt. Vanity
+TEAMROCKET_M;Grunt;Urgh!;736485
+TEAMROCKET_M;Grunt;What?;736485
+TEAMROCKET_F;Grunt;But how?;873546
+TEAMROCKET_F;Grunt;How did I lose?;873546
+TEAMROCKET_M;Grunt;We give up! You're the winner!;736485
+TEAMROCKET_F;Grunt;Uww... I blew it.;873546
+TEAMROCKET_F;Grunt;Oh, so close! I almost had you!;873546
+TEAMROCKET_M;Grunt;Yaha! I lost!;736485
+TEAMROCKET_F;Grunt;Uwahauwaha!;873546
+TEAMROCKET_M;Grunt;Nyuraahahhaah;736485
+TEAMROCKET_M;Grunt;Grr! I lost that...;736485
+TEAMROCKET_F;Grunt;No way!;873546
+TEAMROCKET_F;Grunt;I should've known you would cheat.;873546
+TEAMROCKET_M;Grunt;This can't be happening.;736485
+TEAMROCKET_F;Grunt;I can't accept defeat like this...;873546
+TEAMROCKET_M;Grunt;Hang on, this makes no sense...;736485
+TEAMROCKET_F;Grunt;You're not stopping us!;873546
+TEAMROCKET_M;Grunt;The boss will deal with you...;736485
+ROCKETBOSS;Silver;Necrozma? But how?;
+ROCKETBOSS;Silver;...What? No!;

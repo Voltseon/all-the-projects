@@ -1,0 +1,5 @@
+﻿Name       = Rename from Party
+Version    = 1.0 
+Essentials = 20.1
+Link       = https://reliccastle.com/resources/344/
+Credits    = TechSkylander1518

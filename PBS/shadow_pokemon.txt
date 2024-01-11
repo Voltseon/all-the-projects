@@ -1,0 +1,106 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[VENONAT]
+GaugeSize = 1000
+Moves = SHADOWBLITZ,SHADOWTRAP
+#-------------------------------
+[SHUCKLE]
+GaugeSize = 1500
+Moves = SHADOWBLITZ,SHADOWDOWN,SHADOWHOLD
+#-------------------------------
+[BAGON]
+GaugeSize = 2500
+Moves = SHADOWBLITZ,SHADOWSHED,SHADOWBREAK
+#-------------------------------
+[RAICHU_1]
+GaugeSize = 2500
+Moves = SHADOWBLITZ,SHADOWMIST,SHADOWBOLT,SHADOWSIGHT
+#-------------------------------
+[NINJASK]
+GaugeSize = 2500
+Moves = SHADOWBLITZ,SHADOWSHED,SHADOWBLAST
+#-------------------------------
+[GOGOAT]
+GaugeSize = 3000
+Moves = SHADOWBLITZ,SHADOWDOWN,SHADOWBREAK
+#-------------------------------
+[HEATMOR]
+GaugeSize = 3000
+Moves = SHADOWBLITZ,SHADOWHOLD,SHADOWFIRE
+#-------------------------------
+[FLOETTE_3]
+GaugeSize = 3500
+Moves = SHADOWBLITZ,SHADOWMIST,SHADOWWAVE,SHADOWHALF
+#-------------------------------
+[MUK]
+GaugeSize = 4000
+Moves = SHADOWTRAP,SHADOWBLITZ,SHADOWHOLD,SHADOWHALF
+#-------------------------------
+[PLUSLE]
+GaugeSize = 2600
+Moves = SHADOWBLITZ,SHADOWPANIC,SHADOWBOLT
+#-------------------------------
+[MINUN]
+GaugeSize = 2400
+Moves = SHADOWBLITZ,SHADOWBOLT,SHADOWPANIC
+#-------------------------------
+[GRAPPLOCT]
+GaugeSize = 4500
+Moves = SHADOWBLITZ,SHADOWHOLD
+#-------------------------------
+[LYCANROC]
+GaugeSize = 5500
+Moves = SHADOWBLITZ,SHADOWMIST
+#-------------------------------
+[LUXRAY]
+GaugeSize = 6100
+Moves = SHADOWBLITZ,SHADOWBOLT
+#-------------------------------
+[SEAKING]
+GaugeSize = 7000
+Moves = SHADOWBLITZ,SHADOWSTORM,SHADOWCHILL
+#-------------------------------
+[COPPERAJAH]
+GaugeSize = 7600
+Moves = SHADOWBLITZ,SHADOWDOWN,SHADOWRAVE
+#-------------------------------
+[SUDOWOODO]
+GaugeSize = 8000
+Moves = SHADOWBLITZ,SHADOWPANIC,SHADOWBREAK
+#-------------------------------
+[TALONFLAME]
+GaugeSize = 8300
+Moves = SHADOWBLITZ,SHADOWFIRE,SHADOWSKY,SHADOWBLAST
+#-------------------------------
+[STUNFISK_1]
+GaugeSize = 8600
+Moves = SHADOWBLITZ,SHADOWTRAP,SHADOWHOLD,SHADOWRAVE
+#-------------------------------
+[LUCARIO]
+GaugeSize = 10000
+Moves = SHADOWBLITZ,SHADOWBREAK,SHADOWEND,SHADOWHALF
+#-------------------------------
+[RAPIDASH_1]
+GaugeSize = 12500
+Moves = SHADOWBLITZ,SHADOWWAVE,SHADOWSIGHT,SHADOWBOLT
+#-------------------------------
+[TYRANITAR]
+GaugeSize = 15000
+Moves = SHADOWRUSH,SHADOWBREAK,SHADOWRAVE,SHADOWFIRE
+#-------------------------------
+[NECROZMA_3]
+GaugeSize = 20000
+Moves = SHADOWRUSH,SHADOWTRAP,SHADOWGEYSER,SHADOWSTORM
+#-------------------------------
+[NECROZMA_4]
+GaugeSize = 20000
+Moves = SHADOWRUSH,SHADOWTRAP,SHADOWGEYSER,SHADOWSTORM
+#-------------------------------
+[ALAKAZAM]
+GaugeSize = 13000
+Moves = SHADOWRUSH,SHADOWWAVE,SHADOWSHED,SHADOWCHILL
+#-------------------------------
+[LUGIA]
+GaugeSize = 20000
+Moves = SHADOWBLAST,SHADOWDOWN,SHADOWSHED,SHADOWSTORM
+#-------------------------------
