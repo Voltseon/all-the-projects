@@ -1,0 +1,4 @@
+GrowthRate = Medium,Erratic,Fluctuating,Parabolic,Fast,Slow
+GenderRate = AlwaysMale,AlwaysFemale,Genderless,FemaleOneEighth,Female25Percent,Female50Percent,Female75Percent,FemaleSevenEighths
+Habitat = None,Grassland,Forest,WatersEdge,Sea,Cave,Mountain,RoughTerrain,Urban,Rare
+Shape = Head,Serpentine,Finned,HeadArms,HeadBase,BipedalTail,HeadLegs,Quadruped,Winged,Multiped,MultiBody,Bipedal,MultiWinged,Insectoid

@@ -1,0 +1,100 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[032] # Seashore Town
+OldRod
+    100,DISSIDINE,3,5
+#-------------------------------
+[048] # Route 1
+Land,15
+    40,LARVET,2,4
+    30,MOUSNOT,2,3
+    20,CHICULO,3,4
+    10,MOUSNOT,4
+#-------------------------------
+[076] # Route 1
+Land,15
+    40,LARVET,2,4
+    30,MOUSNOT,2,3
+    20,CHICULO,3,4
+    10,MOUSNOT,4
+#-------------------------------
+[077] # Galere Town
+OldRod
+    100,DISSIDINE,7,9
+#-------------------------------
+[081] # Route 2
+Land,15
+    50,MOUSNOT,7,10
+    30,SURGIN,7,10
+    20,DUDGER,7,10
+#-------------------------------
+[082] # Galere Forest
+Land,15
+    30,CHICULO,7,11
+    25,GREEDAE,7,11
+    25,LARVET,7,11
+    10,SALAMOSS,7,11
+    10,SURGIN,7,11
+OldRod
+    100,DISSIDINE,9,12
+#-------------------------------
+[083] # Juletone City
+OldRod
+    100,DISSIDINE,11,13
+#-------------------------------
+[084] # Route 3
+Land,15
+    30,FERRIER,16,20
+    25,RABBUN,16,20
+    20,DUDGER,16,20
+    15,RECRIT,16,20
+    10,DROXION,16,20
+#-------------------------------
+[085] # Sunshade Town
+OldRod
+    100,DISSIDINE,14,16
+#-------------------------------
+[086] # Route 4
+Land,15
+    30,RABBUN,18,22
+    20,OCULURE,18,22
+    20,FEVERAT,18,22
+    20,RECRIT,18,22
+    10,DROXION,18,22
+#-------------------------------
+[088] # Route 5
+OldRod
+    100,DISHORE,15,17
+#-------------------------------
+[100] # Marlead Island
+OldRod
+    100,DISHORE,13,16
+#-------------------------------
+[117] # Seashore Beach
+OldRod
+    100,DISSIDINE,3,5
+#-------------------------------
+[126] # Forest Cave
+Cave,15
+    30,PEBBLUN,15,18
+    30,RECRIT,15,18
+    20,DUDGER,15,18
+    15,CLICLAW,15,18
+    5,TRAPPET,15,18
+OldRod
+    100,DISHORE,15,17
+#-------------------------------
+[127] # Sean's Test Map (Snow)
+Land,15
+    99,LEECHET,5
+    1,HAWCULORE,5
+#-------------------------------
+[140] # Forest Cave
+Cave,15
+    30,CLICLAW,16,19
+    30,PEBBLUN,16,19
+    20,DUDGER,16,19
+    10,SALAMBER,16,19
+    10,TRAPPET,16,19
+OldRod
+    100,DISHORE,16,19

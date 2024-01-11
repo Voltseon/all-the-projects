@@ -1,0 +1,103 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[TERROFLAXET,1]
+FormName = Activated
+BaseStats = 73,165,85,75,106,72
+EffortPoints = 0,2,0,0,2,0
+BattlerPlayerY = 12
+#-------------------------------
+[BAHZAZEL,1]
+FormName = Incinerated
+BaseStats = 106,75,72,165,73,85
+EffortPoints = 2,0,0,2,0,0
+#-------------------------------
+[CLOURRICANE,1]
+FormName = Rain
+Type1 = WATER
+Type2 = FLYING
+BaseStats = 75,72,135,85,73,136
+EffortPoints = 0,0,2,0,0,2
+#-------------------------------
+[CLOURRICANE,2]
+FormName = Sunny
+Type1 = FIRE
+Type2 = FLYING
+BaseStats = 75,72,135,85,73,136
+EffortPoints = 0,0,2,0,0,2
+#-------------------------------
+[CLOURRICANE,3]
+FormName = Hail
+Type1 = ICE
+Type2 = FLYING
+BaseStats = 75,72,135,85,73,136
+EffortPoints = 0,0,2,0,0,2
+#-------------------------------
+[CLOURRICANE,4]
+FormName = Sandstorm
+Type1 = ROCK
+Type2 = FLYING
+BaseStats = 75,72,135,85,73,136
+EffortPoints = 0,0,2,0,0,2
+#-------------------------------
+[CANIGHT,1]
+FormName = Midnight
+Type1 = DARK
+BaseStats = 125,109,108,92,65,75
+EffortPoints = 2,1,1,0,0,0
+#-------------------------------
+[HOWLIGHT,1]
+FormName = High Noon
+Type1 = PSYCHIC
+BaseStats = 125,65,75,93,128,88
+EffortPoints = 2,0,0,0,2,0
+#-------------------------------
+[RABBUN,1]
+FormName = Blue Pattern
+Color = Blue
+#-------------------------------
+[RABBUN,2]
+FormName = Green Pattern
+Color = Green
+#-------------------------------
+[RABBUN,3]
+FormName = Purple Pattern
+Color = Purple
+#-------------------------------
+[RABBUN,4]
+FormName = Black Pattern
+Color = Black
+#-------------------------------
+[RABBUN,5]
+FormName = White Pattern
+Color = White
+#-------------------------------
+[RABBUN,6]
+FormName = Zero Pattern
+Color = Brown
+#-------------------------------
+[GHOULLOTINE,1]
+FormName = Executioner
+Type1 = GHOST
+Type2 = DARK
+BaseStats = 120,90,66,208,90,66
+EffortPoints = 2,0,0,3,0,0
+Abilities = EXECUTIONER
+BattlerEnemyX = 0
+BattlerEnemyY = 4
+BattlerShadowSize = 2
+#-------------------------------
+[LEMELT,1]
+FormName = Molten
+Type1 = WATER
+Type2 = FIRE
+BaseStats = 54,120,65,70,180,80
+EffortPoints = 0,2,0,0,4,0
+Abilities = IGNITION,IGNITION
+HiddenAbility = IGNITION
+#-------------------------------
+[FERRIER,1]
+FormName = Enraged
+BaseStats = 75,65,50,35,65,50
+EffortPoints = 5,0,0,0,0,0
+Abilities = ENRAGED
+HiddenAbility = ENRAGED

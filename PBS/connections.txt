@@ -1,0 +1,118 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Lappet Town (2) - Safari Zone (66)
+2,West,0,66,East,0
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Safari Zone (66) - Route 1 (5)
+66,North,18,5,South,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau (35)
+31,West,0,35,East,10
+# Seashore Town (32) - Route 1 (48)
+32,North,3,48,South,0
+# Seashore Beach (117) - Seashore Town (32)
+117,West,0,32,East,0
+# Ingido Plateau (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 (45)
+41,South,6,45,North,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 1 (48) - Route 1 (76)
+48,West,0,76,East,1
+# Seashore Beach (117) - Route 1 (48)
+117,North,0,48,South,45
+# Filler (134) - Route 1 (48)
+134,West,0,48,East,5
+# Route 8 (69) - Safari Zone (66)
+69,North,0,66,South,10
+# Route 1 (76) - Galere Town (77)
+76,West,0,77,East,9
+# Filler (135) - Route 1 (76)
+135,South,0,76,North,0
+# Galere Town (77) - Route 2 (81)
+77,North,14,81,South,0
+# Filler (135) - Galere Town (77)
+135,West,8,77,East,0
+# Route 4 South (87) - Route 4 North (102)
+87,North,32,102,South,0
+# Akaroa City (95) - Bridge 1 (93)
+95,East,36,93,West,0
+# Route 12 (98) - Akaroa City (95)
+98,East,10,95,West,0
+# Bairone City (97) - Bridge 3 (96)
+97,East,21,96,West,0
+# Togac City (110) - Route 10 (109)
+110,South,0,109,North,24
+# Togac City (110) - Route 9 (112)
+110,East,8,112,West,0
+# Route 9 (113) - Route 9 (112)
+113,North,0,112,South,24
+# Akewell City (89) - Route 6 (90)
+89,North,0,90,South,24
+# Route 7 (91) - Route 6 (90)
+91,West,6,90,East,0
+# Route 5 (88) - Akewell City (89)
+88,East,0,89,West,20
+# Route 7 (91) - Akewell City (89)
+91,South,0,89,North,22
+# Sunshade Town (85) - Route 5 (88)
+85,East,10,88,West,0
+# Route 4 (86) - Route 5 (88)
+86,North,34,88,South,0
+# Route 3 (84) - Sunshade Town (85)
+84,East,0,85,West,6
+# Route 4 (86) - Sunshade Town (85)
+86,North,0,85,South,2
+# Juletone City (83) - Route 3 (84)
+83,East,4,84,West,0
+# Bridge 2 (94) - Route 3 (84)
+94,East,19,84,West,0
+# Bridge 4 (101) - Route 3 (84)
+101,East,64,84,West,0
+# Filler (136) - Route 3 (84)
+136,South,0,84,North,0
+# Bridge 2 (94) - Juletone City (83)
+94,South,0,83,North,32
+# Filler (136) - Juletone City (83)
+136,West,11,83,East,0
+# Filler (138) - Juletone City (83)
+138,South,0,83,North,12
+# Marlead Island (100) - Bridge 2 (94)
+100,South,20,94,North,0
+# Filler (136) - Bridge 2 (94)
+136,West,0,94,East,4
+# Filler (138) - Bridge 2 (94)
+138,East,0,94,West,0
+# Bridge 4 (101) - Marlead Island (100)
+101,South,0,100,North,20
+# Filler (138) - Marlead Island (100)
+138,North,0,100,South,0
+# Filler (136) - Bridge 4 (101)
+136,West,0,101,East,49
+# Filler (138) - Bridge 4 (101)
+138,East,0,101,West,45
+# Blye Town (92) - Route 7 (91)
+92,South,0,91,North,2

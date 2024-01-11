@@ -1,0 +1,272 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = "..."
+Pokemon = LARVET,4
+#------------------------------#
+#           Route 01           #
+#------------------------------#
+[YOUNGSTER,Clive]
+LoseText = "Aww, really? I thought Mousnot was the best Pokémon!"
+Pokemon = MOUSNOT,3
+#-------------------------------
+[LASS,Jane]
+LoseText = "They may have been cute, but I guess they weren't very strong..."
+Pokemon = CHICULO,4
+Pokemon = LARVET,3
+#-------------------------------
+[YOUNGSTER,Joey]
+LoseText = "I can't believe I lost. I thought I had the top percentage of Mousnot!"
+Pokemon = LARVET,6
+Pokemon = MOUSNOT,4
+#------------------------------#
+#       1st Rival Battle       #
+#------------------------------#
+[RIVAL1,Harlequin]
+LoseText = "Excellent work, citizen! It's clear you're a trainer who can look after themselves."
+Pokemon = FERRIER,8
+	Gender = male
+#------------------------------#
+#          Galere Gym          #
+#------------------------------#
+[LASS,Skye]
+LoseText = "I guess I didn't do a very good job of protecting mine!"
+Pokemon = CHICULO,7
+#------------------------------#
+[LASS,Maria]
+LoseText = "All types of Pokémon can get along together, can't they?"
+Pokemon = LARVET,8
+#------------------------------#
+[LASS,Tasha]
+LoseText = "Maybe Bug-type Pokémon aren't the best after all!"
+Pokemon = LARVET,7
+Pokemon = CHICULO,6
+#------------------------------#
+[YOUNGSTER,Connor]
+LoseText = "Drat! Now I'll never get recommended to the PTA."
+Pokemon = MOUSNOT,7
+Pokemon = LARVET,6
+#------------------------------#
+[YOUNGSTER,Arthur]
+LoseText = "I guess all it took to wash away the water was a little bit of sand."
+Pokemon = MOUSNOT,8
+#------------------------------#
+[LEADER_David,David]
+Items = SUPERPOTION
+LoseText = "..."
+Pokemon = MOUSNOT,9
+Pokemon = RABBUN,10
+	Form = 4
+#------------------------------#
+#         Route 2              #
+#------------------------------#
+[PICNICKER,Patricia]
+LoseText = "Whoa! You're stronger than you look!"
+Pokemon = SURGIN,9
+#-------------------------------
+[CRUSHGIRL,Melissa]
+LoseText = "My training wasn't enough!"
+Pokemon = DUDGER,9
+Pokemon = RECRIT,10
+#------------------------------#
+#         Galere Forest        #
+#------------------------------#
+[BUGCATCHER,Jack]
+LoseText = "The element of surprise wasn't enough for my victory."
+Pokemon = GREEDAE,10
+#-------------------------------
+[BIRDKEEPER,Fabian]
+LoseText = "The defeated Chiculo rests his head on a branch in defeat."
+Pokemon = CHICULO,11
+#-------------------------------
+[LASS,Ava]
+LoseText = "No fair! You cheated, I know it."
+Pokemon = CHICULO,12
+Pokemon = CLICLAW,13
+#-------------------------------
+[BUGCATCHER,Marcus]
+LoseText = "Apparently evolution isn't the only thing that makes a Pokémon strong."
+Pokemon = LADILLON,14
+#-------------------------------
+[YOUNGSTER,Leon]
+LoseText = "Not even the best Mousnot could beat you..."
+Pokemon = SURGIN,13
+Pokemon = MOUSNOT,14
+#------------------------------#
+#         Forest Cave          #
+#------------------------------#
+[BLACKBELT,Dennis]
+LoseText = "My inner sanctum has been invaded!"
+Pokemon = SURGIN,18
+Pokemon = RECRIT,19
+#-------------------------------
+[BEAUTY,Barbara]
+LoseText = "That wasn't fair!"
+Pokemon = RABBUN,20
+Pokemon = DUDGER,21
+#-------------------------------
+[CAMPER,Frank]
+LoseText = "Oh no! My army... It's been rocked!"
+Pokemon = PEBBLUN,17
+Pokemon = PEBBLUN,18
+Pokemon = PEBBLUN,19
+#------------------------------#
+#          Juletone Gym        #
+#------------------------------#
+[BLACKBELT,Kyle]
+LoseText = "You can! You can beat Recrit's slick moves!"
+Pokemon = RECRIT,15
+    Moves = LOWKICK,BULKUP,DOUBLEKICK
+#-------------------------------
+[CRUSHGIRL,Amy]
+LoseText = "You still wanna know why they call me Crush Girl?"
+Pokemon = SURGIN,15
+#-------------------------------
+[BLACKBELT,James]
+LoseText = "...That was a line from a movie I saw once! You didn't get it?"
+Pokemon = RECRIT,16
+    Moves = LOWKICK,DETECT,DOUBLEKICK
+#------------------------------#
+[LEADER_Fitch,Fitch]
+Items = XSPEED
+LoseText = "..."
+Pokemon = RECRIT,17
+    Moves = LOWKICK,DETECT,MACHPUNCH,BULKUP
+Pokemon = ZAPSTIN,17
+    Moves = WINDUP,TOXICSURGE,VENOSHOCK,QUICKATTACK
+Pokemon = WRESTLAY,18
+    Moves = DRAINPUNCH,LOWKICK,DETECT,BULKUP
+#------------------------------#
+#        Marlead Island        #
+#------------------------------#
+[NOVAGRUNTS,Jared & Lana]
+Items = POTION
+LoseText = "..."
+Pokemon = CLICLAW,17
+Pokemon = SURGIN,16
+#-------------------------------
+[NOVAGRUNT_M,Gus]
+LoseText = "What's the point of having private property if you can't defend it?"
+Pokemon = DUDGER,17
+Pokemon = DROXION,16
+#-------------------------------
+[NOVAGRUNT_M,Fred]
+LoseText = "I... I can't come up with a rhyme when I lose!"
+Pokemon = DROXION,17
+Pokemon = CLICLAW,18
+#-------------------------------
+[NOVAGRUNT_F,Alexandra]
+LoseText = "I suppose we can make room for a few men who can battle like that."
+Pokemon = FERRIER,18
+	Gender = female
+Pokemon = SURGIN,18
+#-------------------------------
+[NOVAGRUNT_F,Julie]
+LoseText = "Oh, that warehouse, the one right over there!"
+Pokemon = DUDGER,19
+Pokemon = OCULURE,18
+#------------------------------#
+#       2nd Rival Battle       #
+#------------------------------#
+[RIVAL2,Harlequin]
+LoseText = "Excellent work, citizen! It's clear you're a trainer who can look after themselves."
+Pokemon = RECRIT,21
+Pokemon = PEBBLUN,21
+Pokemon = FERRIER,22
+	Gender = male
+#------------------------------#
+#            Route 3           #
+#------------------------------#
+[PICNICKER,Lena]
+LoseText = "I guess Chiculo's sight wasn't enough to see through your battling tactics!"
+Pokemon = CLICLAW,23
+Pokemon = OCULURE,22
+#-------------------------------
+[POKEMONRANGER_M,Abraham]
+LoseText = "The element of surprise isn't all it takes to win a battle, though."
+Pokemon = SALAMOSS,24
+#-------------------------------
+[BEAUTY,Hannah]
+LoseText = "Aw, darn! Water and electricity really don't mix..."
+Pokemon = SURGIN,24
+Pokemon = SALAMOIST,23
+#-------------------------------
+[CAMPER,Leonard]
+LoseText = "Maybe I should have stuck to the wild Pokémon instead."
+Pokemon = FERRIER,25
+Pokemon = SALAMBER,24
+#------------------------------#
+#          Sunshade Gym        #
+#------------------------------#
+[CAMPER,Arthur]
+LoseText = "What? No way! You're gonna beat Laura-Gene after all!"
+Pokemon = SALAMOIST,20
+Pokemon = MOUSNOT,21
+#-------------------------------
+[PICNICKER,Deandra]
+LoseText = "It went great, and they even brought a friend!"
+Pokemon = PEBBLUN,21
+Pokemon = SEASIC,22
+#-------------------------------
+[POKEMONRANGER_M,Ethan]
+LoseText = "Rats and fish, rats and fish..."
+Pokemon = DISSIDINE,22
+Pokemon = FEVERAT,23
+#-------------------------------
+[POKEMONRANGER_F,Artemis]
+LoseText = "You've proven yourself as a valuable opponent! Go forth with my blessing."
+Pokemon = SALAMOIST,22
+Pokemon = OCULURE,22
+Pokemon = PEBBLUN,23
+#------------------------------#
+[LEADER_LauraGene,Laura-Gene]
+Items = XSPATK
+LoseText = "..."
+Pokemon = CELLUSK,24
+    Moves = PETRIFY,SHELLCRUSH,SMACKDOWN,ACIDARMOR
+Pokemon = DISHORE,26
+    Moves = AURORABEAM,CLEANSE,WATERPULSE,BODYSLAM
+Pokemon = DEURABLE,26
+    Moves = PETRIFY,ROCKTOMB,PURSUIT
+Pokemon = POLLUROID,27
+    Moves = FLASHCANNON,PETRIFY,ACIDRAIN,WATERPULSE
+#------------------------------#
+#         Seashore Town        #
+#------------------------------#
+[NOVABOSS,Euler]
+Items = SUPERPOTION
+LoseText = "..."
+Pokemon = FERRIER,28
+	Form = 1
+	Moves = ROAR,PURSUIT,QUICKATTACK,HEADBUTT
+
+
+
+
+
+#------------------------------#
+#          Akewell Gym         #
+#------------------------------#
+[LEADER_Ariel,Ariel]
+Items = XATTACK
+LoseText = "..."
+Pokemon = SAHANGER,29
+    Moves = MAGNITUDE,SLASH,ROLLOUT
+Pokemon = VELOCIBAT,30
+    Moves = SLIPSTREAM,MOTIVATIONSCREAM,WINGATTACK,POISONFANG
+Pokemon = SNIPZIT,31
+    Moves = MAGNITUDE,BULLETPUNCH,CLICKCLAW,ROCKSLIDE
+Pokemon = HAWCULORE,33
+    Moves = ASSURANCE,SLIPSTREAM,FLY,DRILLPECK
+#------------------------------#
+#          Blye Gym            #
+#------------------------------#
+[LEADER_Nat,Nathan]
+Items = FULLRESTORE
+LoseText = "..."
+Pokemon = BALLADY,36
+    Moves = QUIVERDANCE,PAPILLONKICK,SILVERWIND,DAZZLINGGLEAM
+Pokemon = BETARMOR,37
+    Moves = QUIVERDANCE,IRONHEAD,LEECHLIFE,POISONSTING
+Pokemon = REPTHESIS,40
+    Moves = SEEDEDAURA,SKYUPPERCUT,FORCEPALM,BULKUP

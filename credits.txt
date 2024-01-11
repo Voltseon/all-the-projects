@@ -1,0 +1,132 @@
+"Pokémon Ethos"
+
+Made by:
+Voltseon
+ENLS
+Thundaga
+NocTurn
+
+
+Tileset by:
+Voltseon
+WeedleTeam (Xenoverse)
+Brace Yourself Games (Cadence of Hyrule)
+
+Music from:
+Pokémon Super Mystery Dungeon
+Pokémon Black & White
+ENLS
+
+"1px Density Chibi Characters" by:
+Voltseon
+
+"Ability Patch Script" by:
+Golisopod User
+
+"EV/IVs in Summary" by:
+Zardae
+Thundaga (v18)
+Voltseon (v19)
+
+"v19.1 Hotfixes" v.1.0.3 by:
+Maruno
+
+"Voltseon's Pause Menu" v.1.4 by:
+Voltseon
+Golisopod User
+ENLS
+
+"Voltseon's Handy Tools" v.1.3 by:
+Voltseon
+
+"Voltseon's A-Star Pathfinding" v.1.0 by:
+Voltseon
+
+"Better Speed Up" v.2.0 by:
+Marin
+Phantombass
+
+"Pager Item" v.1.0 by:
+Voltseon
+
+"Overworld Shadows EX" v.1.0.0 by:
+Golisopod User
+Wolf PP
+Marin
+
+"Mid-Battle Dialogue" v.1.8 by:
+Golisopod User
+Luka SJ
+
+"Luka's Scripting Utilities" v.3.2.2 by:
+Luka S.J.
+
+"Voltseon's HM Items" v.1.0 by:
+Voltseon
+Marin
+
+"Easy Text Skip" v.1.0 by:
+Amethyst
+Kurotsune
+ENLS
+
+"EXP Capsule" v.1.0 by:
+ENLS
+
+"ENLS's Random Utilities" v.1.0 by:
+ENLS
+
+"Difficulty Modifiers" v.1.0 by:
+Voltseon
+
+
+
+"Pokémon Essentials" was created by:
+Flameguru
+Poccil (Peter O.)
+Maruno
+
+With contributions from:
+AvatarMonkeyKirby
+Marin
+Boushy
+MiDas Mike
+Brother1440
+Near Fantastica
+FL.
+PinkMan
+Genzai Kawakami
+Popper
+Golisopod User
+Rataime
+help-14
+Savordez
+IceGod64
+SoundSpawn
+Jacob O. Wobbrock
+the__end
+KitsuneKouta
+Venom12
+Lisa Anthony
+Wachunga
+Luka S.J.
+and everyone else who helped out
+
+"mkxp-z" by:
+Roza
+Based on MKXP by Ancurio et al.
+
+"RPG Maker XP" by:
+Enterbrain
+
+Pokémon is owned by:
+The Pokémon Company
+Nintendo
+Affiliated with Game Freak
+
+
+
+This is a non-profit fan-made game.
+No copyright infringements intended.
+Please support the official games!
+

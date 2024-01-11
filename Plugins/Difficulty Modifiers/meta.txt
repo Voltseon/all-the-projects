@@ -1,0 +1,4 @@
+﻿Name      = Difficulty Modifiers
+Version   = 1.0
+Website   = https://www.voltseon.com/
+Credits   = Voltseon
