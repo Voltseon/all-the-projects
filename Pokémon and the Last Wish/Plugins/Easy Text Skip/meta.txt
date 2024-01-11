@@ -1,0 +1,4 @@
+﻿Name      = Easy Text Skip
+Version   = 1.0
+Website   = https://reliccastle.com/resources/734/
+Credits   = Amethyst, Kurotsune, ENLS

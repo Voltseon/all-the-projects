@@ -1,0 +1,37 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Name = Peskan
+Filename = mapRegion0.png
+Point = 31,16,Gondola Village,Tomb of the Spirits,,,,
+Point = 32,16,Gondola Village,Tomb of the Spirits,,,,
+Point = 31,17,Gondola Village,Tomb of the Spirits,,,,
+Point = 32,17,Gondola Village,Tomb of the Spirits,,,,
+Point = 30,12,Selago Village,Prof. Nectar's Lab,,,,
+Point = 31,12,Selago Village,Prof. Nectar's Lab,,,,
+Point = 26,5,Sundance Village,,,,,
+Point = 27,5,Sundance Village,,,,,
+Point = 43,10,Rosewood Village,,,,,
+Point = 43,11,Rosewood Village,,,,,
+Point = 17,4,Scarlet Village,,,,,
+Point = 17,5,Scarlet Village,,,,,
+Point = 44,4,Sambucha Settlement,,,,,
+Point = 42,21,Bismark Settlement,,,,,
+Point = 43,21,Bismark Settlement,,,,,
+Point = 31,27,Merlow Village,,,,,
+Point = 32,27,Merlow Village,,,,,
+Point = 24,29,Celtic Village,,,,,
+Point = 17,23,(Anakiwa) Village,,,,,
+Point = 18,23,(Anakiwa) Village,,,,,
+Point = 17,24,(Anakiwa) Village,,,,,
+Point = 18,24,(Anakiwa) Village,,,,,
+#-------------------------------
+[1]
+Name = 
+Filename = mapRegion1.png
+Point = 13,16,Here,,,,,
+#-------------------------------
+[2]
+Name = 
+Filename = mapRegion1.png
+Point = 13,16,Here,,,,,

@@ -1,0 +1,257 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]|abilities=Pressure<br>Inner Focus (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#178</nowiki>|evolves_from=None|evolves_into=None|weight=187.0 kg|height=2.0 m|gender={{Genderless}}|image=SUICUNE.png|title=[[File:SUICUNE_icon.png]]
+<big>'''Suicune'''</big>}}'''Suicune''' is a Water-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It is not known to evolve into or from any other Pokémon.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Suicune embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=100|Attack=75|Defense=115|SpAtk=90|SpDef=115|Speed=85}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GrassType.png]][[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Sheer Cold
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|30%
+|5
+|-
+|1
+|Bite
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Bubble Beam
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|1
+|Rain Dance
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|8
+|Bubble Beam
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|15
+|Rain Dance
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|22
+|Gust
+|[[File:FlyingType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|35
+|-
+|29
+|Aurora Beam
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|36
+|Mist
+|[[File:IceType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|43
+|Mirror Coat
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|20
+|-
+|50
+|Ice Fang
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|57
+|Tailwind
+|[[File:FlyingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|64
+|Extrasensory
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|20
+|-
+|71
+|Hydro Pump
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|80%
+|5
+|-
+|78
+|Calm Mind
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|85
+|Blizzard
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SUICUNE.png]]
+|[[File:SUICUNE_back.png]]
+|[[File:SUICUNE_shiny.png]]
+|[[File:SUICUNE_shiny_back.png]]
+|[[File:SUICUNE_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

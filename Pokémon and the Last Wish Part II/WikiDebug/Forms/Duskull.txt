@@ -1,0 +1,235 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GhostType.png]]|abilities=Levitate<br>Frisk (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#169</nowiki>|evolves_from=None|evolves_into=[[Dusclops]] (lvl. 37)|weight=15.0 kg|height=0.8 m|gender={{Female50Percent}}|image=DUSKULL.png|title=[[File:DUSKULL_icon.png]]
+<big>'''Duskull'''</big>}}'''Duskull''' is a Ghost-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Dusclops]] starting at level 37.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A glare from its single scarlet eye makes even burly grown-ups freeze in utter fear. It is a nocturnal Pokémon that roams about under the cloak of darkness.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=20|Attack=40|Defense=90|SpAtk=30|SpDef=90|Speed=25}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:FlyingType.png]][[File:GroundType.png]][[File:RockType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GhostType.png]][[File:DarkType.png]]
+|-
+|Immune to:
+|[[File:NormalType.png]][[File:FightingType.png]]
+|-
+|Resistant to:
+|[[File:PoisonType.png]][[File:BugType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|6
+|Disable
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|9
+|Astonish
+|[[File:GhostType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|100%
+|15
+|-
+|14
+|Foresight
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|17
+|Shadow Sneak
+|[[File:GhostType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|22
+|Pursuit
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|25
+|Will-O-Wisp
+|[[File:FireType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|15
+|-
+|30
+|Confuse Ray
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|33
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|38
+|Hex
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|10
+|-
+|41
+|Shadow Ball
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|46
+|Mean Look
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|49
+|Payback
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|10
+|-
+|54
+|Future Sight
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:DUSKULL.png]]
+|[[File:DUSKULL_back.png]]
+|[[File:DUSKULL_shiny.png]]
+|[[File:DUSKULL_shiny_back.png]]
+|[[File:DUSKULL_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

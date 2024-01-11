@@ -1,0 +1,289 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GrassType.png]]<br>[[File:IceType.png]]|abilities=Snow Warning<br>Soundproof (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#135</nowiki>|evolves_from=[[Snover]]|evolves_into=None|weight=135.5 kg|height=2.2 m|gender={{Female50Percent}}|image=ABOMASNOW.png|title=[[File:ABOMASNOW_icon.png]]
+<big>'''Abomasnow'''</big>}}'''Abomasnow''' is a Grass/Ice-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Snover]] starting at level 40.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=90|Attack=92|Defense=75|SpAtk=92|SpDef=85|Speed=60}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:GhostType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:RockType.png]][[File:BugType.png]][[File:SteelType.png]]
+|-
+|4x weak to:
+|[[File:FireType.png]]
+|-
+|Resistant to:
+|[[File:GroundType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Ice Punch
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|100%
+|15
+|-
+|1
+|Powder Snow
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Razor Leaf
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|55
+|95%
+|25
+|-
+|1
+|Icy Wind
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|55
+|95%
+|15
+|-
+|5
+|Razor Leaf
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|55
+|95%
+|25
+|-
+|9
+|Icy Wind
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|55
+|95%
+|15
+|-
+|13
+|Grass Whistle
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|55%
+|15
+|-
+|17
+|Swagger
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|15
+|-
+|21
+|Mist
+|[[File:IceType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|26
+|Ice Shard
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|31
+|Ingrain
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|36
+|Wood Hammer
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|-
+|47
+|Blizzard
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|5
+|-
+|58
+|Sheer Cold
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|30%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ICE.png|frameless|24x24px]]
+|TM17
+|Glaciate
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|95%
+|10
+|-
+|[[File:Machine GRASS.png|frameless|24x24px]]
+|TM18
+|Leaf Blade
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:ABOMASNOW.png]]
+|[[File:ABOMASNOW_back.png]]
+|[[File:ABOMASNOW_shiny.png]]
+|[[File:ABOMASNOW_shiny_back.png]]
+|[[File:ABOMASNOW_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

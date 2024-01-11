@@ -1,0 +1,32 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Name = Peskan
+Filename = mapRegion0.png
+Point = 9,18,Celtic Town,Prof. Plum's Lab,32,23,23,
+Point = 9,17,Route 1,,,,,
+Point = 9,16,Twine City,,76,22,21,
+Point = 8,16,Twine City,,,,,
+Point = 8,15,Twine City,,,,,
+Point = 9,15,Twine City,,,,,
+Point = 11,14,Prim Cave,,,,,
+Point = 10,15,Route 2,,,,,
+Point = 11,15,Route 2,,,,,
+Point = 12,15,Toledo Village,Pokémon Day Care,80,15,15,
+Point = 13,15,Toledo Village,Pokémon Day Care,,,,
+Point = 9,14,Route 3,,,,,
+Point = 8,14,Route 3,,,,,
+Point = 7,14,Route 3,,,,,
+Point = 5,14,Anakiwa Cave,Jirachi's Lair,,,,
+Point = 6,14,Anakiwa City,Anakiwa City Gym,89,19,11,
+Point = 6,15,Anakiwa City,Anakiwa City Gym,,,,
+#-------------------------------
+[1]
+Name = 
+Filename = mapRegion1.png
+Point = 13,16,Here,,,,,
+#-------------------------------
+[2]
+Name = 
+Filename = mapRegion1.png
+Point = 13,16,Here,,,,,

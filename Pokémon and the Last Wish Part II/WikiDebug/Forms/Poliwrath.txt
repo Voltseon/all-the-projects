@@ -1,0 +1,313 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]<br>[[File:FightingType.png]]|abilities=Water Absorb<br>Damp<br>Swift Swim (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#119</nowiki>|evolves_from=[[Poliwhirl]]|evolves_into=None|weight=54.0 kg|height=1.3 m|gender={{Female50Percent}}|image=POLIWRATH.png|title=[[File:POLIWRATH_icon.png]]
+<big>'''Poliwrath'''</big>}}'''Poliwrath''' is a Water/Fighting-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Poliwhirl]] when exposed to a Water Stone.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Its highly developed muscles never grow fatigued, however much it exercises. This Pokémon can swim back and forth across the Pacific Ocean without effort.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|20%
+|[[Celtic Town]]
+|29
+|32
+|[[File:StaringEncounter.png]]
+|-
+|20%
+|[[Twine City]]
+|29
+|32
+|[[File:StaringEncounter.png]]
+|-
+|20%
+|[[Anakiwa Cave]]
+|31
+|34
+|[[File:StaringEncounter.png]]
+|-
+|20%
+|[[Anakiwa Cave]]
+|31
+|34
+|[[File:StaringEncounter.png]]
+|-
+|20%
+|[[Anakiwa Cave]]
+|31
+|34
+|[[File:StaringEncounter.png]]
+|-
+|20%
+|[[Anakiwa Cave]]
+|31
+|34
+|[[File:StaringEncounter.png]]
+|-
+|25%
+|[[Route 14]]
+|41
+|45
+|[[File:StaringEncounter.png]]
+|-
+|25%
+|[[Route 15]]
+|43
+|47
+|[[File:StaringEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=90|Attack=95|Defense=95|SpAtk=70|SpDef=90|Speed=70}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:GhostType.png]][[File:DragonType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:FairyType.png]]
+|-
+|Resistant to:
+|[[File:RockType.png]][[File:BugType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:IceType.png]][[File:DarkType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Submission
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|80%
+|20
+|-
+|1
+|Submission
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|80%
+|20
+|-
+|1
+|Circle Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|90%
+|10
+|-
+|1
+|Bubble Beam
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|1
+|Hypnosis
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+|60%
+|20
+|-
+|1
+|Double Slap
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|85%
+|10
+|-
+|32
+|Dynamic Punch
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|50%
+|5
+|-
+|43
+|Mind Reader
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|53
+|Circle Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|90%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine FIGHTING.png|frameless|24x24px]]
+|TM04
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM11
+|Mega Punch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|85%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|HM02
+|Aqua Jet
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:POLIWRATH.png]]
+|[[File:POLIWRATH_back.png]]
+|[[File:POLIWRATH_shiny.png]]
+|[[File:POLIWRATH_shiny_back.png]]
+|[[File:POLIWRATH_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

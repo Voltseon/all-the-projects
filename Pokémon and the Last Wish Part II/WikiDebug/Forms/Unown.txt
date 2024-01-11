@@ -1,0 +1,111 @@
+{{DISPLAYTITLE:A}}
+{{PokemonInfobox|type=[[File:PsychicType.png]]|abilities=Levitate<br>|region=[[Peskan]]|pokedex=<nowiki>#163</nowiki>|evolves_from=None|evolves_into=None|weight=5.0 kg|height=0.5 m|gender={{Genderless}}|image=UNOWN.png|title=[[File:UNOWN_icon.png]]
+<big>'''Unown'''</big>}}'''Unown''' is a Psychic-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It is not known to evolve into or from any other Pokémon.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>This Pokémon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various Unown.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=48|Attack=72|Defense=48|SpAtk=72|SpDef=48|Speed=48}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:BugType.png]][[File:GhostType.png]][[File:DarkType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:PsychicType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:UNOWN.png]]
+|[[File:UNOWN_back.png]]
+|[[File:UNOWN_shiny.png]]
+|[[File:UNOWN_shiny_back.png]]
+|[[File:UNOWN_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

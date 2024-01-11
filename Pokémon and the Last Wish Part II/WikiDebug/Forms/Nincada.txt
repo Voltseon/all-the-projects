@@ -1,0 +1,209 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:BugType.png]]<br>[[File:GroundType.png]]|abilities=Compound Eyes<br>Run Away (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#192</nowiki>|evolves_from=None|evolves_into=[[Ninjask]] (lvl. 20)|weight=5.5 kg|height=0.5 m|gender={{Female50Percent}}|image=NINCADA.png|title=[[File:NINCADA_icon.png]]
+<big>'''Nincada'''</big>}}'''Nincada''' is a Bug/Ground-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Ninjask]] .
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Mavora Path]]
+|48
+|51
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=31|Attack=45|Defense=90|SpAtk=30|SpDef=30|Speed=40}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:GrassType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:FireType.png]][[File:WaterType.png]][[File:IceType.png]]
+|-
+|Immune to:
+|[[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:PoisonType.png]][[File:GroundType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Scratch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|5
+|Absorb
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|25
+|-
+|9
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|13
+|Fury Swipes
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|18
+|80%
+|15
+|-
+|17
+|Mud-Slap
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|10
+|-
+|21
+|Metal Claw
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|95%
+|35
+|-
+|25
+|Mind Reader
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|29
+|Bide
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+| -%
+|10
+|-
+|33
+|False Swipe
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|37
+|Dig
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:NINCADA.png]]
+|[[File:NINCADA_back.png]]
+|[[File:NINCADA_shiny.png]]
+|[[File:NINCADA_shiny_back.png]]
+|[[File:NINCADA_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

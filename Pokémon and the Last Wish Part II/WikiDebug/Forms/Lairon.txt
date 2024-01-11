@@ -1,0 +1,347 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:SteelType.png]]<br>[[File:RockType.png]]|abilities=Sturdy<br>Rock Head<br>Heavy Metal (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#072</nowiki>|evolves_from=[[Aron]]|evolves_into=[[Aggron]] (lvl. 42)|weight=120.0 kg|height=0.9 m|gender={{Female50Percent}}|image=LAIRON.png|title=[[File:LAIRON_icon.png]]
+<big>'''Lairon'''</big>}}'''Lairon''' is a Steel/Rock-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Aron]] starting at level 32 and evolves into [[Aggron]] starting at level 42.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>When two Lairon meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Prim Cave]]
+|30
+|33
+|[[File:CaveEncounter.png]]
+|-
+|25%
+|[[Route 14]]
+|41
+|45
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=60|Attack=90|Defense=140|SpAtk=50|SpDef=50|Speed=40}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:WaterType.png]]
+|-
+|4x weak to:
+|[[File:FightingType.png]][[File:GroundType.png]]
+|-
+|Immune to:
+|[[File:PoisonType.png]]
+|-
+|Resistant to:
+|[[File:RockType.png]][[File:BugType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:NormalType.png]][[File:FlyingType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|1
+|Mud-Slap
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|10
+|-
+|1
+|Headbutt
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|15
+|-
+|4
+|Mud-Slap
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|10
+|-
+|7
+|Headbutt
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|15
+|-
+|10
+|Metal Claw
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|95%
+|35
+|-
+|13
+|Rock Tomb
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|95%
+|15
+|-
+|16
+|Protect
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|19
+|Roar
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|22
+|Iron Head
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|25
+|Rock Slide
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|90%
+|10
+|-
+|28
+|Take Down
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|85%
+|20
+|-
+|31
+|Metal Sound
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|35
+|Iron Tail
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|75%
+|15
+|-
+|39
+|Iron Defense
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|43
+|Double-Edge
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|-
+|47
+|Autotomize
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|51
+|Heavy Slam
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|10
+|-
+|55
+|Metal Burst
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine STEEL.png|frameless|24x24px]]
+|TM20
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|TM24
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:LAIRON.png]]
+|[[File:LAIRON_back.png]]
+|[[File:LAIRON_shiny.png]]
+|[[File:LAIRON_shiny_back.png]]
+|[[File:LAIRON_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

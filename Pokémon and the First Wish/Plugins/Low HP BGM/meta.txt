@@ -1,0 +1,4 @@
+﻿Name       = Low HP BGM
+Essentials = 20.1
+Website    = https://reliccastle.com/resources/701/
+Credits    = TechSkylander1518

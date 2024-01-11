@@ -1,0 +1,6 @@
+Name      = Cable Club
+Version   = 3.1
+Essentials = 20.1
+Optional  = v20.1 Hotfixes
+Website   = https://reliccastle.com/resources/640/
+Credits   = mGriffin,Khaikaa,Vendily

@@ -1,0 +1,324 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GrassType.png]]|abilities=Overgrow<br>Unburden (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#002</nowiki>|evolves_from=[[Treecko]]|evolves_into=[[Sceptile]] (lvl. 36)|weight=21.6 kg|height=0.9 m|gender={{FemaleOneEighth}}|image=GROVYLE.png|title=[[File:GROVYLE_icon.png]]
+<big>'''Grovyle'''</big>}}'''Grovyle''' is a Grass-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Treecko]] starting at level 16 and evolves into [[Sceptile]] starting at level 36.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Leaves grow out of this Pokémon's body. They help obscure a Grovyle from the eyes of its enemies while it is in a thickly overgrown forest.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|20%
+|[[Safari Zone]]
+|27
+|30
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=50|Attack=65|Defense=45|SpAtk=85|SpDef=65|Speed=95}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:RockType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:FireType.png]][[File:IceType.png]]
+|-
+|Resistant to:
+|[[File:GroundType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Fury Cutter
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|95%
+|20
+|-
+|1
+|Fury Cutter
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|95%
+|20
+|-
+|1
+|Pound
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Absorb
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|25
+|-
+|1
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|5
+|Absorb
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|25
+|-
+|9
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|13
+|Mega Drain
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|15
+|-
+|18
+|Pursuit
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|23
+|Leaf Blade
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|-
+|28
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|33
+|Slam
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|75%
+|20
+|-
+|38
+|Detect
+|[[File:FightingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|43
+|X-Scissor
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|48
+|False Swipe
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|53
+|Quick Guard
+|[[File:FightingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|58
+|Leaf Storm
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|130
+|90%
+|5
+|-
+|63
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine GRASS.png|frameless|24x24px]]
+|TM18
+|Leaf Blade
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:GROVYLE.png]]
+|[[File:GROVYLE_back.png]]
+|[[File:GROVYLE_shiny.png]]
+|[[File:GROVYLE_shiny_back.png]]
+|[[File:GROVYLE_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

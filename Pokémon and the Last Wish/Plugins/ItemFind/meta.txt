@@ -1,0 +1,4 @@
+Name         = Item Find
+Version      = 2.0
+Website     = https://reliccastle.com/resources/371/
+Credits       = Boonzeet

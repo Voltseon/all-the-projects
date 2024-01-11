@@ -1,0 +1,4 @@
+﻿Name      = Dppt style Gender selector script
+Version   = 2.1.1
+Website   = https://reliccastle.com/resources/644/
+Credits   = Somersault

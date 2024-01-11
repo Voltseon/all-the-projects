@@ -1,0 +1,285 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:ElectricType.png]]|abilities=Volt Absorb<br>Quick Feet (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#095</nowiki>|evolves_from=[[Eevee]]|evolves_into=None|weight=24.5 kg|height=0.8 m|gender={{FemaleOneEighth}}|image=JOLTEON.png|title=[[File:JOLTEON_icon.png]]
+<big>'''Jolteon'''</big>}}'''Jolteon''' is a Electric-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Eevee]] when exposed to a Water Stone.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Its cells generate weak power that is amplified by its fur's static electricity to drop thunderbolts. The bristling fur is made of electrically charged needles.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=65|Attack=65|Defense=60|SpAtk=110|SpDef=95|Speed=130}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:PoisonType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GroundType.png]]
+|-
+|Resistant to:
+|[[File:FlyingType.png]][[File:SteelType.png]][[File:ElectricType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Thunder Shock
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|30
+|-
+|1
+|Thunder Shock
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|30
+|-
+|1
+|Helping Hand
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Tail Whip
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|5
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|9
+|Baby-Doll Eyes
+|[[File:FairyType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|13
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|17
+|Double Kick
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|100%
+|30
+|-
+|20
+|Thunder Fang
+|[[File:ElectricType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|25
+|Pin Missile
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|25
+|95%
+|20
+|-
+|29
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|33
+|Thunder Wave
+|[[File:ElectricType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|20
+|-
+|37
+|Discharge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|41
+|Last Resort
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|140
+|100%
+|5
+|-
+|45
+|Thunder
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine ELECTRIC.png|frameless|24x24px]]
+|TM13
+|Parabolic Charge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:JOLTEON.png]]
+|[[File:JOLTEON_back.png]]
+|[[File:JOLTEON_shiny.png]]
+|[[File:JOLTEON_shiny_back.png]]
+|[[File:JOLTEON_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

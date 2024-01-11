@@ -1,0 +1,314 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:NormalType.png]]|abilities=Run Away<br>Adaptability<br>Anticipation (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#093</nowiki>|evolves_from=None|evolves_into=[[Vaporeon]] (Item: Water Stone)|weight=6.5 kg|height=0.3 m|gender={{FemaleOneEighth}}|image=EEVEE_1.png|title=[[File:EEVEE_1_icon.png]]
+<big>'''Eevee'''</big>}}'''Eevee''' is a Normal-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Vaporeon]] when exposed to a Water Stone.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Route 2]]
+|30
+|33
+|[[File:GrassEncounter.png]]
+|-
+|10%
+|[[Route 13]]
+|20
+|24
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=55|Attack=55|Defense=50|SpAtk=45|SpDef=65|Speed=55}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]]
+|-
+|Immune to:
+|[[File:GhostType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Covet
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|1
+|Helping Hand
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Tail Whip
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|5
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|9
+|Baby-Doll Eyes
+|[[File:FairyType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|13
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|17
+|Bite
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|17
+|Swift
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+| -%
+|20
+|-
+|20
+|Refresh
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|25
+|Take Down
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|85%
+|20
+|-
+|29
+|Charm
+|[[File:FairyType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|33
+|Baton Pass
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|37
+|Double-Edge
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|-
+|41
+|Last Resort
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|140
+|100%
+|5
+|-
+|45
+|Trump Card
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|1
+| -%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|TM22
+|Synchronoise
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|HM03
+|[[Psycho Matter]]
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:EEVEE_1.png]]
+|[[File:EEVEE_1_back.png]]
+|[[File:EEVEE_1_shiny.png]]
+|[[File:EEVEE_1_shiny_back.png]]
+|[[File:EEVEE_1_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

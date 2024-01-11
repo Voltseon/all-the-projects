@@ -1,0 +1,395 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:RockType.png]]<br>[[File:DarkType.png]]|abilities=Sand Stream<br>Unnerve (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#159</nowiki>|evolves_from=[[Pupitar]]|evolves_into=None|weight=202.0 kg|height=2.0 m|gender={{Female50Percent}}|image=TYRANITAR.png|title=[[File:TYRANITAR_icon.png]]
+<big>'''Tyranitar'''</big>}}'''Tyranitar''' is a Rock/Dark-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Pupitar]] starting at level 55.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=100|Attack=134|Defense=110|SpAtk=95|SpDef=100|Speed=61}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:RockType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]]
+|-
+|Weak to:
+|[[File:GroundType.png]][[File:BugType.png]][[File:SteelType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:FairyType.png]]
+|-
+|4x weak to:
+|[[File:FightingType.png]]
+|-
+|Immune to:
+|[[File:PsychicType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GhostType.png]][[File:FireType.png]][[File:DarkType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Thunder Fang
+|[[File:ElectricType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|1
+|Ice Fang
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|1
+|Fire Fang
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|1
+|Bite
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Sandstorm
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|5
+|Sandstorm
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|10
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|14
+|Chip Away
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|20
+|-
+|19
+|Rock Slide
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|90%
+|10
+|-
+|23
+|Scary Face
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|28
+|Thrash
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|10
+|-
+|34
+|Dark Pulse
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|41
+|Payback
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|10
+|-
+|47
+|Crunch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|54
+|Earthquake
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|100%
+|10
+|-
+|63
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|73
+|Hyper Beam
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|90%
+|5
+|-
+|82
+|Giga Impact
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|150
+|90%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine FIGHTING.png|frameless|24x24px]]
+|TM04
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM10
+|Mega Kick
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|75%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM11
+|Mega Punch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|85%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FIRE.png|frameless|24x24px]]
+|TM16
+|Fire Lash
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|TM24
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM01
+|Stomp
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:TYRANITAR.png]]
+|[[File:TYRANITAR_back.png]]
+|[[File:TYRANITAR_shiny.png]]
+|[[File:TYRANITAR_shiny_back.png]]
+|[[File:TYRANITAR_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

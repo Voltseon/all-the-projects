@@ -1,0 +1,252 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:ElectricType.png]]|abilities=Rivalry<br>Intimidate<br>Guts (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#058</nowiki>|evolves_from=[[Shinx]]|evolves_into=[[Luxray]] (lvl. 30)|weight=30.5 kg|height=0.9 m|gender={{Female50Percent}}|image=LUXIO.png|title=[[File:LUXIO_icon.png]]
+<big>'''Luxio'''</big>}}'''Luxio''' is a Electric-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Shinx]] starting at level 15 and evolves into [[Luxray]] starting at level 30.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Its claws loose electricity with enough amperage to cause fainting. They live in small groups.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=60|Attack=85|Defense=49|SpAtk=60|SpDef=49|Speed=60}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:PoisonType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GroundType.png]]
+|-
+|Resistant to:
+|[[File:FlyingType.png]][[File:SteelType.png]][[File:ElectricType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|5
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|9
+|Charge
+|[[File:ElectricType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|13
+|Spark
+|[[File:ElectricType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|18
+|Bite
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|23
+|Roar
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|28
+|Swagger
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|15
+|-
+|33
+|Thunder Fang
+|[[File:ElectricType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|38
+|Crunch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|43
+|Scary Face
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|48
+|Discharge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|53
+|Wild Charge
+|[[File:ElectricType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine ELECTRIC.png|frameless|24x24px]]
+|TM13
+|Parabolic Charge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:LUXIO.png]]
+|[[File:LUXIO_back.png]]
+|[[File:LUXIO_shiny.png]]
+|[[File:LUXIO_shiny_back.png]]
+|[[File:LUXIO_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

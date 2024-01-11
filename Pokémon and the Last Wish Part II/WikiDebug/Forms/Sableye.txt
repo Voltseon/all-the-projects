@@ -1,0 +1,403 @@
+{{DISPLAYTITLE:Peskan Sableye}}
+{{PokemonInfobox|type=[[File:DarkType.png]]<br>[[File:FireType.png]]|abilities=Flame Body<br>Flash Fire<br>Prankster (Hidden)|region=[[Peskan]]|pokedex=[[Peskan Pokédex|<nowiki>#111</nowiki>]]|evolves_from=None|evolves_into=None|weight=16.0 kg|height=0.6 m|gender={{Female50Percent}}|image=SABLEYE_1.png|title=[[File:SABLEYE_1_icon.png]]
+<big>'''Sableye'''</big>}}'''Sableye''' is a Dark/Fire-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It is not known to evolve into or from any other Pokémon.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Peskan Sableye has the ability to melt rocks Hoennian Sableye otherwise wouldn't be able to eat. It is often found in volcanoes.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|15%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|15%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|15%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|15%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|5%
+|[[Caramel Cave]]
+|23
+|24
+|[[File:CaveEncounter.png]]
+|-
+|50%
+|[[Deep Caramel Cave]]
+|24
+|28
+|[[File:CaveEncounter.png]]
+|-
+|20%
+|[[Safari Zone]]
+|27
+|30
+|[[File:GrassEncounter.png]]
+|}
+
+
+===Base stats ===
+{{BaseStats|HP=50|Attack=65|Defense=65|SpAtk=75|SpDef=75|Speed=50}}
+
+
+===Type effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:ElectricType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:GroundType.png]][[File:RockType.png]][[File:WaterType.png]]
+|-
+|Immune to:
+|[[File:PsychicType.png]]
+|-
+|Resistant to:
+|[[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:GrassType.png]][[File:IceType.png]][[File:DarkType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Rock Polish
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|1
+|Scratch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|4
+|Foresight
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|6
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|9
+|Ember
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|11
+|Fury Swipes
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|18
+|80%
+|15
+|-
+|14
+|Detect
+|[[File:FightingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|16
+|[[Flare Dash]]
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|19
+|Feint Attack
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|21
+|Fake Out
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|10
+|-
+|24
+|Punishment
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|5
+|-
+|26
+|Knock Off
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|29
+|Fire Punch
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|100%
+|15
+|-
+|31
+|Will-O-Wisp
+|[[File:FireType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|15
+|-
+|34
+|Power Gem
+|[[File:RockType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|20
+|-
+|36
+|Flame Charge
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|20
+|-
+|39
+|Foul Play
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|95
+|100%
+|15
+|-
+|41
+|Lava Plume
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|44
+|Quash
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|46
+|Overheat
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|130
+|90%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM01]]
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM02]]
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM03]]
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM05]]
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM07]]
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM09]]
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM14]]
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM15]]
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FIRE.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM16]]
+|Fire Lash
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM21]]
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM24]]
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM25]]
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SABLEYE_1.png]]
+|[[File:SABLEYE_1_back.png]]
+|[[File:SABLEYE_1_shiny.png]]
+|[[File:SABLEYE_1_shiny_back.png]]
+|[[File:SABLEYE_1_icon.png]]
+|-
+|[[File:SABLEYE_outfit.png]]
+|[[File:SABLEYE_outfit_back.png]]
+|[[File:SABLEYE_outfit_shiny.png]]
+|[[File:SABLEYE_outfit_shiny_back.png]]
+|[[File:SABLEYE_outfit_icon.png]]

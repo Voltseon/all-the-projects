@@ -1,0 +1,287 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:BugType.png]]<br>[[File:FlyingType.png]]|abilities=Speed Boost<br>Infiltrator (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#193</nowiki>|evolves_from=[[Nincada]]|evolves_into=None|weight=12.0 kg|height=0.8 m|gender={{Female50Percent}}|image=NINJASK.png|title=[[File:NINJASK_icon.png]]
+<big>'''Ninjask'''</big>}}'''Ninjask''' is a Bug/Flying-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Nincada]] .
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|20%
+|[[Mavora Path]]
+|51
+|56
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=61|Attack=90|Defense=45|SpAtk=50|SpDef=50|Speed=160}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:PoisonType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:WaterType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:FireType.png]][[File:ElectricType.png]][[File:IceType.png]]
+|-
+|4x weak to:
+|[[File:RockType.png]]
+|-
+|Immune to:
+|[[File:GroundType.png]]
+|-
+|Resistant to:
+|[[File:BugType.png]]
+|-
+|4x resistant to:
+|[[File:FightingType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Double Team
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|0
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|0
+|Fury Cutter
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|95%
+|20
+|-
+|1
+|Double Team
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|1
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|1
+|Fury Cutter
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|95%
+|20
+|-
+|1
+|Bug Bite
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|20
+|-
+|1
+|Scratch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|1
+|Absorb
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|25
+|-
+|1
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|5
+|Absorb
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|25
+|-
+|9
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|13
+|Fury Swipes
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|18
+|80%
+|15
+|-
+|17
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|23
+|Slash
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|20
+|-
+|29
+|Mind Reader
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|35
+|Baton Pass
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|41
+|Swords Dance
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|47
+|X-Scissor
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:NINJASK.png]]
+|[[File:NINJASK_back.png]]
+|[[File:NINJASK_shiny.png]]
+|[[File:NINJASK_shiny_back.png]]
+|[[File:NINJASK_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

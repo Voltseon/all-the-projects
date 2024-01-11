@@ -1,0 +1,339 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:PsychicType.png]]<br>[[File:FlyingType.png]]|abilities=Synchronize<br>Early Bird<br>Magic Bounce (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#103</nowiki>|evolves_from=None|evolves_into=[[Xatu]] (lvl. 25)|weight=2.0 kg|height=0.2 m|gender={{Female50Percent}}|image=NATU.png|title=[[File:NATU_icon.png]]
+<big>'''Natu'''</big>}}'''Natu''' is a Psychic/Flying-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Xatu]] starting at level 25.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It runs up short trees that grow on the savanna to peck at new shoots. A Natu's eyes look as if they are always observing something.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|35%
+|[[Route 13]]
+|21
+|25
+|[[File:GrassEncounter.png]]
+|-
+|10%
+|[[Route 4]]
+|26
+|29
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=40|Attack=50|Defense=45|SpAtk=70|SpDef=45|Speed=70}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:RockType.png]][[File:GhostType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DarkType.png]]
+|-
+|Immune to:
+|[[File:GroundType.png]]
+|-
+|Resistant to:
+|[[File:GrassType.png]][[File:PsychicType.png]]
+|-
+|4x resistant to:
+|[[File:FightingType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|35
+|100%
+|35
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|6
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|9
+|Teleport
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|12
+|Lucky Chant
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|17
+|Stored Power
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|10
+|-
+|20
+|Ominous Wind
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|5
+|-
+|23
+|Confuse Ray
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|28
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|33
+|Psychic
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|36
+|Miracle Eye
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|39
+|Psycho Shift
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|44
+|Future Sight
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|47
+|Power Swap
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|47
+|Guard Swap
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|50
+|Me First
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|TM08
+|Drill Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|TM21
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|TM22
+|Synchronoise
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|HM03
+|[[Psycho Matter]]
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|100%
+|20
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:NATU.png]]
+|[[File:NATU_back.png]]
+|[[File:NATU_shiny.png]]
+|[[File:NATU_shiny_back.png]]
+|[[File:NATU_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

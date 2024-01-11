@@ -1,0 +1,358 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:ElectricType.png]]<br>[[File:SteelType.png]]|abilities=Magnet Pull<br>Sturdy<br>Analytic (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#106</nowiki>|evolves_from=[[Magnemite]]|evolves_into=[[Magnezone]] (Location: [[176]])|weight=60.0 kg|height=1.0 m|gender={{Genderless}}|image=MAGNETON.png|title=[[File:MAGNETON_icon.png]]
+<big>'''Magneton'''</big>}}'''Magneton''' is a Electric/Steel-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Magnemite]] starting at level 30 and evolves into [[Magnezone]] when leveled up in [[176]].
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=50|Attack=60|Defense=95|SpAtk=120|SpDef=70|Speed=70}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:GhostType.png]][[File:WaterType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:FireType.png]]
+|-
+|4x weak to:
+|[[File:GroundType.png]]
+|-
+|Immune to:
+|[[File:PoisonType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:RockType.png]][[File:BugType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:FlyingType.png]][[File:SteelType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Tri Attack
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|10
+|-
+|1
+|Tri Attack
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|10
+|-
+|1
+|Electric Terrain
+|[[File:ElectricType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Zap Cannon
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|50%
+|5
+|-
+|1
+|Supersonic
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|55%
+|20
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Thunder Shock
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|30
+|-
+|1
+|Thunder Wave
+|[[File:ElectricType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|20
+|-
+|5
+|Thunder Shock
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|30
+|-
+|7
+|Thunder Wave
+|[[File:ElectricType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|20
+|-
+|11
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|13
+|Light Screen
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|17
+|Sonic Boom
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|90%
+|20
+|-
+|19
+|Spark
+|[[File:ElectricType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|23
+|Mirror Shot
+|[[File:SteelType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|85%
+|10
+|-
+|25
+|Metal Sound
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|29
+|Electro Ball
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|10
+|-
+|33
+|Flash Cannon
+|[[File:SteelType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|10
+|-
+|39
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|43
+|Discharge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|49
+|Lock-On
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|53
+|Magnet Rise
+|[[File:ElectricType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|59
+|Gyro Ball
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|5
+|-
+|63
+|Zap Cannon
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|50%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine ELECTRIC.png|frameless|24x24px]]
+|TM13
+|Parabolic Charge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine STEEL.png|frameless|24x24px]]
+|TM20
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:MAGNETON.png]]
+|[[File:MAGNETON_back.png]]
+|[[File:MAGNETON_shiny.png]]
+|[[File:MAGNETON_shiny_back.png]]
+|[[File:MAGNETON_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

@@ -1,0 +1,76 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Filler Map (85) - Celtic Town (32)
+85,South,0,32,North,11
+# Filler (174) - Celtic Town (32)
+174,East,0,32,West,1
+# Filler (175) - Celtic Town (32)
+175,North,0,32,South,8
+# Filler (263) - Celtic Town (32)
+263,North,27,32,South,0
+# Route 1 (48) - Twine City (76)
+48,North,0,76,South,5
+# Ronchi Town (98) - Route 6 (111)
+98,South,1,111,North,0
+# Filler (168) - Ronchi Town (98)
+168,South,0,98,North,14
+# Filler (227) - Ronchi Town (98)
+227,East,0,98,West,0
+# Route 7 (99) - Bismark City (112)
+99,East,1,112,West,0
+# Route 6 (111) - Route 5 (173)
+111,South,0,173,North,42
+# Filler (227) - Route 6 (111)
+227,South,21,111,North,0
+# Bismark City (112) - Route 8 (117)
+112,North,8,117,South,0
+# Filler (219) - Bismark City (112)
+219,East,0,112,West,25
+# Route 8 (117) - Rosewood City (128)
+117,North,6,128,South,0
+# Filler (129) - Rosewood City (128)
+129,East,0,128,West,32
+# Route 9 (133) - Rosewood City (128)
+133,East,0,128,West,2
+# Route 12 (145) - Rosewood City (128)
+145,South,0,128,North,14
+# Rosewood City (128) - Filler (134)
+128,0,0,134,19,12
+# Route 9 (133) - Filler (129)
+133,South,60,129,North,0
+# Route 9 (135) - Route 9 (133)
+135,North,52,133,South,0
+# Route 10 (150) - Sundance City (152)
+150,North,6,152,South,0
+# Sundance City (152) - Route 11 (169)
+152,East,0,169,West,0
+# Filler (227) - Filler (168)
+227,North,34,168,South,0
+# Route 11 (169) - Sambucha Town (170)
+169,East,3,170,West,0
+# Route 12 (171) - Route 11 (169)
+171,West,0,169,East,31
+# Route 12 (171) - Sambucha Town (170)
+171,North,0,170,South,0
+# Merlow City (177) - Route 5 (173)
+177,East,23,173,West,0
+# Filler (220) - Route 5 (173)
+220,South,0,173,North,0
+# Filler (246) - Route 5 (173)
+246,North,0,173,South,0
+# Filler (263) - Filler (175)
+263,East,0,175,West,0
+# Filler (220) - Merlow City (177)
+220,West,0,177,East,8
+# Filler (246) - Merlow City (177)
+246,West,0,177,East,53
+# Route 14 (222) - Scarlet Village (224)
+222,North,0,224,South,0
+# Safari Zone (239) - Safari Zone (238)
+239,East,0,238,West,0
+# Safari Zone (240) - Safari Zone (238)
+240,West,0,238,East,0
+# Mavora Path (271) - Mavora Village (269)
+271,North,0,269,South,11
+# Mavora Path (11) - Mavora Path (271)
+11,North,0,271,South,17

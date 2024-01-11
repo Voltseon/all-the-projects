@@ -1,0 +1,113 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:BugType.png]]<br>[[File:PoisonType.png]]|abilities=Shed Skin<br>|region=[[Peskan]]|pokedex=<nowiki>#023</nowiki>|evolves_from=[[Weedle]]|evolves_into=[[Beedrill]] (lvl. 10)|weight=10.0 kg|height=0.6 m|gender={{Female50Percent}}|image=KAKUNA.png|title=[[File:KAKUNA_icon.png]]
+<big>'''Kakuna'''</big>}}'''Kakuna''' is a Bug/Poison-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Weedle]] starting at level 7 and evolves into [[Beedrill]] starting at level 10.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=45|Attack=25|Defense=50|SpAtk=25|SpDef=25|Speed=35}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:GroundType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:RockType.png]][[File:FireType.png]][[File:PsychicType.png]]
+|-
+|Resistant to:
+|[[File:PoisonType.png]][[File:BugType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:FightingType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|1
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:KAKUNA.png]]
+|[[File:KAKUNA_back.png]]
+|[[File:KAKUNA_shiny.png]]
+|[[File:KAKUNA_shiny_back.png]]
+|[[File:KAKUNA_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

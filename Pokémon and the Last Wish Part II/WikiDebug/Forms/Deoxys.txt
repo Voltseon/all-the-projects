@@ -1,0 +1,469 @@
+{{DISPLAYTITLE:Ultimate Forme}}
+{{PokemonInfobox|type=[[File:PsychicType.png]]<br>[[File:DarkType.png]]|abilities=Trace<br>|region=[[Peskan]]|pokedex=[[Peskan Pokédex|<nowiki>#162</nowiki>]]|evolves_from=None|evolves_into=None|weight=60.8 kg|height=1.7 m|gender={{Genderless}}|image=DEOXYS_4.png|title=[[File:DEOXYS_4_icon.png]]
+<big>'''Deoxys'''</big>}}'''Deoxys''' is a Psychic/Dark-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It is not known to evolve into or from any other Pokémon.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>The Ultimate Forme of Deoxys is the depiction of a thought to be complete Deoxys, but instead is one that goes beyond its Complete Forme.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+===Base stats ===
+{{BaseStats|HP=120|Attack=120|Defense=120|SpAtk=120|SpDef=120|Speed=120}}
+
+
+===Type effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FairyType.png]]
+|-
+|4x weak to:
+|[[File:BugType.png]]
+|-
+|Immune to:
+|[[File:PsychicType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Wrap
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|90%
+|20
+|-
+|7
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|13
+|Double Team
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|19
+|Knock Off
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|25
+|Pursuit
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|31
+|Psychic
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|37
+|Snarl
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|55
+|95%
+|15
+|-
+|43
+|Psycho Shift
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|49
+|Zen Headbutt
+|[[File:PsychicType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|90%
+|15
+|-
+|55
+|Acupressure
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|61
+|Recover
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|67
+|Psycho Boost
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|140
+|90%
+|5
+|-
+|73
+|Hyper Beam
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|90%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM01]]
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM02]]
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM03]]
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine FIGHTING.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM04]]
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM05]]
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM06]]
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM07]]
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM08]]
+|Drill Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM09]]
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM10]]
+|Mega Kick
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|75%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM11]]
+|Mega Punch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|85%
+|20
+|-
+|[[File:Machine FAIRY.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM12]]
+|Draining Kiss
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|10
+|-
+|[[File:Machine ELECTRIC.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM13]]
+|Parabolic Charge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM14]]
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM15]]
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FIRE.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM16]]
+|Fire Lash
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine ICE.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM17]]
+|Glaciate
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|95%
+|10
+|-
+|[[File:Machine GRASS.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM18]]
+|Leaf Blade
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM19]]
+|First Impression
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|10
+|-
+|[[File:Machine STEEL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM20]]
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM21]]
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM22]]
+|Synchronoise
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM23]]
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM24]]
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM25]]
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM01
+|Stomp
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|HM02
+|Aqua Jet
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|HM03
+|[[Psycho Matter]]
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|100%
+|20
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM05
+|Extreme Speed
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:DEOXYS_4.png]]
+|[[File:DEOXYS_4_back.png]]
+|[[File:DEOXYS_4_shiny.png]]
+|[[File:DEOXYS_4_shiny_back.png]]
+|[[File:DEOXYS_4_icon.png]]

@@ -1,0 +1,315 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:FireType.png]]|abilities=Magma Armor<br>Flame Body<br>Weak Armor (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#055</nowiki>|evolves_from=None|evolves_into=[[Magcargo]] (lvl. 38)|weight=35.0 kg|height=0.7 m|gender={{Female50Percent}}|image=SLUGMA.png|title=[[File:SLUGMA_icon.png]]
+<big>'''Slugma'''</big>}}'''Slugma''' is a Fire-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Magcargo]] starting at level 38.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It is a species of Pokémon that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|15%
+|[[Caramel Cave]]
+|24
+|26
+|[[File:CaveEncounter.png]]
+|-
+|30%
+|[[Deep Caramel Cave]]
+|24
+|28
+|[[File:CaveEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=40|Attack=40|Defense=40|SpAtk=70|SpDef=40|Speed=20}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GhostType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:GroundType.png]][[File:RockType.png]][[File:WaterType.png]]
+|-
+|Resistant to:
+|[[File:BugType.png]][[File:SteelType.png]][[File:FireType.png]][[File:GrassType.png]][[File:IceType.png]][[File:FairyType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Yawn
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Smog
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|30
+|70%
+|20
+|-
+|6
+|Ember
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|8
+|Rock Throw
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|90%
+|15
+|-
+|13
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|15
+|Incinerate
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|20
+|Clear Smog
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|50
+| -%
+|15
+|-
+|22
+|Ancient Power
+|[[File:RockType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|5
+|-
+|27
+|Flame Burst
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|70
+|100%
+|15
+|-
+|29
+|Rock Slide
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|90%
+|10
+|-
+|34
+|Lava Plume
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|36
+|Amnesia
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|41
+|Body Slam
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|100%
+|15
+|-
+|43
+|Recover
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|48
+|Flamethrower
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|50
+|Earth Power
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FIRE.png|frameless|24x24px]]
+|TM16
+|Fire Lash
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SLUGMA.png]]
+|[[File:SLUGMA_back.png]]
+|[[File:SLUGMA_shiny.png]]
+|[[File:SLUGMA_shiny_back.png]]
+|[[File:SLUGMA_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

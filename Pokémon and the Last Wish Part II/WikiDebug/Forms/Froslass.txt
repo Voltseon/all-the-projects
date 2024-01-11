@@ -1,0 +1,347 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:IceType.png]]<br>[[File:GhostType.png]]|abilities=Snow Cloak<br>Cursed Body (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#138</nowiki>|evolves_from=[[Snorunt]]|evolves_into=None|weight=26.6 kg|height=1.3 m|gender={{AlwaysFemale}}|image=FROSLASS.png|title=[[File:FROSLASS_icon.png]]
+<big>'''Froslass'''</big>}}'''Froslass''' is a Ice/Ghost-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Snorunt]] starting at level 42.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It freezes foes with an icy breath nearly -60 degrees F. What seems to be its body is actually hollow.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=70|Attack=80|Defense=70|SpAtk=80|SpDef=70|Speed=110}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:FlyingType.png]][[File:GroundType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:RockType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:DarkType.png]]
+|-
+|Immune to:
+|[[File:NormalType.png]][[File:FightingType.png]]
+|-
+|Resistant to:
+|[[File:PoisonType.png]][[File:BugType.png]][[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Ominous Wind
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|5
+|-
+|1
+|Ominous Wind
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|5
+|-
+|1
+|Destiny Bond
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|1
+|Powder Snow
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Double Team
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|1
+|Ice Shard
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|5
+|Double Team
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|10
+|Ice Shard
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|14
+|Icy Wind
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|55
+|95%
+|15
+|-
+|19
+|Astonish
+|[[File:GhostType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|100%
+|15
+|-
+|23
+|Draining Kiss
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|10
+|-
+|28
+|Will-O-Wisp
+|[[File:FireType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|15
+|-
+|32
+|Confuse Ray
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|37
+|Wake-Up Slap
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|10
+|-
+|41
+|Captivate
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|42
+|Shadow Ball
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|48
+|Blizzard
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|5
+|-
+|54
+|Hail
+|[[File:IceType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|61
+|Destiny Bond
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ICE.png|frameless|24x24px]]
+|TM17
+|Glaciate
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|95%
+|10
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|TM21
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:FROSLASS.png]]
+|[[File:FROSLASS_back.png]]
+|[[File:FROSLASS_shiny.png]]
+|[[File:FROSLASS_shiny_back.png]]
+|[[File:FROSLASS_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

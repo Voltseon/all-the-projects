@@ -1,0 +1,378 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]|abilities=Torrent<br>Sheer Force (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#018</nowiki>|evolves_from=[[Croconaw]]|evolves_into=None|weight=88.8 kg|height=2.3 m|gender={{FemaleOneEighth}}|image=FERALIGATR.png|title=[[File:FERALIGATR_icon.png]]
+<big>'''Feraligatr'''</big>}}'''Feraligatr''' is a Water-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Croconaw]] starting at level 30.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=85|Attack=105|Defense=100|SpAtk=79|SpDef=83|Speed=78}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GrassType.png]][[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|1
+|Scratch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Rage
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|20
+|100%
+|20
+|-
+|6
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|8
+|Rage
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|20
+|100%
+|20
+|-
+|13
+|Bite
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|15
+|Scary Face
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|21
+|Ice Fang
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|24
+|Flail
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|15
+|-
+|32
+|Crunch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|37
+|Chip Away
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|20
+|-
+|45
+|Slash
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|20
+|-
+|50
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|58
+|Thrash
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|10
+|-
+|63
+|Aqua Tail
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|90%
+|10
+|-
+|71
+|Superpower
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|5
+|-
+|76
+|Hydro Pump
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|80%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine FIGHTING.png|frameless|24x24px]]
+|TM04
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM10
+|Mega Kick
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|75%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM11
+|Mega Punch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|85%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ICE.png|frameless|24x24px]]
+|TM17
+|Glaciate
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|95%
+|10
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM01
+|Stomp
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|HM02
+|Aqua Jet
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:FERALIGATR.png]]
+|[[File:FERALIGATR_back.png]]
+|[[File:FERALIGATR_shiny.png]]
+|[[File:FERALIGATR_shiny_back.png]]
+|[[File:FERALIGATR_icon.png]]
+|-
+|[[File:FERALIGATR_outfit.png]]
+|[[File:FERALIGATR_outfit_back.png]]
+|[[File:FERALIGATR_outfit_shiny.png]]
+|[[File:FERALIGATR_outfit_shiny_back.png]]
+|[[File:FERALIGATR_outfit_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

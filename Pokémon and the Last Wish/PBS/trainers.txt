@@ -1,0 +1,431 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+#      First Rival Battle      #
+#-------------------------------
+[RIVAL1,Alex]
+LoseText = "Aww man!"
+Pokemon = CYNDAQUIL,10
+	Moves = TACKLE,LEER
+#-------------------------------
+[RIVAL1,Alex,1]
+LoseText = "Aww man!"
+Pokemon = SQUIRTLE,10
+	Moves = TACKLE,TAILWHIP
+#-------------------------------
+[RIVAL1,Alex,2]
+LoseText = "Aww man!"
+Pokemon = TREECKO,10
+	Moves = POUND,LEER
+#-------------------------------
+[RIVAL2,Alex]
+LoseText = "Aww man!"
+Pokemon = CYNDAQUIL,10
+	Moves = TACKLE,LEER
+#-------------------------------
+[RIVAL2,Alex,1]
+LoseText = "Aww man!"
+Pokemon = SQUIRTLE,10
+	Moves = TACKLE,TAILWHIP
+#-------------------------------
+[RIVAL2,Alex,2]
+LoseText = "Aww man!"
+Pokemon = TREECKO,10
+	Moves = POUND,LEER
+#-------------------------------
+#           Route 1            #
+#-------------------------------
+[PAINTER,Cameron]
+LoseText = "Back to the drawing board, I guess..."
+Pokemon = ZIGZAGOON,9
+#-------------------------------
+[JUGGLER,James]
+LoseText = "I did not expect to lose this battle."
+Pokemon = TAILLOW,8
+Pokemon = SENTRET,9
+#-------------------------------
+#      Route 2 / Prim Cave     #
+#-------------------------------
+[YOUNGSTER,Daniel]
+LoseText = "Ugh, why do I always keep losing these battles?"
+Pokemon = RATTATA,10
+Pokemon = SPEAROW,10
+#-------------------------------
+[BUGCATCHER,Flynn]
+LoseText = "Ugh, why do I always keep losing these battles?"
+Pokemon = METAPOD,11
+Pokemon = KAKUNA,10
+#-------------------------------
+[HIKER,Blake]
+LoseText = "No way!"
+Pokemon = GEODUDE,12
+#-------------------------------
+[FISHERMAN,Joel]
+LoseText = "I need to get out of this cave..."
+Pokemon = TENTACOOL,13
+Pokemon = MAGIKARP,11
+#-------------------------------
+#      Second Rival Battle     #
+#-------------------------------
+[RIVAL2_1,Alex]
+LoseText = "How did you do that!?"
+Pokemon = QUILAVA,16
+Pokemon = SPEAROW,14
+#-------------------------------
+[RIVAL2_1,Alex,1]
+LoseText = "How did you do that!?"
+Pokemon = WARTORTLE,16
+Pokemon = SPEAROW,14
+#-------------------------------
+[RIVAL2_1,Alex,2]
+LoseText = "How did you do that!?"
+Pokemon = GROVYLE,16
+Pokemon = SPEAROW,14
+#-------------------------------
+[RIVAL2_2,Alex]
+LoseText = "How did you do that!?"
+Pokemon = QUILAVA,16
+Pokemon = SPEAROW,14
+#-------------------------------
+[RIVAL2_2,Alex,1]
+LoseText = "How did you do that!?"
+Pokemon = WARTORTLE,16
+Pokemon = SPEAROW,14
+#-------------------------------
+[RIVAL2_2,Alex,2]
+LoseText = "How did you do that!?"
+Pokemon = GROVYLE,16
+Pokemon = SPEAROW,14
+#-------------------------------
+#           Route 3            #
+#-------------------------------
+[LASS,Emily]
+LoseText = "Aww, darn it!"
+Pokemon = SHROOMISH,16
+Pokemon = SPHEAL,15
+#-------------------------------
+[COOLTRAINER_M,Alex]
+LoseText = "You cheated! It's that simple."
+Pokemon = SNEASEL,17
+Pokemon = ESPEON,15
+#-------------------------------
+[COOLTRAINER_F,Blaire]
+LoseText = "I should've guessed you would cheat."
+Pokemon = ELECTRIKE,17
+Pokemon = SWINUB,16
+Pokemon = HOOTHOOT,15
+#-------------------------------
+#      Third Rival Battle      #
+#-------------------------------
+[RIVAL3_1,Alex]
+LoseText = "Wow, you've improved a lot!"
+Pokemon = QUILAVA,20
+Pokemon = FEAROW,20
+Pokemon = ONIX,18
+Pokemon = BUTTERFREE,18
+#-------------------------------
+[RIVAL3_1,Alex,1]
+LoseText = "Wow, you've improved a lot!"
+Pokemon = WARTORTLE,20
+Pokemon = FEAROW,20
+Pokemon = ONIX,18
+Pokemon = BUTTERFREE,18
+#-------------------------------
+[RIVAL3_1,Alex,2]
+LoseText = "Wow, you've improved a lot!"
+Pokemon = GROVYLE,20
+Pokemon = FEAROW,20
+Pokemon = ONIX,18
+Pokemon = BUTTERFREE,18
+#-------------------------------
+[RIVAL3_2,Alex]
+LoseText = "Wow, you've improved a lot!"
+Pokemon = QUILAVA,20
+Pokemon = FEAROW,20
+Pokemon = ONIX,18
+Pokemon = BUTTERFREE,18
+#-------------------------------
+[RIVAL3_2,Alex,1]
+LoseText = "Wow, you've improved a lot!"
+Pokemon = WARTORTLE,20
+Pokemon = FEAROW,20
+Pokemon = ONIX,18
+Pokemon = BUTTERFREE,18
+#-------------------------------
+[RIVAL3_2,Alex,2]
+LoseText = "Wow, you've improved a lot!"
+Pokemon = GROVYLE,20
+Pokemon = FEAROW,20
+Pokemon = ONIX,18
+Pokemon = BUTTERFREE,18
+#-------------------------------
+#         Anakiwa Cave         #
+#-------------------------------
+[EXPLORER,Alyssa]
+LoseText = "I thought I was prepared for anything!"
+Pokemon = MAWILE,20
+Pokemon = GEODUDE,20
+#-------------------------------
+[BLACKBELT,Ben]
+LoseText = "I can't accept defeat like this..."
+Pokemon = SHROOMISH,20
+Pokemon = POLIWRATH,19
+Pokemon = GEODUDE,19
+#-------------------------------
+[PSYCHIC_F,Janice]
+LoseText = "I knew you would win."
+Pokemon = GASTLY,22
+Pokemon = NATU,20
+Pokemon = SABLEYE,21
+#-------------------------------
+[COOLCOUPLE,Lena & Sean]
+LoseText = "Wow, you're too good!"
+Pokemon = ELECTRIKE,21
+Pokemon = HOUNDOUR,19
+Pokemon = TENTACOOL,19
+Pokemon = SNEASEL,20
+#-------------------------------
+[HIKER,Keane]
+LoseText = "This can't be happening."
+Pokemon = GEODUDE,23
+Pokemon = MISDREAVUS,21
+#-------------------------------
+[CRUSHGIRL,Rey]
+LoseText = "Wow! You're super impressive."
+Pokemon = BRELOOM,23
+Pokemon = FLAREON,21
+#-------------------------------
+[BUGCATCHER,Elias]
+LoseText = "Hang on, this makes no sense..."
+Pokemon = BUTTERFREE,24
+Pokemon = BEEDRILL,24
+#-------------------------------
+[BIRDKEEPER,Andrew]
+LoseText = "Can't really fly away from this one, can I?"
+Pokemon = FEAROW,25
+Pokemon = SWELLOW,24
+#-------------------------------
+[RUINMANIAC,Jared]
+LoseText = "I'm looking for anc"
+Pokemon = ONIX,25
+Pokemon = GEODUDE,24
+Pokemon = MAWILE,24
+#-------------------------------
+[ODDLADY,???]
+LoseText = "You simply have no idea what kind of power Jirachi holds!"
+Pokemon = DRAGONAIR,30
+Pokemon = PUPITAR,30
+Pokemon = JIRACHI,32
+Pokemon = DEOXYS,32
+#------------------------------#
+#      	    Pregym	       #
+#------------------------------#
+[PSYCHIC_F,Hannah]
+LoseText = "I apparently predicted wrong."
+Pokemon = HAUNTER,26
+Pokemon = XATU,26
+Pokemon = ESPEON,27
+Pokemon = NOCTOWL,27
+#-------------------------------
+[BUGCATCHER,Jimmy]
+LoseText = "My bugs are supposed to be invincible!"
+Pokemon = BUTTERFREE,27
+Pokemon = BEEDRILL,28
+Pokemon = ARIADOS,28
+Pokemon = LEDIAN,29
+#-------------------------------
+#      Fourth Rival Battle     #
+#-------------------------------
+[RIVAL4_1,Alex]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = QUILAVA,29
+Pokemon = FEAROW,28
+Pokemon = STEELIX,28
+Pokemon = BUTTERFREE,28
+Pokemon = BRELOOM,30
+#-------------------------------
+[RIVAL4_1,Alex,1]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = WARTORTLE,29
+Pokemon = FEAROW,28
+Pokemon = STEELIX,28
+Pokemon = BUTTERFREE,28
+Pokemon = MAGCARGO,30
+#-------------------------------
+[RIVAL4_1,Alex,2]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = GROVYLE,29
+Pokemon = FEAROW,28
+Pokemon = STEELIX,28
+Pokemon = BUTTERFREE,28
+Pokemon = LAPRAS,30
+#-------------------------------
+[RIVAL4_2,Alex]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = QUILAVA,29
+Pokemon = FEAROW,28
+Pokemon = STEELIX,28
+Pokemon = BUTTERFREE,28
+Pokemon = BRELOOM,30
+#-------------------------------
+[RIVAL4_2,Alex,1]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = WARTORTLE,29
+Pokemon = FEAROW,28
+Pokemon = STEELIX,28
+Pokemon = BUTTERFREE,28
+Pokemon = MAGCARGO,30
+#-------------------------------
+[RIVAL4_2,Alex,2]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = GROVYLE,29
+Pokemon = FEAROW,28
+Pokemon = STEELIX,28
+Pokemon = BUTTERFREE,28
+Pokemon = LAPRAS,30
+#-------------------------------
+#      Fifth Rival Battle      #
+#-------------------------------
+[RIVAL5_1,Alex]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = TYPHLOSION,32
+Pokemon = FEAROW,30
+Pokemon = STEELIX,29
+Pokemon = BUTTERFREE,29
+Pokemon = BRELOOM,31
+#-------------------------------
+[RIVAL5_1,Alex,1]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = BLASTOISE,32
+Pokemon = FEAROW,30
+Pokemon = STEELIX,29
+Pokemon = BUTTERFREE,29
+Pokemon = MAGCARGO,31
+#-------------------------------
+[RIVAL5_1,Alex,2]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = SCEPTILE,32
+Pokemon = FEAROW,30
+Pokemon = STEELIX,29
+Pokemon = BUTTERFREE,29
+Pokemon = LAPRAS,31
+#-------------------------------
+[RIVAL5_2,Alex]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = TYPHLOSION,32
+Pokemon = FEAROW,30
+Pokemon = STEELIX,29
+Pokemon = BUTTERFREE,29
+Pokemon = BRELOOM,31
+#-------------------------------
+[RIVAL5_2,Alex,1]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = BLASTOISE,32
+Pokemon = FEAROW,30
+Pokemon = STEELIX,29
+Pokemon = BUTTERFREE,29
+Pokemon = MAGCARGO,31
+#-------------------------------
+[RIVAL5_2,Alex,2]
+LoseText = "I-... I can't believe it. I lost?"
+Pokemon = SCEPTILE,32
+Pokemon = FEAROW,30
+Pokemon = STEELIX,29
+Pokemon = BUTTERFREE,29
+Pokemon = LAPRAS,31
+#-------------------------------
+#      Final Rival Battle      #
+#-------------------------------
+[RIVAL6_1,Alex]
+LoseText = "Well, I tried!"
+Pokemon = TYPHLOSION,36
+Pokemon = FEAROW,34
+Pokemon = STEELIX,35
+Pokemon = BUTTERFREE,32
+Pokemon = BRELOOM,37
+Pokemon = SABLEYE,34
+#-------------------------------
+[RIVAL6_1,Alex,1]
+LoseText = "Well, I tried!"
+Pokemon = BLASTOISE,36
+Pokemon = FEAROW,34
+Pokemon = STEELIX,35
+Pokemon = BUTTERFREE,32
+Pokemon = MAGCARGO,37
+Pokemon = SABLEYE,34
+#-------------------------------
+[RIVAL6_1,Alex,2]
+LoseText = "Well, I tried!"
+Pokemon = SCEPTILE,36
+Pokemon = FEAROW,34
+Pokemon = STEELIX,35
+Pokemon = BUTTERFREE,32
+Pokemon = LAPRAS,37
+Pokemon = SABLEYE,34
+#-------------------------------
+[RIVAL6_2,Alex]
+LoseText = "Well, I tried!"
+Pokemon = TYPHLOSION,36
+Pokemon = FEAROW,34
+Pokemon = STEELIX,35
+Pokemon = BUTTERFREE,32
+Pokemon = BRELOOM,37
+Pokemon = MAWILE,34
+#-------------------------------
+[RIVAL6_2,Alex,1]
+LoseText = "Well, I tried!"
+Pokemon = BLASTOISE,36
+Pokemon = FEAROW,34
+Pokemon = STEELIX,35
+Pokemon = BUTTERFREE,32
+Pokemon = MAGCARGO,37
+Pokemon = MAWILE,34
+#-------------------------------
+[RIVAL6_2,Alex,2]
+LoseText = "Well, I tried!"
+Pokemon = SCEPTILE,36
+Pokemon = FEAROW,34
+Pokemon = STEELIX,35
+Pokemon = BUTTERFREE,32
+Pokemon = LAPRAS,37
+Pokemon = MAWILE,34
+#-------------------------------
+#       Gentleman Harris       #
+#-------------------------------
+[GENTLEMAN,Harris]
+LoseText = "What an unfortunate loss for me."
+Pokemon = MAGIKARP,18
+  Moves = TACKLE,SPLASH
+Pokemon = LAPRAS,19
+  Moves = ICESHARD,MIST,WATERPULSE,BODYSLAM
+#-------------------------------
+[GENTLEMAN,Harris,1]
+LoseText = "What an unfortunate loss for me."
+Pokemon = LAPRAS,35
+  Moves = PERISHSONG,MIST,RAINDANCE,ROAR
+Pokemon = GYARADOS,35
+  Moves = LEER,SPLASH,SLEEPTALK,ROAR
+#-------------------------------
+[GENTLEMAN,Harris,2]
+LoseText = "What an unfortunate loss for me."
+Pokemon = LAPRAS,50
+  Moves = PERISHSONG,MIST,SAFEGUARD,ROAR
+Pokemon = GYARADOS,50
+  Moves = LEER,SPLASH,RAINDANCE,ROAR
+#-------------------------------
+#         Dev Battles          #
+#-------------------------------
+[POKEMONTRAINER_Sean,Sean]
+LoseText = "Haha well, congrats my little subject!"
+Pokemon = DUNSPARCE,37
+Pokemon = ESPEON,37
+Pokemon = SABLEYE,37
+	Form = 1
+	Moves = FIRELASH,TAUNT,FOULPLAY,FAKEOUT
+#-------------------------------
+[POKEMONTRAINER_Elias,ENLS]
+LoseText = "Dang, you're good!"
+Pokemon = ARCANINE,37
+Pokemon = RAICHU,37
+Pokemon = MAWILE,37
+	Form = 1
+	Moves = DRAININGKISS,GIGADRAIN,CRUNCH,TAUNT

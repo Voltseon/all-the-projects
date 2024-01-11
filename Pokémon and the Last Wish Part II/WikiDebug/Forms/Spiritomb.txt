@@ -1,0 +1,331 @@
+{{DISPLAYTITLE:Peskan Spiritomb}}
+{{PokemonInfobox|type=[[File:GhostType.png]]<br>[[File:WaterType.png]]|abilities=Water Veil<br>Cursed Body (Hidden)|region=[[Peskan]]|pokedex=[[Peskan Pokédex|<nowiki>#112</nowiki>]]|evolves_from=None|evolves_into=None|weight=108.0 kg|height=1.0 m|gender={{Female50Percent}}|image=SPIRITOMB_1.png|title=[[File:SPIRITOMB_1_icon.png]]
+<big>'''Spiritomb'''</big>}}'''Spiritomb''' is a Ghost/Water-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It is not known to evolve into or from any other Pokémon.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A collection of souls from those who had drowned near its Odd Keystone. They now live as a collective in this Spiritomb form.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+===Base stats ===
+{{BaseStats|HP=50|Attack=108|Defense=92|SpAtk=108|SpDef=92|Speed=35}}
+
+
+===Type effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:FlyingType.png]][[File:GroundType.png]][[File:RockType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GhostType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:DarkType.png]]
+|-
+|Immune to:
+|[[File:NormalType.png]][[File:FightingType.png]]
+|-
+|Resistant to:
+|[[File:PoisonType.png]][[File:BugType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Bubble
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|30
+|-
+|1
+|Confuse Ray
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|1
+|Spite
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|1
+|Shadow Sneak
+|[[File:GhostType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|7
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|13
+|Hypnosis
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+|60%
+|20
+|-
+|19
+|Dream Eater
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|100
+|100%
+|15
+|-
+|25
+|Ominous Wind
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|5
+|-
+|31
+|Liquidation
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|100%
+|10
+|-
+|37
+|Nasty Plot
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|43
+|Soak
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|45
+|[[Cursed Water]]
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|100%
+|10
+|-
+|49
+|Shadow Ball
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM01]]
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM02]]
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM03]]
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM07]]
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM09]]
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM14]]
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM15]]
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ICE.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM17]]
+|Glaciate
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|95%
+|10
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM21]]
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM22]]
+|Synchronoise
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM23]]
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM25]]
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|HM02
+|Aqua Jet
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|HM03
+|[[Psycho Matter]]
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SPIRITOMB_1.png]]
+|[[File:SPIRITOMB_1_back.png]]
+|[[File:SPIRITOMB_1_shiny.png]]
+|[[File:SPIRITOMB_1_shiny_back.png]]
+|[[File:SPIRITOMB_1_icon.png]]
+|-
+|[[File:SPIRITOMB_outfit.png]]
+|[[File:SPIRITOMB_outfit_back.png]]
+|[[File:SPIRITOMB_outfit_shiny.png]]
+|[[File:SPIRITOMB_outfit_shiny_back.png]]
+|[[File:SPIRITOMB_outfit_icon.png]]

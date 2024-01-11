@@ -1,0 +1,292 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]<br>[[File:RockType.png]]|abilities=Hustle<br>Natural Cure<br>Regenerator (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#172</nowiki>|evolves_from=None|evolves_into=None|weight=5.0 kg|height=0.6 m|gender={{Female75Percent}}|image=CORSOLA.png|title=[[File:CORSOLA_icon.png]]
+<big>'''Corsola'''</big>}}'''Corsola''' is a Water/Rock-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It is not known to evolve into or from any other Pokémon.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Corsola live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|30%
+|[[Ancient Undersea Temple]]
+|47
+|52
+|[[File:GrassEncounter.png]]
+|-
+|30%
+|[[Ancient Undersea Temple]]
+|47
+|52
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=65|Attack=55|Defense=95|SpAtk=65|SpDef=95|Speed=35}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:WaterType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:GroundType.png]][[File:ElectricType.png]]
+|-
+|4x weak to:
+|[[File:GrassType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:IceType.png]]
+|-
+|4x resistant to:
+|[[File:FireType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|4
+|Bubble
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|30
+|-
+|8
+|Recover
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|10
+|Bubble Beam
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|13
+|Refresh
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|17
+|Ancient Power
+|[[File:RockType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|5
+|-
+|20
+|Spike Cannon
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|20
+|100%
+|15
+|-
+|23
+|Lucky Chant
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|27
+|Brine
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|10
+|-
+|29
+|Iron Defense
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|31
+|Rock Blast
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|25
+|90%
+|10
+|-
+|35
+|Endure
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|38
+|Aqua Ring
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|41
+|Power Gem
+|[[File:RockType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|20
+|-
+|45
+|Mirror Coat
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|20
+|-
+|47
+|Earth Power
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|50
+|Flail
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|TM24
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:CORSOLA.png]]
+|[[File:CORSOLA_back.png]]
+|[[File:CORSOLA_shiny.png]]
+|[[File:CORSOLA_shiny_back.png]]
+|[[File:CORSOLA_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

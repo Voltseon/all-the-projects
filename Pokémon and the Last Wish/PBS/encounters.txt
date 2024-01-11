@@ -1,0 +1,119 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[032] # Celtic Town
+SuperRod
+    30,MAGIKARP,15,20
+	30,POLIWAG,15,20
+    30,TENTACOOL,15,20
+    10,LAPRAS,17,22
+#-------------------------------
+[048] # Route 1
+Land,21
+    40,TAILLOW,6,8
+    20,ZIGZAGOON,6,8
+	20,METAPOD,7,9
+    8,NATU,8
+    8,POOCHYENA,8
+    4,SPINARAK,9
+#-------------------------------
+[076] # Twine City
+SuperRod
+    42,MAGIKARP,12,15
+    30,TENTACOOL,12,15
+	20,POLIWAG,12,15
+	8,DRATINI,20,22
+#-------------------------------
+[078] # Route 2
+Land,21
+    10,SPEAROW,9,11
+    10,SENTRET,9,11
+    20,RATTATA,9,11
+    2,PIKACHU,10,13
+	13,GROWLITHE,10,13
+    15,KAKUNA,7,11
+    10,EEVEE,9,13
+    20,LEDYBA,7,11
+#-------------------------------
+[079] # Prim Cave
+Cave,15
+	20,ZUBAT,9,12
+	20,GEODUDE,9,12
+	20,DIGLETT,9,12
+	10,SLUGMA,9,11
+	10,ONIX,10,12
+	10,ARON,10,12
+	10,DUNSPARCE,10,12
+#-------------------------------
+[080] # Toledo Village
+SuperRod
+    90,MAGIKARP,14,16
+    5,LAPRAS,16,19
+	5,DRATINI,19,21
+#-------------------------------
+[084] # Route 3
+Land,21
+	20,HOOTHOOT,11,13
+	20,SWINUB,11,13
+	15,SHROOMISH,11,13
+	15,SNEASEL,12,15
+	10,ELECTRIKE,11,13
+	10,SPHEAL,11,13
+	10,SNORUNT,12,13
+SuperRod
+    50,MAGIKARP,14,16
+    30,POLIWAG,17,20
+	20,TENTACOOL,16,19
+#-------------------------------
+[091] # Anakiwa Cave
+Cave,15
+	20,GASTLY,15,17
+	20,MISDREAVUS,15,17
+	15,HOUNDOUR,15,18
+	15,MAWILE,15,18
+	15,SABLEYE,15,18
+	5,DITTO,17,18
+SuperRod
+    50,MAGIKARP,15,18
+    30,SPHEAL,17,20
+	20,POLIWHIRL,20,21
+#-------------------------------
+[102] # Anakiwa Cave
+Cave,15
+	20,GASTLY,16,19
+	20,MISDREAVUS,16,19
+	15,HOUNDOUR,16,20
+	15,MAWILE,16,20
+	15,SABLEYE,16,20
+	5,SHROOMISH,17,20
+SuperRod
+    50,MAGIKARP,15,18
+    30,SPHEAL,17,20
+	20,POLIWHIRL,20,21
+#-------------------------------
+[103] # Anakiwa Cave
+Cave,21
+	20,GASTLY,18,20
+	20,MISDREAVUS,18,20
+	15,HOUNDOUR,18,21
+	15,MAWILE,18,21
+	15,SABLEYE,18,21
+	5,DITTO,19,21
+SuperRod
+    50,MAGIKARP,15,18
+    30,SPHEAL,17,20
+	20,POLIWHIRL,20,21
+#-------------------------------
+[104] # Anakiwa Cave
+Cave,21
+	20,GASTLY,18,20
+	20,MISDREAVUS,18,20
+	15,HOUNDOUR,18,21
+	15,MAWILE,18,21
+	15,SABLEYE,18,21
+	5,DITTO,19,21
+SuperRod
+    50,MAGIKARP,15,18
+    30,SPHEAL,17,20
+	18,POLIWHIRL,20,21
+	2,DRATINI,21,23
+#-------------------------------

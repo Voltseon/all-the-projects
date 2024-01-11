@@ -1,0 +1,6 @@
+Name         = Item Find
+Version      = 2.0
+Optional     = Better Itemfinder, 1.0.0
+Essentials   = 20.1
+Website      = https://reliccastle.com/resources/371/
+Credits      = Boonzeet

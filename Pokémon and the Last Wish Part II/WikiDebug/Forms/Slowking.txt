@@ -1,0 +1,273 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]<br>[[File:PsychicType.png]]|abilities=Oblivious<br>Own Tempo<br>Regenerator (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#186</nowiki>|evolves_from=[[Slowpoke]]|evolves_into=None|weight=79.5 kg|height=2.0 m|gender={{Female50Percent}}|image=SLOWKING.png|title=[[File:SLOWKING_icon.png]]
+<big>'''Slowking'''</big>}}'''Slowking''' is a Water/Psychic-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Slowpoke]] starting at level 37.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the Shellder on its head comes off.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=95|Attack=75|Defense=80|SpAtk=100|SpDef=110|Speed=30}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:BugType.png]][[File:GhostType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:DarkType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:PsychicType.png]][[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Heal Pulse
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Power Gem
+|[[File:RockType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|20
+|-
+|1
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|1
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Yawn
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|5
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|9
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|14
+|Confusion
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|25
+|-
+|19
+|Disable
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|23
+|Headbutt
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|15
+|-
+|28
+|Water Pulse
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|20
+|-
+|32
+|Zen Headbutt
+|[[File:PsychicType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|90%
+|15
+|-
+|36
+|Nasty Plot
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|41
+|Swagger
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|15
+|-
+|45
+|Psychic
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|49
+|Trump Card
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|1
+| -%
+|5
+|-
+|54
+|Psych Up
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|58
+|Heal Pulse
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SLOWKING.png]]
+|[[File:SLOWKING_back.png]]
+|[[File:SLOWKING_shiny.png]]
+|[[File:SLOWKING_shiny_back.png]]
+|[[File:SLOWKING_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

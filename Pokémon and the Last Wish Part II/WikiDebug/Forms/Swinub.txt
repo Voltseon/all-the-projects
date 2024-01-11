@@ -1,0 +1,313 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:IceType.png]]<br>[[File:GroundType.png]]|abilities=Oblivious<br>Snow Cloak<br>Thick Fat (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#131</nowiki>|evolves_from=None|evolves_into=[[Piloswine]] (lvl. 33)|weight=6.5 kg|height=0.4 m|gender={{Female50Percent}}|image=SWINUB.png|title=[[File:SWINUB_icon.png]]
+<big>'''Swinub'''</big>}}'''Swinub''' is a Ice/Ground-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Piloswine]] starting at level 33.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|30%
+|[[Route 11]]
+|21
+|25
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=50|Attack=50|Defense=40|SpAtk=30|SpDef=30|Speed=50}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]]
+|-
+|Immune to:
+|[[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:PoisonType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Odor Sleuth
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|5
+|Mud Sport
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|8
+|Powder Snow
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|11
+|Mud-Slap
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|10
+|-
+|14
+|Endure
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|18
+|Mud Bomb
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|85%
+|10
+|-
+|21
+|Icy Wind
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|55
+|95%
+|15
+|-
+|24
+|Ice Shard
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|28
+|Take Down
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|85%
+|20
+|-
+|35
+|Mist
+|[[File:IceType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|37
+|Earthquake
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|100%
+|10
+|-
+|40
+|Flail
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|15
+|-
+|44
+|Blizzard
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|5
+|-
+|48
+|Amnesia
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ICE.png|frameless|24x24px]]
+|TM17
+|Glaciate
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|95%
+|10
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SWINUB.png]]
+|[[File:SWINUB_back.png]]
+|[[File:SWINUB_shiny.png]]
+|[[File:SWINUB_shiny_back.png]]
+|[[File:SWINUB_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

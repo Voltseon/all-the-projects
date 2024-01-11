@@ -1,0 +1,173 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]|abilities=Shell Armor<br>Rattled (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#173</nowiki>|evolves_from=None|evolves_into=[[Huntail]] |weight=52.5 kg|height=0.4 m|gender={{Female50Percent}}|image=CLAMPERL.png|title=[[File:CLAMPERL_icon.png]]
+<big>'''Clamperl'''</big>}}'''Clamperl''' is a Water-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Huntail]] .
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A Clamperl slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|25%
+|[[Ancient Undersea Temple]]
+|47
+|52
+|[[File:GrassEncounter.png]]
+|-
+|25%
+|[[Ancient Undersea Temple]]
+|47
+|52
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=35|Attack=64|Defense=85|SpAtk=74|SpDef=55|Speed=32}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GrassType.png]][[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Clamp
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|35
+|85%
+|15
+|-
+|1
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Whirlpool
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|35
+|85%
+|15
+|-
+|1
+|Iron Defense
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|50
+|Shell Smash
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:CLAMPERL.png]]
+|[[File:CLAMPERL_back.png]]
+|[[File:CLAMPERL_shiny.png]]
+|[[File:CLAMPERL_shiny_back.png]]
+|[[File:CLAMPERL_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

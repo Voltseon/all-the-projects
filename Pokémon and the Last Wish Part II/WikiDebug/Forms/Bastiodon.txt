@@ -1,0 +1,321 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:RockType.png]]<br>[[File:SteelType.png]]|abilities=Sturdy<br>Soundproof (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#144</nowiki>|evolves_from=[[Shieldon]]|evolves_into=None|weight=149.5 kg|height=1.3 m|gender={{FemaleOneEighth}}|image=BASTIODON.png|title=[[File:BASTIODON_icon.png]]
+<big>'''Bastiodon'''</big>}}'''Bastiodon''' is a Rock/Steel-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Shieldon]] starting at level 30.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=60|Attack=52|Defense=168|SpAtk=47|SpDef=138|Speed=30}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:WaterType.png]]
+|-
+|4x weak to:
+|[[File:FightingType.png]][[File:GroundType.png]]
+|-
+|Immune to:
+|[[File:PoisonType.png]]
+|-
+|Resistant to:
+|[[File:RockType.png]][[File:BugType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:NormalType.png]][[File:FlyingType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Block
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|1
+|Block
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Protect
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Taunt
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|1
+|Metal Sound
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|6
+|Taunt
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|10
+|Metal Sound
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|15
+|Take Down
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|85%
+|20
+|-
+|19
+|Iron Defense
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|24
+|Swagger
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|15
+|-
+|28
+|Ancient Power
+|[[File:RockType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|5
+|-
+|36
+|Endure
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|43
+|Metal Burst
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|10
+|-
+|51
+|Iron Head
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|58
+|Heavy Slam
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM10
+|Mega Kick
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|75%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine STEEL.png|frameless|24x24px]]
+|TM20
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|TM24
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM01
+|Stomp
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:BASTIODON.png]]
+|[[File:BASTIODON_back.png]]
+|[[File:BASTIODON_shiny.png]]
+|[[File:BASTIODON_shiny_back.png]]
+|[[File:BASTIODON_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

@@ -1,0 +1,223 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]|abilities=Swift Swim<br>Rattled (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#121</nowiki>|evolves_from=None|evolves_into=[[Gyarados]] (lvl. 20)|weight=10.0 kg|height=0.9 m|gender={{Female50Percent}}|image=MAGIKARP.png|title=[[File:MAGIKARP_icon.png]]
+<big>'''Magikarp'''</big>}}'''Magikarp''' is a Water-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Gyarados]] starting at level 20.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|90%
+|[[Toledo Village]]
+|1
+|35
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Route 3]]
+|1
+|35
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Anakiwa Cave]]
+|1
+|35
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Ronchi Town]]
+|3
+|7
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Route 7]]
+|3
+|7
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Anakiwa Cave]]
+|1
+|35
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Anakiwa Cave]]
+|1
+|35
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Anakiwa Cave]]
+|1
+|35
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Bismark City]]
+|4
+|8
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Route 8]]
+|5
+|9
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Rosewood City]]
+|8
+|12
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Route 9]] (East)
+|8
+|12
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Route 9]] (West)
+|12
+|14
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Route 12]] (South)
+|8
+|12
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Route 10]]
+|14
+|16
+|[[File:StaringEncounter.png]]
+|-
+|5%
+|[[Rosewood Generator]]
+|19
+|19
+|[[File:StaringEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=20|Attack=10|Defense=55|SpAtk=15|SpDef=20|Speed=80}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GrassType.png]][[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Splash
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|15
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|30
+|Flail
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:MAGIKARP.png]]
+|[[File:MAGIKARP_back.png]]
+|[[File:MAGIKARP_shiny.png]]
+|[[File:MAGIKARP_shiny_back.png]]
+|[[File:MAGIKARP_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

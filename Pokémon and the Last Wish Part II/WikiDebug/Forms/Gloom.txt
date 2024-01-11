@@ -1,0 +1,259 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GrassType.png]]<br>[[File:PoisonType.png]]|abilities=Chlorophyll<br>Stench (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#181</nowiki>|evolves_from=[[Oddish]]|evolves_into=[[Vileplume]] (lvl. 31)|weight=8.6 kg|height=0.8 m|gender={{Female50Percent}}|image=GLOOM.png|title=[[File:GLOOM_icon.png]]
+<big>'''Gloom'''</big>}}'''Gloom''' is a Grass/Poison-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Oddish]] starting at level 21 and evolves into [[Vileplume]] starting at level 31.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=60|Attack=65|Defense=70|SpAtk=85|SpDef=75|Speed=40}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:FireType.png]][[File:PsychicType.png]][[File:IceType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Absorb
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|25
+|-
+|1
+|Growth
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|1
+|Sweet Scent
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|1
+|Acid
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|30
+|-
+|5
+|Sweet Scent
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|9
+|Acid
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|30
+|-
+|13
+|Poison Powder
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|75%
+|35
+|-
+|14
+|Stun Spore
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|75%
+|30
+|-
+|15
+|Sleep Powder
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|75%
+|15
+|-
+|19
+|Mega Drain
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|15
+|-
+|24
+|Lucky Chant
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|29
+|Moonlight
+|[[File:FairyType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|34
+|Giga Drain
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|75
+|100%
+|10
+|-
+|39
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|44
+|Natural Gift
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|15
+|-
+|49
+|Petal Blizzard
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|-
+|54
+|Grassy Terrain
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|59
+|Petal Dance
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:GLOOM.png]]
+|[[File:GLOOM_back.png]]
+|[[File:GLOOM_shiny.png]]
+|[[File:GLOOM_shiny_back.png]]
+|[[File:GLOOM_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

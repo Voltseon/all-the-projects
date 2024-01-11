@@ -1,0 +1,256 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:NormalType.png]]<br>[[File:FlyingType.png]]|abilities=Keen Eye<br>Sniper (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#036</nowiki>|evolves_from=None|evolves_into=[[Fearow]] (lvl. 20)|weight=2.0 kg|height=0.3 m|gender={{Female50Percent}}|image=SPEAROW.png|title=[[File:SPEAROW_icon.png]]
+<big>'''Spearow'''</big>}}'''Spearow''' is a Normal/Flying-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Fearow]] starting at level 20.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=40|Attack=60|Defense=30|SpAtk=31|SpDef=31|Speed=70}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:RockType.png]][[File:ElectricType.png]][[File:IceType.png]]
+|-
+|Immune to:
+|[[File:GroundType.png]][[File:GhostType.png]]
+|-
+|Resistant to:
+|[[File:BugType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|35
+|100%
+|35
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|4
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|8
+|Pursuit
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|11
+|Fury Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|85%
+|20
+|-
+|15
+|Aerial Ace
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|18
+|Mirror Move
+|[[File:FlyingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|22
+|Assurance
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|10
+|-
+|25
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|29
+|Focus Energy
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|32
+|Roost
+|[[File:FlyingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|36
+|Drill Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|20
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|TM08
+|Drill Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SPEAROW.png]]
+|[[File:SPEAROW_back.png]]
+|[[File:SPEAROW_shiny.png]]
+|[[File:SPEAROW_shiny_back.png]]
+|[[File:SPEAROW_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

@@ -1,0 +1,401 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:DarkType.png]]<br>[[File:IceType.png]]|abilities=Pressure<br>Pickpocket (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#130</nowiki>|evolves_from=[[Sneasel]]|evolves_into=None|weight=34.0 kg|height=1.1 m|gender={{Female50Percent}}|image=WEAVILE.png|title=[[File:WEAVILE_icon.png]]
+<big>'''Weavile'''</big>}}'''Weavile''' is a Dark/Ice-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Sneasel]] .
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|15%
+|[[Route 3]]
+|31
+|34
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=70|Attack=120|Defense=65|SpAtk=45|SpDef=85|Speed=125}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:DragonType.png]]
+|-
+|Weak to:
+|[[File:RockType.png]][[File:BugType.png]][[File:SteelType.png]][[File:FireType.png]][[File:FairyType.png]]
+|-
+|4x weak to:
+|[[File:FightingType.png]]
+|-
+|Immune to:
+|[[File:PsychicType.png]]
+|-
+|Resistant to:
+|[[File:GhostType.png]][[File:IceType.png]][[File:DarkType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Embargo
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|1
+|Revenge
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|10
+|-
+|1
+|Assurance
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|10
+|-
+|1
+|Scratch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Taunt
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|1
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|8
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|10
+|Feint Attack
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|14
+|Icy Wind
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|55
+|95%
+|15
+|-
+|16
+|Fury Swipes
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|18
+|80%
+|15
+|-
+|20
+|Nasty Plot
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|22
+|Metal Claw
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|95%
+|35
+|-
+|25
+|Hone Claws
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|28
+|Fling
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|10
+|-
+|32
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|35
+|Night Slash
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|15
+|-
+|40
+|Snatch
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|44
+|Punishment
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|5
+|-
+|47
+|Dark Pulse
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine FIGHTING.png|frameless|24x24px]]
+|TM04
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM11
+|Mega Punch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|85%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ICE.png|frameless|24x24px]]
+|TM17
+|Glaciate
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|95%
+|10
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|TM21
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|HM02
+|Aqua Jet
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:WEAVILE.png]]
+|[[File:WEAVILE_back.png]]
+|[[File:WEAVILE_shiny.png]]
+|[[File:WEAVILE_shiny_back.png]]
+|[[File:WEAVILE_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

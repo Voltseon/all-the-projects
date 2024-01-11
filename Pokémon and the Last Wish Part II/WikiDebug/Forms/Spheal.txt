@@ -1,0 +1,310 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:IceType.png]]<br>[[File:WaterType.png]]|abilities=Thick Fat<br>Ice Body<br>Oblivious (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#125</nowiki>|evolves_from=None|evolves_into=[[Sealeo]] (lvl. 32)|weight=39.5 kg|height=0.8 m|gender={{Female50Percent}}|image=SPHEAL.png|title=[[File:SPHEAL_icon.png]]
+<big>'''Spheal'''</big>}}'''Spheal''' is a Ice/Water-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Sealeo]] starting at level 32.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It is completely covered with plushy fur. As a result, it never feels the cold even when it is rolling about on ice floes or diving in the sea.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Route 11]]
+|20
+|24
+|[[File:GrassEncounter.png]][[File:StaringEncounter.png]]
+|-
+|70%
+|[[Sambucha Town]]
+|16
+|19
+|[[File:StaringEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=70|Attack=40|Defense=50|SpAtk=55|SpDef=50|Speed=25}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:RockType.png]][[File:GrassType.png]][[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:WaterType.png]]
+|-
+|4x resistant to:
+|[[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Defense Curl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|1
+|Powder Snow
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|1
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|5
+|Rollout
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|90%
+|20
+|-
+|9
+|Encore
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|5
+|-
+|13
+|Ice Ball
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|90%
+|20
+|-
+|17
+|Brine
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|10
+|-
+|21
+|Aurora Beam
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|26
+|Body Slam
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|100%
+|15
+|-
+|31
+|Rest
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|31
+|Snore
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|15
+|-
+|36
+|Hail
+|[[File:IceType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|41
+|Blizzard
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|5
+|-
+|46
+|Sheer Cold
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|30%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ICE.png|frameless|24x24px]]
+|TM17
+|Glaciate
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|95%
+|10
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|HM02
+|Aqua Jet
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SPHEAL.png]]
+|[[File:SPHEAL_back.png]]
+|[[File:SPHEAL_shiny.png]]
+|[[File:SPHEAL_shiny_back.png]]
+|[[File:SPHEAL_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

@@ -1,0 +1,294 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:PsychicType.png]]|abilities=Synchronize<br>Magic Bounce (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#097</nowiki>|evolves_from=[[Eevee]]|evolves_into=None|weight=26.5 kg|height=0.9 m|gender={{FemaleOneEighth}}|image=ESPEON.png|title=[[File:ESPEON_icon.png]]
+<big>'''Espeon'''</big>}}'''Espeon''' is a Psychic-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Eevee]] when exposed to a Water Stone.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>An Espeon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=65|Attack=65|Defense=60|SpAtk=130|SpDef=95|Speed=110}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:BugType.png]][[File:GhostType.png]][[File:DarkType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:PsychicType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Confusion
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|25
+|-
+|1
+|Confusion
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|25
+|-
+|1
+|Helping Hand
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Tail Whip
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|5
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|9
+|Baby-Doll Eyes
+|[[File:FairyType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|13
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|17
+|Swift
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+| -%
+|20
+|-
+|20
+|Psybeam
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|25
+|Future Sight
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|29
+|Psych Up
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|33
+|Morning Sun
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|37
+|Psychic
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|41
+|Last Resort
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|140
+|100%
+|5
+|-
+|45
+|Power Swap
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine FAIRY.png|frameless|24x24px]]
+|TM12
+|Draining Kiss
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|TM21
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:ESPEON.png]]
+|[[File:ESPEON_back.png]]
+|[[File:ESPEON_shiny.png]]
+|[[File:ESPEON_shiny_back.png]]
+|[[File:ESPEON_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

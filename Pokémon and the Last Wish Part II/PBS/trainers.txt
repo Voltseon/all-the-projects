@@ -1,0 +1,1064 @@
+﻿
+
+
+#-------------------------------
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 7
+#-------------------------------
+[YOUNGSTER,David]
+LoseText = "Aww man, I thought I had a chance."
+Pokemon = BIDOOF,3
+#-------------------------------
+[LASS,Riley]
+LoseText = "I suppose I am the loser."
+Pokemon = STARLY,4
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 8
+#-------------------------------
+[RIVAL1,Jamie]
+LoseText = "Wow, you're pretty strong!"
+Pokemon = BUIZEL,7
+    Form = 1
+Pokemon = EEVEE,9
+#-------------------------------
+[RIVAL2,Jamie]
+LoseText = "Wow, you're pretty strong!"
+Pokemon = BUIZEL,7
+    Form = 1
+Pokemon = EEVEE,9
+#-------------------------------
+[CAMPER,Jack]
+LoseText = "Those were some cool moves!"
+Pokemon = WOOPER,7
+    Form = 1
+#-------------------------------
+[PICNICKER,Josie]
+LoseText = "Pfft. Before I could get serious, I lost!"
+Pokemon = KRICKETOT,6
+Pokemon = SENTRET,7
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 12 (Bottom)
+#-------------------------------
+[HIKER,Jared]
+LoseText = "OK! I give up!"
+Pokemon = WOOPER,8
+    Form = 1
+Pokemon = GROWLITHE,9
+#-------------------------------
+[GAMBLER,Olly]
+LoseText = "I lost. I lost!"
+Pokemon = NATU,10
+#-------------------------------
+[AROMALADY,Jolie]
+LoseText = "I'm glad I got to see your Pokémon!"
+Pokemon = BUTTERFREE,9
+Pokemon = SHROOMISH,10
+#-------------------------------
+
+
+
+#-------------------------------
+# Rosewood Generator (Bottom)
+#-------------------------------
+[EXPLORER,Lana]
+LoseText = "Hmm. This is disappointing."
+Pokemon = GEODUDE,11
+Pokemon = SANDSHREW,12
+#-------------------------------
+
+
+
+#-------------------------------
+# Rosewood City
+#-------------------------------
+[SUPERNERD,Klaus]
+LoseText = "Ow, ow, ow!"
+Pokemon = MAGNEMITE,12
+#-------------------------------
+[ENGINEER,Tomas]
+LoseText = "Just as I thought, you're tough!"
+Pokemon = SHINX,13
+Pokemon = MAGNEMITE,14
+#-------------------------------
+[ENGINEER,Davis]
+LoseText = "Argh, I can't do anymore..."
+Pokemon = PIKACHU,15
+#-------------------------------
+[LEADER_Felicity,Felicity]
+Items = SUPERPOTION
+LoseText = "Looks like you're the stronger one..."
+Pokemon = LUXIO,16
+    Moves = CHARGE,TACKLE,PARABOLICCHARGE
+Pokemon = ELECTRIKE,16
+    Moves = HOWL,QUICKATTACK,PARABOLICCHARGE
+Pokemon = JOLTEON,18
+    Moves = PARABOLICCHARGE,QUICKATTACK,SANDATTACK,THUNDERSHOCK
+    Item = AIRBALLOON
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 9 (Right)
+#-------------------------------
+[COOLTRAINER_F,Lauren]
+LoseText = "Way to go!"
+Pokemon = POOCHYENA,8
+Pokemon = TAILLOW,9
+#-------------------------------
+[COOLTRAINER_M,Luis]
+LoseText = "That's too bad."
+Pokemon = SHINX,8
+Pokemon = KRICKETOT,9
+#-------------------------------
+# Post Stomp
+#-------------------------------
+[HIKER,Troy]
+LoseText = "Just what I expected."
+Pokemon = GEODUDE,15
+#-------------------------------
+[BLACKBELT,Doug]
+LoseText = "Oh... That's disappointing!"
+Pokemon = RIOLU,16
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 9 (Left)
+#-------------------------------
+[CRUSHGIRL,Sonya]
+LoseText = "That's odd."
+Pokemon = CROAGUNK,16
+#-------------------------------
+[POKEMONBREEDER,Jessica]
+LoseText = "...Humph! Are you happy you won?"
+Pokemon = PICHU,16
+Pokemon = NATU,16
+Pokemon = WEEDLE,17
+#-------------------------------
+[BIRDKEEPER_F,Rachel]
+LoseText = "Tch! I tried to rush things..."
+Pokemon = TAILLOW,18
+#-------------------------------
+[FISHERMAN,Austin]
+LoseText = "Argh! You're too strong!"
+Pokemon = MAGIKARP,16
+Pokemon = FINNEON,16
+Pokemon = POLIWAG,17
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 10
+#-------------------------------
+[RIVAL1_1,Jamie]
+LoseText = "I was not expecting to lose that hard."
+Pokemon = KRICKETUNE,21
+Pokemon = BUIZEL,22
+    Form = 1
+Pokemon = WOOPER,22
+    Form = 1
+Pokemon = EEVEE,24
+#-------------------------------
+[RIVAL2_1,Jamie]
+LoseText = "I was not expecting to lose that hard."
+Pokemon = KRICKETUNE,21
+Pokemon = BUIZEL,22
+    Form = 1
+Pokemon = WOOPER,22
+    Form = 1
+Pokemon = EEVEE,24
+#-------------------------------
+[PAINTER,Lowell]
+LoseText = "I might have lost, but this most definitely gave me some inspiration."
+Pokemon = ZIGZAGOON,19
+#-------------------------------
+[FISHERMAN,Barry]
+LoseText = "My Pokémon bucket is empty!"
+Pokemon = FINNEON,19
+Pokemon = POLIWAG,20
+#-------------------------------
+[LASS,Lyndsey]
+LoseText = "Aack! My Pokémon!"
+Pokemon = STARAVIA,18
+Pokemon = BUIZEL,17
+Pokemon = BUTTERFREE,17
+#-------------------------------
+# Post Heliotrope Woods
+#-------------------------------
+[PSYCHIC_M,Trey]
+LoseText = "I was no match..."
+Pokemon = NATU,21
+Pokemon = KIRLIA,22
+#-------------------------------
+[FISHERMAN,Tobias]
+LoseText = "I'm too impatient for fishing..."
+Pokemon = MAGIKARP,19
+Pokemon = MAGIKARP,19
+Pokemon = GYARADOS,24
+#-------------------------------
+
+
+
+#-------------------------------
+# Heliotrope Forest
+#-------------------------------
+[CAMPER,Eugene]
+LoseText = "Didn't I train enough?"
+Pokemon = SHROOMISH,20
+Pokemon = TAILLOW,20
+#-------------------------------
+[BUGCATCHER,Erick]
+LoseText = "I see. So you can battle that way."
+Pokemon = BEEDRILL,21
+Pokemon = COMBEE,21
+#-------------------------------
+[YOUNGSTER,Donald]
+LoseText = "That's strange. I won before."
+Pokemon = BIBAREL,24
+#-------------------------------
+[BUGCATCHER,Melvin]
+LoseText = "I was whipped..."
+Pokemon = KRICKETUNE,21
+Pokemon = VESPIQUEN,23
+#-------------------------------
+[LASS,Myrtle]
+LoseText = "...Hmmm..."
+Pokemon = LUXIO,21
+#-------------------------------
+[PICNICKER,Karissa]
+LoseText = "Yow! You're too strong!"
+Pokemon = MAWILE,20
+    Form = 1
+#-------------------------------
+
+
+
+#-------------------------------
+# Sundance City
+#-------------------------------
+[BIRDKEEPER_M,Carl]
+LoseText = "This can't be true!"
+Pokemon = NATU,21
+Pokemon = SWELLOW,22
+#-------------------------------
+[BIRDKEEPER_F,Raven]
+LoseText = "Tocke will show you the real power of Flying-types!"
+Pokemon = STARAVIA,20
+#-------------------------------
+[BIRDKEEPER_M,Todd]
+LoseText = "Gaah!"
+Pokemon = HOOTHOOT,18
+Pokemon = WINGULL,21
+#-------------------------------
+[PILOT,Garett]
+LoseText = "Yikes! Not fast enough!"
+Pokemon = GOLBAT,22
+#-------------------------------
+[BIRDKEEPER_F,Ashley]
+LoseText = "I feel like just flying away now."
+Pokemon = PELIPPER,23
+#-------------------------------
+[PILOT,Felix]
+LoseText = "You might have beaten us, but you will never beat Tocke."
+Pokemon = STARAVIA,24
+#-------------------------------
+[LEADER_Tocke,Tocke]
+Items = SUPERPOTION,SUPERPOTION
+LoseText = "What an amazing display of strength!"
+Pokemon = NOCTOWL,26
+    Moves = DRILLPECK,FORESIGHT,PSYWAVE,NIGHTSHADE
+Pokemon = STARAVIA,26
+    Moves = DRILLPECK,LEER,SANDATTACK,QUICKATTACK
+Pokemon = BUTTERFREE,27
+    Moves = GUST,PSYWAVE,BUGBUZZ,STUNSPORE
+Pokemon = XATU,28
+    Moves = DRILLPECK,EXTRASENSORY,TAILWIND,CONFUSERAY
+    Item = LIFEORB
+#-------------------------------
+
+
+#-------------------------------
+# Route 13 (Right)
+#-------------------------------
+[POKEMANIAC,Jeff]
+LoseText = "Phew..."
+Pokemon = PIKACHU,23
+Pokemon = EEVEE,23
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 13 (Left)
+#-------------------------------
+[LADY,Rosanna]
+LoseText = "Pretty impressive! I'm sure you can go anywhere with that skill!"
+Pokemon = PUPITAR,53
+Pokemon = DRAGONAIR,54
+#-------------------------------
+[PSYCHIC_M,Roderick]
+LoseText = "You're too much!"
+Pokemon = XATU,54
+Pokemon = NINETALES,55
+#-------------------------------
+[PSYCHIC_F,Shirley]
+LoseText = "Good battle!"
+Pokemon = ESPEON,56
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 11 (Left)
+#-------------------------------
+[HIKER,Brad]
+LoseText = "Gwa ha ha! I lost."
+Pokemon = SWINUB,22
+#-------------------------------
+[JUGGLER,Daryl]
+LoseText = "I can't move anymore..."
+Pokemon = DITTO,23
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 11 (Right)
+#-------------------------------
+[BLACKBELT,Graham]
+LoseText = "That's shocking!"
+Pokemon = CROAGUNK,26
+#-------------------------------
+[ACETRAINER_M,Toby]
+LoseText = "Whew... Good battle."
+Pokemon = SNORUNT,26
+Pokemon = SNOVER,26
+#-------------------------------
+[ACETRAINER_F,Patricia]
+LoseText = "Oh, yikes! We lost!"
+Pokemon = FLOATZEL,27
+    Form = 1
+#-------------------------------
+[ACETRAINER_F,Hayley]
+LoseText = "Whatever!"
+Pokemon = SPHEAL,27
+Pokemon = SNEASEL,26
+Pokemon = DIGLETT,26
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 12 (Top)
+#-------------------------------
+[RIVAL1_2,Jamie]
+LoseText = "Heh, I guess I didn't try hard enough."
+Pokemon = KRICKETUNE,28
+Pokemon = FLOATZEL,30
+    Form = 1
+Pokemon = QUAGSIRE,30
+    Form = 1
+Pokemon = EEVEE,32
+#-------------------------------
+[RIVAL2_2,Jamie]
+LoseText = "Heh, I guess I didn't try hard enough."
+Pokemon = KRICKETUNE,28
+Pokemon = FLOATZEL,30
+    Form = 1
+Pokemon = QUAGSIRE,30
+    Form = 1
+Pokemon = EEVEE,32
+#-------------------------------
+
+#-------------------------------
+[TAMER,Justin]
+LoseText = "I lost that one!"
+Pokemon = SHIELDON,26
+Pokemon = ARON,25
+#-------------------------------
+[COOLTRAINER_F,Victoria]
+LoseText = "Gulp! This is a bleak moment."
+Pokemon = ELECTRIKE,26
+Pokemon = DUNSPARCE,27
+#-------------------------------
+[BEAUTY,Marissa]
+LoseText = "Mercy!"
+Pokemon = MAWILE,28
+    Form = 1
+#-------------------------------
+
+
+
+#-------------------------------
+# Caramel Cave
+#-------------------------------
+[HIKER,Mason]
+LoseText = "Tch! I took you too lightly!"
+Pokemon = ONIX,27
+Pokemon = DIGLETT,27
+Pokemon = DIGLETT,27
+#-------------------------------
+[EXPLORER,Vivian]
+LoseText = "Uh-oh! I was also sunk by indecision!"
+Pokemon = GOLBAT,28
+Pokemon = CRANIDOS,28
+#-------------------------------
+[RUINMANIAC,Max]
+LoseText = "Ayeeee!"
+Pokemon = SHUCKLE,29
+#-------------------------------
+[RUINMANIAC,Brent]
+LoseText = "Uww... I blew it."
+Pokemon = MAGNETON,28
+Pokemon = CACNEA,29
+#-------------------------------
+[TAMER,Josh]
+LoseText = "Impressive..."
+Pokemon = LARVITAR,30
+Pokemon = SABLEYE,29
+  Form = 1
+Pokemon = ARON,28
+#-------------------------------
+# Double battle
+#-------------------------------
+[CAMPER,Anton]
+LoseText = "We give up! You're the winner!"
+Pokemon = HOUNDOUR,28
+Pokemon = DUNSPARCE,29
+#-------------------------------
+[PICNICKER,Alley]
+LoseText =  "Looks like we underestimated you."
+Pokemon = ONIX,31
+#-------------------------------
+# Hidden Compartment
+#-------------------------------
+[EXPLORER,Maria]
+LoseText = "Oh, so close! I almost had you!"
+Pokemon = SLUGMA,29
+Pokemon = SABLEYE,31
+  Form = 1
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 6
+#-------------------------------
+[TUBER2_M,Ronald]
+LoseText = "...Did I win?"
+Pokemon = POLIWHIRL,32
+#-------------------------------
+[SWIMMER_M,Clint]
+LoseText = "Oh... I lost... You're not weak..."
+Pokemon = TENTACOOL,31
+Pokemon = TENTACOOL,31
+#-------------------------------
+[SWIMMER2_F,Phyllis]
+LoseText = "Oh, dear! I wanted to win!"
+Pokemon = LUMINEON,32
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 5
+#-------------------------------
+[SWIMMER_M,Marshal]
+LoseText = "Yikes! Sorry!"
+Pokemon = GYARADOS,31
+#-------------------------------
+[TUBER_F,Lila]
+LoseText = "... ... I'll go train some more..."
+Pokemon = PELIPPER,31
+Pokemon = LUMINEON,31
+#-------------------------------
+[SWIMMER2_M,Derrek]
+LoseText = "Yaha! I lost!"
+Pokemon = BIBAREL,31
+Pokemon = SEALEO,32
+#-------------------------------
+[SWIMMER_F,Loraine]
+LoseText = "I was no match..."
+Pokemon = VAPOREON,33
+#-------------------------------
+
+
+
+#-------------------------------
+# Spectra Graveyard
+#-------------------------------
+[CHANELLER,Cathryn]
+LoseText = "Uwahauwaha!"
+Pokemon = HAUNTER,34
+Pokemon = GENGAR,35
+#-------------------------------
+[CHANELLER,Mariah]
+LoseText = "Nyuraahahhaah"
+Pokemon = MISMAGIUS,35
+Pokemon = FROSLASS,36
+#-------------------------------
+
+
+
+#-------------------------------
+# Merlow City
+#-------------------------------
+[BURGLAR,Callahan]
+LoseText = "You never saw me..."
+Pokemon = FLOATZEL,34
+    Form = 1
+Pokemon = CACTURNE,34
+    Form = 1
+Pokemon = MIGHTYENA,35
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 4
+#-------------------------------
+[LADY,Rose]
+LoseText = "Uwaaah! Eeek!"
+Pokemon = LEAFEON,34
+Pokemon = MANECTRIC,35
+#-------------------------------
+[ROCKER,Ron]
+LoseText = "My PIKACHU!"
+Pokemon = PIKACHU,36
+#-------------------------------
+# Double battle
+#-------------------------------
+[POKEMONRANGER_M,Emmet]
+LoseText = "How could this happen, Avery?"
+Pokemon = RAMPARDOS,36
+#-------------------------------
+[POKEMONRANGER_F,Avery]
+LoseText = "Don't look at me, Emmet. It's mostly your fault we lost."
+Pokemon = BASTIODON,37
+#-------------------------------
+[CUEBALL,Floyd]
+LoseText = "Grr! I lost that..."
+Pokemon = BRELOOM,37
+Pokemon = QUAGSIRE,38
+    Form = 1
+#-------------------------------
+[AROMALADY,Nova]
+LoseText = "Oh... I lost..."
+Pokemon = SNOVER,37
+Pokemon = MAWILE,38
+    Form = 1
+#-------------------------------
+[CAMPER,Dwight]
+LoseText = "Peace--even though I lost!"
+Pokemon = POLITOED,39
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 1
+#-------------------------------
+[PAINTER,Cameron]
+LoseText = "Back to the drawing board, I guess..."
+Pokemon = LINOONE,37
+Pokemon = MAWILE,37
+#-------------------------------
+[JUGGLER,James]
+LoseText = "I did not expect to lose this battle."
+Pokemon = SWELLOW,37
+Pokemon = FURRET,38
+#-------------------------------
+
+
+#-------------------------------
+# Route 2 / Prim Cave
+#-------------------------------
+[YOUNGSTER,Daniel]
+LoseText = "Ugh, why do I always keep losing these battles?"
+Pokemon = RATICATE,37
+Pokemon = FEAROW,37
+#-------------------------------
+[BUGCATCHER,Flynn]
+LoseText = "My bugs were no match..."
+Pokemon = BUTTERFREE,37
+Pokemon = BEEDRILL,38
+#-------------------------------
+[HIKER,Blake]
+LoseText = "No way!"
+Pokemon = GOLEM,39
+#-------------------------------
+[FISHERMAN,Joel]
+LoseText = "I need to get out of this cave..."
+Pokemon = TENTACRUEL,37
+Pokemon = GYARADOS,38
+#-------------------------------
+
+
+#-------------------------------
+# Route 3
+#-------------------------------
+[LASS,Emily]
+LoseText = "Aww, darn it!"
+Pokemon = BRELOOM,38
+Pokemon = SEALEO,39
+#-------------------------------
+[ACETRAINER_M,Alex]
+LoseText = "You cheated! It's that simple."
+Pokemon = WEAVILE,38
+Pokemon = ESPEON,38
+#-------------------------------
+[ACETRAINER_F,Blaire]
+LoseText = "I should've guessed you would cheat."
+Pokemon = MANECTRIC,37
+Pokemon = MAMOSWINE,37
+Pokemon = NOCTOWL,39
+#-------------------------------
+
+
+#-------------------------------
+# Anakiwa Cave
+#-------------------------------
+[EXPLORER,Alyssa]
+LoseText = "I thought I was prepared for anything!"
+Pokemon = MAWILE,40
+Pokemon = GOLEM,40
+#-------------------------------
+[BLACKBELT,Ben]
+LoseText = "I can't accept defeat like this..."
+Pokemon = BRELOOM,41
+Pokemon = POLIWRATH,40
+Pokemon = GOLEM,40
+#-------------------------------
+[PSYCHIC_F,Janice]
+LoseText = "I knew you would win."
+Pokemon = GENGAR,40
+Pokemon = XATU,40
+Pokemon = SABLEYE,41
+#-------------------------------
+[COOLCOUPLE,Lena & Sean]
+LoseText = "Wow, you're too good!"
+Pokemon = MANECTRIC,39
+Pokemon = HOUNDOOM,41
+Pokemon = TENTACRUEL,39
+Pokemon = WEAVILE,41
+#-------------------------------
+[HIKER,Keane]
+LoseText = "This can't be happening."
+Pokemon = GOLEM,41
+Pokemon = MISMAGIUS,42
+#-------------------------------
+[CRUSHGIRL,Rey]
+LoseText = "Wow! You're super impressive."
+Pokemon = BRELOOM,40
+Pokemon = FLAREON,41
+#-------------------------------
+[BUGCATCHER,Elias]
+LoseText = "Hang on, this makes no sense..."
+Pokemon = BUTTERFREE,42
+Pokemon = BEEDRILL,43
+#-------------------------------
+[BIRDKEEPER_M,Andy]
+LoseText = "Can't really fly away from this one, can I?"
+Pokemon = FEAROW,42
+Pokemon = SWELLOW,42
+#-------------------------------
+[RUINMANIAC,Jared]
+LoseText = "I'm searching for ruins!"
+Pokemon = STEELIX,41
+Pokemon = GOLEM,41
+Pokemon = MAWILE,42
+#-------------------------------
+
+
+
+#-------------------------------
+# Back In Time
+#-------------------------------
+[ODDLADY,Lady]
+Items = HYPERPOTION
+LoseText = "... Useless!"
+Pokemon = MISMAGIUS,47
+Pokemon = DRAGONAIR,47
+Pokemon = PUPITAR,48
+Pokemon = FROSLASS,48
+Pokemon = GARDEVOIR,49
+Pokemon = CELEBI,50
+#-------------------------------
+
+
+
+#-------------------------------
+# Anakiwa City Gym
+#-------------------------------
+[BUGCATCHER,Jimmy]
+Items = HYPERPOTION
+LoseText = "I didn't think I could lose this quickly."
+Pokemon = KRICKETUNE,46
+Pokemon = BEEDRILL,47
+Pokemon = VESPIQUEN,47
+Pokemon = SHUCKLE,47
+#-------------------------------
+[COOLTRAINER_F,Karen]
+Items = HYPERPOTION
+LoseText = "That was phenomenal."
+Pokemon = DRAGONAIR,47
+Pokemon = GENGAR,47
+Pokemon = STEELIX,48
+Pokemon = GALLADE,48
+#-------------------------------
+[SAILOR,Angelo]
+Items = HYPERPOTION
+LoseText = "Heh! I guess it was a fair battle."
+Pokemon = WALREIN,48
+Pokemon = POLITOED,48
+Pokemon = TENTACRUEL,48
+Pokemon = LAPRAS,49
+#-------------------------------
+[LADY,Cassandra]
+Items = MAXREVIVE,MAXREVIVE
+LoseText = "Unfair!"
+Pokemon = ROTOM,100
+    Form = 3
+Pokemon = STARAPTOR,100
+Pokemon = CACTURNE,100
+    Form = 1
+Pokemon = NINETALES,100
+Pokemon = GYARADOS,100
+Pokemon = FROSLASS,100
+#-------------------------------
+#-------------------------------
+[RIVAL1_3,Jamie]
+LoseText = "Fair is fair... You were just stronger than me."
+Items = HYPERPOTION
+Pokemon = MAGNEZONE,50
+Pokemon = SWELLOW,51
+Pokemon = FLOATZEL,51
+    Form = 1
+Pokemon = QUAGSIRE,52
+    Form = 1
+Pokemon = RAMPARDOS,52
+Pokemon = ESPEON,54
+#-------------------------------
+[RIVAL2_3,Jamie]
+LoseText = "Fair is fair... You were just stronger than me."
+Items = HYPERPOTION
+Pokemon = MAGNEZONE,50
+Pokemon = SWELLOW,51
+Pokemon = FLOATZEL,51
+    Form = 1
+Pokemon = QUAGSIRE,52
+    Form = 1
+Pokemon = BASTIODON,52
+Pokemon = ESPEON,54
+#-------------------------------
+# Cris Male
+#-------------------------------
+[LEADER_Cris_M,Cris]
+LoseText = "Amazing, absolutely stunning. I have not been this excited during a battle in a while."
+Items = FULLRESTORE
+Pokemon = RAICHU,53
+    IV = 31,31,31,31,31,31
+    Moves = THUNDER,QUICKATTACK,ENERGYBALL,PARABOLICCHARGE
+Pokemon = AGGRON,53
+    Name = Nora
+    Gender = female
+    IV = 31,31,31,31,31,31
+    Moves = MAGNITUDE,ROCKWRECKER,HEAVYSLAM,STOMP
+Pokemon = UMBREON,52
+    IV = 31,31,31,31,31,31
+    Moves = DARKPULSE,WISH,SHADOWBALL,MOONLIGHT
+Pokemon = MAWILE,53
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = DRAININGKISS,LIFEDRAIN,SYNTHESIS,TAUNT
+Pokemon = SABLEYE,53
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = NIGHTSHADE,FLAREDASH,POWERGEM,FOULPLAY
+Pokemon = SCEPTILE,55
+    IV = 31,31,31,31,31,31
+    Moves = LEAFBLADE,WISH,SLACKOFF,DUALCHOP
+    Item = EXPERTBELT
+#-------------------------------
+[LEADER_Cris_M,Cris,1]
+LoseText = "Amazing, absolutely stunning. I have not been this excited during a battle in a while."
+Items = FULLRESTORE
+Pokemon = RAICHU,53
+    IV = 31,31,31,31,31,31
+    Moves = THUNDER,QUICKATTACK,ENERGYBALL,PARABOLICCHARGE
+Pokemon = AGGRON,53
+    Name = Nora
+    Gender = female
+    IV = 31,31,31,31,31,31
+    Moves = MAGNITUDE,ROCKWRECKER,HEAVYSLAM,STOMP
+Pokemon = UMBREON,54
+    IV = 31,31,31,31,31,31
+    Moves = DARKPULSE,WISH,SHADOWBALL,MOONLIGHT
+Pokemon = MAWILE,55
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = DRAININGKISS,LIFEDRAIN,SYNTHESIS,TAUNT
+Pokemon = SABLEYE,55
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = NIGHTSHADE,FLAREDASH,POWERGEM,FOULPLAY
+Pokemon = TYPHLOSION,57
+    IV = 31,31,31,31,31,31
+    Moves = ERUPTION,WISH,SLACKOFF,FIRELASH
+    Item = EXPERTBELT
+#-------------------------------
+[LEADER_Cris_M,Cris,2]
+LoseText = "Amazing, absolutely stunning. I have not been this excited during a battle in a while."
+Items = FULLRESTORE
+Pokemon = RAICHU,53
+    IV = 31,31,31,31,31,31
+    Moves = THUNDER,QUICKATTACK,ENERGYBALL,PARABOLICCHARGE
+Pokemon = AGGRON,53
+    Name = Nora
+    Gender = female
+    IV = 31,31,31,31,31,31
+    Moves = MAGNITUDE,ROCKWRECKER,HEAVYSLAM,STOMP
+Pokemon = UMBREON,54
+    IV = 31,31,31,31,31,31
+    Moves = DARKPULSE,WISH,SHADOWBALL,MOONLIGHT
+Pokemon = MAWILE,55
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = DRAININGKISS,LIFEDRAIN,SYNTHESIS,TAUNT
+Pokemon = SABLEYE,55
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = NIGHTSHADE,FLAREDASH,POWERGEM,FOULPLAY
+Pokemon = BLASTOISE,57
+    IV = 31,31,31,31,31,31
+    Moves = HYDROPUMP,WISH,SLACKOFF,ICEBEAM
+    Item = EXPERTBELT
+#-------------------------------
+# Cris Female
+#-------------------------------
+[LEADER_Cris_F,Cris]
+LoseText = "Amazing, absolutely stunning. I have not been this excited during a battle in a while."
+Items = FULLRESTORE
+Pokemon = RAICHU,53
+    IV = 31,31,31,31,31,31
+    Moves = THUNDER,QUICKATTACK,ENERGYBALL,PARABOLICCHARGE
+Pokemon = AGGRON,53
+    Name = Nora
+    Gender = female
+    IV = 31,31,31,31,31,31
+    Moves = MAGNITUDE,ROCKWRECKER,HEAVYSLAM,STOMP
+Pokemon = UMBREON,54
+    IV = 31,31,31,31,31,31
+    Moves = DARKPULSE,WISH,SHADOWBALL,MOONLIGHT
+Pokemon = MAWILE,55
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = DRAININGKISS,LIFEDRAIN,SYNTHESIS,TAUNT
+Pokemon = SABLEYE,55
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = NIGHTSHADE,FLAREDASH,POWERGEM,FOULPLAY
+Pokemon = SCEPTILE,57
+    IV = 31,31,31,31,31,31
+    Moves = LEAFBLADE,WISH,SLACKOFF,DUALCHOP
+    Item = EXPERTBELT
+#-------------------------------
+[LEADER_Cris_F,Cris,1]
+LoseText = "Amazing, absolutely stunning. I have not been this excited during a battle in a while."
+Items = FULLRESTORE
+Pokemon = RAICHU,53
+    IV = 31,31,31,31,31,31
+    Moves = THUNDER,QUICKATTACK,ENERGYBALL,PARABOLICCHARGE
+Pokemon = AGGRON,53
+    Name = Nora
+    Gender = female
+    IV = 31,31,31,31,31,31
+    Moves = MAGNITUDE,ROCKWRECKER,HEAVYSLAM,STOMP
+Pokemon = UMBREON,54
+    IV = 31,31,31,31,31,31
+    Moves = DARKPULSE,WISH,SHADOWBALL,MOONLIGHT
+Pokemon = MAWILE,55
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = DRAININGKISS,LIFEDRAIN,SYNTHESIS,TAUNT
+Pokemon = SABLEYE,55
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = NIGHTSHADE,FLAREDASH,POWERGEM,FOULPLAY
+Pokemon = TYPHLOSION,57
+    IV = 31,31,31,31,31,31
+    Moves = ERUPTION,WISH,SLACKOFF,FIRELASH
+    Item = EXPERTBELT
+#-------------------------------
+[LEADER_Cris_F,Cris,2]
+LoseText = "Amazing, absolutely stunning. I have not been this excited during a battle in a while."
+Items = FULLRESTORE
+Pokemon = RAICHU,53
+    IV = 31,31,31,31,31,31
+    Moves = THUNDER,QUICKATTACK,ENERGYBALL,PARABOLICCHARGE
+Pokemon = AGGRON,53
+    Name = Nora
+    Gender = female
+    IV = 31,31,31,31,31,31
+    Moves = MAGNITUDE,ROCKWRECKER,HEAVYSLAM,STOMP
+Pokemon = UMBREON,54
+    IV = 31,31,31,31,31,31
+    Moves = DARKPULSE,WISH,SHADOWBALL,MOONLIGHT
+Pokemon = MAWILE,55
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = DRAININGKISS,LIFEDRAIN,SYNTHESIS,TAUNT
+Pokemon = SABLEYE,55
+    Form = 1
+    IV = 31,31,31,31,31,31
+    Moves = NIGHTSHADE,FLAREDASH,POWERGEM,FOULPLAY
+Pokemon = BLASTOISE,57
+    IV = 31,31,31,31,31,31
+    Moves = HYDROPUMP,WISH,SLACKOFF,ICEBEAM
+    Item = EXPERTBELT
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 14
+#-------------------------------
+[CRUSHGIRL,Lelia]
+LoseText = "That's too much to handle!"
+Pokemon = LUCARIO,53
+Pokemon = TOXICROAK,54
+#-------------------------------
+[PILOT,Oliver]
+LoseText = "I can't move anymore..."
+Pokemon = NOCTOWL,54
+#-------------------------------
+[PSYCHIC_F,Katina]
+LoseText = "Mmmph...I just woke up...I couldn't concentrate."
+Pokemon = GARDEVOIR,54
+Pokemon = ESPEON,55
+#-------------------------------
+[CUEBALL,Gerard]
+LoseText = "Wow, you're really something. Well, this is surprising."
+Pokemon = MAGNEZONE,56
+Pokemon = HOUNDOOM,56
+#-------------------------------
+
+
+
+#-------------------------------
+# Route 15
+#-------------------------------
+[SAILOR,Michael]
+LoseText = "All of my Pokémon... All dizzy and fainted..."
+Pokemon = PELIPPER,55
+Pokemon = LUMINEON,56
+#-------------------------------
+[SAILOR,Michael,1] # If you didnt get the odd keystone
+LoseText = "All of my Pokémon... All dizzy and fainted..."
+Pokemon = PELIPPER,55
+Pokemon = SPIRITOMB,56
+    Form = 1
+#-------------------------------
+[TAMER,Marcus]
+LoseText = "Perhaps I was the one who was unprepared?"
+Pokemon = DRAGONITE,54
+#-------------------------------
+[FISHERMAN,Oscar]
+LoseText = "I have to win these battles..."
+Pokemon = GYARADOS,55
+Pokemon = GYARADOS,55
+#-------------------------------
+[EXPLORER,Liz]
+LoseText = "Looks like you're the stronger one..."
+Pokemon = SANDSLASH,56
+Pokemon = DUGTRIO,56
+Pokemon = QUAGSIRE,57
+    Form = 1
+#-------------------------------
+
+
+
+#-------------------------------
+[RIVAL1_4,Jamie]
+LoseText = "Tough luck, and I thought I had it as well!"
+Items = FULLRESTORE
+Pokemon = MAGNEZONE,65
+Pokemon = SWELLOW,65
+Pokemon = FLOATZEL,65
+    Form = 1
+Pokemon = QUAGSIRE,65
+    Form = 1
+Pokemon = RAMPARDOS,65
+Pokemon = ESPEON,70
+#-------------------------------
+[RIVAL2_4,Jamie]
+LoseText = "Tough luck, and I thought I had it as well!"
+Items = FULLRESTORE
+Pokemon = MAGNEZONE,65
+Pokemon = SWELLOW,65
+Pokemon = FLOATZEL,65
+    Form = 1
+Pokemon = QUAGSIRE,65
+    Form = 1
+Pokemon = BASTIODON,65
+Pokemon = ESPEON,70
+#-------------------------------
+[POKEMONTRAINER_BadgeGuy,Zaffre]
+LoseText = "Just what I expected from such an amazing Pokémon Trainer!"
+Pokemon = PIKACHU,65
+Pokemon = LUCARIO,65
+Pokemon = FLAREON,65
+Pokemon = CACTURNE,65
+    Form = 1
+#-------------------------------
+[POKEMONTRAINER_Elias,ENLS]
+LoseText = "Wow, that was totally not expected at all!"
+Pokemon = ARCANINE,65
+Pokemon = VAPOREON,65
+Pokemon = RAICHU,65
+Pokemon = FLOATZEL,65
+    Form = 1
+#-------------------------------
+[POKEMONTRAINER_Sean,Voltseon]
+LoseText = "Impressive, not quite perfect but it will do!"
+Pokemon = DUNSPARCE,65
+Pokemon = SPIRITOMB,65
+    Form = 1
+Pokemon = JOLTEON,65
+Pokemon = VESPIQUEN,65
+#-------------------------------
+
+
+
+#-------------------------------
+[KIMONOGIRL,Kuni]
+LoseText = "That skill, it reminds me of someone back in Johto."
+Items = REVIVE,FULLRESTORE,XDEFENSE
+Pokemon = ESPEON,70
+  IV = 31,31,31,31,31,31
+  Moves = MORNINGSUN,DAZZLINGGLEAM,PSYCHIC,CALMMIND
+Pokemon = UMBREON,70
+  IV = 31,31,31,31,31,31
+  Moves = SNATCH,FOULPLAY,HELPINGHAND,SHADOWBALL
+Pokemon = GLACEON,70
+  IV = 31,31,31,31,31,31
+  Moves = ICEBEAM,WATERPULSE,WISH,REFLECT
+Pokemon = LEAFEON,70
+  IV = 31,31,31,31,31,31
+  Moves = SAFEGUARD,GIGADRAIN,HELPINGHAND,LIGHTSCREEN

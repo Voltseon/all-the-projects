@@ -1,0 +1,56 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[079] # Selago Meadows
+LandAfternoon,21
+    20,AZURILL_1,4
+    20,COMBEE,5
+    20,RALTS_1,4,5
+    15,BUIZEL_1,4,5
+LandDay,21
+    20,BIDOOF,4,5
+    20,COMBEE,5
+    15,AZURILL_1,4,5
+    15,RALTS_1,4,5
+    10,BUIZEL_1,4,5
+    5,HOOTHOOT,4,5
+LandNight,21
+    20,BUIZEL_1,4,5
+    20,HOOTHOOT,4,5
+    15,AZURILL_1,4,5
+    15,RALTS_1,4,5
+    10,COMBEE,5
+    5,BIDOOF,4,5
+LandMorning,21
+    20,AZURILL_1,4
+    20,COMBEE,5
+    20,RALTS_1,4,5
+    15,BUIZEL_1,4,5
+    5,HOOTHOOT,4,5
+#-------------------------------
+[079,20] # Selago Meadows
+Land,10
+    50,BIDOOF,4,5
+    50,HOOTHOOT,4,5
+#-------------------------------
+[083] # Heliotrope Woods
+Land,21
+    20,SEWADDLE,5
+    15,AZURILL_1,5
+    15,CLEFFA,4,5
+    15,TRUBBISH_1,4,5
+LandDay,21
+    20,SEWADDLE,5
+    15,AZURILL_1,5
+    15,CLEFFA,4,5
+    15,TRUBBISH_1,4,5
+    5,HOOTHOOT,5
+LandNight,21
+    20,HOOTHOOT,5
+    20,SEWADDLE,5
+    15,AZURILL_1,5
+    15,CLEFFA,4,5
+    15,TRUBBISH_1,4,5
+#-------------------------------
+[102] # Rosewood Forest
+Water,2
+    20,SQUIRTLE,5

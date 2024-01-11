@@ -1,0 +1,379 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:DarkType.png]]<br>[[File:FireType.png]]|abilities=Early Bird<br>Flash Fire<br>Unnerve (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#151</nowiki>|evolves_from=[[Houndour]]|evolves_into=None|weight=35.0 kg|height=1.4 m|gender={{Female50Percent}}|image=HOUNDOOM.png|title=[[File:HOUNDOOM_icon.png]]
+<big>'''Houndoom'''</big>}}'''Houndoom''' is a Dark/Fire-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Houndour]] starting at level 24.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>In a Houndoom pack, the one with its horns raked sharply back serves a leadership role. They choose their leader by fighting among themselves.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|15%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|15%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|15%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|15%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=75|Attack=90|Defense=50|SpAtk=110|SpDef=80|Speed=95}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:ElectricType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:GroundType.png]][[File:RockType.png]][[File:WaterType.png]]
+|-
+|Immune to:
+|[[File:PsychicType.png]]
+|-
+|Resistant to:
+|[[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:GrassType.png]][[File:IceType.png]][[File:DarkType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Inferno
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|100
+|50%
+|5
+|-
+|1
+|Nasty Plot
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|1
+|Thunder Fang
+|[[File:ElectricType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Ember
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Howl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|1
+|Smog
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|30
+|70%
+|20
+|-
+|4
+|Howl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|8
+|Smog
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|30
+|70%
+|20
+|-
+|13
+|Roar
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|16
+|Bite
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|20
+|Odor Sleuth
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|26
+|Beat Up
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|10
+|-
+|30
+|Fire Fang
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|35
+|Feint Attack
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|41
+|Embargo
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|45
+|Foul Play
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|95
+|100%
+|15
+|-
+|50
+|Flamethrower
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|56
+|Crunch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|60
+|Nasty Plot
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|65
+|Inferno
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|100
+|50%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FIRE.png|frameless|24x24px]]
+|TM16
+|Fire Lash
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|TM21
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:HOUNDOOM.png]]
+|[[File:HOUNDOOM_back.png]]
+|[[File:HOUNDOOM_shiny.png]]
+|[[File:HOUNDOOM_shiny_back.png]]
+|[[File:HOUNDOOM_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

@@ -1,0 +1,42 @@
+class BaseUI
+  def initialize
+    @viewport = nil
+    @sprites = {}
+    @overlay = nil
+    @disposed = false
+    pbStartScene
+  end
+
+  def pbStartScene
+    @viewport = Viewport.new(0,0,Graphics.width,Graphics.height)
+    @viewport.z = 99999
+    @overlay = BitmapSprite.new(Graphics.width,Graphics.height,@viewport)
+    @overlay.z = 99999
+    @sprites[]
+    pbMain
+  end
+
+  def pbMain
+    loop do
+      break if @disposed
+      pbUpdate
+      @overlay.bitmap.clear
+      
+    end
+    pbEndScene
+  end
+
+  def pbUpdate
+    return if @disposed
+    Graphics.update
+    Input.update
+    pbUpdateSpriteHash(@sprites)
+  end
+
+  def pbEndScene
+    @disposed = true
+    pbDisposeSpriteHash(@sprites)
+    @overlay.dispose
+    @viewport.dispose
+  end
+end

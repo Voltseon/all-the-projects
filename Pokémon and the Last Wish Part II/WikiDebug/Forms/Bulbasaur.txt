@@ -1,0 +1,269 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GrassType.png]]<br>[[File:PoisonType.png]]|abilities=Overgrow<br>Chlorophyll (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#010</nowiki>|evolves_from=None|evolves_into=[[Ivysaur]] (lvl. 16)|weight=6.9 kg|height=0.7 m|gender={{FemaleOneEighth}}|image=BULBASAUR.png|title=[[File:BULBASAUR_icon.png]]
+<big>'''Bulbasaur'''</big>}}'''Bulbasaur''' is a Grass/Poison-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Ivysaur]] starting at level 16.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=45|Attack=49|Defense=49|SpAtk=65|SpDef=65|Speed=45}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:FireType.png]][[File:PsychicType.png]][[File:IceType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|3
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|7
+|Leech Seed
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|9
+|Vine Whip
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|45
+|100%
+|25
+|-
+|13
+|Poison Powder
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|75%
+|35
+|-
+|13
+|Sleep Powder
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|75%
+|15
+|-
+|15
+|Take Down
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|85%
+|20
+|-
+|19
+|Razor Leaf
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|55
+|95%
+|25
+|-
+|21
+|Sweet Scent
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|25
+|Growth
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|27
+|Double-Edge
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|-
+|31
+|Worry Seed
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|33
+|Synthesis
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|37
+|Seed Bomb
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:BULBASAUR.png]]
+|[[File:BULBASAUR_back.png]]
+|[[File:BULBASAUR_shiny.png]]
+|[[File:BULBASAUR_shiny_back.png]]
+|[[File:BULBASAUR_icon.png]]
+|-
+|[[File:BULBASAUR_outfit.png]]
+|[[File:BULBASAUR_outfit_back.png]]
+|[[File:BULBASAUR_outfit_shiny.png]]
+|[[File:BULBASAUR_outfit_shiny_back.png]]
+|[[File:BULBASAUR_outfit_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

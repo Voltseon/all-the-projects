@@ -1,0 +1,353 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GrassType.png]]<br>[[File:PoisonType.png]]|abilities=Overgrow<br>Chlorophyll (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#012</nowiki>|evolves_from=[[Ivysaur]]|evolves_into=None|weight=100.0 kg|height=2.0 m|gender={{FemaleOneEighth}}|image=VENUSAUR.png|title=[[File:VENUSAUR_icon.png]]
+<big>'''Venusaur'''</big>}}'''Venusaur''' is a Grass/Poison-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Ivysaur]] starting at level 32.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=80|Attack=82|Defense=83|SpAtk=100|SpDef=100|Speed=80}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:FireType.png]][[File:PsychicType.png]][[File:IceType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Petal Dance
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|1
+|Petal Dance
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|1
+|Leech Seed
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|1
+|Vine Whip
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|45
+|100%
+|25
+|-
+|3
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|7
+|Leech Seed
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|9
+|Vine Whip
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|45
+|100%
+|25
+|-
+|13
+|Poison Powder
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|75%
+|35
+|-
+|13
+|Sleep Powder
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|75%
+|15
+|-
+|15
+|Take Down
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|85%
+|20
+|-
+|20
+|Razor Leaf
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|55
+|95%
+|25
+|-
+|23
+|Sweet Scent
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|28
+|Growth
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|31
+|Double-Edge
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|-
+|39
+|Worry Seed
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|45
+|Synthesis
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|50
+|Petal Blizzard
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|-
+|53
+|Solar Beam
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM10
+|Mega Kick
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|75%
+|5
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine GRASS.png|frameless|24x24px]]
+|TM18
+|Leaf Blade
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM01
+|Stomp
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:VENUSAUR.png]]
+|[[File:VENUSAUR_back.png]]
+|[[File:VENUSAUR_shiny.png]]
+|[[File:VENUSAUR_shiny_back.png]]
+|[[File:VENUSAUR_icon.png]]
+|-
+|[[File:VENUSAUR_outfit.png]]
+|[[File:VENUSAUR_outfit_back.png]]
+|[[File:VENUSAUR_outfit_shiny.png]]
+|[[File:VENUSAUR_outfit_shiny_back.png]]
+|[[File:VENUSAUR_outfit_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

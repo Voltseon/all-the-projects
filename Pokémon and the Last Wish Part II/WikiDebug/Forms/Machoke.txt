@@ -1,0 +1,264 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:FightingType.png]]|abilities=Guts<br>No Guard<br>Steadfast (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#165</nowiki>|evolves_from=[[Machop]]|evolves_into=[[Machamp]] (lvl. 38)|weight=70.5 kg|height=1.5 m|gender={{Female25Percent}}|image=MACHOKE.png|title=[[File:MACHOKE_icon.png]]
+<big>'''Machoke'''</big>}}'''Machoke''' is a Fighting-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Machop]] starting at level 28 and evolves into [[Machamp]] starting at level 38.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A belt is worn by a Machoke to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=80|Attack=100|Defense=70|SpAtk=50|SpDef=60|Speed=45}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:PsychicType.png]][[File:FairyType.png]]
+|-
+|Resistant to:
+|[[File:RockType.png]][[File:BugType.png]][[File:DarkType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Low Kick
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|20
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Focus Energy
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|1
+|Karate Chop
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|25
+|-
+|3
+|Focus Energy
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|7
+|Karate Chop
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|25
+|-
+|9
+|Foresight
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|13
+|Low Sweep
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|15
+|Seismic Toss
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|20
+|-
+|19
+|Revenge
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|10
+|-
+|21
+|Knock Off
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|25
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|27
+|Wake-Up Slap
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|10
+|-
+|33
+|Dual Chop
+|[[File:DragonType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|90%
+|15
+|-
+|37
+|Submission
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|80%
+|20
+|-
+|43
+|Bulk Up
+|[[File:FightingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|47
+|Cross Chop
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|53
+|Scary Face
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|57
+|Dynamic Punch
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|50%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:MACHOKE.png]]
+|[[File:MACHOKE_back.png]]
+|[[File:MACHOKE_shiny.png]]
+|[[File:MACHOKE_shiny_back.png]]
+|[[File:MACHOKE_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

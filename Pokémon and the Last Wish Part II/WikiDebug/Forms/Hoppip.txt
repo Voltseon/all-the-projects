@@ -1,0 +1,290 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GrassType.png]]<br>[[File:FlyingType.png]]|abilities=Chlorophyll<br>Leaf Guard<br>Infiltrator (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#187</nowiki>|evolves_from=None|evolves_into=[[Skiploom]] (lvl. 18)|weight=0.5 kg|height=0.4 m|gender={{Female50Percent}}|image=HOPPIP.png|title=[[File:HOPPIP_icon.png]]
+<big>'''Hoppip'''</big>}}'''Hoppip''' is a Grass/Flying-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Skiploom]] starting at level 18.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, a Hoppip links leaves with others to prepare against being blown away.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=35|Attack=35|Defense=40|SpAtk=35|SpDef=55|Speed=50}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:PoisonType.png]][[File:RockType.png]][[File:FireType.png]]
+|-
+|4x weak to:
+|[[File:IceType.png]]
+|-
+|Immune to:
+|[[File:GroundType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:WaterType.png]]
+|-
+|4x resistant to:
+|[[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Absorb
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|25
+|-
+|1
+|Splash
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|4
+|Synthesis
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|6
+|Tail Whip
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|8
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|10
+|Fairy Wind
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|30
+|-
+|12
+|Poison Powder
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|75%
+|35
+|-
+|14
+|Stun Spore
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|75%
+|30
+|-
+|16
+|Sleep Powder
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|75%
+|15
+|-
+|19
+|Bullet Seed
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|25
+|100%
+|30
+|-
+|22
+|Leech Seed
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|25
+|Mega Drain
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|15
+|-
+|28
+|Acrobatics
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|55
+|100%
+|15
+|-
+|31
+|Rage Powder
+|[[File:BugType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|34
+|Cotton Spore
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|37
+|U-turn
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|20
+|-
+|40
+|Worry Seed
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|43
+|Giga Drain
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|75
+|100%
+|10
+|-
+|46
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|-
+|49
+|Memento
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:HOPPIP.png]]
+|[[File:HOPPIP_back.png]]
+|[[File:HOPPIP_shiny.png]]
+|[[File:HOPPIP_shiny_back.png]]
+|[[File:HOPPIP_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

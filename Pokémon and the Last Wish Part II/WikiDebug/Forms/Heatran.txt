@@ -1,0 +1,404 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:FireType.png]]<br>[[File:RockType.png]]|abilities=[[Weathering]]<br>Flash Fire (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#201</nowiki>|evolves_from=None|evolves_into=None|weight=240.0 kg|height=1.8 m|gender={{Female50Percent}}|image=PORYGON.png|title=[[File:PORYGON_icon.png]]
+<big>'''Heatran'''</big>}}'''Heatran''' is a Fire/Rock-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It is not known to evolve into or from any other Pokémon.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It dwells in volcanic caves. After spending thousands of years resting in a volcano the crystals on its body have faded.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=77|Attack=130|Defense=116|SpAtk=70|SpDef=116|Speed=91}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:GhostType.png]][[File:SteelType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:RockType.png]]
+|-
+|4x weak to:
+|[[File:GroundType.png]][[File:WaterType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:IceType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:FireType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|[[Crystalline Flare]]
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|-
+|1
+|Power Gem
+|[[File:RockType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|20
+|-
+|1
+|Magma Storm
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|100
+|75%
+|5
+|-
+|1
+|Heat Wave
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|95
+|90%
+|10
+|-
+|1
+|Earth Power
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|1
+|Rock Blast
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|25
+|90%
+|10
+|-
+|1
+|Fire Spin
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|35
+|85%
+|15
+|-
+|1
+|Ancient Power
+|[[File:RockType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|5
+|-
+|9
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|17
+|Fire Fang
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|25
+|Rock Polish
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|33
+|Crunch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|41
+|Scary Face
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|49
+|Lava Plume
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|57
+|Fire Spin
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|35
+|85%
+|15
+|-
+|65
+|Rock Slide
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|90%
+|10
+|-
+|73
+|[[Crystalline Flare]]
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|-
+|81
+|Heat Wave
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|95
+|90%
+|10
+|-
+|88
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|96
+|Magma Storm
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|100
+|75%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM10
+|Mega Kick
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|75%
+|5
+|-
+|[[File:Machine ELECTRIC.png|frameless|24x24px]]
+|TM13
+|Parabolic Charge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FIRE.png|frameless|24x24px]]
+|TM16
+|Fire Lash
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine STEEL.png|frameless|24x24px]]
+|TM20
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|TM22
+|Synchronoise
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM01
+|Stomp
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:PORYGON.png]]
+|[[File:PORYGON_back.png]]
+|[[File:PORYGON_shiny.png]]
+|[[File:PORYGON_shiny_back.png]]
+|[[File:PORYGON_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

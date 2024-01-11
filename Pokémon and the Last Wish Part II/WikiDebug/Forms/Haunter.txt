@@ -1,0 +1,382 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GhostType.png]]<br>[[File:PoisonType.png]]|abilities=Levitate<br>|region=[[Peskan]]|pokedex=<nowiki>#146</nowiki>|evolves_from=[[Gastly]]|evolves_into=[[Gengar]] (lvl. 35)|weight=0.1 kg|height=1.6 m|gender={{Female50Percent}}|image=HAUNTER.png|title=[[File:HAUNTER_icon.png]]
+<big>'''Haunter'''</big>}}'''Haunter''' is a Ghost/Poison-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Gastly]] starting at level 25 and evolves into [[Gengar]] starting at level 35.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|20%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|20%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|20%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|20%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|30%
+|[[Spectra Graveyard]]
+|26
+|29
+|[[File:StaringEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=45|Attack=50|Defense=45|SpAtk=115|SpDef=55|Speed=95}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:FlyingType.png]][[File:RockType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]]
+|-
+|Weak to:
+|[[File:GroundType.png]][[File:GhostType.png]][[File:PsychicType.png]][[File:DarkType.png]]
+|-
+|Immune to:
+|[[File:NormalType.png]][[File:FightingType.png]]
+|-
+|Resistant to:
+|[[File:GrassType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:PoisonType.png]][[File:BugType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Shadow Punch
+|[[File:GhostType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|1
+|Shadow Punch
+|[[File:GhostType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|1
+|Hypnosis
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+|60%
+|20
+|-
+|1
+|Lick
+|[[File:GhostType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|100%
+|30
+|-
+|1
+|Spite
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|5
+|Spite
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|8
+|Mean Look
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|12
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|15
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|19
+|Confuse Ray
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|22
+|Sucker Punch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|5
+|-
+|28
+|Payback
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|10
+|-
+|33
+|Shadow Ball
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|39
+|Dream Eater
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|100
+|100%
+|15
+|-
+|44
+|Dark Pulse
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|50
+|Destiny Bond
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|55
+|Hex
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|10
+|-
+|61
+|Nightmare
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine FAIRY.png|frameless|24x24px]]
+|TM12
+|Draining Kiss
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|10
+|-
+|[[File:Machine ELECTRIC.png|frameless|24x24px]]
+|TM13
+|Parabolic Charge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|TM21
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|TM22
+|Synchronoise
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|HM03
+|[[Psycho Matter]]
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:HAUNTER.png]]
+|[[File:HAUNTER_back.png]]
+|[[File:HAUNTER_shiny.png]]
+|[[File:HAUNTER_shiny_back.png]]
+|[[File:HAUNTER_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

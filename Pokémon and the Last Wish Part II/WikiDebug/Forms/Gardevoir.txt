@@ -1,0 +1,399 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:PsychicType.png]]<br>[[File:FairyType.png]]|abilities=Synchronize<br>Trace<br>Telepathy (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#086</nowiki>|evolves_from=[[Kirlia]]|evolves_into=None|weight=48.4 kg|height=1.6 m|gender={{Female50Percent}}|image=GARDEVOIR.png|title=[[File:GARDEVOIR_icon.png]]
+<big>'''Gardevoir'''</big>}}'''Gardevoir''' is a Psychic/Fairy-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Kirlia]] starting at level 30.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It apparently does not feel the pull of gravity because it supports itself with psychic power. It will give its life to protect its trainer.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=68|Attack=65|Defense=65|SpAtk=125|SpDef=115|Speed=80}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:PoisonType.png]][[File:GhostType.png]][[File:SteelType.png]]
+|-
+|Immune to:
+|[[File:DragonType.png]]
+|-
+|Resistant to:
+|[[File:PsychicType.png]]
+|-
+|4x resistant to:
+|[[File:FightingType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Moonblast
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|95
+|100%
+|15
+|-
+|1
+|Stored Power
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|10
+|-
+|1
+|Misty Terrain
+|[[File:FairyType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Healing Wish
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|1
+|Confusion
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|25
+|-
+|1
+|Double Team
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|1
+|Teleport
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|4
+|Confusion
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|25
+|-
+|6
+|Double Team
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|9
+|Teleport
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|11
+|Disarming Voice
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|40
+| -%
+|15
+|-
+|14
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|17
+|Magical Leaf
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|60
+| -%
+|20
+|-
+|19
+|Heal Pulse
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|23
+|Draining Kiss
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|10
+|-
+|26
+|Calm Mind
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|31
+|Psychic
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|35
+|Imprison
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|40
+|Future Sight
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|44
+|Captivate
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|49
+|Hypnosis
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+|60%
+|20
+|-
+|53
+|Dream Eater
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|100
+|100%
+|15
+|-
+|58
+|Stored Power
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|20
+|100%
+|10
+|-
+|62
+|Moonblast
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|95
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine FAIRY.png|frameless|24x24px]]
+|TM12
+|Draining Kiss
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|10
+|-
+|[[File:Machine ELECTRIC.png|frameless|24x24px]]
+|TM13
+|Parabolic Charge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|TM21
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|TM22
+|Synchronoise
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|HM03
+|[[Psycho Matter]]
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:GARDEVOIR.png]]
+|[[File:GARDEVOIR_back.png]]
+|[[File:GARDEVOIR_shiny.png]]
+|[[File:GARDEVOIR_shiny_back.png]]
+|[[File:GARDEVOIR_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

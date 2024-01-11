@@ -1,0 +1,314 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:DragonType.png]]|abilities=Shed Skin<br>Marvel Scale (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#154</nowiki>|evolves_from=None|evolves_into=[[Dragonair]] (lvl. 30)|weight=3.3 kg|height=1.8 m|gender={{Female50Percent}}|image=DRATINI.png|title=[[File:DRATINI_icon.png]]
+<big>'''Dratini'''</big>}}'''Dratini''' is a Dragon-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Dragonair]] starting at level 30.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|8%
+|[[Twine City]]
+|29
+|32
+|[[File:StaringEncounter.png]]
+|-
+|5%
+|[[Toledo Village]]
+|30
+|33
+|[[File:StaringEncounter.png]]
+|-
+|5%
+|[[Caramel Cave]]
+|21
+|26
+|[[File:StaringEncounter.png]]
+|-
+|5%
+|[[Safari Zone]]
+|27
+|30
+|[[File:StaringEncounter.png]]
+|-
+|5%
+|[[Safari Zone]]
+|27
+|30
+|[[File:StaringEncounter.png]]
+|-
+|5%
+|[[Safari Zone]]
+|27
+|30
+|[[File:StaringEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=41|Attack=64|Defense=45|SpAtk=50|SpDef=50|Speed=50}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:PsychicType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:IceType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Resistant to:
+|[[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Wrap
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|90%
+|20
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|5
+|Thunder Wave
+|[[File:ElectricType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|20
+|-
+|11
+|Twister
+|[[File:DragonType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|20
+|-
+|15
+|Dragon Rage
+|[[File:DragonType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|10
+|-
+|21
+|Slam
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|75%
+|20
+|-
+|25
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|31
+|Dragon Tail
+|[[File:DragonType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|90%
+|10
+|-
+|35
+|Aqua Tail
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|90%
+|10
+|-
+|41
+|Dragon Rush
+|[[File:DragonType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|75%
+|10
+|-
+|45
+|Safeguard
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|25
+|-
+|51
+|Dragon Dance
+|[[File:DragonType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|55
+|Outrage
+|[[File:DragonType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|10
+|-
+|61
+|Hyper Beam
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|90%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:DRATINI.png]]
+|[[File:DRATINI_back.png]]
+|[[File:DRATINI_shiny.png]]
+|[[File:DRATINI_shiny_back.png]]
+|[[File:DRATINI_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

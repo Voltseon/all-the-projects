@@ -1,0 +1,282 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:IceType.png]]|abilities=Inner Focus<br>Ice Body<br>Moody (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#136</nowiki>|evolves_from=None|evolves_into=[[Glalie]] (lvl. 42)|weight=16.8 kg|height=0.7 m|gender={{Female50Percent}}|image=SNORUNT.png|title=[[File:SNORUNT_icon.png]]
+<big>'''Snorunt'''</big>}}'''Snorunt''' is a Ice-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Glalie]] starting at level 42.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>They tend to move about in groups of around five Snorunt. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Route 11]]
+|20
+|24
+|[[File:GrassEncounter.png]]
+|-
+|20%
+|[[Safari Zone]]
+|27
+|30
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=50|Attack=50|Defense=50|SpAtk=50|SpDef=50|Speed=50}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:BugType.png]][[File:GhostType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:RockType.png]][[File:SteelType.png]][[File:FireType.png]]
+|-
+|Resistant to:
+|[[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Powder Snow
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|5
+|Double Team
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|10
+|Ice Shard
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|14
+|Icy Wind
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|55
+|95%
+|15
+|-
+|19
+|Bite
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|23
+|Ice Fang
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|28
+|Headbutt
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|15
+|-
+|32
+|Protect
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|37
+|Frost Breath
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|90%
+|10
+|-
+|41
+|Crunch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|46
+|Blizzard
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|5
+|-
+|50
+|Hail
+|[[File:IceType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ICE.png|frameless|24x24px]]
+|TM17
+|Glaciate
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|95%
+|10
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SNORUNT.png]]
+|[[File:SNORUNT_back.png]]
+|[[File:SNORUNT_shiny.png]]
+|[[File:SNORUNT_shiny_back.png]]
+|[[File:SNORUNT_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

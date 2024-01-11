@@ -1,0 +1,250 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]|abilities=Swift Swim<br>Water Veil (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#174</nowiki>|evolves_from=[[Clamperl]]|evolves_into=None|weight=27.0 kg|height=1.7 m|gender={{Female50Percent}}|image=HUNTAIL.png|title=[[File:HUNTAIL_icon.png]]
+<big>'''Huntail'''</big>}}'''Huntail''' is a Water-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Clamperl]] .
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>To withstand the crushing water pressure deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=55|Attack=104|Defense=105|SpAtk=94|SpDef=75|Speed=52}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GrassType.png]][[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Whirlpool
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|35
+|85%
+|15
+|-
+|1
+|Bite
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|5
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|9
+|Scary Face
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|11
+|Feint Attack
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|14
+|Water Pulse
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|20
+|-
+|16
+|Ice Fang
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|19
+|Brine
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|10
+|-
+|23
+|Sucker Punch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|5
+|-
+|26
+|Dive
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|10
+|-
+|29
+|Baton Pass
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|34
+|Crunch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|39
+|Aqua Tail
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|90%
+|10
+|-
+|45
+|Coil
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|50
+|Hydro Pump
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|80%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:HUNTAIL.png]]
+|[[File:HUNTAIL_back.png]]
+|[[File:HUNTAIL_shiny.png]]
+|[[File:HUNTAIL_shiny_back.png]]
+|[[File:HUNTAIL_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

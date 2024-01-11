@@ -1,0 +1,264 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:NormalType.png]]<br>[[File:FlyingType.png]]|abilities=Intimidate<br>Reckless (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#034</nowiki>|evolves_from=[[Starly]]|evolves_into=[[Staraptor]] (lvl. 34)|weight=15.5 kg|height=0.6 m|gender={{Female50Percent}}|image=STARAVIA.png|title=[[File:STARAVIA_icon.png]]
+<big>'''Staravia'''</big>}}'''Staravia''' is a Normal/Flying-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Starly]] starting at level 14 and evolves into [[Staraptor]] starting at level 34.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=55|Attack=75|Defense=50|SpAtk=40|SpDef=40|Speed=80}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:RockType.png]][[File:ElectricType.png]][[File:IceType.png]]
+|-
+|Immune to:
+|[[File:GroundType.png]][[File:GhostType.png]]
+|-
+|Resistant to:
+|[[File:BugType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|1
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|5
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|9
+|Wing Attack
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|35
+|-
+|13
+|Double Team
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|18
+|Endeavor
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|5
+|-
+|23
+|Whirlwind
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|28
+|Aerial Ace
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|33
+|Take Down
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|85%
+|20
+|-
+|38
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|43
+|Brave Bird
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|-
+|48
+|Final Gambit
+|[[File:FightingType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|TM08
+|Drill Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:STARAVIA.png]]
+|[[File:STARAVIA_back.png]]
+|[[File:STARAVIA_shiny.png]]
+|[[File:STARAVIA_shiny_back.png]]
+|[[File:STARAVIA_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

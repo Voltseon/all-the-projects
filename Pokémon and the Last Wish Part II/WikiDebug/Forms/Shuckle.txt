@@ -1,0 +1,334 @@
+{{DISPLAYTITLE:Cracked Shuckle}}
+{{PokemonInfobox|type=[[File:BugType.png]]<br>[[File:RockType.png]]|abilities=[[Rough Shell]]<br>Weak Armor<br>Contrary (Hidden)|region=[[Peskan]]|pokedex=[[Peskan Pokédex|<nowiki>#050</nowiki>]]|evolves_from=None|evolves_into=None|weight=20.5 kg|height=0.6 m|gender={{Female50Percent}}|image=SHUCKLE_1.png|title=[[File:SHUCKLE_1_icon.png]]
+<big>'''Shuckle'''</big>}}'''Shuckle''' is a Bug/Rock-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It is not known to evolve into or from any other Pokémon.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>The cracked shell reveals the secret inside of Shuckle's shell. Now not having to deal with such a huge shell it can move more freely and hit harder.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+===Base stats ===
+{{BaseStats|HP=85|Attack=90|Defense=100|SpAtk=70|SpDef=100|Speed=60}}
+
+
+===Type effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:FightingType.png]][[File:FlyingType.png]][[File:GroundType.png]][[File:BugType.png]][[File:GhostType.png]][[File:FireType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:RockType.png]][[File:SteelType.png]][[File:WaterType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:PoisonType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Sticky Web
+|[[File:BugType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|1
+|Withdraw
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|1
+|Constrict
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|10
+|100%
+|35
+|-
+|1
+|Bide
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+| -%
+|10
+|-
+|1
+|Rollout
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|90%
+|20
+|-
+|5
+|Encore
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|5
+|-
+|9
+|Wrap
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|90%
+|20
+|-
+|12
+|Struggle Bug
+|[[File:BugType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|20
+|-
+|16
+|Safeguard
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|25
+|-
+|20
+|Rest
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|23
+|Rock Throw
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|90%
+|15
+|-
+|27
+|Gastro Acid
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|31
+|Power Trick
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|34
+|Shell Smash
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|38
+|Rock Slide
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|90%
+|10
+|-
+|42
+|Bug Bite
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|20
+|-
+|45
+|Power Split
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|45
+|Guard Split
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|49
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|53
+|Sticky Web
+|[[File:BugType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM01]]
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM02]]
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM05]]
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM06]]
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM07]]
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM09]]
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM14]]
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM15]]
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM24]]
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM25]]
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SHUCKLE_1.png]]
+|[[File:SHUCKLE_1_back.png]]
+|[[File:SHUCKLE_1_shiny.png]]
+|[[File:SHUCKLE_1_shiny_back.png]]
+|[[File:SHUCKLE_1_icon.png]]

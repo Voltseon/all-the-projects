@@ -1,0 +1,138 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:NormalType.png]]|abilities=Limber<br>Imposter (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#152</nowiki>|evolves_from=None|evolves_into=None|weight=4.0 kg|height=0.3 m|gender={{Genderless}}|image=DITTO.png|title=[[File:DITTO_icon.png]]
+<big>'''Ditto'''</big>}}'''Ditto''' is a Normal-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It is not known to evolve into or from any other Pokémon.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A Ditto rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|5%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|5%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|5%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|5%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|5%
+|[[Route 12]] (North)
+|20
+|24
+|[[File:GrassEncounter.png]]
+|-
+|5%
+|[[Route 4]]
+|26
+|29
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=48|Attack=48|Defense=48|SpAtk=48|SpDef=48|Speed=48}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]]
+|-
+|Immune to:
+|[[File:GhostType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Transform
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:DITTO.png]]
+|[[File:DITTO_back.png]]
+|[[File:DITTO_shiny.png]]
+|[[File:DITTO_shiny_back.png]]
+|[[File:DITTO_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

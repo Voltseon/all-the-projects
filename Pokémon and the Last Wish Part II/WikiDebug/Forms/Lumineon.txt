@@ -1,0 +1,397 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]|abilities=Swift Swim<br>Storm Drain<br>Water Veil (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#124</nowiki>|evolves_from=[[Finneon]]|evolves_into=None|weight=24.0 kg|height=1.2 m|gender={{Female50Percent}}|image=LUMINEON.png|title=[[File:LUMINEON_icon.png]]
+<big>'''Lumineon'''</big>}}'''Lumineon''' is a Water-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Finneon]] starting at level 31.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|30%
+|[[Route 5]]
+|26
+|29
+|[[File:StaringEncounter.png]]
+|-
+|30%
+|[[Merlow City]]
+|26
+|29
+|[[File:StaringEncounter.png]]
+|-
+|25%
+|[[Route 4]]
+|21
+|26
+|[[File:StaringEncounter.png]]
+|-
+|70%
+|[[Route 14]]
+|41
+|45
+|[[File:StaringEncounter.png]]
+|-
+|50%
+|[[Route 15]]
+|43
+|47
+|[[File:StaringEncounter.png]]
+|-
+|15%
+|[[Ancient Undersea Temple]]
+|46
+|51
+|[[File:GrassEncounter.png]]
+|-
+|15%
+|[[Ancient Undersea Temple]]
+|46
+|51
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=69|Attack=69|Defense=76|SpAtk=69|SpDef=86|Speed=91}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:BugType.png]][[File:GhostType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GrassType.png]][[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Soak
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|1
+|Gust
+|[[File:FlyingType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Pound
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Attract
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|6
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|10
+|Attract
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|13
+|Rain Dance
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|17
+|Gust
+|[[File:FlyingType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|35
+|-
+|22
+|Water Pulse
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|20
+|-
+|26
+|Captivate
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|29
+|Safeguard
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|25
+|-
+|35
+|Aqua Ring
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|42
+|Whirlpool
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|35
+|85%
+|15
+|-
+|48
+|U-turn
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|20
+|-
+|53
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|-
+|59
+|Silver Wind
+|[[File:BugType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|5
+|-
+|66
+|Soak
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine FAIRY.png|frameless|24x24px]]
+|TM12
+|Draining Kiss
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM19
+|First Impression
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|10
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|TM22
+|Synchronoise
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|HM02
+|Aqua Jet
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|HM03
+|[[Psycho Matter]]
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|100%
+|20
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:LUMINEON.png]]
+|[[File:LUMINEON_back.png]]
+|[[File:LUMINEON_shiny.png]]
+|[[File:LUMINEON_shiny_back.png]]
+|[[File:LUMINEON_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

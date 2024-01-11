@@ -1,0 +1,433 @@
+{{DISPLAYTITLE:Peskan Mankey}}
+{{PokemonInfobox|type=[[File:FightingType.png]]<br>[[File:ElectricType.png]]|abilities=Static<br>Fluffy<br>Magnet Pull (Hidden)|region=[[Peskan]]|pokedex=[[Peskan Pokédex|<nowiki>#190</nowiki>]]|evolves_from=None|evolves_into=[[Primeape]] (Item: Thunder Stone)|weight=23.0 kg|height=0.6 m|gender={{Female50Percent}}|image=MANKEY_1.png|title=[[File:MANKEY_1_icon.png]]
+<big>'''Mankey'''</big>}}'''Mankey''' is a Fighting/Electric-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Primeape]] when exposed to a Thunder Stone.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Their body creates a natural magnetic field, that combined with their lightning fast punches creates an enormous amount of static electricity making their fur super fluffy.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Mavora Path]]
+|48
+|51
+|[[File:GrassEncounter.png]]
+|-
+|10%
+|[[Zana Path]]
+|48
+|51
+|[[File:GrassEncounter.png]]
+|}
+
+
+===Base stats ===
+{{BaseStats|HP=40|Attack=75|Defense=25|SpAtk=35|SpDef=50|Speed=80}}
+
+
+===Type effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GhostType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:IceType.png]][[File:DragonType.png]]
+|-
+|Weak to:
+|[[File:GroundType.png]][[File:PsychicType.png]][[File:FairyType.png]]
+|-
+|Resistant to:
+|[[File:RockType.png]][[File:BugType.png]][[File:SteelType.png]][[File:ElectricType.png]][[File:DarkType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Magnet Rise
+|[[File:ElectricType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Covet
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|1
+|Scratch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Low Kick
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|20
+|-
+|1
+|Charge
+|[[File:ElectricType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|1
+|Focus Energy
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|5
+|Fury Swipes
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|18
+|80%
+|15
+|-
+|8
+|Karate Chop
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|25
+|-
+|12
+|Spark
+|[[File:ElectricType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|15
+|Seismic Toss
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|20
+|-
+|19
+|Swagger
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|15
+|-
+|22
+|Cross Chop
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|26
+|Smelling Salts
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|10
+|-
+|29
+|Thunder Punch
+|[[File:ElectricType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|100%
+|15
+|-
+|33
+|Thrash
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|10
+|-
+|36
+|Close Combat
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|5
+|-
+|40
+|Ion Deluge
+|[[File:ElectricType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|25
+|-
+|43
+|Thunder
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|10
+|-
+|47
+|Outrage
+|[[File:DragonType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|10
+|-
+|50
+|[[Static Fist]]
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM01]]
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM02]]
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine FIGHTING.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM04]]
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM05]]
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM07]]
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM09]]
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM10]]
+|Mega Kick
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|75%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM11]]
+|Mega Punch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|85%
+|20
+|-
+|[[File:Machine ELECTRIC.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM13]]
+|Parabolic Charge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM14]]
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM15]]
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FIRE.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM16]]
+|Fire Lash
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM19]]
+|First Impression
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|10
+|-
+|[[File:Machine STEEL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM20]]
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM24]]
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM25]]
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM01
+|Stomp
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM05
+|Extreme Speed
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:MANKEY_1.png]]
+|[[File:MANKEY_1_back.png]]
+|[[File:MANKEY_1_shiny.png]]
+|[[File:MANKEY_1_shiny_back.png]]
+|[[File:MANKEY_1_icon.png]]
+|-
+|[[File:MANKEY_outfit.png]]
+|[[File:MANKEY_outfit_back.png]]
+|[[File:MANKEY_outfit_shiny.png]]
+|[[File:MANKEY_outfit_shiny_back.png]]
+|[[File:MANKEY_outfit_icon.png]]

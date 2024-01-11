@@ -1,0 +1,421 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:FightingType.png]]<br>[[File:SteelType.png]]|abilities=Steadfast<br>Inner Focus<br>Justified (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#068</nowiki>|evolves_from=[[Riolu]]|evolves_into=None|weight=54.0 kg|height=1.2 m|gender={{FemaleOneEighth}}|image=LUCARIO.png|title=[[File:LUCARIO_icon.png]]
+<big>'''Lucario'''</big>}}'''Lucario''' is a Fighting/Steel-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Riolu]] when leveled up with high friendship during the daytime.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It has the ability to sense the auras of all things. It understands human speech.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=70|Attack=110|Defense=70|SpAtk=115|SpDef=70|Speed=90}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:FlyingType.png]][[File:GhostType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:GroundType.png]][[File:FireType.png]]
+|-
+|Immune to:
+|[[File:PoisonType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:SteelType.png]][[File:GrassType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|4x resistant to:
+|[[File:RockType.png]][[File:BugType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Aura Sphere
+|[[File:FightingType.png]]
+|[[File:SpecialCategory.png]]
+|80
+| -%
+|20
+|-
+|1
+|Aura Sphere
+|[[File:FightingType.png]]
+|[[File:SpecialCategory.png]]
+|80
+| -%
+|20
+|-
+|1
+|Laser Focus
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|1
+|Foresight
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|1
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|1
+|Detect
+|[[File:FightingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|1
+|Metal Claw
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|95%
+|35
+|-
+|6
+|Counter
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|20
+|-
+|11
+|Feint
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|100%
+|10
+|-
+|15
+|Power-Up Punch
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|19
+|Swords Dance
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|24
+|Metal Sound
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|29
+|Bone Rush
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|25
+|90%
+|10
+|-
+|33
+|Quick Guard
+|[[File:FightingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|37
+|Me First
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|42
+|Work Up
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|47
+|Calm Mind
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|51
+|Heal Pulse
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|55
+|Close Combat
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|5
+|-
+|60
+|Dragon Pulse
+|[[File:DragonType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|100%
+|10
+|-
+|65
+|Extreme Speed
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine FIGHTING.png|frameless|24x24px]]
+|TM04
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM10
+|Mega Kick
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|75%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM11
+|Mega Punch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|85%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine GRASS.png|frameless|24x24px]]
+|TM18
+|Leaf Blade
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine STEEL.png|frameless|24x24px]]
+|TM20
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|TM24
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM01
+|Stomp
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:LUCARIO.png]]
+|[[File:LUCARIO_back.png]]
+|[[File:LUCARIO_shiny.png]]
+|[[File:LUCARIO_shiny_back.png]]
+|[[File:LUCARIO_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

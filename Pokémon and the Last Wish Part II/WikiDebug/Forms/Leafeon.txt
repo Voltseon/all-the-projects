@@ -1,0 +1,312 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GrassType.png]]|abilities=Leaf Guard<br>Chlorophyll (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#099</nowiki>|evolves_from=[[Eevee]]|evolves_into=None|weight=25.5 kg|height=1.0 m|gender={{FemaleOneEighth}}|image=LEAFEON.png|title=[[File:LEAFEON_icon.png]]
+<big>'''Leafeon'''</big>}}'''Leafeon''' is a Grass-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Eevee]] when exposed to a Water Stone.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=65|Attack=110|Defense=130|SpAtk=60|SpDef=65|Speed=95}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:RockType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:FireType.png]][[File:IceType.png]]
+|-
+|Resistant to:
+|[[File:GroundType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Razor Leaf
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|55
+|95%
+|25
+|-
+|1
+|Razor Leaf
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|55
+|95%
+|25
+|-
+|1
+|Helping Hand
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Tail Whip
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|5
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|9
+|Baby-Doll Eyes
+|[[File:FairyType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|13
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|17
+|Grass Whistle
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+|55%
+|15
+|-
+|20
+|Magical Leaf
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|60
+| -%
+|20
+|-
+|25
+|Giga Drain
+|[[File:GrassType.png]]
+|[[File:SpecialCategory.png]]
+|75
+|100%
+|10
+|-
+|29
+|Swords Dance
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|33
+|Synthesis
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|37
+|Sunny Day
+|[[File:FireType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|41
+|Last Resort
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|140
+|100%
+|5
+|-
+|45
+|Leaf Blade
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine FAIRY.png|frameless|24x24px]]
+|TM12
+|Draining Kiss
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine GRASS.png|frameless|24x24px]]
+|TM18
+|Leaf Blade
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM19
+|First Impression
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|10
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:LEAFEON.png]]
+|[[File:LEAFEON_back.png]]
+|[[File:LEAFEON_shiny.png]]
+|[[File:LEAFEON_shiny_back.png]]
+|[[File:LEAFEON_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

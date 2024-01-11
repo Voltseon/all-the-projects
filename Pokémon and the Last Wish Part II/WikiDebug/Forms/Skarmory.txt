@@ -1,0 +1,252 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:SteelType.png]]<br>[[File:FlyingType.png]]|abilities=Keen Eye<br>Sturdy<br>Weak Armor (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#195</nowiki>|evolves_from=None|evolves_into=None|weight=50.5 kg|height=1.7 m|gender={{Female50Percent}}|image=SKARMORY.png|title=[[File:SKARMORY_icon.png]]
+<big>'''Skarmory'''</big>}}'''Skarmory''' is a Steel/Flying-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It is not known to evolve into or from any other Pokémon.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A Pokémon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|30%
+|[[Mavora Path]]
+|51
+|56
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=65|Attack=80|Defense=140|SpAtk=40|SpDef=70|Speed=70}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:FightingType.png]][[File:RockType.png]][[File:GhostType.png]][[File:WaterType.png]][[File:IceType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FireType.png]][[File:ElectricType.png]]
+|-
+|Immune to:
+|[[File:PoisonType.png]][[File:GroundType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:SteelType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:BugType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|35
+|100%
+|35
+|-
+|6
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|9
+|Metal Claw
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|95%
+|35
+|-
+|12
+|Air Cutter
+|[[File:FlyingType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|95%
+|25
+|-
+|17
+|Fury Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|85%
+|20
+|-
+|20
+|Feint
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|100%
+|10
+|-
+|23
+|Swift
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+| -%
+|20
+|-
+|28
+|Spikes
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|31
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|34
+|Steel Wing
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|90%
+|25
+|-
+|38
+|Slash
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|20
+|-
+|42
+|Metal Sound
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|45
+|Air Slash
+|[[File:FlyingType.png]]
+|[[File:SpecialCategory.png]]
+|75
+|95%
+|15
+|-
+|50
+|Autotomize
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|53
+|Night Slash
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SKARMORY.png]]
+|[[File:SKARMORY_back.png]]
+|[[File:SKARMORY_shiny.png]]
+|[[File:SKARMORY_shiny_back.png]]
+|[[File:SKARMORY_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

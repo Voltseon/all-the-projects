@@ -1,0 +1,124 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:BugType.png]]|abilities=Shield Dust<br>Run Away (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#019</nowiki>|evolves_from=None|evolves_into=[[Metapod]] (lvl. 7)|weight=2.9 kg|height=0.3 m|gender={{Female50Percent}}|image=CATERPIE.png|title=[[File:CATERPIE_icon.png]]
+<big>'''Caterpie'''</big>}}'''Caterpie''' is a Bug-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Metapod]] starting at level 7.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Route 7]]
+|2
+|3
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=45|Attack=30|Defense=35|SpAtk=20|SpDef=20|Speed=45}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:RockType.png]][[File:FireType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:GroundType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|String Shot
+|[[File:BugType.png]]
+|[[File:StatusCategory.png]]
+| -
+|95%
+|40
+|-
+|9
+|Bug Bite
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|20
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:CATERPIE.png]]
+|[[File:CATERPIE_back.png]]
+|[[File:CATERPIE_shiny.png]]
+|[[File:CATERPIE_shiny_back.png]]
+|[[File:CATERPIE_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

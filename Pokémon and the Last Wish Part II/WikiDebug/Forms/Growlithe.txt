@@ -1,0 +1,322 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:FireType.png]]|abilities=Intimidate<br>Flash Fire<br>Justified (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#051</nowiki>|evolves_from=None|evolves_into=[[Arcanine]] (Item: Fire Stone)|weight=19.0 kg|height=0.7 m|gender={{Female25Percent}}|image=GROWLITHE.png|title=[[File:GROWLITHE_icon.png]]
+<big>'''Growlithe'''</big>}}'''Growlithe''' is a Fire-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Arcanine]] when exposed to a Fire Stone.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Its superb sense of smell ensures that this Pokémon won't forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|13%
+|[[Route 2]]
+|30
+|33
+|[[File:GrassEncounter.png]]
+|-
+|25%
+|[[Route 12]] (South)
+|8
+|11
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=55|Attack=70|Defense=45|SpAtk=70|SpDef=50|Speed=60}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GhostType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:GroundType.png]][[File:RockType.png]][[File:WaterType.png]]
+|-
+|Resistant to:
+|[[File:BugType.png]][[File:SteelType.png]][[File:FireType.png]][[File:GrassType.png]][[File:IceType.png]][[File:FairyType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Bite
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|1
+|Roar
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|6
+|Ember
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|8
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|10
+|Odor Sleuth
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|12
+|Helping Hand
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|17
+|Flame Wheel
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|19
+|Reversal
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|15
+|-
+|21
+|Fire Fang
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|23
+|Take Down
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|85%
+|20
+|-
+|28
+|Flame Burst
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|70
+|100%
+|15
+|-
+|30
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|32
+|Retaliate
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|5
+|-
+|34
+|Flamethrower
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|39
+|Crunch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|41
+|Heat Wave
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|95
+|90%
+|10
+|-
+|43
+|Outrage
+|[[File:DragonType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|10
+|-
+|45
+|Flare Blitz
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FIRE.png|frameless|24x24px]]
+|TM16
+|Fire Lash
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:GROWLITHE.png]]
+|[[File:GROWLITHE_back.png]]
+|[[File:GROWLITHE_shiny.png]]
+|[[File:GROWLITHE_shiny_back.png]]
+|[[File:GROWLITHE_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

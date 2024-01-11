@@ -1,0 +1,364 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:FireType.png]]<br>[[File:RockType.png]]|abilities=Magma Armor<br>Flame Body<br>Weak Armor (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#056</nowiki>|evolves_from=[[Slugma]]|evolves_into=None|weight=55.0 kg|height=0.8 m|gender={{Female50Percent}}|image=MAGCARGO.png|title=[[File:MAGCARGO_icon.png]]
+<big>'''Magcargo'''</big>}}'''Magcargo''' is a Fire/Rock-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Slugma]] starting at level 38.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned Magcargo's bodies into magma.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Prim Cave]]
+|30
+|33
+|[[File:CaveEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=60|Attack=50|Defense=120|SpAtk=90|SpDef=80|Speed=30}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:GhostType.png]][[File:SteelType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:RockType.png]]
+|-
+|4x weak to:
+|[[File:GroundType.png]][[File:WaterType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:IceType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:FireType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Shell Smash
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|1
+|Shell Smash
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|1
+|Earth Power
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|1
+|Yawn
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Smog
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|30
+|70%
+|20
+|-
+|1
+|Ember
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Rock Throw
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|90%
+|15
+|-
+|6
+|Ember
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|8
+|Rock Throw
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|90%
+|15
+|-
+|13
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|15
+|Incinerate
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|20
+|Clear Smog
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|50
+| -%
+|15
+|-
+|22
+|Ancient Power
+|[[File:RockType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|5
+|-
+|27
+|Flame Burst
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|70
+|100%
+|15
+|-
+|29
+|Rock Slide
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|90%
+|10
+|-
+|34
+|Lava Plume
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|36
+|Amnesia
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|43
+|Body Slam
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|100%
+|15
+|-
+|47
+|Recover
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|54
+|Flamethrower
+|[[File:FireType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|58
+|Earth Power
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine FIRE.png|frameless|24x24px]]
+|TM16
+|Fire Lash
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|TM24
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:MAGCARGO.png]]
+|[[File:MAGCARGO_back.png]]
+|[[File:MAGCARGO_shiny.png]]
+|[[File:MAGCARGO_shiny_back.png]]
+|[[File:MAGCARGO_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

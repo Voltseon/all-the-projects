@@ -1,0 +1,1022 @@
+{| class="article-table"
+|+
+|'''No.'''
+|''' '''
+| colspan="2" |'''Pokémon'''
+|'''Type'''
+|-
+|#001
+|[[File:TREECKO_icon.png|frameless|31x31px]]
+|Treecko
+|[[File:GrassType.png]]
+|-
+|#002
+|[[File:GROVYLE_icon.png|frameless|31x31px]]
+|Grovyle
+|[[File:GrassType.png]]
+|-
+|#003
+|[[File:SCEPTILE_icon.png|frameless|31x31px]]
+|Sceptile
+|[[File:GrassType.png]]
+|-
+|#004
+|[[File:CYNDAQUIL_icon.png|frameless|31x31px]]
+|Cyndaquil
+|[[File:FireType.png]]
+|-
+|#005
+|[[File:QUILAVA_icon.png|frameless|31x31px]]
+|Quilava
+|[[File:FireType.png]]
+|-
+|#006
+|[[File:TYPHLOSION_icon.png|frameless|31x31px]]
+|Typhlosion
+|[[File:FireType.png]]
+|-
+|#007
+|[[File:SQUIRTLE_icon.png|frameless|31x31px]]
+|Squirtle
+|[[File:WaterType.png]]
+|-
+|#008
+|[[File:WARTORTLE_icon.png|frameless|31x31px]]
+|Wartortle
+|[[File:WaterType.png]]
+|-
+|#009
+|[[File:BLASTOISE_icon.png|frameless|31x31px]]
+|Blastoise
+|[[File:WaterType.png]]
+|-
+|#010
+|[[File:BULBASAUR_icon.png|frameless|31x31px]]
+|Bulbasaur
+|[[File:GrassType.png]] [[File:PoisonType.png]]
+|-
+|#011
+|[[File:IVYSAUR_icon.png|frameless|31x31px]]
+|Ivysaur
+|[[File:GrassType.png]] [[File:PoisonType.png]]
+|-
+|#012
+|[[File:VENUSAUR_icon.png|frameless|31x31px]]
+|Venusaur
+|[[File:GrassType.png]] [[File:PoisonType.png]]
+|-
+|#013
+|[[File:TORCHIC_icon.png|frameless|31x31px]]
+|Torchic
+|[[File:FireType.png]]
+|-
+|#014
+|[[File:COMBUSKEN_icon.png|frameless|31x31px]]
+|Combusken
+|[[File:FireType.png]] [[File:FightingType.png]]
+|-
+|#015
+|[[File:BLAZIKEN_icon.png|frameless|31x31px]]
+|Blaziken
+|[[File:FireType.png]] [[File:FightingType.png]]
+|-
+|#016
+|[[File:TOTODILE_icon.png|frameless|31x31px]]
+|Totodile
+|[[File:WaterType.png]]
+|-
+|#017
+|[[File:CROCONAW_icon.png|frameless|31x31px]]
+|Croconaw
+|[[File:WaterType.png]]
+|-
+|#018
+|[[File:FERALIGATR_icon.png|frameless|31x31px]]
+|Feraligatr
+|[[File:WaterType.png]]
+|-
+|#019
+|[[File:CATERPIE_icon.png|frameless|31x31px]]
+|Caterpie
+|[[File:BugType.png]]
+|-
+|#020
+|[[File:METAPOD_icon.png|frameless|31x31px]]
+|Metapod
+|[[File:BugType.png]]
+|-
+|#021
+|[[File:BUTTERFREE_icon.png|frameless|31x31px]]
+|Butterfree
+|[[File:BugType.png]] [[File:FlyingType.png]]
+|-
+|#022
+|[[File:WEEDLE_icon.png|frameless|31x31px]]
+|Weedle
+|[[File:BugType.png]] [[File:PoisonType.png]]
+|-
+|#023
+|[[File:KAKUNA_icon.png|frameless|31x31px]]
+|Kakuna
+|[[File:BugType.png]] [[File:PoisonType.png]]
+|-
+|#024
+|[[File:BEEDRILL_icon.png|frameless|31x31px]]
+|Beedrill
+|[[File:BugType.png]] [[File:PoisonType.png]]
+|-
+|#025
+|[[File:SPINARAK_icon.png|frameless|31x31px]]
+|Spinarak
+|[[File:BugType.png]] [[File:PoisonType.png]]
+|-
+|#026
+|[[File:ARIADOS_icon.png|frameless|31x31px]]
+|Ariados
+|[[File:BugType.png]] [[File:PoisonType.png]]
+|-
+|#027
+|[[File:LEDYBA_icon.png|frameless|31x31px]]
+|Ledyba
+|[[File:BugType.png]] [[File:FlyingType.png]]
+|-
+|#028
+|[[File:LEDIAN_icon.png|frameless|31x31px]]
+|Ledian
+|[[File:BugType.png]] [[File:FlyingType.png]]
+|-
+|#029
+|[[File:KRICKETOT_icon.png|frameless|31x31px]]
+|Kricketot
+|[[File:BugType.png]]
+|-
+|#030
+|[[File:KRICKETUNE_icon.png|frameless|31x31px]]
+|Kricketune
+|[[File:BugType.png]]
+|-
+|#031
+|[[File:TAILLOW_icon.png|frameless|31x31px]]
+|Taillow
+|[[File:NormalType.png]] [[File:FlyingType.png]]
+|-
+|#032
+|[[File:SWELLOW_icon.png|frameless|31x31px]]
+|Swellow
+|[[File:NormalType.png]] [[File:FlyingType.png]]
+|-
+|#033
+|[[File:STARLY_icon.png|frameless|31x31px]]
+|Starly
+|[[File:NormalType.png]] [[File:FlyingType.png]]
+|-
+|#034
+|[[File:STARAVIA_icon.png|frameless|31x31px]]
+|Staravia
+|[[File:NormalType.png]] [[File:FlyingType.png]]
+|-
+|#035
+|[[File:STARAPTOR_icon.png|frameless|31x31px]]
+|Staraptor
+|[[File:NormalType.png]] [[File:FlyingType.png]]
+|-
+|#036
+|[[File:SPEAROW_icon.png|frameless|31x31px]]
+|Spearow
+|[[File:NormalType.png]] [[File:FlyingType.png]]
+|-
+|#037
+|[[File:FEAROW_icon.png|frameless|31x31px]]
+|Fearow
+|[[File:NormalType.png]] [[File:FlyingType.png]]
+|-
+|#038
+|[[File:SENTRET_icon.png|frameless|31x31px]]
+|Sentret
+|[[File:NormalType.png]]
+|-
+|#039
+|[[File:FURRET_icon.png|frameless|31x31px]]
+|Furret
+|[[File:NormalType.png]]
+|-
+|#040
+|[[File:RATTATA_icon.png|frameless|31x31px]]
+|Rattata
+|[[File:NormalType.png]]
+|-
+|#041
+|[[File:RATICATE_icon.png|frameless|31x31px]]
+|Raticate
+|[[File:NormalType.png]]
+|-
+|#042
+|[[File:ZIGZAGOON_icon.png|frameless|31x31px]]
+|Zigzagoon
+|[[File:NormalType.png]]
+|-
+|#043
+|[[File:LINOONE_icon.png|frameless|31x31px]]
+|Linoone
+|[[File:NormalType.png]]
+|-
+|#044
+|[[File:BIDOOF_icon.png|frameless|31x31px]]
+|Bidoof
+|[[File:NormalType.png]]
+|-
+|#045
+|[[File:BIBAREL_icon.png|frameless|31x31px]]
+|Bibarel
+|[[File:NormalType.png]] [[File:WaterType.png]]
+|-
+|#046
+|[[File:POOCHYENA_icon.png|frameless|31x31px]]
+|Poochyena
+|[[File:DarkType.png]]
+|-
+|#047
+|[[File:MIGHTYENA_icon.png|frameless|31x31px]]
+|Mightyena
+|[[File:DarkType.png]]
+|-
+|#048
+|[[File:WOOPER_1_icon.png|frameless|31x31px]]
+|[[Wooper]]
+|[[File:GroundType.png]]
+|-
+|#049
+|[[File:QUAGSIRE_1_icon.png|frameless|31x31px]]
+|[[Quagsire]]
+|[[File:GroundType.png]]
+|-
+|#050
+|[[File:SHUCKLE_icon.png|frameless|31x31px]]
+|Shuckle
+|[[File:BugType.png]] [[File:RockType.png]]
+|-
+|#051
+|[[File:GROWLITHE_icon.png|frameless|31x31px]]
+|Growlithe
+|[[File:FireType.png]]
+|-
+|#052
+|[[File:ARCANINE_icon.png|frameless|31x31px]]
+|Arcanine
+|[[File:FireType.png]]
+|-
+|#053
+|[[File:VULPIX_icon.png|frameless|31x31px]]
+|Vulpix
+|[[File:FireType.png]]
+|-
+|#054
+|[[File:NINETALES_icon.png|frameless|31x31px]]
+|Ninetales
+|[[File:FireType.png]]
+|-
+|#055
+|[[File:SLUGMA_icon.png|frameless|31x31px]]
+|Slugma
+|[[File:FireType.png]]
+|-
+|#056
+|[[File:MAGCARGO_icon.png|frameless|31x31px]]
+|Magcargo
+|[[File:FireType.png]] [[File:RockType.png]]
+|-
+|#057
+|[[File:SHINX_icon.png|frameless|31x31px]]
+|Shinx
+|[[File:ElectricType.png]]
+|-
+|#058
+|[[File:LUXIO_icon.png|frameless|31x31px]]
+|Luxio
+|[[File:ElectricType.png]]
+|-
+|#059
+|[[File:LUXRAY_icon.png|frameless|31x31px]]
+|Luxray
+|[[File:ElectricType.png]]
+|-
+|#060
+|[[File:BUIZEL_1_icon.png|frameless|31x31px]]
+|[[Buizel]]
+|[[File:DarkType.png]]
+|-
+|#061
+|[[File:FLOATZEL_1_icon.png|frameless|31x31px]]
+|[[Floatzel]]
+|[[File:DarkType.png]]
+|-
+|#062
+|[[File:GEODUDE_icon.png|frameless|31x31px]]
+|Geodude
+|[[File:RockType.png]] [[File:GroundType.png]]
+|-
+|#063
+|[[File:GRAVELER_icon.png|frameless|31x31px]]
+|Graveler
+|[[File:RockType.png]] [[File:GroundType.png]]
+|-
+|#064
+|[[File:GOLEM_icon.png|frameless|31x31px]]
+|Golem
+|[[File:RockType.png]] [[File:GroundType.png]]
+|-
+|#065
+|[[File:SHROOMISH_icon.png|frameless|31x31px]]
+|Shroomish
+|[[File:GrassType.png]]
+|-
+|#066
+|[[File:BRELOOM_icon.png|frameless|31x31px]]
+|Breloom
+|[[File:GrassType.png]] [[File:FightingType.png]]
+|-
+|#067
+|[[File:RIOLU_icon.png|frameless|31x31px]]
+|Riolu
+|[[File:FightingType.png]]
+|-
+|#068
+|[[File:LUCARIO_icon.png|frameless|31x31px]]
+|Lucario
+|[[File:FightingType.png]] [[File:SteelType.png]]
+|-
+|#069
+|[[File:CROAGUNK_icon.png|frameless|31x31px]]
+|Croagunk
+|[[File:PoisonType.png]] [[File:FightingType.png]]
+|-
+|#070
+|[[File:TOXICROAK_icon.png|frameless|31x31px]]
+|Toxicroak
+|[[File:PoisonType.png]] [[File:FightingType.png]]
+|-
+|#071
+|[[File:ARON_icon.png|frameless|31x31px]]
+|Aron
+|[[File:SteelType.png]] [[File:RockType.png]]
+|-
+|#072
+|[[File:LAIRON_icon.png|frameless|31x31px]]
+|Lairon
+|[[File:SteelType.png]] [[File:RockType.png]]
+|-
+|#073
+|[[File:AGGRON_icon.png|frameless|31x31px]]
+|Aggron
+|[[File:SteelType.png]] [[File:RockType.png]]
+|-
+|#074
+|[[File:SANDSHREW_icon.png|frameless|31x31px]]
+|Sandshrew
+|[[File:GroundType.png]]
+|-
+|#075
+|[[File:SANDSLASH_icon.png|frameless|31x31px]]
+|Sandslash
+|[[File:GroundType.png]]
+|-
+|#076
+|[[File:WINGULL_icon.png|frameless|31x31px]]
+|Wingull
+|[[File:WaterType.png]] [[File:FlyingType.png]]
+|-
+|#077
+|[[File:PELIPPER_icon.png|frameless|31x31px]]
+|Pelipper
+|[[File:WaterType.png]] [[File:FlyingType.png]]
+|-
+|#078
+|[[File:DUNSPARCE_icon.png|frameless|31x31px]]
+|Dunsparce
+|[[File:NormalType.png]]
+|-
+|#079
+|[[File:ZUBAT_icon.png|frameless|31x31px]]
+|Zubat
+|[[File:PoisonType.png]] [[File:FlyingType.png]]
+|-
+|#080
+|[[File:GOLBAT_icon.png|frameless|31x31px]]
+|Golbat
+|[[File:PoisonType.png]] [[File:FlyingType.png]]
+|-
+|#081
+|[[File:CROBAT_icon.png|frameless|31x31px]]
+|Crobat
+|[[File:PoisonType.png]] [[File:FlyingType.png]]
+|-
+|#082
+|[[File:DIGLETT_icon.png|frameless|31x31px]]
+|Diglett
+|[[File:GroundType.png]]
+|-
+|#083
+|[[File:DUGTRIO_icon.png|frameless|31x31px]]
+|Dugtrio
+|[[File:GroundType.png]]
+|-
+|#084
+|[[File:RALTS_icon.png|frameless|31x31px]]
+|Ralts
+|[[File:PsychicType.png]] [[File:FairyType.png]]
+|-
+|#085
+|[[File:KIRLIA_icon.png|frameless|31x31px]]
+|Kirlia
+|[[File:PsychicType.png]] [[File:FairyType.png]]
+|-
+|#086
+|[[File:GARDEVOIR_icon.png|frameless|31x31px]]
+|Gardevoir
+|[[File:PsychicType.png]] [[File:FairyType.png]]
+|-
+|#087
+|[[File:GALLADE_icon.png|frameless|31x31px]]
+|Gallade
+|[[File:PsychicType.png]] [[File:FightingType.png]]
+|-
+|#088
+|[[File:COMBEE_icon.png|frameless|31x31px]]
+|Combee
+|[[File:BugType.png]] [[File:FlyingType.png]]
+|-
+|#089
+|[[File:VESPIQUEN_icon.png|frameless|31x31px]]
+|Vespiquen
+|[[File:BugType.png]] [[File:FlyingType.png]]
+|-
+|#090
+|[[File:PICHU_icon.png|frameless|31x31px]]
+|Pichu
+|[[File:ElectricType.png]]
+|-
+|#091
+|[[File:PIKACHU_icon.png|frameless|31x31px]]
+|Pikachu
+|[[File:ElectricType.png]]
+|-
+|#092
+|[[File:RAICHU_icon.png|frameless|31x31px]]
+|Raichu
+|[[File:ElectricType.png]]
+|-
+|#093
+|[[File:EEVEE_icon.png|frameless|31x31px]]
+|Eevee
+|[[File:NormalType.png]]
+|-
+|#094
+|[[File:VAPOREON_icon.png|frameless|31x31px]]
+|Vaporeon
+|[[File:WaterType.png]]
+|-
+|#095
+|[[File:JOLTEON_icon.png|frameless|31x31px]]
+|Jolteon
+|[[File:ElectricType.png]]
+|-
+|#096
+|[[File:FLAREON_icon.png|frameless|31x31px]]
+|Flareon
+|[[File:FireType.png]]
+|-
+|#097
+|[[File:ESPEON_icon.png|frameless|31x31px]]
+|Espeon
+|[[File:PsychicType.png]]
+|-
+|#098
+|[[File:UMBREON_icon.png|frameless|31x31px]]
+|Umbreon
+|[[File:DarkType.png]]
+|-
+|#099
+|[[File:LEAFEON_icon.png|frameless|31x31px]]
+|Leafeon
+|[[File:GrassType.png]]
+|-
+|#100
+|[[File:GLACEON_icon.png|frameless|31x31px]]
+|Glaceon
+|[[File:IceType.png]]
+|-
+|#101
+|[[File:HOOTHOOT_icon.png|frameless|31x31px]]
+|Hoothoot
+|[[File:NormalType.png]] [[File:FlyingType.png]]
+|-
+|#102
+|[[File:NOCTOWL_icon.png|frameless|31x31px]]
+|Noctowl
+|[[File:NormalType.png]] [[File:FlyingType.png]]
+|-
+|#103
+|[[File:NATU_icon.png|frameless|31x31px]]
+|Natu
+|[[File:PsychicType.png]] [[File:FlyingType.png]]
+|-
+|#104
+|[[File:XATU_icon.png|frameless|31x31px]]
+|Xatu
+|[[File:PsychicType.png]] [[File:FlyingType.png]]
+|-
+|#105
+|[[File:MAGNEMITE_icon.png|frameless|31x31px]]
+|Magnemite
+|[[File:ElectricType.png]] [[File:SteelType.png]]
+|-
+|#106
+|[[File:MAGNETON_icon.png|frameless|31x31px]]
+|Magneton
+|[[File:ElectricType.png]] [[File:SteelType.png]]
+|-
+|#107
+|[[File:MAGNEZONE_icon.png|frameless|31x31px]]
+|Magnezone
+|[[File:ElectricType.png]] [[File:SteelType.png]]
+|-
+|#108
+|[[File:ELECTRIKE_icon.png|frameless|31x31px]]
+|Electrike
+|[[File:ElectricType.png]]
+|-
+|#109
+|[[File:MANECTRIC_icon.png|frameless|31x31px]]
+|Manectric
+|[[File:ElectricType.png]]
+|-
+|#110
+|[[File:MAWILE_icon.png|frameless|31x31px]]
+|Mawile
+|[[File:SteelType.png]] [[File:FairyType.png]]
+|-
+|#111
+|[[File:SABLEYE_icon.png|frameless|31x31px]]
+|Sableye
+|[[File:DarkType.png]] [[File:GhostType.png]]
+|-
+|#112
+|[[File:SPIRITOMB_1_icon.png|frameless|31x31px]]
+|[[Spiritomb]]
+|[[File:GhostType.png]] [[File:WaterType.png]]
+|-
+|#113
+|[[File:CACNEA_icon.png|frameless|31x31px]]
+|Cacnea
+|[[File:GrassType.png]]
+|-
+|#114
+|[[File:CACTURNE_icon.png|frameless|31x31px]]
+|Cacturne
+|[[File:GrassType.png]] [[File:DarkType.png]]
+|-
+|#115
+|[[File:TENTACOOL_icon.png|frameless|31x31px]]
+|Tentacool
+|[[File:WaterType.png]] [[File:PoisonType.png]]
+|-
+|#116
+|[[File:TENTACRUEL_icon.png|frameless|31x31px]]
+|Tentacruel
+|[[File:WaterType.png]] [[File:PoisonType.png]]
+|-
+|#117
+|[[File:POLIWAG_icon.png|frameless|31x31px]]
+|Poliwag
+|[[File:WaterType.png]]
+|-
+|#118
+|[[File:POLIWHIRL_icon.png|frameless|31x31px]]
+|Poliwhirl
+|[[File:WaterType.png]]
+|-
+|#119
+|[[File:POLIWRATH_icon.png|frameless|31x31px]]
+|Poliwrath
+|[[File:WaterType.png]] [[File:FightingType.png]]
+|-
+|#120
+|[[File:POLITOED_icon.png|frameless|31x31px]]
+|Politoed
+|[[File:WaterType.png]]
+|-
+|#121
+|[[File:MAGIKARP_icon.png|frameless|31x31px]]
+|Magikarp
+|[[File:WaterType.png]]
+|-
+|#122
+|[[File:GYARADOS_icon.png|frameless|31x31px]]
+|Gyarados
+|[[File:WaterType.png]] [[File:FlyingType.png]]
+|-
+|#123
+|[[File:FINNEON_icon.png|frameless|31x31px]]
+|Finneon
+|[[File:WaterType.png]]
+|-
+|#124
+|[[File:LUMINEON_icon.png|frameless|31x31px]]
+|Lumineon
+|[[File:WaterType.png]]
+|-
+|#125
+|[[File:SPHEAL_icon.png|frameless|31x31px]]
+|Spheal
+|[[File:IceType.png]] [[File:WaterType.png]]
+|-
+|#126
+|[[File:SEALEO_icon.png|frameless|31x31px]]
+|Sealeo
+|[[File:IceType.png]] [[File:WaterType.png]]
+|-
+|#127
+|[[File:WALREIN_icon.png|frameless|31x31px]]
+|Walrein
+|[[File:IceType.png]] [[File:WaterType.png]]
+|-
+|#128
+|[[File:LAPRAS_icon.png|frameless|31x31px]]
+|Lapras
+|[[File:WaterType.png]] [[File:IceType.png]]
+|-
+|#129
+|[[File:SNEASEL_icon.png|frameless|31x31px]]
+|Sneasel
+|[[File:DarkType.png]] [[File:IceType.png]]
+|-
+|#130
+|[[File:WEAVILE_icon.png|frameless|31x31px]]
+|Weavile
+|[[File:DarkType.png]] [[File:IceType.png]]
+|-
+|#131
+|[[File:SWINUB_icon.png|frameless|31x31px]]
+|Swinub
+|[[File:IceType.png]] [[File:GroundType.png]]
+|-
+|#132
+|[[File:PILOSWINE_icon.png|frameless|31x31px]]
+|Piloswine
+|[[File:IceType.png]] [[File:GroundType.png]]
+|-
+|#133
+|[[File:MAMOSWINE_icon.png|frameless|31x31px]]
+|Mamoswine
+|[[File:IceType.png]] [[File:GroundType.png]]
+|-
+|#134
+|[[File:SNOVER_icon.png|frameless|31x31px]]
+|Snover
+|[[File:GrassType.png]] [[File:IceType.png]]
+|-
+|#135
+|[[File:ABOMASNOW_icon.png|frameless|31x31px]]
+|Abomasnow
+|[[File:GrassType.png]] [[File:IceType.png]]
+|-
+|#136
+|[[File:SNORUNT_icon.png|frameless|31x31px]]
+|Snorunt
+|[[File:IceType.png]]
+|-
+|#137
+|[[File:GLALIE_icon.png|frameless|31x31px]]
+|Glalie
+|[[File:IceType.png]]
+|-
+|#138
+|[[File:FROSLASS_icon.png|frameless|31x31px]]
+|Froslass
+|[[File:IceType.png]] [[File:GhostType.png]]
+|-
+|#139
+|[[File:ONIX_icon.png|frameless|31x31px]]
+|Onix
+|[[File:RockType.png]] [[File:GroundType.png]]
+|-
+|#140
+|[[File:STEELIX_icon.png|frameless|31x31px]]
+|Steelix
+|[[File:SteelType.png]] [[File:GroundType.png]]
+|-
+|#141
+|[[File:CRANIDOS_icon.png|frameless|31x31px]]
+|Cranidos
+|[[File:RockType.png]]
+|-
+|#142
+|[[File:RAMPARDOS_icon.png|frameless|31x31px]]
+|Rampardos
+|[[File:RockType.png]]
+|-
+|#143
+|[[File:SHIELDON_icon.png|frameless|31x31px]]
+|Shieldon
+|[[File:RockType.png]] [[File:SteelType.png]]
+|-
+|#144
+|[[File:BASTIODON_icon.png|frameless|31x31px]]
+|Bastiodon
+|[[File:RockType.png]] [[File:SteelType.png]]
+|-
+|#145
+|[[File:GASTLY_icon.png|frameless|31x31px]]
+|Gastly
+|[[File:GhostType.png]] [[File:PoisonType.png]]
+|-
+|#146
+|[[File:HAUNTER_icon.png|frameless|31x31px]]
+|Haunter
+|[[File:GhostType.png]] [[File:PoisonType.png]]
+|-
+|#147
+|[[File:GENGAR_icon.png|frameless|31x31px]]
+|Gengar
+|[[File:GhostType.png]] [[File:PoisonType.png]]
+|-
+|#148
+|[[File:MISDREAVUS_icon.png|frameless|31x31px]]
+|Misdreavus
+|[[File:GhostType.png]]
+|-
+|#149
+|[[File:MISMAGIUS_icon.png|frameless|31x31px]]
+|Mismagius
+|[[File:GhostType.png]]
+|-
+|#150
+|[[File:HOUNDOUR_icon.png|frameless|31x31px]]
+|Houndour
+|[[File:DarkType.png]] [[File:FireType.png]]
+|-
+|#151
+|[[File:HOUNDOOM_icon.png|frameless|31x31px]]
+|Houndoom
+|[[File:DarkType.png]] [[File:FireType.png]]
+|-
+|#152
+|[[File:DITTO_icon.png|frameless|31x31px]]
+|Ditto
+|[[File:NormalType.png]]
+|-
+|#153
+|[[File:ROTOM_icon.png|frameless|31x31px]]
+|Rotom
+|[[File:ElectricType.png]] [[File:GhostType.png]]
+|-
+|#154
+|[[File:DRATINI_icon.png|frameless|31x31px]]
+|Dratini
+|[[File:DragonType.png]]
+|-
+|#155
+|[[File:DRAGONAIR_icon.png|frameless|31x31px]]
+|Dragonair
+|[[File:DragonType.png]]
+|-
+|#156
+|[[File:DRAGONITE_icon.png|frameless|31x31px]]
+|Dragonite
+|[[File:DragonType.png]] [[File:FlyingType.png]]
+|-
+|#157
+|[[File:LARVITAR_icon.png|frameless|31x31px]]
+|Larvitar
+|[[File:RockType.png]] [[File:GroundType.png]]
+|-
+|#158
+|[[File:PUPITAR_icon.png|frameless|31x31px]]
+|Pupitar
+|[[File:RockType.png]] [[File:GroundType.png]]
+|-
+|#159
+|[[File:TYRANITAR_icon.png|frameless|31x31px]]
+|Tyranitar
+|[[File:RockType.png]] [[File:DarkType.png]]
+|-
+|#160
+|[[File:JIRACHI_icon.png|frameless|31x31px]]
+|Jirachi
+|[[File:SteelType.png]] [[File:PsychicType.png]]
+|-
+|#161
+|[[File:CELEBI_icon.png|frameless|31x31px]]
+|Celebi
+|[[File:PsychicType.png]] [[File:GrassType.png]]
+|-
+|#162
+|[[File:DEOXYS_icon.png|frameless|31x31px]]
+|Deoxys
+|[[File:PsychicType.png]]
+|-
+|#163
+|[[File:UNOWN_icon.png|frameless|31x31px]]
+|Unown
+|[[File:PsychicType.png]]
+|-
+|#164
+|[[File:MACHOP_icon.png|frameless|31x31px]]
+|Machop
+|[[File:FightingType.png]]
+|-
+|#165
+|[[File:MACHOKE_icon.png|frameless|31x31px]]
+|Machoke
+|[[File:FightingType.png]]
+|-
+|#166
+|[[File:MACHAMP_icon.png|frameless|31x31px]]
+|Machamp
+|[[File:FightingType.png]]
+|-
+|#167
+|[[File:SNUBBULL_icon.png|frameless|31x31px]]
+|Snubbull
+|[[File:FairyType.png]]
+|-
+|#168
+|[[File:GRANBULL_icon.png|frameless|31x31px]]
+|Granbull
+|[[File:FairyType.png]]
+|-
+|#169
+|[[File:DUSKULL_icon.png|frameless|31x31px]]
+|Duskull
+|[[File:GhostType.png]]
+|-
+|#170
+|[[File:DUSCLOPS_icon.png|frameless|31x31px]]
+|Dusclops
+|[[File:GhostType.png]]
+|-
+|#171
+|[[File:RELICANTH_icon.png|frameless|31x31px]]
+|Relicanth
+|[[File:WaterType.png]] [[File:RockType.png]]
+|-
+|#172
+|[[File:CORSOLA_icon.png|frameless|31x31px]]
+|Corsola
+|[[File:WaterType.png]] [[File:RockType.png]]
+|-
+|#173
+|[[File:CLAMPERL_icon.png|frameless|31x31px]]
+|Clamperl
+|[[File:WaterType.png]]
+|-
+|#174
+|[[File:HUNTAIL_icon.png|frameless|31x31px]]
+|Huntail
+|[[File:WaterType.png]]
+|-
+|#175
+|[[File:GOREBYSS_icon.png|frameless|31x31px]]
+|Gorebyss
+|[[File:WaterType.png]]
+|-
+|#176
+|[[File:RAIKOU_icon.png|frameless|31x31px]]
+|Raikou
+|[[File:ElectricType.png]]
+|-
+|#177
+|[[File:ENTEI_icon.png|frameless|31x31px]]
+|Entei
+|[[File:FireType.png]]
+|-
+|#178
+|[[File:SUICUNE_icon.png|frameless|31x31px]]
+|Suicune
+|[[File:WaterType.png]]
+|-
+|#179
+|[[File:TROPIUS_icon.png|frameless|31x31px]]
+|Tropius
+|[[File:GrassType.png]] [[File:FlyingType.png]]
+|-
+|#180
+|[[File:ODDISH_icon.png|frameless|31x31px]]
+|Oddish
+|[[File:GrassType.png]] [[File:PoisonType.png]]
+|-
+|#181
+|[[File:GLOOM_icon.png|frameless|31x31px]]
+|Gloom
+|[[File:GrassType.png]] [[File:PoisonType.png]]
+|-
+|#182
+|[[File:VILEPLUME_icon.png|frameless|31x31px]]
+|Vileplume
+|[[File:GrassType.png]] [[File:PoisonType.png]]
+|-
+|#183
+|[[File:BELLOSSOM_icon.png|frameless|31x31px]]
+|Bellossom
+|[[File:GrassType.png]]
+|-
+|#184
+|[[File:SLOWPOKE_icon.png|frameless|31x31px]]
+|Slowpoke
+|[[File:WaterType.png]] [[File:PsychicType.png]]
+|-
+|#185
+|[[File:SLOWBRO_icon.png|frameless|31x31px]]
+|Slowbro
+|[[File:WaterType.png]] [[File:PsychicType.png]]
+|-
+|#186
+|[[File:SLOWKING_icon.png|frameless|31x31px]]
+|Slowking
+|[[File:WaterType.png]] [[File:PsychicType.png]]
+|-
+|#187
+|[[File:HOPPIP_icon.png|frameless|31x31px]]
+|Hoppip
+|[[File:GrassType.png]] [[File:FlyingType.png]]
+|-
+|#188
+|[[File:SKIPLOOM_icon.png|frameless|31x31px]]
+|Skiploom
+|[[File:GrassType.png]] [[File:FlyingType.png]]
+|-
+|#189
+|[[File:JUMPLUFF_icon.png|frameless|31x31px]]
+|Jumpluff
+|[[File:GrassType.png]] [[File:FlyingType.png]]
+|-
+|#190
+|[[File:MANKEY_1_icon.png|frameless|31x31px]]
+|[[Mankey]]
+|[[File:FightingType.png]] [[File:ElectricType.png]]
+|-
+|#191
+|[[File:PRIMEAPE_1_icon.png|frameless|31x31px]]
+|[[Primeape]]
+|[[File:FightingType.png]] [[File:ElectricType.png]]
+|-
+|#192
+|[[File:NINCADA_icon.png|frameless|31x31px]]
+|Nincada
+|[[File:BugType.png]] [[File:GroundType.png]]
+|-
+|#193
+|[[File:NINJASK_icon.png|frameless|31x31px]]
+|Ninjask
+|[[File:BugType.png]] [[File:FlyingType.png]]
+|-
+|#194
+|[[File:SHEDINJA_icon.png|frameless|31x31px]]
+|Shedinja
+|[[File:BugType.png]] [[File:GhostType.png]]
+|-
+|#195
+|[[File:SKARMORY_icon.png|frameless|31x31px]]
+|Skarmory
+|[[File:SteelType.png]] [[File:FlyingType.png]]
+|-
+|#196
+|[[File:SKORUPI_icon.png|frameless|31x31px]]
+|Skorupi
+|[[File:PoisonType.png]] [[File:BugType.png]]
+|-
+|#197
+|[[File:DRAPION_icon.png|frameless|31x31px]]
+|Drapion
+|[[File:PoisonType.png]] [[File:DarkType.png]]
+|-
+|#198
+|[[File:KOFFING_icon.png|frameless|31x31px]]
+|Koffing
+|[[File:PoisonType.png]]
+|-
+|#199
+|[[File:WEEZING_icon.png|frameless|31x31px]]
+|Weezing
+|[[File:PoisonType.png]]
+|-
+|#200
+|[[File:TORKOAL_icon.png|frameless|31x31px]]
+|Torkoal
+|[[File:FireType.png]]
+|-
+|#201
+|[[File:PORYGON_icon.png|frameless|31x31px]]
+|Heatran
+|[[File:FireType.png]] [[File:RockType.png]]
+|-
+|#202
+|[[File:PORYGON2_icon.png|frameless|31x31px]]
+|Manaphy
+|[[File:WaterType.png]]
+|-
+|#203
+|[[File:PORYGONZ_icon.png|frameless|31x31px]]
+|Phione
+|[[File:WaterType.png]]
+|}

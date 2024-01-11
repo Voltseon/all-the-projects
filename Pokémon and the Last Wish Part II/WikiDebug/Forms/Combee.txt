@@ -1,0 +1,213 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:BugType.png]]<br>[[File:FlyingType.png]]|abilities=Honey Gather<br>Hustle (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#088</nowiki>|evolves_from=None|evolves_into=[[Vespiquen]] |weight=5.5 kg|height=0.3 m|gender={{FemaleOneEighth}}|image=COMBEE.png|title=[[File:COMBEE_icon.png]]
+<big>'''Combee'''</big>}}'''Combee''' is a Bug/Flying-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Vespiquen]] .
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A Pokémon formed by three others. It busily carries sweet floral honey to Vespiquen.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|15%
+|[[Heliotrope Woods]]
+|12
+|15
+|[[File:GrassEncounter.png]][[File:StaringEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=30|Attack=30|Defense=42|SpAtk=30|SpDef=42|Speed=70}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:PoisonType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:WaterType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:FireType.png]][[File:ElectricType.png]][[File:IceType.png]]
+|-
+|4x weak to:
+|[[File:RockType.png]]
+|-
+|Immune to:
+|[[File:GroundType.png]]
+|-
+|Resistant to:
+|[[File:BugType.png]]
+|-
+|4x resistant to:
+|[[File:FightingType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Sweet Scent
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|1
+|Gust
+|[[File:FlyingType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|35
+|-
+|13
+|Bug Bite
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|20
+|-
+|29
+|Bug Buzz
+|[[File:BugType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine FAIRY.png|frameless|24x24px]]
+|TM12
+|Draining Kiss
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:COMBEE.png]]
+|[[File:COMBEE_back.png]]
+|[[File:COMBEE_shiny.png]]
+|[[File:COMBEE_shiny_back.png]]
+|[[File:COMBEE_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

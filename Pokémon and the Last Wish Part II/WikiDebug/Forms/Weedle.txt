@@ -1,0 +1,136 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:BugType.png]]<br>[[File:PoisonType.png]]|abilities=Shield Dust<br>Run Away (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#022</nowiki>|evolves_from=None|evolves_into=[[Kakuna]] (lvl. 7)|weight=3.2 kg|height=0.3 m|gender={{Female50Percent}}|image=WEEDLE.png|title=[[File:WEEDLE_icon.png]]
+<big>'''Weedle'''</big>}}'''Weedle''' is a Bug/Poison-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Kakuna]] starting at level 7.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A Weedle has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Route 7]]
+|2
+|3
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=40|Attack=35|Defense=30|SpAtk=20|SpDef=20|Speed=50}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:GroundType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:RockType.png]][[File:FireType.png]][[File:PsychicType.png]]
+|-
+|Resistant to:
+|[[File:PoisonType.png]][[File:BugType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:FightingType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Poison Sting
+|[[File:PoisonType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|100%
+|35
+|-
+|1
+|String Shot
+|[[File:BugType.png]]
+|[[File:StatusCategory.png]]
+| -
+|95%
+|40
+|-
+|9
+|Bug Bite
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|20
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:WEEDLE.png]]
+|[[File:WEEDLE_back.png]]
+|[[File:WEEDLE_shiny.png]]
+|[[File:WEEDLE_shiny_back.png]]
+|[[File:WEEDLE_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

@@ -1,0 +1,264 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:PoisonType.png]]|abilities=Levitate<br>|region=[[Peskan]]|pokedex=<nowiki>#199</nowiki>|evolves_from=[[Koffing]]|evolves_into=None|weight=9.5 kg|height=1.2 m|gender={{Female50Percent}}|image=WEEZING.png|title=[[File:WEEZING_icon.png]]
+<big>'''Weezing'''</big>}}'''Weezing''' is a Poison-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Koffing]] starting at level 35.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>By diluting its toxic gases with a special process, the highest grade of perfume can be made. To Weezing, gases emanating from garbage are the ultimate feast.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=65|Attack=90|Defense=120|SpAtk=85|SpDef=70|Speed=60}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:RockType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:GroundType.png]][[File:PsychicType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:GrassType.png]][[File:FairyType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Double Hit
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|35
+|90%
+|10
+|-
+|1
+|Double Hit
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|35
+|90%
+|10
+|-
+|1
+|Poison Gas
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|40
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Smog
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|30
+|70%
+|20
+|-
+|1
+|Smokescreen
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|4
+|Smog
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|30
+|70%
+|20
+|-
+|7
+|Smokescreen
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|12
+|Assurance
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|10
+|-
+|15
+|Clear Smog
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|50
+| -%
+|15
+|-
+|18
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|23
+|Self-Destruct
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|200
+|100%
+|5
+|-
+|26
+|Haze
+|[[File:IceType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|29
+|Gyro Ball
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|5
+|-
+|34
+|Sludge Bomb
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|40
+|Explosion
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|250
+|100%
+|5
+|-
+|46
+|Destiny Bond
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|51
+|Belch
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|90%
+|10
+|-
+|57
+|Memento
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:WEEZING.png]]
+|[[File:WEEZING_back.png]]
+|[[File:WEEZING_shiny.png]]
+|[[File:WEEZING_shiny_back.png]]
+|[[File:WEEZING_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

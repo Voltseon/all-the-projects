@@ -1,0 +1,275 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:FightingType.png]]|abilities=Steadfast<br>Inner Focus<br>Prankster (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#067</nowiki>|evolves_from=None|evolves_into=[[Lucario]] (Happiness Daytime)|weight=20.2 kg|height=0.7 m|gender={{FemaleOneEighth}}|image=RIOLU.png|title=[[File:RIOLU_icon.png]]
+<big>'''Riolu'''</big>}}'''Riolu''' is a Fighting-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Lucario]] when leveled up with high friendship during the daytime.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>The aura that emanates from its body intensifies to alert others if it is afraid or sad.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|20%
+|[[Route 12]] (South)
+|7
+|10
+|[[File:GrassEncounter.png]]
+|-
+|20%
+|[[Route 11]]
+|21
+|25
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=40|Attack=70|Defense=40|SpAtk=35|SpDef=40|Speed=60}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:PsychicType.png]][[File:FairyType.png]]
+|-
+|Resistant to:
+|[[File:RockType.png]][[File:BugType.png]][[File:DarkType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Foresight
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|1
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|1
+|Endure
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|6
+|Counter
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|20
+|-
+|11
+|Feint
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|100%
+|10
+|-
+|15
+|Force Palm
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|10
+|-
+|19
+|Copycat
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|24
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|29
+|Reversal
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|15
+|-
+|47
+|Nasty Plot
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|50
+|Final Gambit
+|[[File:FightingType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine FIGHTING.png|frameless|24x24px]]
+|TM04
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:RIOLU.png]]
+|[[File:RIOLU_back.png]]
+|[[File:RIOLU_shiny.png]]
+|[[File:RIOLU_shiny_back.png]]
+|[[File:RIOLU_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

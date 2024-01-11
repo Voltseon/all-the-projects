@@ -1,0 +1,4 @@
+Name         = Mid-Battle Dialogue
+Version      = 1.8
+Website      = https://reliccastle.com/resources/483/
+Credits      = Golisopod User, Luka SJ

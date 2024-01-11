@@ -1,0 +1,309 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:RockType.png]]<br>[[File:GroundType.png]]|abilities=Rock Head<br>Sturdy<br>Sand Veil (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#062</nowiki>|evolves_from=None|evolves_into=[[Graveler]] (lvl. 25)|weight=20.0 kg|height=0.4 m|gender={{Female50Percent}}|image=GEODUDE.png|title=[[File:GEODUDE_icon.png]]
+<big>'''Geodude'''</big>}}'''Geodude''' is a Rock/Ground-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Graveler]] starting at level 25.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It climbs mountain paths using only the power of its arms. Because they look just like boulders lining paths, hikers may step on them without noticing.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|20%
+|[[Rosewood Generator]]
+|12
+|16
+|[[File:CaveEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=40|Attack=80|Defense=100|SpAtk=30|SpDef=30|Speed=20}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:BugType.png]][[File:GhostType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:GroundType.png]][[File:SteelType.png]][[File:IceType.png]]
+|-
+|4x weak to:
+|[[File:WaterType.png]][[File:GrassType.png]]
+|-
+|Immune to:
+|[[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:RockType.png]][[File:FireType.png]]
+|-
+|4x resistant to:
+|[[File:PoisonType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Defense Curl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|4
+|Mud Sport
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|6
+|Rock Polish
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|10
+|Rollout
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|90%
+|20
+|-
+|12
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|16
+|Rock Throw
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|90%
+|15
+|-
+|18
+|Smack Down
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|15
+|-
+|22
+|Bulldoze
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|20
+|-
+|24
+|Self-Destruct
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|200
+|100%
+|5
+|-
+|28
+|Stealth Rock
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|30
+|Rock Blast
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|25
+|90%
+|10
+|-
+|34
+|Earthquake
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|100%
+|10
+|-
+|36
+|Explosion
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|250
+|100%
+|5
+|-
+|40
+|Double-Edge
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|-
+|42
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|TM24
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:GEODUDE.png]]
+|[[File:GEODUDE_back.png]]
+|[[File:GEODUDE_shiny.png]]
+|[[File:GEODUDE_shiny_back.png]]
+|[[File:GEODUDE_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

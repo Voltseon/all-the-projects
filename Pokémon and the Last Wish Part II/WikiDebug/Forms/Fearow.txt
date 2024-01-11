@@ -1,0 +1,311 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:NormalType.png]]<br>[[File:FlyingType.png]]|abilities=Keen Eye<br>Sniper (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#037</nowiki>|evolves_from=[[Spearow]]|evolves_into=None|weight=38.0 kg|height=1.2 m|gender={{Female50Percent}}|image=FEAROW.png|title=[[File:FEAROW_icon.png]]
+<big>'''Fearow'''</big>}}'''Fearow''' is a Normal/Flying-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Spearow]] starting at level 20.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Its long neck and elongated beak are ideal for catching prey in soil or water. It deftly moves this extended and skinny beak to pluck prey.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Route 2]]
+|30
+|33
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=65|Attack=90|Defense=65|SpAtk=61|SpDef=61|Speed=100}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:RockType.png]][[File:ElectricType.png]][[File:IceType.png]]
+|-
+|Immune to:
+|[[File:GroundType.png]][[File:GhostType.png]]
+|-
+|Resistant to:
+|[[File:BugType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Drill Run
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|95%
+|10
+|-
+|1
+|Pluck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|20
+|-
+|1
+|Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|35
+|100%
+|35
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Pursuit
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|4
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|8
+|Pursuit
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|11
+|Fury Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|85%
+|20
+|-
+|15
+|Aerial Ace
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|18
+|Mirror Move
+|[[File:FlyingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|23
+|Assurance
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|10
+|-
+|27
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|32
+|Focus Energy
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|36
+|Roost
+|[[File:FlyingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|41
+|Drill Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|20
+|-
+|45
+|Drill Run
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|95%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|TM08
+|Drill Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM19
+|First Impression
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|10
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:FEAROW.png]]
+|[[File:FEAROW_back.png]]
+|[[File:FEAROW_shiny.png]]
+|[[File:FEAROW_shiny_back.png]]
+|[[File:FEAROW_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

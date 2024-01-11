@@ -1,0 +1,373 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GroundType.png]]|abilities=Sand Veil<br>Sand Rush (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#075</nowiki>|evolves_from=[[Sandshrew]]|evolves_into=None|weight=29.5 kg|height=1.0 m|gender={{Female50Percent}}|image=SANDSLASH.png|title=[[File:SANDSLASH_icon.png]]
+<big>'''Sandslash'''</big>}}'''Sandslash''' is a Ground-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Sandshrew]] starting at level 22.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=75|Attack=100|Defense=110|SpAtk=45|SpDef=55|Speed=65}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:GroundType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:WaterType.png]][[File:GrassType.png]][[File:IceType.png]]
+|-
+|Immune to:
+|[[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:PoisonType.png]][[File:RockType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Crush Claw
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|95%
+|10
+|-
+|1
+|Crush Claw
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|95%
+|10
+|-
+|1
+|Scratch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Defense Curl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|1
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|1
+|Poison Sting
+|[[File:PoisonType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|100%
+|35
+|-
+|3
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|5
+|Poison Sting
+|[[File:PoisonType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|100%
+|35
+|-
+|7
+|Rollout
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|90%
+|20
+|-
+|9
+|Rapid Spin
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|20
+|100%
+|40
+|-
+|11
+|Fury Cutter
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|95%
+|20
+|-
+|14
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|17
+|Swift
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+| -%
+|20
+|-
+|20
+|Fury Swipes
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|18
+|80%
+|15
+|-
+|24
+|Sand Tomb
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|35
+|85%
+|15
+|-
+|28
+|Slash
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|20
+|-
+|33
+|Dig
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|10
+|-
+|38
+|Gyro Ball
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|5
+|-
+|43
+|Swords Dance
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|48
+|Sandstorm
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|53
+|Earthquake
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM05
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM11
+|Mega Punch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|85%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM19
+|First Impression
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|10
+|-
+|[[File:Machine STEEL.png|frameless|24x24px]]
+|TM20
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|TM24
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SANDSLASH.png]]
+|[[File:SANDSLASH_back.png]]
+|[[File:SANDSLASH_shiny.png]]
+|[[File:SANDSLASH_shiny_back.png]]
+|[[File:SANDSLASH_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

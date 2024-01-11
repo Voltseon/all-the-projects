@@ -1,0 +1,249 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]<br>[[File:PsychicType.png]]|abilities=Oblivious<br>Own Tempo<br>Regenerator (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#184</nowiki>|evolves_from=None|evolves_into=[[Slowbro]] (lvl. 37)|weight=36.0 kg|height=1.2 m|gender={{Female50Percent}}|image=SLOWPOKE.png|title=[[File:SLOWPOKE_icon.png]]
+<big>'''Slowpoke'''</big>}}'''Slowpoke''' is a Water/Psychic-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Slowbro]] starting at level 37.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends whole days just loafing at the water's edge.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=90|Attack=65|Defense=65|SpAtk=40|SpDef=40|Speed=15}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:BugType.png]][[File:GhostType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:DarkType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:PsychicType.png]][[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Yawn
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|5
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|9
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|14
+|Confusion
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|25
+|-
+|19
+|Disable
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|23
+|Headbutt
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|15
+|-
+|28
+|Water Pulse
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|20
+|-
+|32
+|Zen Headbutt
+|[[File:PsychicType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|90%
+|15
+|-
+|36
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|41
+|Amnesia
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|45
+|Psychic
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|49
+|Rain Dance
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|54
+|Psych Up
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|58
+|Heal Pulse
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:SLOWPOKE.png]]
+|[[File:SLOWPOKE_back.png]]
+|[[File:SLOWPOKE_shiny.png]]
+|[[File:SLOWPOKE_shiny_back.png]]
+|[[File:SLOWPOKE_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

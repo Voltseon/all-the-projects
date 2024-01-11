@@ -1,0 +1,379 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:WaterType.png]]<br>[[File:FlyingType.png]]|abilities=Keen Eye<br>Drizzle<br>Rain Dish (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#077</nowiki>|evolves_from=[[Wingull]]|evolves_into=None|weight=28.0 kg|height=1.2 m|gender={{Female50Percent}}|image=PELIPPER.png|title=[[File:PELIPPER_icon.png]]
+<big>'''Pelipper'''</big>}}'''Pelipper''' is a Water/Flying-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Wingull]] starting at level 25.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|30%
+|[[Route 15]]
+|43
+|47
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=60|Attack=50|Defense=100|SpAtk=95|SpDef=70|Speed=65}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GhostType.png]][[File:GrassType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:RockType.png]]
+|-
+|4x weak to:
+|[[File:ElectricType.png]]
+|-
+|Immune to:
+|[[File:GroundType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:BugType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Protect
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Protect
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Hurricane
+|[[File:FlyingType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|10
+|-
+|1
+|Hydro Pump
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|80%
+|5
+|-
+|1
+|Tailwind
+|[[File:FlyingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|1
+|Soak
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|1
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Water Sport
+|[[File:WaterType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|1
+|Wing Attack
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|35
+|-
+|5
+|Supersonic
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|55%
+|20
+|-
+|8
+|Wing Attack
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|35
+|-
+|12
+|Mist
+|[[File:IceType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|15
+|Water Pulse
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|20
+|-
+|19
+|Payback
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|10
+|-
+|22
+|Brine
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|10
+|-
+|28
+|Fling
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|10
+|-
+|33
+|Stockpile
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|33
+|Swallow
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|33
+|Spit Up
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|10
+|-
+|39
+|Roost
+|[[File:FlyingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|44
+|Tailwind
+|[[File:FlyingType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|50
+|Hydro Pump
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|80%
+|5
+|-
+|55
+|Hurricane
+|[[File:FlyingType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|TM08
+|Drill Peck
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine FLYING.png|frameless|24x24px]]
+|HM04
+|Bounce
+|[[File:FlyingType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|85%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:PELIPPER.png]]
+|[[File:PELIPPER_back.png]]
+|[[File:PELIPPER_shiny.png]]
+|[[File:PELIPPER_shiny_back.png]]
+|[[File:PELIPPER_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

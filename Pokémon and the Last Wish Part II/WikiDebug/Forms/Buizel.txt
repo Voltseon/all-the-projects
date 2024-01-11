@@ -1,0 +1,346 @@
+{{DISPLAYTITLE:Peskan Buizel}}
+{{PokemonInfobox|type=[[File:DarkType.png]]|abilities=Keen Eye<br>Prankster<br>Stall (Hidden)|region=[[Peskan]]|pokedex=[[Peskan Pokédex|<nowiki>#060</nowiki>]]|evolves_from=None|evolves_into=[[Floatzel]] (lvl. 26)|weight=29.5 kg|height=0.7 m|gender={{Female50Percent}}|image=BUIZEL_1.png|title=[[File:BUIZEL_1_icon.png]]
+<big>'''Buizel'''</big>}}'''Buizel''' is a Dark-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Floatzel]] starting at level 26.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Peskan Buizel live near civilization to steal food and water. They are well known troublemakers.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Route 7]]
+|2
+|3
+|[[File:GrassEncounter.png]]
+|-
+|15%
+|[[Route 9]] (East)
+|7
+|10
+|[[File:GrassEncounter.png]]
+|-
+|15%
+|[[Route 9]] (West)
+|12
+|14
+|[[File:GrassEncounter.png]]
+|-
+|15%
+|[[Route 10]]
+|8
+|10
+|[[File:GrassEncounter.png]]
+|}
+
+
+===Base stats ===
+{{BaseStats|HP=55|Attack=70|Defense=35|SpAtk=65|SpDef=30|Speed=75}}
+
+
+===Type effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:RockType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:IceType.png]][[File:DragonType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:BugType.png]][[File:FairyType.png]]
+|-
+|Immune to:
+|[[File:PsychicType.png]]
+|-
+|Resistant to:
+|[[File:GhostType.png]][[File:DarkType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Scratch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|4
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|7
+|Fury Swipes
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|18
+|80%
+|15
+|-
+|11
+|Quick Attack
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|15
+|Pursuit
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|-
+|18
+|Bite
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|25
+|-
+|21
+|Snarl
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|55
+|95%
+|15
+|-
+|24
+|Assurance
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|10
+|-
+|27
+|Double Hit
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|35
+|90%
+|10
+|-
+|31
+|Taunt
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|20
+|-
+|35
+|Razor Wind
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|10
+|-
+|38
+|Night Slash
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|15
+|-
+|41
+|Agility
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|45
+|Hone Claws
+|[[File:DarkType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM01]]
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM02]]
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM03]]
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine FIGHTING.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM04]]
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM05]]
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM07]]
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM09]]
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM14]]
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM15]]
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM19]]
+|First Impression
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|10
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM23]]
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM25]]
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|HM02
+|Aqua Jet
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:BUIZEL_1.png]]
+|[[File:BUIZEL_1_back.png]]
+|[[File:BUIZEL_1_shiny.png]]
+|[[File:BUIZEL_1_shiny_back.png]]
+|[[File:BUIZEL_1_icon.png]]
+|-
+|[[File:BUIZEL_outfit.png]]
+|[[File:BUIZEL_outfit_back.png]]
+|[[File:BUIZEL_outfit_shiny.png]]
+|[[File:BUIZEL_outfit_shiny_back.png]]
+|[[File:BUIZEL_outfit_icon.png]]

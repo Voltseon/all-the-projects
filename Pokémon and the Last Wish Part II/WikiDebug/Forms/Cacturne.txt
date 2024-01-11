@@ -1,0 +1,448 @@
+{{DISPLAYTITLE:Peskan Cacturne}}
+{{PokemonInfobox|type=[[File:SteelType.png]]<br>[[File:DarkType.png]]|abilities=[[Tainted Body]]<br>Clear Body (Hidden)|region=[[Peskan]]|pokedex=[[Peskan Pokédex|<nowiki>#114</nowiki>]]|evolves_from=[[Cacnea]]|evolves_into=None|weight=366.3 kg|height=1.3 m|gender={{Female50Percent}}|image=CACTURNE_1.png|title=[[File:CACTURNE_1_icon.png]]
+<big>'''Cacturne'''</big>}}'''Cacturne''' is a Steel/Dark-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Cacnea]] starting at level 32.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Unlike Peskan Cacnea, Cacturne are very dangerous due to their aggressiveness. During a fight they will hide their spikes in order to surprise their foe.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|20%
+|[[Mavora Path]]
+|51
+|56
+|[[File:GrassEncounter.png]]
+|}
+
+
+===Base stats ===
+{{BaseStats|HP=70|Attack=60|Defense=115|SpAtk=60|SpDef=115|Speed=55}}
+
+
+===Type effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:BugType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GroundType.png]][[File:FireType.png]]
+|-
+|4x weak to:
+|[[File:FightingType.png]]
+|-
+|Immune to:
+|[[File:PoisonType.png]][[File:PsychicType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:RockType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:GrassType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Spiky Shield
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Spiky Shield
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|1
+|Destiny Bond
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|1
+|Spike Cannon
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|20
+|100%
+|15
+|-
+|1
+|Sharpen
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|1
+|Leer
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|1
+|Mirror Shot
+|[[File:SteelType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|85%
+|10
+|-
+|1
+|Autotomize
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|4
+|Mirror Shot
+|[[File:SteelType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|85%
+|10
+|-
+|7
+|Autotomize
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|10
+|Metal Sound
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|13
+|Sand Attack
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|15
+|-
+|16
+|Bullet Punch
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|30
+|-
+|19
+|Feint Attack
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|22
+|Spiky Shield
+|[[File:GrassType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|26
+|Metal Burst
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|10
+|-
+|30
+|Spikes
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|35
+|Sucker Punch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+|100%
+|5
+|-
+|38
+|Pin Missile
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|25
+|95%
+|20
+|-
+|44
+|Heavy Slam
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|10
+|-
+|49
+|Iron Defense
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|54
+|Gyro Ball
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|5
+|-
+|59
+|Destiny Bond
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM01]]
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM02]]
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM03]]
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine FIGHTING.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM04]]
+|Vital Throw
+|[[File:FightingType.png]]
+|[[File:PhysicalCategory.png]]
+|70
+| -%
+|10
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM05]]
+|Lunge
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM06]]
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM07]]
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM09]]
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM11]]
+|Mega Punch
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|85%
+|20
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM14]]
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM15]]
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine GRASS.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM18]]
+|Leaf Blade
+|[[File:GrassType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM19]]
+|First Impression
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|10
+|-
+|[[File:Machine STEEL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM20]]
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM21]]
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM24]]
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM25]]
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|HM01
+|Stomp
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:CACTURNE_1.png]]
+|[[File:CACTURNE_1_back.png]]
+|[[File:CACTURNE_1_shiny.png]]
+|[[File:CACTURNE_1_shiny_back.png]]
+|[[File:CACTURNE_1_icon.png]]
+|-
+|[[File:CACTURNE_outfit.png]]
+|[[File:CACTURNE_outfit_back.png]]
+|[[File:CACTURNE_outfit_shiny.png]]
+|[[File:CACTURNE_outfit_shiny_back.png]]
+|[[File:CACTURNE_outfit_icon.png]]

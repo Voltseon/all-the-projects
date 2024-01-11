@@ -1,0 +1,457 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[015] # Arapawa Sewers
+Cave,5
+    40,GOLBAT,52,58
+    30,HAUNTER,52,58
+    20,MISDREAVUS,55,58
+    10,WEEZING,55,60
+#-------------------------------
+[032] # Celtic Town
+SuperRod
+    42,GYARADOS,29,32
+    30,TENTACRUEL,29,32
+    20,POLIWRATH,29,32
+    8,LAPRAS,29,32
+#-------------------------------
+[048] # Route 1
+Land,21
+    40,SWELLOW,29,32
+    20,BUTTERFREE,29,32
+    20,LINOONE,29,32
+    8,MIGHTYENA,29,32
+    8,XATU,29,32
+    4,ARIADOS,29,32
+#-------------------------------
+[076] # Twine City
+SuperRod
+    42,GYARADOS,29,32
+    30,TENTACRUEL,29,32
+    20,POLIWRATH,29,32
+    8,DRATINI,29,32
+#-------------------------------
+[078] # Route 2
+Land,21
+    20,LEDIAN,30,33
+    20,RATICATE,30,33
+    15,BEEDRILL,30,33
+    13,GROWLITHE,30,33
+    10,EEVEE,30,33
+    10,FEAROW,30,33
+    10,FURRET,30,33
+    2,PIKACHU,30,33
+#-------------------------------
+[079] # Prim Cave
+Cave,10
+    20,DUGTRIO,30,33
+    20,GOLBAT,30,33
+    20,GRAVELER,30,33
+    10,DUNSPARCE,30,33
+    10,LAIRON,30,33
+    10,MAGCARGO,30,33
+    10,ONIX,30,33
+#-------------------------------
+[080] # Toledo Village
+SuperRod
+    90,MAGIKARP,1,35
+    5,DRATINI,30,33
+    5,LAPRAS,30,33
+#-------------------------------
+[084] # Route 3
+Land,21
+    20,NOCTOWL,31,34
+    20,PILOSWINE,31,34
+    15,BRELOOM,31,34
+    15,WEAVILE,31,34
+    10,GLALIE,31,34
+    10,MANECTRIC,31,34
+    10,SEALEO,31,34
+SuperRod
+    50,MAGIKARP,1,35
+    30,POLITOED,31,34
+    20,TENTACRUEL,31,34
+#-------------------------------
+[091] # Anakiwa Cave
+Cave,10
+    20,HAUNTER,32,35
+    20,MISDREAVUS,32,35
+    15,HOUNDOOM,32,35
+    15,MAWILE,32,35
+    15,SABLEYE,32,35
+    5,DITTO,32,35
+SuperRod
+    50,MAGIKARP,1,35
+    30,SEALEO,31,34
+    20,POLIWRATH,31,34
+#-------------------------------
+[098] # Ronchi Town
+SuperRod
+    50,MAGIKARP,3,7
+    30,TENTACOOL,3,7
+    20,FINNEON,3,7
+#-------------------------------
+[099] # Route 7
+Land,21
+    30,SENTRET,2,4
+    20,BIDOOF,2,4
+    20,STARLY,2,4
+    10,BUIZEL_1,2,3
+    10,CATERPIE,2,3
+    10,WEEDLE,2,3
+SuperRod
+    50,MAGIKARP,3,7
+    30,TENTACOOL,3,7
+    20,FINNEON,3,7
+#-------------------------------
+[102] # Anakiwa Cave
+Cave,10
+    20,HAUNTER,32,35
+    20,MISDREAVUS,32,35
+    15,HOUNDOOM,32,35
+    15,MAWILE,32,35
+    15,SABLEYE,32,35
+    5,DITTO,32,35
+SuperRod
+    50,MAGIKARP,1,35
+    30,SEALEO,31,34
+    20,POLIWRATH,31,34
+#-------------------------------
+[103] # Anakiwa Cave
+Cave,10
+    20,HAUNTER,32,35
+    20,MISDREAVUS,32,35
+    15,HOUNDOOM,32,35
+    15,MAWILE,32,35
+    15,SABLEYE,32,35
+    5,DITTO,32,35
+SuperRod
+    50,MAGIKARP,1,35
+    30,SEALEO,31,34
+    20,POLIWRATH,31,34
+#-------------------------------
+[104] # Anakiwa Cave
+Cave,10
+    20,HAUNTER,32,35
+    20,MISDREAVUS,32,35
+    15,HOUNDOOM,32,35
+    15,MAWILE,32,35
+    15,SABLEYE,32,35
+    5,DITTO,32,35
+SuperRod
+    50,MAGIKARP,1,35
+    30,SEALEO,31,34
+    20,POLIWRATH,31,34
+#-------------------------------
+[111] # Route 6
+SuperRod
+    50,TENTACOOL,4,7
+    30,FINNEON,4,7
+    20,POLIWAG,4,7
+#-------------------------------
+[112] # Bismark City
+SuperRod
+    50,MAGIKARP,4,8
+    30,FINNEON,4,8
+    20,POLIWAG,4,8
+#-------------------------------
+[117] # Route 8
+Land,21
+    30,BIDOOF,4,6
+    20,POOCHYENA,4,6
+    20,STARLY,4,6
+    15,KRICKETOT,3,5
+    10,WOOPER_1,3,5
+    5,TAILLOW,3,4
+SuperRod
+    50,MAGIKARP,5,9
+    30,FINNEON,5,9
+    20,POLIWAG,5,9
+#-------------------------------
+[128] # Rosewood City
+SuperRod
+    50,MAGIKARP,8,12
+    30,FINNEON,8,12
+    20,POLIWAG,8,12
+#-------------------------------
+[133] # Route 9
+Land,21
+    30,SHINX,8,11
+    20,MAWILE_1,7,11
+    20,WOOPER_1,8,11
+    15,BUIZEL_1,7,10
+    15,RALTS,7,10
+SuperRod
+    50,MAGIKARP,8,12
+    30,FINNEON,8,12
+    20,POLIWAG,8,12
+#-------------------------------
+[135] # Route 9
+Land,21
+    30,SHINX,13,15
+    20,MAWILE_1,12,15
+    20,WOOPER_1,13,15
+    15,BUIZEL_1,12,14
+    15,RALTS,12,14
+SuperRod
+    50,MAGIKARP,12,14
+    30,FINNEON,12,14
+    20,POLIWAG,12,14
+#-------------------------------
+[145] # Route 12
+Land,21
+    25,GROWLITHE,8,11
+    25,VULPIX,8,11
+    20,CROAGUNK,8,11
+    20,RIOLU,7,10
+    10,DUNSPARCE,7,10
+SuperRod
+    50,MAGIKARP,8,12
+    30,FINNEON,8,12
+    20,POLIWAG,8,12
+#-------------------------------
+[150] # Route 10
+Land,21
+    30,ZIGZAGOON,10,13
+    20,STARLY,10,13
+    20,WOOPER_1,9,12
+    15,BUIZEL_1,8,10
+    15,SHINX,9,12
+SuperRod
+    50,MAGIKARP,14,16
+    30,FINNEON,14,16
+    20,POLIWAG,14,16
+#-------------------------------
+[151] # Heliotrope Woods
+Land,21
+    30,KRICKETUNE,13,16
+    25,TAILLOW,12,16
+    20,RALTS,12,15
+    15,COMBEE,12,15
+    10,SHROOMISH,11,14
+SuperRod
+    50,FINNEON,14,16
+    30,COMBEE,14,16
+    20,POLIWAG,14,16
+#-------------------------------
+[152] # Sundance City
+SuperRod
+    50,WINGULL,14,17
+    30,FINNEON,14,17
+    20,POLIWAG,14,17
+#-------------------------------
+[169] # Route 11
+Land,21
+    30,SWINUB,21,25
+    25,SNEASEL,21,25
+    20,RIOLU,21,25
+    10,SNORUNT,20,24
+    10,SNOVER,21,25
+    10,SPHEAL,20,24
+SuperRod
+    70,SPHEAL,15,18
+    25,WINGULL,15,18
+    5,LAPRAS,19
+#-------------------------------
+[170] # Sambucha Town
+SuperRod
+    70,SPHEAL,16,19
+    25,WINGULL,16,19
+    5,LAPRAS,20
+#-------------------------------
+[171] # Route 12
+Land,21
+    35,ELECTRIKE,21,25
+    25,WINGULL,21,25
+    20,MAWILE_1,21,25
+    10,CRANIDOS,21,25
+    10,SHIELDON,20,24
+    5,DITTO,20,24
+SuperRod
+    50,FINNEON,20,24
+    30,WINGULL,20,24
+    20,LAPRAS,20,24
+#-------------------------------
+[172] # Spectra Graveyard
+Land,21
+    50,GASTLY,26,29
+    30,MISDREAVUS,26,29
+    20,ZUBAT,26,29
+SuperRod
+    50,TENTACRUEL,25,28
+    30,HAUNTER,26,29
+    20,WINGULL,24,28
+#-------------------------------
+[173] # Route 5
+SuperRod
+    50,TENTACRUEL,25,28
+    30,LUMINEON,26,29
+    20,POLIWHIRL,24,28
+#-------------------------------
+[176] # Rosewood Generator
+Cave,10
+    30,MAGNEMITE,12,16
+    25,CACNEA,12,16
+    20,GEODUDE,12,16
+    15,ZUBAT,12,16
+    10,SANDSHREW,11,15
+    5,DIGLETT,11,15
+SuperRod
+    70,FINNEON,15,18
+    25,ZUBAT,15,18
+    5,MAGIKARP,19
+#-------------------------------
+[177] # Merlow City
+SuperRod
+    50,TENTACRUEL,25,28
+    30,LUMINEON,26,29
+    20,WINGULL,24,28
+#-------------------------------
+[194] # Route 13
+Land,21
+    35,NATU,21,25
+    25,HOOTHOOT,21,25
+    20,SWELLOW,21,25
+    10,EEVEE,20,24
+    10,PIKACHU,21,25
+    5,LARVITAR,20,24
+SuperRod
+    70,WINGULL,20,24
+    25,FINNEON,20,24
+    5,TENTACOOL,20,24
+#-------------------------------
+[195] # Route 4
+Land,21
+    35,ARIADOS,26,30
+    25,MISDREAVUS,26,30
+    20,LINOONE,26,30
+    10,NATU,26,29
+    10,RATICATE,26,29
+    5,DITTO,26,29
+SuperRod
+    70,WINGULL,21,26
+    25,LUMINEON,21,26
+    5,TENTACRUEL,21,26
+#-------------------------------
+[200] # Caramel Cave
+Cave,10
+    30,ARON,24,26
+    25,CACNEA,24,26
+    20,ONIX,24,26
+    15,SLUGMA,24,26
+    10,HOUNDOUR,23,24
+    5,SABLEYE_1,23,24
+SuperRod
+    70,FINNEON,21,26
+    25,POLIWHIRL,21,26
+    5,DRATINI,21,26
+#-------------------------------
+[201] # Deep Caramel Cave
+Cave,10
+    50,SABLEYE_1,24,28
+    30,SLUGMA,24,28
+    20,LARVITAR,24,28
+#-------------------------------
+[222] # Route 14
+Land,21
+    30,QUAGSIRE_1,41,45
+    25,FLOATZEL_1,41,45
+    25,LAIRON,41,45
+    15,DUNSPARCE,41,45
+    5,PUPITAR,40,44
+SuperRod
+    70,LUMINEON,41,45
+    25,POLIWRATH,41,45
+    5,DRAGONAIR,41,45
+#-------------------------------
+[225] # Route 15
+Land,21
+    30,PELIPPER,43,47
+    25,MIGHTYENA,43,47
+    25,POLITOED,43,47
+    15,BIBAREL,43,47
+    5,LUXRAY,42,46
+SuperRod
+    50,LUMINEON,43,47
+    25,LAPRAS,43,47
+    25,POLIWRATH,43,47
+#-------------------------------
+[238] # Safari Zone
+Land,21
+    20,BRELOOM,27,30
+    20,GROVYLE,27,30
+    20,IVYSAUR,27,30
+    20,MAWILE_1,27,30
+    20,VESPIQUEN,27,30
+SuperRod
+    70,FINNEON,27,30
+    25,POLIWHIRL,27,30
+    5,DRATINI,27,30
+#-------------------------------
+[239] # Safari Zone
+Land,21
+    20,COMBUSKEN,27,30
+    20,KIRLIA,27,30
+    20,LARVITAR,27,30
+    20,QUILAVA,27,30
+    20,SABLEYE_1,27,30
+SuperRod
+    70,FINNEON,27,30
+    25,POLIWHIRL,27,30
+    5,DRATINI,27,30
+#-------------------------------
+[240] # Safari Zone
+Land,21
+    20,CROCONAW,27,30
+    20,SEALEO,27,30
+    20,SNEASEL,27,30
+    20,SNORUNT,27,30
+    20,WARTORTLE,27,30
+SuperRod
+    70,FINNEON,27,30
+    25,POLIWHIRL,27,30
+    5,DRATINI,27,30
+#-------------------------------
+[261] # Koromiko Cave
+Cave,10
+    30,MACHOKE,38,44
+    30,UNOWN,38,43
+    20,DUSCLOPS,36,42
+    20,SNUBBULL,37,42
+SuperRod
+    70,LUMINEON,36,42
+    20,DUSCLOPS,36,42
+    10,CLAMPERL,36,42
+#-------------------------------
+[266] # Ancient Undersea Temple
+Land,5
+    30,CORSOLA,47,52
+    25,CLAMPERL,47,52
+    25,RELICANTH,47,52
+    15,LUMINEON,46,51
+    5,DUSCLOPS,46,51
+#-------------------------------
+[270] # Ancient Undersea Temple
+Land,3
+    30,CORSOLA,47,52
+    25,CLAMPERL,47,52
+    25,RELICANTH,47,52
+    15,LUMINEON,46,51
+    5,DUSCLOPS,46,51
+#-------------------------------
+[271] # Mavora Path
+Land,10
+    30,SKARMORY,51,56
+    20,CACTURNE,51,56
+    20,NINJASK,51,56
+    10,DRAPION,51,56
+    10,MANKEY_1,48,51
+    10,NINCADA,48,51
+#-------------------------------
+[273] # Zana Path
+Land,10
+    30,TROPIUS,51,56
+    20,GLOOM,51,56
+    20,SLOWBRO,51,56
+    10,JUMPLUFF,51,56
+    10,MANKEY_1,48,51
+    10,NINJASK,48,51

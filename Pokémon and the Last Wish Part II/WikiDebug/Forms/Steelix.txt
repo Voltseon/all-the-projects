@@ -1,0 +1,380 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:SteelType.png]]<br>[[File:GroundType.png]]|abilities=Rock Head<br>Sturdy<br>Sheer Force (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#140</nowiki>|evolves_from=[[Onix]]|evolves_into=None|weight=400.0 kg|height=9.2 m|gender={{Female50Percent}}|image=STEELIX.png|title=[[File:STEELIX_icon.png]]
+<big>'''Steelix'''</big>}}'''Steelix''' is a Steel/Ground-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Onix]] when leveled up while knowing Iron Defense.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Steelix live even further underground than Onix. This Pokémon is known to dig toward the earth's core, reaching a depth of over six-tenths of a mile underground.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=75|Attack=85|Defense=200|SpAtk=55|SpDef=65|Speed=30}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:GhostType.png]][[File:GrassType.png]][[File:IceType.png]][[File:DarkType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:GroundType.png]][[File:FireType.png]][[File:WaterType.png]]
+|-
+|Immune to:
+|[[File:PoisonType.png]][[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:BugType.png]][[File:SteelType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|4x resistant to:
+|[[File:RockType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Iron Defense
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|1
+|Thunder Fang
+|[[File:ElectricType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|1
+|Ice Fang
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|1
+|Fire Fang
+|[[File:FireType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|1
+|Mud Sport
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|1
+|Tackle
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|1
+|Bind
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|15
+|85%
+|20
+|-
+|4
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|7
+|Rock Throw
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|90%
+|15
+|-
+|10
+|Rock Tomb
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|95%
+|15
+|-
+|13
+|Rage
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|20
+|100%
+|20
+|-
+|16
+|Stealth Rock
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|19
+|Autotomize
+|[[File:SteelType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|20
+|Gyro Ball
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|5
+|-
+|22
+|Smack Down
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|15
+|-
+|25
+|Dragon Breath
+|[[File:DragonType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|20
+|-
+|28
+|Slam
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|75%
+|20
+|-
+|31
+|Screech
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|40
+|-
+|34
+|Rock Slide
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|75
+|90%
+|10
+|-
+|37
+|Crunch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|40
+|Iron Tail
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|75%
+|15
+|-
+|43
+|Dig
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|10
+|-
+|46
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|49
+|Double-Edge
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|120
+|100%
+|15
+|-
+|52
+|Sandstorm
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine STEEL.png|frameless|24x24px]]
+|TM20
+|Magnet Bomb
+|[[File:SteelType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+| -%
+|20
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|TM24
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:STEELIX.png]]
+|[[File:STEELIX_back.png]]
+|[[File:STEELIX_shiny.png]]
+|[[File:STEELIX_shiny_back.png]]
+|[[File:STEELIX_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

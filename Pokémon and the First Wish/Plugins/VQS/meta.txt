@@ -1,0 +1,5 @@
+Name         = Voltseon's Quest System
+Essentials   = 20.1
+Version      = 1.0
+Website      = https://voltseon.com
+Credits      = Voltseon

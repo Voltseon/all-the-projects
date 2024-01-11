@@ -1,0 +1,5 @@
+Name         = Easy Mouse System
+Version      = 2.0
+Website      = https://luka-sj.com/res/esms
+Optional     = Easy Debug Terminal
+Credits      = Luka S.J.

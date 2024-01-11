@@ -1,0 +1,5 @@
+Name         = Marin's Map Exporter
+Version      = 1.6
+Credits      = Marin
+Requires     = Marin's Scripting Utilities, 1.6
+Link         = https://reliccastle.com/resources/184/

@@ -1,0 +1,141 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:BugType.png]]|abilities=Shed Skin<br>Run Away (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#029</nowiki>|evolves_from=None|evolves_into=[[Kricketune]] (lvl. 10)|weight=2.2 kg|height=0.3 m|gender={{Female50Percent}}|image=KRICKETOT.png|title=[[File:KRICKETOT_icon.png]]
+<big>'''Kricketot'''</big>}}'''Kricketot''' is a Bug-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Kricketune]] starting at level 10.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|15%
+|[[Route 8]]
+|3
+|5
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=37|Attack=25|Defense=41|SpAtk=25|SpDef=41|Speed=25}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:RockType.png]][[File:FireType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:GroundType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|1
+|Bide
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+| -%
+|10
+|-
+|6
+|Struggle Bug
+|[[File:BugType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|20
+|-
+|16
+|Bug Bite
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|20
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine BUG.png|frameless|24x24px]]
+|TM19
+|First Impression
+|[[File:BugType.png]]
+|[[File:PhysicalCategory.png]]
+|90
+|100%
+|10
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:KRICKETOT.png]]
+|[[File:KRICKETOT_back.png]]
+|[[File:KRICKETOT_shiny.png]]
+|[[File:KRICKETOT_shiny_back.png]]
+|[[File:KRICKETOT_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

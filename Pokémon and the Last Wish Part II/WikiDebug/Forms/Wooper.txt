@@ -1,0 +1,319 @@
+{{DISPLAYTITLE:Peskan Wooper}}
+{{PokemonInfobox|type=[[File:GroundType.png]]|abilities=Sand Veil<br>Sand Rush<br>Huge Power (Hidden)|region=[[Peskan]]|pokedex=[[Peskan Pokédex|<nowiki>#048</nowiki>]]|evolves_from=None|evolves_into=[[Quagsire]] (lvl. 20)|weight=8.5 kg|height=0.4 m|gender={{Female50Percent}}|image=WOOPER_1.png|title=[[File:WOOPER_1_icon.png]]
+<big>'''Wooper'''</big>}}'''Wooper''' is a Ground-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Quagsire]] starting at level 20.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Its tail has over a thousand different muscles and is half its body weight. They use it to flatten their surroundings.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|10%
+|[[Route 8]]
+|3
+|5
+|[[File:GrassEncounter.png]]
+|-
+|20%
+|[[Route 9]] (East)
+|8
+|11
+|[[File:GrassEncounter.png]]
+|-
+|20%
+|[[Route 9]] (West)
+|13
+|15
+|[[File:GrassEncounter.png]]
+|-
+|20%
+|[[Route 10]]
+|9
+|12
+|[[File:GrassEncounter.png]]
+|}
+
+
+===Base stats ===
+{{BaseStats|HP=50|Attack=35|Defense=50|SpAtk=25|SpDef=30|Speed=15}}
+
+
+===Type effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FightingType.png]][[File:FlyingType.png]][[File:GroundType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:WaterType.png]][[File:GrassType.png]][[File:IceType.png]]
+|-
+|Immune to:
+|[[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:PoisonType.png]][[File:RockType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Pound
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|35
+|-
+|1
+|Tail Whip
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|30
+|-
+|5
+|Mud Sport
+|[[File:GroundType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|15
+|-
+|9
+|Sand Tomb
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|35
+|85%
+|15
+|-
+|15
+|Tail Slap
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|25
+|85%
+|10
+|-
+|19
+|Mud Bomb
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|85%
+|10
+|-
+|23
+|Amnesia
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|26
+|Bulldoze
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|60
+|100%
+|20
+|-
+|29
+|Yawn
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|33
+|Earth Power
+|[[File:GroundType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|10
+|-
+|37
+|Slam
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|75%
+|20
+|-
+|43
+|Sandstorm
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|45
+|Stealth Rock
+|[[File:RockType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|47
+|Earthquake
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|100%
+|10
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM01]]
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM02]]
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM06]]
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM07]]
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM09]]
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM14]]
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM15]]
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM23]]
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine ROCK.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM24]]
+|Stone Edge
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|100
+|80%
+|5
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|[[Item Locations#TMs|TM25]]
+|Curse
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:WOOPER_1.png]]
+|[[File:WOOPER_1_back.png]]
+|[[File:WOOPER_1_shiny.png]]
+|[[File:WOOPER_1_shiny_back.png]]
+|[[File:WOOPER_1_icon.png]]
+|-
+|[[File:WOOPER_outfit.png]]
+|[[File:WOOPER_outfit_back.png]]
+|[[File:WOOPER_outfit_shiny.png]]
+|[[File:WOOPER_outfit_shiny_back.png]]
+|[[File:WOOPER_outfit_icon.png]]

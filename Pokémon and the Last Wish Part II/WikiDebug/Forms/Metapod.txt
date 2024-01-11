@@ -1,0 +1,110 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:BugType.png]]|abilities=Shed Skin<br>|region=[[Peskan]]|pokedex=<nowiki>#020</nowiki>|evolves_from=[[Caterpie]]|evolves_into=[[Butterfree]] (lvl. 10)|weight=9.9 kg|height=0.7 m|gender={{Female50Percent}}|image=METAPOD.png|title=[[File:METAPOD_icon.png]]
+<big>'''Metapod'''</big>}}'''Metapod''' is a Bug-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Caterpie]] starting at level 7 and evolves into [[Butterfree]] starting at level 10.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=50|Attack=20|Defense=55|SpAtk=25|SpDef=25|Speed=30}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:PoisonType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:WaterType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FlyingType.png]][[File:RockType.png]][[File:FireType.png]]
+|-
+|Resistant to:
+|[[File:FightingType.png]][[File:GroundType.png]][[File:GrassType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|-
+|1
+|Harden
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|30
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:METAPOD.png]]
+|[[File:METAPOD_back.png]]
+|[[File:METAPOD_shiny.png]]
+|[[File:METAPOD_shiny_back.png]]
+|[[File:METAPOD_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

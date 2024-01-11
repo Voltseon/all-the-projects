@@ -1,0 +1,339 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:IceType.png]]<br>[[File:WaterType.png]]|abilities=Thick Fat<br>Ice Body<br>Oblivious (Hidden)|region=[[Peskan]]|pokedex=<nowiki>#127</nowiki>|evolves_from=[[Sealeo]]|evolves_into=None|weight=150.6 kg|height=1.4 m|gender={{Female50Percent}}|image=WALREIN.png|title=[[File:WALREIN_icon.png]]
+<big>'''Walrein'''</big>}}'''Walrein''' is a Ice/Water-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves from [[Sealeo]] starting at level 44.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=110|Attack=80|Defense=90|SpAtk=95|SpDef=90|Speed=65}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:NormalType.png]][[File:FlyingType.png]][[File:PoisonType.png]][[File:GroundType.png]][[File:BugType.png]][[File:GhostType.png]][[File:SteelType.png]][[File:FireType.png]][[File:PsychicType.png]][[File:DragonType.png]][[File:DarkType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:FightingType.png]][[File:RockType.png]][[File:GrassType.png]][[File:ElectricType.png]]
+|-
+|Resistant to:
+|[[File:WaterType.png]]
+|-
+|4x resistant to:
+|[[File:IceType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|0
+|Ice Fang
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|1
+|Ice Fang
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|65
+|95%
+|15
+|-
+|1
+|Swagger
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|85%
+|15
+|-
+|1
+|Crunch
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|80
+|100%
+|15
+|-
+|1
+|Defense Curl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|40
+|-
+|1
+|Powder Snow
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|1
+|Water Gun
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|40
+|100%
+|25
+|-
+|5
+|Rollout
+|[[File:RockType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|90%
+|20
+|-
+|9
+|Encore
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|5
+|-
+|13
+|Ice Ball
+|[[File:IceType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|90%
+|20
+|-
+|17
+|Brine
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|10
+|-
+|21
+|Aurora Beam
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|26
+|Body Slam
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|85
+|100%
+|15
+|-
+|31
+|Rest
+|[[File:PsychicType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|31
+|Snore
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|15
+|-
+|38
+|Hail
+|[[File:IceType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|49
+|Blizzard
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|110
+|70%
+|5
+|-
+|60
+|Sheer Cold
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|30%
+|5
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM01
+|Hold Back
+|[[File:NormalType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|40
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM02
+|Wish
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine GROUND.png|frameless|24x24px]]
+|TM06
+|Magnitude
+|[[File:GroundType.png]]
+|[[File:PhysicalCategory.png]]
+|1
+|100%
+|30
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM09
+|Slack Off
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM14
+|Sludge
+|[[File:PoisonType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine ICE.png|frameless|24x24px]]
+|TM17
+|Glaciate
+|[[File:IceType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|95%
+|10
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|TM23
+|Surf
+|[[File:WaterType.png]]
+|[[File:SpecialCategory.png]]
+|90
+|100%
+|15
+|-
+|[[File:Machine WATER.png|frameless|24x24px]]
+|HM02
+|Aqua Jet
+|[[File:WaterType.png]]
+|[[File:PhysicalCategory.png]]
+|40
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:WALREIN.png]]
+|[[File:WALREIN_back.png]]
+|[[File:WALREIN_shiny.png]]
+|[[File:WALREIN_shiny_back.png]]
+|[[File:WALREIN_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__

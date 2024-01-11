@@ -1,0 +1,317 @@
+{{DISPLAYTITLE:}}
+{{PokemonInfobox|type=[[File:GhostType.png]]|abilities=Levitate<br>|region=[[Peskan]]|pokedex=<nowiki>#148</nowiki>|evolves_from=None|evolves_into=[[Mismagius]] (Happiness Nighttime)|weight=1.0 kg|height=0.7 m|gender={{Female50Percent}}|image=MISDREAVUS.png|title=[[File:MISDREAVUS_icon.png]]
+<big>'''Misdreavus'''</big>}}'''Misdreavus''' is a Ghost-type Pokémon introduced in [[Pokémon and the Last Wish: Part II]].
+
+It evolves into [[Mismagius]] when leveled up with high friendship during the nighttime.
+
+==Game data==
+
+===Pokédex entry===
+<blockquote>A Misdreavus frightens people with a creepy, sobbing cry. It apparently uses its red spheres to absorb the fear of foes as its nutrition.</blockquote>
+
+===Game locations===
+=====[[Pokémon and the Last Wish]]=====
+{| class="fandom-table"
+|Unobtainable
+|}
+
+
+=====[[Pokémon and the Last Wish: Part II]]=====
+{| class="fandom-table"
+|Chance
+|Area
+|Min Lvl.
+|Max Lvl.
+|Encounter Type
+|-
+|20%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|20%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|20%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|20%
+|[[Anakiwa Cave]]
+|32
+|35
+|[[File:CaveEncounter.png]]
+|-
+|30%
+|[[Spectra Graveyard]]
+|26
+|29
+|[[File:GrassEncounter.png]]
+|-
+|25%
+|[[Route 4]]
+|26
+|30
+|[[File:GrassEncounter.png]]
+|}
+
+
+=====Event / Gift=====
+{| class="fandom-table"
+|None
+|}
+
+
+
+===Base stats ===
+{{BaseStats|HP=60|Attack=60|Defense=60|SpAtk=85|SpDef=85|Speed=85}}
+
+
+===Type Effectiveness ===
+{| class="fandom-table"
+|Damaged normally by:
+|[[File:FlyingType.png]][[File:GroundType.png]][[File:RockType.png]][[File:SteelType.png]][[File:FireType.png]][[File:WaterType.png]][[File:GrassType.png]][[File:ElectricType.png]][[File:PsychicType.png]][[File:IceType.png]][[File:DragonType.png]][[File:FairyType.png]]
+|-
+|Weak to:
+|[[File:GhostType.png]][[File:DarkType.png]]
+|-
+|Immune to:
+|[[File:NormalType.png]][[File:FightingType.png]]
+|-
+|Resistant to:
+|[[File:PoisonType.png]][[File:BugType.png]]
+|-
+
+|}
+=== Learnset===
+
+====By levelling up====
+{| class="sortable article-table"
+|+
+!Lvl
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|1
+|Growl
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|40
+|-
+|1
+|Psywave
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|5
+|Spite
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|10
+|Astonish
+|[[File:GhostType.png]]
+|[[File:PhysicalCategory.png]]
+|30
+|100%
+|15
+|-
+|14
+|Confuse Ray
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+|100%
+|10
+|-
+|19
+|Mean Look
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|23
+|Hex
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|10
+|-
+|28
+|Psybeam
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|32
+|Pain Split
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|20
+|-
+|37
+|Payback
+|[[File:DarkType.png]]
+|[[File:PhysicalCategory.png]]
+|50
+|100%
+|10
+|-
+|41
+|Shadow Ball
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|15
+|-
+|46
+|Perish Song
+|[[File:NormalType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|50
+|Grudge
+|[[File:GhostType.png]]
+|[[File:StatusCategory.png]]
+| -
+| -%
+|5
+|-
+|55
+|Power Gem
+|[[File:RockType.png]]
+|[[File:SpecialCategory.png]]
+|80
+|100%
+|20
+|}
+====By TM/HM====
+{| class="sortable article-table"
+|+
+! colspan="2" |TM
+!Move
+!Type
+!Category
+!Pwr.
+!Acc.
+!PP
+|-
+|[[File:Machine DARK.png|frameless|24x24px]]
+|TM03
+|Night Daze
+|[[File:DarkType.png]]
+|[[File:SpecialCategory.png]]
+|85
+|95%
+|10
+|-
+|[[File:Machine POISON.png|frameless|24x24px]]
+|TM07
+|Toxic
+|[[File:PoisonType.png]]
+|[[File:StatusCategory.png]]
+| -
+|90%
+|10
+|-
+|[[File:Machine FAIRY.png|frameless|24x24px]]
+|TM12
+|Draining Kiss
+|[[File:FairyType.png]]
+|[[File:SpecialCategory.png]]
+|50
+|100%
+|10
+|-
+|[[File:Machine ELECTRIC.png|frameless|24x24px]]
+|TM13
+|Parabolic Charge
+|[[File:ElectricType.png]]
+|[[File:SpecialCategory.png]]
+|65
+|100%
+|20
+|-
+|[[File:Machine NORMAL.png|frameless|24x24px]]
+|TM15
+|Hidden Power
+|[[File:NormalType.png]]
+|[[File:SpecialCategory.png]]
+|60
+|100%
+|15
+|-
+|[[File:Machine GHOST.png|frameless|24x24px]]
+|TM21
+|Night Shade
+|[[File:GhostType.png]]
+|[[File:SpecialCategory.png]]
+|1
+|100%
+|15
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|TM22
+|Synchronoise
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|120
+|100%
+|10
+|-
+|[[File:Machine PSYCHIC.png|frameless|24x24px]]
+|HM03
+|[[Psycho Matter]]
+|[[File:PsychicType.png]]
+|[[File:SpecialCategory.png]]
+|150
+|100%
+|20
+|}
+===Sprites===
+
+{| class="article-table"
+|+
+!Front
+!Back
+!Shiny Front
+!Shiny Back
+!Icon
+|-
+|[[File:MISDREAVUS.png]]
+|[[File:MISDREAVUS_back.png]]
+|[[File:MISDREAVUS_shiny.png]]
+|[[File:MISDREAVUS_shiny_back.png]]
+|[[File:MISDREAVUS_icon.png]]
+|}
+[[Category:Regional Forms]]
+__NOEDITSECTION__
