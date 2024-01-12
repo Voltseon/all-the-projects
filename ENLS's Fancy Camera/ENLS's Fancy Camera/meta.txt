@@ -1,0 +1,5 @@
+Name       = ENLS's Fancy Camera
+Version    = 1.0.0
+Essentials = 21.1, 21
+Website    = https://enls.eu/
+Credits    = ENLS
