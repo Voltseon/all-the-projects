@@ -166,7 +166,18 @@ class Game_Temp
   attr_accessor :lastcommand
 
   def lastcommand
-    @lastcommand = [] if !@lastcommand
+    if !@lastcommand
+      if File.exist?(System.data_directory + "/lastcommand.dat")
+        File.open(System.data_directory + "/lastcommand.dat", "rb") { |f| @lastcommand = Marshal.load(f) }
+      else
+        @lastcommand = []
+      end
+    end
     return @lastcommand
+  end
+
+  def lastcommand=(value)
+    @lastcommand = value
+    File.open(System.data_directory + "/lastcommand.dat", "wb") { |f| Marshal.dump(@lastcommand, f) }
   end
 end
