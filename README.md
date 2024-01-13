@@ -43,6 +43,5 @@
 <p>All of the following plugins are found under this ("ENLS-Plugins") branch:</p>
 <ul>
   <li>Easy Debug Terminal</li>
-  <li>Easy Text Skip</li>
-  <li>ENLS's Random Utilities</li>
+  <li>ENLS's Fancy Camera</li>
 </ul>
