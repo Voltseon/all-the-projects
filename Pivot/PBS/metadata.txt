@@ -1,0 +1,40 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+Home = 94,8,10,8
+StorageCreator = Bill
+WildBattleBGM = B2W2 107 Battle! (Wild Pokemon)
+TrainerBattleBGM = BW 126 Battle! (Trainer Battle)
+WildVictoryBGM = BW 115 Victory! (Wild Pokemon)
+TrainerVictoryBGM = BW 127 Victory! (Trainer Battle)
+SurfBGM = BW 401 Surf
+BicycleBGM = Bicycle
+#-------------------------------
+[1]
+TrainerType = ZUBAT
+WalkCharset = ZUBAT/default/idle
+#-------------------------------
+[2]
+TrainerType = FARFETCHD
+WalkCharset = FARFETCHD/default/idle
+#-------------------------------
+[3]
+TrainerType = DITTO
+WalkCharset = DITTO/default/idle
+#-------------------------------
+[4]
+TrainerType = SPIRITOMB
+WalkCharset = SPIRITOMB/default/idle
+#-------------------------------
+[5]
+TrainerType = ABSOL
+WalkCharset = ABSOL/default/idle
+#-------------------------------
+[6]
+TrainerType = GOLBAT
+WalkCharset = GOLBAT/default/idle
+#-------------------------------
+[7]
+TrainerType = CROBAT
+WalkCharset = CROBAT/default/idle

@@ -1,0 +1,204 @@
+<h1><span style="color:#d35400"><strong><span style="font-family:Trebuchet MS,Helvetica,sans-serif">How to use the Pivot Config Files</span></strong></span></h1>
+
+<p><span style="color:#d35400">In this file I will try my best to explain all attributes and information on each config file for Pivot. To quickly navigate around you can use the Table of Contents.</span></p>
+
+<hr />
+<h2><strong><span style="color:#d35400">Table of Contents</span></strong></h2>
+
+<ul>
+	<li><a href="#"><span style="color:#d35400">Character</span></a></li>
+	<li><a href="#"><span style="color:#d35400">Move</span></a></li>
+	<li><a href="#"><span style="color:#d35400">Arena</span></a></li>
+</ul>
+
+<hr />
+<h2><strong><span style="color:#d35400">Character</span></strong></h2>
+
+<p><span style="color:#d35400">Characters are any type of Pok&eacute;mon or NPC that are found on the Characters folder. Defined characters are not necessarily Pok&eacute;mon you can play as or even Pok&eacute;mon you can encounter as AI.</span></p>
+
+<h3><span style="color:#d35400"><strong>Attributes</strong></span></h3>
+
+<p><span style="color:#d35400">Below you will find all modifyable attributes for each character, you can press on a specific attribute to jump to a more detailed explanation of that attribute.</span></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%">
+	<thead>
+		<tr>
+			<th scope="col"><span style="color:#d35400"><strong>Attribute</strong></span></th>
+			<th scope="col"><span style="color:#d35400"><strong>Default value</strong></span></th>
+			<th scope="col"><span style="color:#d35400">Example</span></th>
+			<th scope="col"><span style="color:#d35400"><strong>Datatype</strong></span></th>
+			<th scope="col"><span style="color:#d35400"><strong>Description</strong></span></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">name</span></td>
+			<td style="text-align:center"><span style="color:#d35400">nil</span></td>
+			<td style="text-align:center"><span style="color:#d35400">&quot;Murkrow&quot;</span></td>
+			<td style="text-align:center"><span style="color:#d35400">String</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The display name of this character</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">internal</span></td>
+			<td style="text-align:center"><span style="color:#d35400">nil</span></td>
+			<td style="text-align:center"><span style="color:#d35400">:MURKROW</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Symbol</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The internal name of this character (used for things like cries, announcer and charsets)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">melee</span></td>
+			<td style="text-align:center"><span style="color:#d35400">nil</span></td>
+			<td style="text-align:center"><span style="color:#d35400">:WINGATTACK</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Symbol</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The internal name of this character&#39;s melee attack</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">ranged</span></td>
+			<td style="text-align:center"><span style="color:#d35400">nil</span></td>
+			<td style="text-align:center"><span style="color:#d35400">:RAZORWIND</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Symbol</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The internal name of this character&#39;s ranged attack</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">speed</span></td>
+			<td style="text-align:center"><span style="color:#d35400">nil</span></td>
+			<td style="text-align:center"><span style="color:#d35400">8</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Integer</span></td>
+			<td style="text-align:center"><span style="color:#d35400">How fast this character moves</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">hp</span></td>
+			<td style="text-align:center"><span style="color:#d35400">nil</span></td>
+			<td style="text-align:center"><span style="color:#d35400">30</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Integer</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The maximum HP of this character</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">melee_damage</span></td>
+			<td style="text-align:center"><span style="color:#d35400">nil</span></td>
+			<td style="text-align:center"><span style="color:#d35400">4</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Integer</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The amount of damage this character&#39;s melee attacks deal (can be modified on a move-by-move basis)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">ranged_damage</span></td>
+			<td style="text-align:center"><span style="color:#d35400">nil</span></td>
+			<td style="text-align:center"><span style="color:#d35400">4</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Integer</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The amount of damage this character&#39;s ranged attacks deal (can be modified on a move-by-move basis)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">aim_range</span></td>
+			<td style="text-align:center"><span style="color:#d35400">[16,9]</span></td>
+			<td style="text-align:center"><span style="color:#d35400">[10,10]</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Array[2]&lt;Integer&gt;</span></td>
+			<td style="text-align:center"><span style="color:#d35400">How far the player can aim for ranged attacks (in tiles) (first value is x-axis, second is y-axis)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">aim_type</span></td>
+			<td style="text-align:center"><span style="color:#d35400">:DEFAULT</span></td>
+			<td style="text-align:center"><span style="color:#d35400">:EIGHTS</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Symbol</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The way the player will aim for ranged attacks</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">movement_type</span></td>
+			<td style="text-align:center"><span style="color:#d35400">:DEFAULT</span></td>
+			<td style="text-align:center"><span style="color:#d35400">:FLYING</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Symbol</span></td>
+			<td style="text-align:center"><span style="color:#d35400">This decides what tiles this character can and cannot move on/through</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">hitbox</span></td>
+			<td style="text-align:center"><span style="color:#d35400">[0,0,80,80]</span></td>
+			<td style="text-align:center"><span style="color:#d35400">[20,20,60,60]</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Array[4]&lt;Integer&gt;</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The hitbox of this character (x, y, width, height)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">guard_time</span></td>
+			<td style="text-align:center"><span style="color:#d35400">1</span></td>
+			<td style="text-align:center"><span style="color:#d35400">5</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Integer</span></td>
+			<td style="text-align:center"><span style="color:#d35400">How long this character can hold guard until it &#39;breaks&#39;</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">guard_cooldown</span></td>
+			<td style="text-align:center"><span style="color:#d35400">1</span></td>
+			<td style="text-align:center"><span style="color:#d35400">10</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Integer</span></td>
+			<td style="text-align:center"><span style="color:#d35400">How long this character has to wait until it can guard again</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">unguard_time</span></td>
+			<td style="text-align:center"><span style="color:#d35400">1</span></td>
+			<td style="text-align:center"><span style="color:#d35400">2</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Integer</span></td>
+			<td style="text-align:center">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">dash_distance</span></td>
+			<td style="text-align:center"><span style="color:#d35400">0</span></td>
+			<td style="text-align:center"><span style="color:#d35400">4</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Integer</span></td>
+			<td style="text-align:center"><span style="color:#d35400">How far this character will dash when guarding (0 means it cant dash)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">dash_speed</span></td>
+			<td style="text-align:center"><span style="color:#d35400">100</span></td>
+			<td style="text-align:center"><span style="color:#d35400">50</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Integer</span></td>
+			<td style="text-align:center"><span style="color:#d35400">How fast this character will dash (this is ignored if the character cant dash)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">unlock_proc</span></td>
+			<td style="text-align:center"><span style="color:#d35400">proc { next true }</span></td>
+			<td style="text-align:center"><span style="color:#d35400">proc { next $player.level &gt;= 50&nbsp;}</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Process</span></td>
+			<td style="text-align:center"><span style="color:#d35400">A small piece of code that decides what conditions have to be met in order to unlock this character</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">playable</span></td>
+			<td style="text-align:center"><span style="color:#d35400">true</span></td>
+			<td style="text-align:center"><span style="color:#d35400">false</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Boolean</span></td>
+			<td style="text-align:center"><span style="color:#d35400">This decides whether the player can play as this character (it shows up in character select)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">evolution</span></td>
+			<td style="text-align:center"><span style="color:#d35400">nil</span></td>
+			<td style="text-align:center"><span style="color:#d35400">:HONCHKROW</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Symbol</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The internal name of the character this evolves into (nil means it doesn&#39;t evolve)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">evolution_exp</span></td>
+			<td style="text-align:center"><span style="color:#d35400">0</span></td>
+			<td style="text-align:center"><span style="color:#d35400">60</span></td>
+			<td style="text-align:center"><span style="color:#d35400">Integer</span></td>
+			<td style="text-align:center"><span style="color:#d35400">How much &#39;match experience&#39; is required to evolve (this is ignored if it doesn&#39;t evolve)</span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="color:#d35400">description</span></td>
+			<td style="text-align:center"><span style="color:#d35400">&quot;&quot;</span></td>
+			<td style="text-align:center"><span style="color:#d35400">&quot;A cool bird Pok&eacute;mon!&quot;</span></td>
+			<td style="text-align:center"><span style="color:#d35400">String</span></td>
+			<td style="text-align:center"><span style="color:#d35400">The description that is shown on the character select screen while hovering over it</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3><span style="color:#d35400"><em>Name</em></span></h3>
+
+<p><span style="color:#d35400">This only affects the name that is shown on the Character Selection screen</span></p>
+
+<h3><span style="color:#d35400"><em>Internal</em></span></h3>
+
+<p><span style="color:#d35400">This value decides a lot of factors and is used for a whole lot of dependancies like:</span></p>
+
+<ol>
+	<li><span style="color:#d35400">When another character evolves into this it references this value</span></li>
+	<li><span style="color:#d35400">When the announcer calls out this character&#39;s name it is referencing this value (as will the filename for the announcer <em><span style="background-color:#dddddd">Voice Personal N_INTERNALNAME.ogg</span></em>)</span></li>
+</ol>

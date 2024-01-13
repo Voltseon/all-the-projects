@@ -1,0 +1,23 @@
+{
+	"folders": [
+    {
+      "path": "Data/Scripts"
+    },
+    {
+      "path": "Plugins"
+    },
+    {
+      "path": "PBS"
+    },
+    {
+      "path": "Dev Stuff"
+    },
+    {
+      "path": "ServerClient"
+    },
+    {
+      "path": "ServerUDP"
+    }
+  ],
+  "settings": {}
+}

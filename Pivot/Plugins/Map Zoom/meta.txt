@@ -1,0 +1,5 @@
+﻿Name       = Map Zoom
+Version    = 1.0 
+Essentials = 20
+Link       = https://reliccastle.com/resources/810/
+Credits    = Golisopod User, Marin, Luka SJ, TechSkylander1518

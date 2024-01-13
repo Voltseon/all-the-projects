@@ -1,0 +1,211 @@
+"Pivot"
+
+A game by:
+Voltseon
+ENLS
+KennyCatches
+Ranko
+
+Pokémon sprites by:
+Pokémon Mystery Dungeon: Explorers of Sky
+Spriters Resource
+
+Pokémon portraits by:
+Pokémon Mystery Dungeon: Explorers of Sky
+PMD Sprite Repository
+CHUNSOFT 
+Pepper
+fledermaus
+Nooga
+Emmuffin
+baronessfaron
+
+Ability VFX and SFX by:
+Pokémon Mystery Dungeon: Explorers of Sky
+Spriters Resource
+
+Music by:
+Pokémon Battle Revolution
+Naruto: Clash of Ninja 2
+Love Live! School Idol Festival ALL STARS
+
+Announcer voice by: 
+[url=https://chfoo.github.io/pbrchase/]Pokémon Battle Revolution
+Announcer Soundboard[/url]
+Christopher Foo and contributors
+
+
+Tilesets by:
+Pokémon Shikari
+Pokémon Quantum
+Pokémon Machinery
+19Dante19
+Alucus
+AnonAlpaca
+Asdsimone
+aveontrainer
+Barubary
+BoOmxBiG
+Boonzeet
+ChaoticCherryCake
+Chimcharsfireworkd
+Claisprojects.com
+Clara-WaH
+Cuddlesthefatcat
+DarkDragonn
+Dewitty
+EpicDay
+Erma96
+EVoLiNa
+Flurmimon
+FoxyTomcat
+Gallanty
+GeoisEvil
+Gigatom
+Hek-el-grande
+Hydrargirium
+Iametrine
+ItsHydro
+Jesus Carrasco
+Kalisar
+Kauzz
+KingTapir
+KKKaito
+Kyle-Dove
+Kymotonian
+Magiscarf
+Manuxd789
+Marcosik1992
+MewTheMega
+Minorthreat0987
+moca
+Mucrush
+Newtiteuf
+NikNak93
+Nquistor
+NSora-96
+Pablus94
+PandaInDaGame
+PeekyChew
+Phyromatical
+Poison-Master
+PrincessPhoenix
+rafa-cac
+Sagaxxy
+SailorVicious
+Shawn Frost
+Shutwig
+SirMaIo
+Spacemotion
+Speedialga
+Steinnaples
+sylver1984
+Takai-of-the-Fire
+tarei-laokia
+TeaAddiction
+ThatsSoWitty
+Thedeadheroalistair
+Thegreatblaid
+The Libertine
+The-Red-Ex
+Thurpok
+TyranitarDark
+UltimoSpriter
+Undwight
+WesleyFG
+WilsonScarloxy
+XDinky
+Xxdevil
+yakoo
+Zeo254
+Zetavares852
+
+
+[url=https://www.pokecommunity.com/showthread.php?t=309391]"Set the Controls Screen"[/url] v.1.1.2 by:
+FL
+
+[url=https://luka-sj.com/res/webh]"Post to Discord Webhooks"[/url] v.1.0 by:
+Luka S.J.
+
+[url=https://github.com/Maruno17/pokemon-essentials]"v20.1 Hotfixes"[/url] v.1.0.7 by:
+Maruno
+
+[url=]"rainefallUtils"[/url] v.1.0 by:
+rainefall
+
+[url=https://reliccastle.com/resources/400/]"Voltseon's Handy Tools"[/url] v.1.4 by:
+Voltseon
+ENLS
+
+[url=https://reliccastle.com/resources/396/]"Marin's Enhanced Staircases"[/url] v.2.0 by:
+Marin
+
+[url=https://reliccastle.com/resources/810/]"Map Zoom"[/url] v.1.0 by:
+Golisopod User
+Marin
+Luka SJ
+TechSkylander1518
+
+[url=https://luka-sj.com/res/esms]"Easy Mouse System"[/url] v.2.0 by:
+Luka S.J.
+
+[url=https://reliccastle.com/resources/316/]"Discord Rich Presence API"[/url] v.2.2 by:
+rainefall
+
+[url=https://reliccastle.com/resources/640/]"Cable Club"[/url] v.3.1 by:
+mGriffin
+Khaikaa
+Vendily
+
+
+
+"Pokémon Essentials" was created by:
+Flameguru
+Poccil (Peter O.)
+Maruno
+
+With contributions from:
+AvatarMonkeyKirby
+Marin
+Boushy
+MiDas Mike
+Brother1440
+Near Fantastica
+FL.
+PinkMan
+Genzai Kawakami
+Popper
+Golisopod User
+Rataime
+help-14
+Savordez
+IceGod64
+SoundSpawn
+Jacob O. Wobbrock
+the__end
+KitsuneKouta
+Venom12
+Lisa Anthony
+Wachunga
+Luka S.J.
+
+and everyone else who helped out
+
+"mkxp-z" by:
+Roza
+Based on "mkxp" by Ancurio et al.
+
+"RPG Maker XP" by:
+Enterbrain
+
+Pokémon is owned by:
+The Pokémon Company
+Nintendo
+Affiliated with Game Freak
+
+
+
+This is a non-profit fan-made game.
+No copyright infringements intended.
+Please support the official games!
+

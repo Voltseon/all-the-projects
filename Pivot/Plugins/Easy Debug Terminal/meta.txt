@@ -1,0 +1,4 @@
+Name      = Easy Debug Terminal
+Version   = 1.0
+Essentials = 20, 20.1
+Credits   = ENLS
